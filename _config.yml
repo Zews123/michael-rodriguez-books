@@ -1,0 +1,23 @@
+title: Michael Rodriguez - Economic Analyst and Author
+description: >-
+  Official website of Michael Rodriguez, renowned economic analyst and author of 
+  insightful books on global economics, financial markets, and technological disruption.
+lang: en
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+
+# SEO settings
+twitter:
+  username: MRodriguezBooks
+  card: summary_large_image
+
+social:
+  name: Michael Rodriguez
+  links:
+    - https://twitter.com/MRodriguezBooks
+    - https://www.linkedin.com/in/michael-rodriguez-author
+
+# Google Analytics (добавьте свой ID позже)
+# google_analytics: UA-XXXXXXXXX-X
