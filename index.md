@@ -16,7 +16,7 @@ Welcome to the official website of Michael Rodriguez, a renowned economic analys
 
 <div class="book-grid">
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/THE%20CHINESE%20REAL%20ESTATE%20BUBBLE%20print.png" alt="The Chinese Real Estate Bubble Book Cover" style="max-width: 100%; height: auto;">
+    <img src="{{ site.baseurl }}/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE print.webp" alt="The Chinese Real Estate Bubble Book Cover" style="max-width: 100%; height: auto;">
     <div class="book-card-content">
       <h3>The Chinese Real Estate Bubble</h3>
       <p>A comprehensive analysis of China's economic model and its potential impact on global markets.</p>
