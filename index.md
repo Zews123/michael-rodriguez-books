@@ -25,7 +25,7 @@ Welcome to the official website of Michael Rodriguez, a renowned economic analys
   </div>
   
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Trillion%20Dollar%20Shadow.png" alt="The Trillion Dollar Shadow Book Cover" style="max-width: 100%; height: auto;">
+    <img src="{{ site.baseurl }}/assets/images/Trillion_Dollar_Shadow.webp" alt="The Trillion Dollar Shadow Book Cover" style="max-width: 100%; height: auto;">
     <div class="book-card-content">
       <h3>The Trillion Dollar Shadow</h3>
       <p>Dive into the mysterious world of index funds and discover how Vanguard Group revolutionized investing.</p>
@@ -34,7 +34,7 @@ Welcome to the official website of Michael Rodriguez, a renowned economic analys
   </div>
   
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Weaponized%20Economy.png" alt="Weaponized Economy Book Cover" style="max-width: 100%; height: auto;">
+    <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" alt="Weaponized Economy Book Cover" style="max-width: 100%; height: auto;">
     <div class="book-card-content">
       <h3>Weaponized Economy</h3>
       <p>Explore the fascinating history of economic warfare from Napoleon's Continental Blockade to the modern US-China trade war.</p>
@@ -43,7 +43,7 @@ Welcome to the official website of Michael Rodriguez, a renowned economic analys
   </div>
   
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/paypalmafia.png" alt="The PayPal Mafia Book Cover" style="max-width: 100%; height: auto;">
+    <img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" alt="The PayPal Mafia Book Cover" style="max-width: 100%; height: auto;">
     <div class="book-card-content">
       <h3>The PayPal Mafia</h3>
       <p>Uncover the incredible story of how a small group of entrepreneurs went on to reshape technology, finance, and global politics.</p>
