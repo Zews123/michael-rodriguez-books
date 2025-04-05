@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Open+Sans:wght@400;600;700&display=swap">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    {% seo %}
+    <style>
+      :root {
+        --primary-color: #1a3c65;
+        --secondary-color: #e74c3c;
+        --text-color: #333;
+        --light-bg: #f8f9fa;
+        --border-color: #ddd;
+      }
+      
+      body {
+        font-family: 'Open Sans', sans-serif;
+        line-height: 1.6;
+        color: var(--text-color);
+        margin: 0;
+        padding: 0;
+        background-color: #fff;
+      }
+      
+      .container {
+        max-width: 1140px;
+        margin: 0 auto;
+        padding: 0 20px;
+      }
+      
+      header {
+        background-color: var(--primary-color);
+        color: white;
+        padding: 1rem 0;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      }
+      
+      .site-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      
+      .site-title {
+        font-size: 1.5rem;
+        font-weight: 700;
+        margin: 0;
+      }
+      
+      .site-title a {
+        color: white;
+        text-decoration: none;
+      }
+      
+      nav ul {
+        display: flex;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      
+      nav ul li {
+        margin-left: 1.5rem;
+      }
+      
+      nav ul li a {
+        color: white;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 1rem;
+        transition: color 0.3s;
+      }
+      
+      nav ul li a:hover {
+        color: rgba(255, 255, 255, 0.8);
+      }
+      
+      main {
+        padding: 2rem 0;
+      }
+      
+      h1, h2, h3, h4, h5, h6 {
+        font-family: 'Merriweather', serif;
+        color: var(--primary-color);
+        line-height: 1.3;
+      }
+      
+      h1 {
+        font-size: 2.5rem;
+        margin-top: 0;
+        border-bottom: 2px solid var(--secondary-color);
+        padding-bottom: 0.5rem;
+        margin-bottom: 1rem;
+      }
+      
+      h2 {
+        font-size: 1.8rem;
+        margin-top: 2rem;
+      }
+      
+      img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+      }
+      
+      .book-cover {
+        float: right;
+        margin: 0 0 2rem 2rem;
+        width: 300px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        border-radius: 5px;
+      }
+      
+      .author-image {
+        border-radius: 50%;
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        margin: 0 auto 1rem;
+        display: block;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+      }
+      
+      .book-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 2rem;
+        margin-top: 2rem;
+      }
+      
+      .book-card {
+        border: 1px solid var(--border-color);
+        border-radius: 5px;
+        overflow: hidden;
+        transition: transform 0.3s, box-shadow 0.3s;
+      }
+      
+      .book-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+      }
+      
+      .book-card img {
+        width: 100%;
+        height: 400px;
+        object-fit: cover;
+      }
+      
+      .book-card-content {
+        padding: 1.5rem;
+      }
+      
+      .book-card h3 {
+        margin-top: 0;
+        font-size: 1.3rem;
+      }
+      
+      .book-card p {
+        margin-bottom: 1rem;
+        font-size: 0.9rem;
+      }
+      
+      .btn {
+        display: inline-block;
+        background-color: var(--primary-color);
+        color: white;
+        padding: 0.5rem 1rem;
+        border-radius: 3px;
+        text-decoration: none;
+        font-weight: 600;
+        transition: background-color 0.3s;
+      }
+      
+      .btn:hover {
+        background-color: #0f2a4a;
+      }
+      
+      .btn-secondary {
+        background-color: var(--secondary-color);
+      }
+      
+      .btn-secondary:hover {
+        background-color: #c0392b;
+      }
+      
+      blockquote {
+        border-left: 4px solid var(--secondary-color);
+        padding-left: 1rem;
+        font-style: italic;
+        color: #555;
+      }
+      
+      footer {
+        background-color: var(--primary-color);
+        color: white;
+        padding: 2rem 0;
+        margin-top: 3rem;
+      }
+      
+      .footer-content {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+      }
+      
+      .footer-column {
+        flex: 1;
+        min-width: 250px;
+        margin-bottom: 1.5rem;
+      }
+      
+      .footer-column h3 {
+        color: white;
+        font-size: 1.2rem;
+        margin-top: 0;
+        margin-bottom: 1rem;
+      }
+      
+      .footer-column ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+      
+      .footer-column ul li {
+        margin-bottom: 0.5rem;
+      }
+      
+      .footer-column a {
+        color: rgba(255, 255, 255, 0.8);
+        text-decoration: none;
+        transition: color 0.3s;
+      }
+      
+      .footer-column a:hover {
+        color: white;
+      }
+      
+      .copyright {
+        text-align: center;
+        margin-top: 2rem;
+        padding-top: 1rem;
+        border-top: 1px solid rgba(255, 255, 255, 0.1);
+        font-size: 0.9rem;
+      }
+      
+      /* Responsive adjustments */
+      @media (max-width: 768px) {
+        .site-header {
+          flex-direction: column;
+          text-align: center;
+        }
+        
+        nav ul {
+          margin-top: 1rem;
+          justify-content: center;
+        }
+        
+        nav ul li {
+          margin: 0 0.75rem;
+        }
+        
+        .book-cover {
+          float: none;
+          margin: 0 auto 2rem;
+          width: 100%;
+          max-width: 300px;
+        }
+        
+        h1 {
+          font-size: 2rem;
+        }
+        
+        h2 {
+          font-size: 1.5rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="container site-header">
+        <h1 class="site-title"><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+        <nav>
+          <ul>
+            <li><a href="{{ "/" | relative_url }}">Home</a></li>
+            <li><a href="{{ "/books" | relative_url }}">Books</a></li>
+            <li><a href="{{ "/about" | relative_url }}">About</a></li>
+            <li><a href="{{ "/contact" | relative_url }}">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <div class="container">
+        {{ content }}
+      </div>
+    </main>
+
+    <footer>
+      <div class="container">
+        <div class="footer-content">
+          <div class="footer-column">
+            <h3>Michael Rodriguez</h3>
+            <p>Economic Analyst | Financial Market Expert | Author</p>
+            <p>Exploring the hidden forces behind global economics and financial markets.</p>
+          </div>
+          <div class="footer-column">
+            <h3>Books</h3>
+            <ul>
+              <li><a href="{{ "/books/chinese-real-estate-bubble" | relative_url }}">The Chinese Real Estate Bubble</a></li>
+              <li><a href="{{ "/books/trillion-dollar-shadow" | relative_url }}">The Trillion Dollar Shadow</a></li>
+              <li><a href="{{ "/books/weaponized-economy" | relative_url }}">Weaponized Economy</a></li>
+              <li><a href="{{ "/books/paypal-mafia" | relative_url }}">The PayPal Mafia</a></li>
+            </ul>
+          </div>
+          <div class="footer-column">
+            <h3>Connect</h3>
+            <ul>
+              <li><a href="mailto:contact@michaelrodriguezbooks.com">Email</a></li>
+              <li><a href="https://twitter.com/MRodriguezBooks">Twitter</a></li>
+              <li><a href="https://www.linkedin.com/in/michael-rodriguez-author">LinkedIn</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="copyright">
+          &copy; 2025 Michael Rodriguez. All rights reserved. Published by Resource Economics Press.
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
