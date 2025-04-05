@@ -64,4 +64,5 @@ With over fifteen years of experience studying international economic systems, R
 
 For media inquiries, speaking engagements, or other questions:
 
-Email: [contact@michaelrodriguezbooks.com](mailto:contact@michaelrodriguezbooks.com)
+**Email:** [marlonturner135@gmail.com](mailto:marlonturner135@gmail.com)
+
