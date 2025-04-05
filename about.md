@@ -6,7 +6,7 @@ description: Learn about Michael Rodriguez, renowned economic analyst and author
 
 # About Michael Rodriguez
 
-<img src="{{ site.baseurl }}/assets/images/author-photo.png" alt="Michael Rodriguez Author" class="author-image" style="max-width: 150px; height: auto; margin: 0 auto 20px; display: block; border-radius: 50%;">
+<img src="{{ site.baseurl }}/assets/images/author-photo1.png" alt="Michael Rodriguez Author" class="author-image" style="max-width: 150px; height: auto; margin: 0 auto 20px; display: block; border-radius: 50%;">
 
 Michael Rodriguez is a renowned economic analyst and investigative journalist specializing in global financial markets, technological disruption, and emerging economic trends. With over fifteen years of experience studying international economic systems, Rodriguez offers unique perspectives on financial bubbles, structural economic imbalances, and the hidden forces shaping our world.
 
