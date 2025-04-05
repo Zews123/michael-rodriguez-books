@@ -10,7 +10,7 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
-    <img src="/assets/images/chinese-bubble-cover.jpg" alt="The Chinese Real Estate Bubble Book Cover">
+    <img src="/assets/images/THE CHINESE REAL ESTATE BUBBLE print.png" alt="The Chinese Real Estate Bubble Book Cover">
     <div class="book-card-content">
       <h3>The Chinese Real Estate Bubble</h3>
       <p>A comprehensive analysis of China's precarious real estate market and how its potential collapse threatens the global economy.</p>
@@ -19,7 +19,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
   
   <div class="book-card">
-    <img src="/assets/images/trillion-dollar-shadow-cover.jpg" alt="The Trillion Dollar Shadow Book Cover">
+    <img src="/assets/images/Trillion Dollar Shadow.png" alt="The Trillion Dollar Shadow Book Cover">
     <div class="book-card-content">
       <h3>The Trillion Dollar Shadow</h3>
       <p>Discover how John Bogle's revolutionary index fund strategy created Vanguard, a financial behemoth that transformed global investing.</p>
@@ -28,7 +28,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
   
   <div class="book-card">
-    <img src="/assets/images/weaponized-economy-cover.jpg" alt="Weaponized Economy Book Cover">
+    <img src="/assets/images/Weaponized Economy.png" alt="Weaponized Economy Book Cover">
     <div class="book-card-content">
       <h3>Weaponized Economy</h3>
       <p>Explore the fascinating history of economic warfare from Napoleon to modern US-China tensions and how nations weaponize trade.</p>
@@ -37,7 +37,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
   
   <div class="book-card">
-    <img src="/assets/images/paypal-mafia-cover.jpg" alt="The PayPal Mafia Book Cover">
+    <img src="/assets/images/paypalmafia.png" alt="The PayPal Mafia Book Cover">
     <div class="book-card-content">
       <h3>The PayPal Mafia</h3>
       <p>Uncover how PayPal's founding team transformed into the most influential network in tech history, reshaping global politics and finance.</p>
