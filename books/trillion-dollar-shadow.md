@@ -7,7 +7,7 @@ description: "Discover how John Bogle's revolutionary index fund strategy create
 # The Trillion Dollar Shadow
 ## Vanguard, John Bogle, and the New Financial Order
 
-![The Trillion Dollar Shadow Book Cover](/assets/images/trillion-dollar-shadow-cover.jpg)
+<img src="/assets/images/Trillion%20Dollar%20Shadow.png" width="300" alt="The Trillion Dollar Shadow Book Cover">
 
 *By Michael Rodriguez*
 
