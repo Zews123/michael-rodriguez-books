@@ -9,20 +9,14 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
 # Michael Rodriguez
 ## Economic Analyst | Financial Market Expert | Author
 
-<picture>
-  <source srcset="{{ site.baseurl }}/assets/images/author-photo.webp" type="image/webp">
-  <img src="{{ site.baseurl }}/assets/images/author-photo.webp" alt="Michael Rodriguez Author" width="150" height="150" class="author-image" fetchpriority="high" style="border-radius: 50%; object-fit: cover;">
-</picture>
+<img src="{{ site.baseurl }}/assets/images/author-photo.webp" alt="Michael Rodriguez Author" class="author-image" style="max-width: 150px; height: auto; margin: 0 auto 20px; display: block;" fetchpriority="high">
 
 <p>Welcome to the official website of Michael Rodriguez, a renowned economic analyst and investigative journalist specializing in global financial markets, technological disruption, and emerging economic trends.</p>
 
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
-    <picture>
-      <source srcset="{{ site.baseurl }}/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE print.webp" type="image/webp">
-      <img src="{{ site.baseurl }}/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE print.webp" alt="The Chinese Real Estate Bubble Book Cover" width="300" height="auto" loading="lazy" style="max-width: 100%;">
-    </picture>
+    <img src="{{ site.baseurl }}/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE print.webp" alt="The Chinese Real Estate Bubble Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>The Chinese Real Estate Bubble</h3>
       <p>A comprehensive analysis of China's economic model and its potential impact on global markets.</p>
@@ -31,10 +25,7 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
   </div>
   
   <div class="book-card">
-    <picture>
-      <source srcset="{{ site.baseurl }}/assets/images/Trillion_Dollar_Shadow.webp" type="image/webp">
-      <img src="{{ site.baseurl }}/assets/images/Trillion_Dollar_Shadow.webp" alt="The Trillion Dollar Shadow Book Cover" width="300" height="auto" loading="lazy" style="max-width: 100%;">
-    </picture>
+    <img src="{{ site.baseurl }}/assets/images/Trillion_Dollar_Shadow.webp" alt="The Trillion Dollar Shadow Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>The Trillion Dollar Shadow</h3>
       <p>Dive into the mysterious world of index funds and discover how Vanguard Group revolutionized investing.</p>
@@ -43,10 +34,7 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
   </div>
   
   <div class="book-card">
-    <picture>
-      <source srcset="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" type="image/webp">
-      <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" alt="Weaponized Economy Book Cover" width="300" height="auto" loading="lazy" style="max-width: 100%;">
-    </picture>
+    <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" alt="Weaponized Economy Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>Weaponized Economy</h3>
       <p>Explore the fascinating history of economic warfare from Napoleon's Continental Blockade to the modern US-China trade war.</p>
@@ -55,10 +43,7 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
   </div>
   
   <div class="book-card">
-    <picture>
-      <source srcset="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" type="image/webp">
-      <img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" alt="The PayPal Mafia Book Cover" width="300" height="auto" loading="lazy" style="max-width: 100%;">
-    </picture>
+    <img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" alt="The PayPal Mafia Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>The PayPal Mafia</h3>
       <p>Uncover the incredible story of how a small group of entrepreneurs went on to reshape technology, finance, and global politics.</p>
