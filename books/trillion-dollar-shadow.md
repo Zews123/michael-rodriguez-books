@@ -61,6 +61,24 @@ Michael Rodriguez is a renowned economic analyst and researcher specializing in 
 
 His interdisciplinary approach combines economic theory, historical analysis, and investigative research, allowing him to uncover connections between financial institutions and broader social and political trends. His work on Vanguard and the rise of passive investing sheds light on one of the most significant yet underexamined shifts in how capital is allocated and controlled in the modern world.
 
+## Share This Book
+
+<div class="social-share" style="margin: 30px 0;">
+  <p style="margin-bottom: 15px; font-weight: 600;">Help others discover this book:</p>
+  <a href="https://twitter.com/intent/tweet?text=Check out 'The Trillion Dollar Shadow' by Michael Rodriguez&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&via=MRodriguezBooks" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #1DA1F2;">
+    <i class="fab fa-twitter-square"></i>
+  </a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #3b5998;">
+    <i class="fab fa-facebook-square"></i>
+  </a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title=The Trillion Dollar Shadow by Michael Rodriguez" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #0077b5;">
+    <i class="fab fa-linkedin"></i>
+  </a>
+  <a href="mailto:?subject=Check out this book: The Trillion Dollar Shadow&body=I thought you might be interested in this book by Michael Rodriguez: {{ site.url }}{{ site.baseurl }}{{ page.url }}" style="display: inline-block; font-size: 24px; color: #333333;">
+    <i class="fas fa-envelope-square"></i>
+  </a>
+</div>
+
 ## Available Now
 
 <!-- Здесь нужно будет вставить ссылки на магазины -->
