@@ -1,4 +1,12 @@
----
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-62RSZYW4JV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-62RSZYW4JV');
+</script>---
 layout: default
 title: Michael Rodriguez - Economic Analyst and Author
 description: Explore insightful books by Michael Rodriguez on global economics, financial markets, and technological trends that shape our world.
