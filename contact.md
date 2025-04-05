@@ -44,6 +44,7 @@ Follow Michael Rodriguez:
 
 - Twitter: [@MRodriguezBooks](https://x.com/Youvideo1)
 - LinkedIn: [Michael Rodriguez](https://www.linkedin.com/in/michael-rodriguez-author)
+- Facebook: [Michael Rodriguez](https://www.facebook.com/andrusistomin/)
 
 ## Speaking Engagements
 
