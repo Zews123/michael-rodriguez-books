@@ -53,8 +53,6 @@ Michael Rodriguez is a renowned economic analyst and researcher specializing in 
 
 His previous works include "Stoicism in Business," "Technological Breakthroughs of World War II: How War Changed Our World," and "Silver Empire: The Forgotten Metal That Powers Modern Civilization."
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-
 ## Share This Book
 
 <div class="social-share" style="margin: 30px 0;">
