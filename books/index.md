@@ -4,6 +4,16 @@ title: Books by Michael Rodriguez
 description: Explore insightful books by Michael Rodriguez on global economics, financial markets, and the hidden forces shaping our world.
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-62RSZYW4JV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-62RSZYW4JV');
+</script>
+
 # Books by Michael Rodriguez
 
 Dive into the complex world of global economics, financial markets, and power structures through Michael Rodriguez's insightful and meticulously researched books.
