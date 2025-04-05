@@ -64,5 +64,5 @@ His previous works include "Stoicism in Business," "Technological Breakthroughs 
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
 
-ISBN: 978-XXXXXXXXXX (Hardcover)  
-ISBN: 978-XXXXXXXXXX (eBook)
+ISBN: 979-8230107064 (Hardcover)  
+ISBN: 979-8227986191 (eBook)
