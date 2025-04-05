@@ -42,7 +42,7 @@ For bulk orders and special sales, please contact:
 
 Follow Michael Rodriguez:
 
-- Twitter: [@MRodriguezBooks](https://twitter.com/MRodriguezBooks)
+- Twitter: [@MRodriguezBooks](https://x.com/Youvideo1)
 - LinkedIn: [Michael Rodriguez](https://www.linkedin.com/in/michael-rodriguez-author)
 
 ## Speaking Engagements
