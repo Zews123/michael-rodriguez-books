@@ -10,38 +10,38 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
-    <img src="/assets/images/THE CHINESE REAL ESTATE BUBBLE print.png" alt="The Chinese Real Estate Bubble Book Cover">
+    <img src="{{ site.baseurl }}/assets/images/THE%20CHINESE%20REAL%20ESTATE%20BUBBLE%20print.png" alt="The Chinese Real Estate Bubble Book Cover" style="max-width: 100%; height: auto;">
     <div class="book-card-content">
       <h3>The Chinese Real Estate Bubble</h3>
       <p>A comprehensive analysis of China's precarious real estate market and how its potential collapse threatens the global economy.</p>
-      <a href="/books/chinese-real-estate-bubble" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/chinese-real-estate-bubble" class="btn">Read More</a>
     </div>
   </div>
   
   <div class="book-card">
-    <img src="/assets/images/Trillion Dollar Shadow.png" alt="The Trillion Dollar Shadow Book Cover">
+    <img src="{{ site.baseurl }}/assets/images/Trillion%20Dollar%20Shadow.png" alt="The Trillion Dollar Shadow Book Cover" style="max-width: 100%; height: auto;">
     <div class="book-card-content">
       <h3>The Trillion Dollar Shadow</h3>
       <p>Discover how John Bogle's revolutionary index fund strategy created Vanguard, a financial behemoth that transformed global investing.</p>
-      <a href="/books/trillion-dollar-shadow" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/trillion-dollar-shadow" class="btn">Read More</a>
     </div>
   </div>
   
   <div class="book-card">
-    <img src="/assets/images/Weaponized Economy.png" alt="Weaponized Economy Book Cover">
+    <img src="{{ site.baseurl }}/assets/images/Weaponized%20Economy.png" alt="Weaponized Economy Book Cover" style="max-width: 100%; height: auto;">
     <div class="book-card-content">
       <h3>Weaponized Economy</h3>
       <p>Explore the fascinating history of economic warfare from Napoleon to modern US-China tensions and how nations weaponize trade.</p>
-      <a href="/books/weaponized-economy" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/weaponized-economy" class="btn">Read More</a>
     </div>
   </div>
   
   <div class="book-card">
-    <img src="/assets/images/paypalmafia.png" alt="The PayPal Mafia Book Cover">
+    <img src="{{ site.baseurl }}/assets/images/paypalmafia.png" alt="The PayPal Mafia Book Cover" style="max-width: 100%; height: auto;">
     <div class="book-card-content">
       <h3>The PayPal Mafia</h3>
       <p>Uncover how PayPal's founding team transformed into the most influential network in tech history, reshaping global politics and finance.</p>
-      <a href="/books/paypal-mafia" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/paypal-mafia" class="btn">Read More</a>
     </div>
   </div>
 </div>
