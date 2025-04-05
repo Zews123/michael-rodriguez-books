@@ -7,7 +7,7 @@ description: "Explore the fascinating history of economic warfare from Napoleon 
 # Weaponized Economy
 ## The Hidden History of Trade Wars and Their Impact on Global Politics
 
-![Weaponized Economy Book Cover](/assets/images/weaponized-economy-cover.jpg)
+<img src="/assets/images/Weaponized%20Economy.png" width="300" alt="Weaponized Economy Book Cover">
 
 *By Michael Rodriguez*
 
