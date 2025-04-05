@@ -55,7 +55,7 @@ His previous works include "Silver Empire: The Forgotten Metal That Powers Moder
 ## Available Now
 
 <!-- Здесь нужно будет вставить ссылки на магазины -->
-**[Get the Book - Universal Book Link https://books2read.com/b/4jxEJo]** | **[Apple Books]**
+**[Get the Book - Universal Book Link](https://books2read.com/b/4jxEJo)** | **[Apple Books](Coming Soon)**
 
 *First edition: January 2025*  
 *Published by Resource Economics Press*  
