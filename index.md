@@ -8,7 +8,7 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
 
 ## Economic Analyst | Financial Market Expert | Author
 
-<img src="/assets/images/author-photo.png" alt="Michael Rodriguez Author" class="author-image">
+<img src="{{ site.baseurl }}/assets/images/author-photo.jpg" alt="Michael Rodriguez Author" class="author-image" style="max-width: 150px; height: auto; margin: 0 auto 20px; display: block;">
 
 Welcome to the official website of Michael Rodriguez, a renowned economic analyst and investigative journalist specializing in global financial markets, technological disruption, and emerging economic trends.
 
@@ -16,38 +16,38 @@ Welcome to the official website of Michael Rodriguez, a renowned economic analys
 
 <div class="book-grid">
   <div class="book-card">
-    <img src="/assets/images/THE CHINESE REAL ESTATE BUBBLE print.png" alt="The Chinese Real Estate Bubble Book Cover">
+    <img src="{{ site.baseurl }}/assets/images/THE%20CHINESE%20REAL%20ESTATE%20BUBBLE%20print.png" alt="The Chinese Real Estate Bubble Book Cover" style="max-width: 100%; height: auto;">
     <div class="book-card-content">
       <h3>The Chinese Real Estate Bubble</h3>
       <p>A comprehensive analysis of China's economic model and its potential impact on global markets.</p>
-      <a href="/books/chinese-real-estate-bubble" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/chinese-real-estate-bubble" class="btn">Read More</a>
     </div>
   </div>
   
   <div class="book-card">
-    <img src="/assets/images/Trillion Dollar Shadow.png" alt="The Trillion Dollar Shadow Book Cover">
+    <img src="{{ site.baseurl }}/assets/images/Trillion%20Dollar%20Shadow.png" alt="The Trillion Dollar Shadow Book Cover" style="max-width: 100%; height: auto;">
     <div class="book-card-content">
       <h3>The Trillion Dollar Shadow</h3>
       <p>Dive into the mysterious world of index funds and discover how Vanguard Group revolutionized investing.</p>
-      <a href="/books/trillion-dollar-shadow" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/trillion-dollar-shadow" class="btn">Read More</a>
     </div>
   </div>
   
   <div class="book-card">
-    <img src="/assets/images/Weaponized Economy.png" alt="Weaponized Economy Book Cover">
+    <img src="{{ site.baseurl }}/assets/images/Weaponized%20Economy.png" alt="Weaponized Economy Book Cover" style="max-width: 100%; height: auto;">
     <div class="book-card-content">
       <h3>Weaponized Economy</h3>
       <p>Explore the fascinating history of economic warfare from Napoleon's Continental Blockade to the modern US-China trade war.</p>
-      <a href="/books/weaponized-economy" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/weaponized-economy" class="btn">Read More</a>
     </div>
   </div>
   
   <div class="book-card">
-    <img src="/assets/images/paypalmafia.png" alt="The PayPal Mafia Book Cover">
+    <img src="{{ site.baseurl }}/assets/images/paypalmafia.png" alt="The PayPal Mafia Book Cover" style="max-width: 100%; height: auto;">
     <div class="book-card-content">
       <h3>The PayPal Mafia</h3>
       <p>Uncover the incredible story of how a small group of entrepreneurs went on to reshape technology, finance, and global politics.</p>
-      <a href="/books/paypal-mafia" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/paypal-mafia" class="btn">Read More</a>
     </div>
   </div>
 </div>
@@ -58,7 +58,7 @@ Michael Rodriguez combines economic theory, historical analysis, and investigati
 
 With over fifteen years of experience studying international economic systems, Rodriguez offers unique perspectives on financial bubbles, structural economic imbalances, and the hidden forces shaping our economic future.
 
-[Learn more about Michael Rodriguez](/about)
+[Learn more about Michael Rodriguez]({{ site.baseurl }}/about)
 
 ## Contact
 
