@@ -18,25 +18,26 @@ Thank you for your interest in Michael Rodriguez's work. Please use the informat
 
 ## Contact Information
 
-**Email:** [contact@michaelrodriguezbooks.com](mailto:contact@michaelrodriguezbooks.com)
+**Email:** [marlonturner135@gmail.com](mailto:marlonturner135@gmail.com)
+
 
 **For Media Inquiries:**  
-[media@michaelrodriguezbooks.com](mailto:media@michaelrodriguezbooks.com)
+[media@michaelrodriguezbooks.com](mailto:marlonturner135@gmail.com)
 
 **For Speaking Engagements:**  
-[speaking@michaelrodriguezbooks.com](mailto:speaking@michaelrodriguezbooks.com)
+[speaking@michaelrodriguezbooks.com](mailto:marlonturner135@gmail.com)
 
 **Literary Agent:**  
 Jane Smith  
 Global Literary Agency  
-[agent@globalliterary.com](mailto:agent@globalliterary.com)
+[agent@globalliterary.com](mailto:marlonturner135@gmail.com)
 
 ## Book Orders and Customer Service
 
 For questions regarding book orders, please contact the retailer where you purchased the book.
 
 For bulk orders and special sales, please contact:  
-[sales@resourceeconomicspress.com](mailto:sales@resourceeconomicspress.com)
+[sales@resourceeconomicspress.com](mailto:marlonturner135@gmail.com)
 
 ## Social Media
 
