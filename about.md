@@ -44,4 +44,4 @@ Rodriguez believes that economic analysis should be accessible to everyone, not 
 
 For media inquiries, speaking engagements, or other questions, please contact:
 
-Email: [contact@michaelrodriguezbooks.com](mailto:contact@michaelrodriguezbooks.com)
+**Email:** [marlonturner135@gmail.com](mailto:marlonturner135@gmail.com)
