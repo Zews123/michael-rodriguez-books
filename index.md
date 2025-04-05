@@ -11,7 +11,7 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
 
 <picture>
   <source srcset="{{ site.baseurl }}/assets/images/author-photo.webp" type="image/webp">
-  <img src="{{ site.baseurl }}/assets/images/author-photo.webp" alt="Michael Rodriguez Author" width="150" height="150" class="author-image" fetchpriority="high">
+  <img src="{{ site.baseurl }}/assets/images/author-photo.webp" alt="Michael Rodriguez Author" width="150" height="150" class="author-image" fetchpriority="high" style="border-radius: 50%; object-fit: cover;">
 </picture>
 
 <p>Welcome to the official website of Michael Rodriguez, a renowned economic analyst and investigative journalist specializing in global financial markets, technological disruption, and emerging economic trends.</p>
@@ -21,7 +21,7 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
   <div class="book-card">
     <picture>
       <source srcset="{{ site.baseurl }}/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE print.webp" type="image/webp">
-      <img src="{{ site.baseurl }}/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE print.webp" alt="The Chinese Real Estate Bubble Book Cover" width="300" height="450" loading="lazy">
+      <img src="{{ site.baseurl }}/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE print.webp" alt="The Chinese Real Estate Bubble Book Cover" width="300" height="auto" loading="lazy" style="max-width: 100%;">
     </picture>
     <div class="book-card-content">
       <h3>The Chinese Real Estate Bubble</h3>
@@ -33,7 +33,7 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
   <div class="book-card">
     <picture>
       <source srcset="{{ site.baseurl }}/assets/images/Trillion_Dollar_Shadow.webp" type="image/webp">
-      <img src="{{ site.baseurl }}/assets/images/Trillion_Dollar_Shadow.webp" alt="The Trillion Dollar Shadow Book Cover" width="300" height="450" loading="lazy">
+      <img src="{{ site.baseurl }}/assets/images/Trillion_Dollar_Shadow.webp" alt="The Trillion Dollar Shadow Book Cover" width="300" height="auto" loading="lazy" style="max-width: 100%;">
     </picture>
     <div class="book-card-content">
       <h3>The Trillion Dollar Shadow</h3>
@@ -45,7 +45,7 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
   <div class="book-card">
     <picture>
       <source srcset="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" type="image/webp">
-      <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" alt="Weaponized Economy Book Cover" width="300" height="450" loading="lazy">
+      <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" alt="Weaponized Economy Book Cover" width="300" height="auto" loading="lazy" style="max-width: 100%;">
     </picture>
     <div class="book-card-content">
       <h3>Weaponized Economy</h3>
@@ -57,7 +57,7 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
   <div class="book-card">
     <picture>
       <source srcset="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" type="image/webp">
-      <img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" alt="The PayPal Mafia Book Cover" width="300" height="450" loading="lazy">
+      <img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" alt="The PayPal Mafia Book Cover" width="300" height="auto" loading="lazy" style="max-width: 100%;">
     </picture>
     <div class="book-card-content">
       <h3>The PayPal Mafia</h3>
@@ -77,4 +77,3 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
 ## Contact
 <p>For media inquiries, speaking engagements, or other questions:</p>
 <p><strong>Email:</strong> <a href="mailto:marlonturner135@gmail.com">marlonturner135@gmail.com</a></p>
-
