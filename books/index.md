@@ -1,60 +1,68 @@
 ---
 layout: default
-title: Michael Rodriguez - Economic Analyst and Author
-description: Explore insightful books by Michael Rodriguez on global economics, financial markets, and technological trends that shape our world.
+title: Books by Michael Rodriguez
+description: Explore insightful books by Michael Rodriguez on global economics, financial markets, and the hidden forces shaping our world.
 ---
 
-# Michael Rodriguez
+# Books by Michael Rodriguez
 
-## Economic Analyst | Financial Market Expert | Author
+Dive into the complex world of global economics, financial markets, and power structures through Michael Rodriguez's insightful and meticulously researched books.
 
-![Michael Rodriguez Author](/assets/images/author-photo.jpg)
+<div class="book-grid">
+  <div class="book-card">
+    <img src="/assets/images/THE CHINESE REAL ESTATE BUBBLE print.png" alt="The Chinese Real Estate Bubble Book Cover">
+    <div class="book-card-content">
+      <h3>The Chinese Real Estate Bubble</h3>
+      <p>A comprehensive analysis of China's precarious real estate market and how its potential collapse threatens the global economy.</p>
+      <a href="/books/chinese-real-estate-bubble" class="btn">Read More</a>
+    </div>
+  </div>
+  
+  <div class="book-card">
+    <img src="/assets/images/Trillion Dollar Shadow.png" alt="The Trillion Dollar Shadow Book Cover">
+    <div class="book-card-content">
+      <h3>The Trillion Dollar Shadow</h3>
+      <p>Discover how John Bogle's revolutionary index fund strategy created Vanguard, a financial behemoth that transformed global investing.</p>
+      <a href="/books/trillion-dollar-shadow" class="btn">Read More</a>
+    </div>
+  </div>
+  
+  <div class="book-card">
+    <img src="/assets/images/Weaponized Economy.png" alt="Weaponized Economy Book Cover">
+    <div class="book-card-content">
+      <h3>Weaponized Economy</h3>
+      <p>Explore the fascinating history of economic warfare from Napoleon to modern US-China tensions and how nations weaponize trade.</p>
+      <a href="/books/weaponized-economy" class="btn">Read More</a>
+    </div>
+  </div>
+  
+  <div class="book-card">
+    <img src="/assets/images/paypalmafia.png" alt="The PayPal Mafia Book Cover">
+    <div class="book-card-content">
+      <h3>The PayPal Mafia</h3>
+      <p>Uncover how PayPal's founding team transformed into the most influential network in tech history, reshaping global politics and finance.</p>
+      <a href="/books/paypal-mafia" class="btn">Read More</a>
+    </div>
+  </div>
+</div>
 
-Welcome to the official website of Michael Rodriguez, a renowned economic analyst and investigative journalist specializing in global financial markets, technological disruption, and emerging economic trends.
+## Publications Overview
 
-## Latest Books
+Rodriguez is known for his meticulously researched books that reveal the hidden mechanisms behind global economic systems:
 
-### [The Chinese Real Estate Bubble: An Economy That Could Collapse The World](/books/chinese-real-estate-bubble.html)
+### The Chinese Real Estate Bubble (2025)
+An in-depth investigation into China's precarious real estate market and how its potential collapse could trigger a global economic crisis. This book explains the historic roots of China's construction boom, the demographic factors exacerbating the situation, and the worldwide implications of a Chinese economic downturn.
 
-<img src="/assets/images/THE%20CHINESE%20REAL%20ESTATE%20BUBBLE%20print.png" width="300" alt="The Chinese Real Estate Bubble Book Cover"> 
+### The Trillion Dollar Shadow (2025)
+The untold story of how John Bogle's revolutionary index fund concept transformed into Vanguard Group, a financial giant managing over $10 trillion in assets. Rodriguez explores the unprecedented power of passive investment firms and their growing influence over global corporations.
 
-A comprehensive analysis of China's economic model and its potential impact on global markets. Rodriguez explores how China's real estate sector has become a ticking time bomb that threatens not just the Chinese economy but the entire global financial system.
+### Weaponized Economy (2025)
+An examination of how nations increasingly use economic tools as weapons in global conflicts. From Napoleon's Continental Blockade to modern sanctions regimes, this book traces the evolution of economic warfare and its consequences for international stability.
 
-[Read More](/books/chinese-real-estate-bubble.html)
+### The PayPal Mafia (2025)
+The remarkable story of how a small group of entrepreneurs from PayPal—including Elon Musk, Peter Thiel, and Reid Hoffman—went on to create some of the most influential companies of the 21st century and reshape technology, finance, and global politics.
 
-### [The Trillion Dollar Shadow: Vanguard, John Bogle, and the New Financial Order](/books/trillion-dollar-shadow.html)
-<img src="/assets/images/Trillion%20Dollar%20Shadow.png" width="300" alt="The Trillion Dollar Shadow Book Cover">
-
-Dive into the mysterious world of index funds and discover how Vanguard Group, created by John Bogle, revolutionized investing while potentially creating new concerns about market concentration and financial power.
-
-[Read More](/books/trillion-dollar-shadow.html)
-
-### [Weaponized Economy: The Hidden History of Trade Wars](/books/weaponized-economy.html)
-
-<img src="/assets/images/Weaponized%20Economy.png" width="300" alt="Weaponized Economy Book Cover">
-
-Explore the fascinating history of economic warfare from Napoleon's Continental Blockade to the modern US-China trade war, revealing how nations have increasingly turned to economic tools as weapons in global conflicts.
-
-[Read More](/books/weaponized-economy.html)
-
-### [The PayPal Mafia: Silicon Valley's Secret Power Brokers](/books/paypal-mafia.html)
-
-<img src="/assets/images/paypalmafia.png" width="300" alt="The PayPal Mafia Book Cover">
-
-Uncover the incredible story of how a small group of entrepreneurs from PayPal went on to reshape technology, finance, and global politics, creating some of the most influential companies of the 21st century.
-
-[Read More](/books/paypal-mafia.html)
-
-## About the Author
-
-Michael Rodriguez combines economic theory, historical analysis, and investigative research to uncover connections between financial institutions, technological innovation, and broader social and political trends. His interdisciplinary approach allows him to identify patterns that others miss, making his analyses particularly valuable in today's complex global economy.
-
-With over fifteen years of experience studying international economic systems, Rodriguez offers unique perspectives on financial bubbles, structural economic imbalances, and the hidden forces shaping our economic future.
-
-## Contact
-
-For media inquiries, speaking engagements, or other questions:
-
-Email: [contact@michaelrodriguezbooks.com](mailto:contact@michaelrodriguezbooks.com)
-
-<!-- Социальные сети можно добавить позже -->
+### Previous Works
+- Silver Empire: The Forgotten Metal That Powers Modern Civilization (2024)
+- Technological Breakthroughs of World War II: How War Changed Our World (2023)
+- Stoicism in Business: Ancient Philosophy for Modern Leaders (2022)
