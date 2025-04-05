@@ -8,7 +8,7 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
 
 ## Economic Analyst | Financial Market Expert | Author
 
-<img src="{{ site.baseurl }}/assets/images/author-photo.jpg" alt="Michael Rodriguez Author" class="author-image" style="max-width: 150px; height: auto; margin: 0 auto 20px; display: block;">
+<img src="{{ site.baseurl }}/assets/images/author-photo.png" alt="Michael Rodriguez Author" class="author-image" style="max-width: 150px; height: auto; margin: 0 auto 20px; display: block;">
 
 Welcome to the official website of Michael Rodriguez, a renowned economic analyst and investigative journalist specializing in global financial markets, technological disruption, and emerging economic trends.
 
