@@ -1,5 +1,5 @@
 ---
-layout: book
+layout: default
 title: "The Trillion Dollar Shadow: Vanguard, John Bogle, and the New Financial Order"
 description: "Discover how John Bogle's revolutionary index fund strategy created Vanguard, a financial behemoth managing trillions that transformed global investing and market control."
 ---
@@ -8,7 +8,6 @@ description: "Discover how John Bogle's revolutionary index fund strategy create
 ## Vanguard, John Bogle, and the New Financial Order
 
 <img src="{{ site.baseurl }}/assets/images/Trillion_Dollar_Shadow.webp" alt="The Trillion Dollar Shadow Book Cover" style="max-width: 300px; margin: 0 auto 20px; display: block;">
-
 
 *By Michael Rodriguez*
 
@@ -82,11 +81,16 @@ His interdisciplinary approach combines economic theory, historical analysis, an
 ## Available Now
 
 <!-- Здесь нужно будет вставить ссылки на магазины -->
-**[Get the Book - Universal Book Link](https://books2read.com/b/3GgwMn)** | **[Apple Books](https://books.apple.com/us/book/the-trillion-dollar-shadow-vanguard-john-bogle-and/id6743709054)**
+**[Get the Book - Universal Book Link]** | **[Apple Books]**
 
 *First edition: January 2025*  
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
 
-ISBN: 997-98230169000 (Hardcover)  
-ISBN: 979-8227941503 (eBook)
+ISBN: 978-XXXXXXXXXX (Hardcover)  
+ISBN: 978-XXXXXXXXXX (eBook)
+
+
+
+
+
