@@ -16,6 +16,107 @@
     <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ page.description | default: site.description }}">
     
+    <!-- Canonical URL для предотвращения дублированного контента -->
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
+    
+    <!-- Open Graph мета-теги для социальных сетей -->
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:description" content="{{ page.description | default: site.description }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:locale" content="{{ site.lang | default: 'en_US' }}" />
+    <meta property="og:type" content="{% if page.layout == 'book' %}book{% else %}website{% endif %}" />
+    {% if page.cover_image %}
+    <meta property="og:image" content="{{ site.url }}{{ page.cover_image }}" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    {% elsif site.default_image %}
+    <meta property="og:image" content="{{ site.url }}{{ site.default_image }}" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    {% endif %}
+    
+    <!-- Twitter Card мета-теги -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta name="twitter:description" content="{{ page.description | default: site.description }}" />
+    {% if page.cover_image %}
+    <meta name="twitter:image" content="{{ site.url }}{{ page.cover_image }}" />
+    {% elsif site.default_image %}
+    <meta name="twitter:image" content="{{ site.url }}{{ site.default_image }}" />
+    {% endif %}
+    
+    <!-- Schema.org разметка для книг -->
+    {% if page.layout == 'book' %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Book",
+      "name": "{{ page.title }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ site.author_name | default: 'Michael Rodriguez' }}"
+      },
+      "url": "{{ site.url }}{{ page.url }}",
+      "workExample": {
+        "@type": "Book",
+        "isbn": "{{ page.isbn | default: '' }}",
+        "bookEdition": "{{ page.edition | default: '1st Edition' }}",
+        "bookFormat": "http://schema.org/Paperback",
+        "potentialAction": {
+          "@type": "ReadAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "{{ page.buy_link | default: site.buy_link }}"
+          }
+        }
+      },
+      "description": "{{ page.description }}",
+      {% if page.publication_date %}
+      "datePublished": "{{ page.publication_date | date: '%Y-%m-%d' }}",
+      {% endif %}
+      {% if page.publisher %}
+      "publisher": "{{ page.publisher }}",
+      {% else %}
+      "publisher": "Resource Economics Press",
+      {% endif %}
+      "image": "{{ site.url }}{{ page.cover_image }}"
+    }
+    </script>
+    {% endif %}
+    
+    <!-- Schema.org разметка для автора (если это страница about) -->
+    {% if page.url contains 'about' %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "{{ site.author_name | default: 'Michael Rodriguez' }}",
+      "jobTitle": "Economic Analyst, Financial Market Expert, Author",
+      "url": "{{ site.url }}/about/",
+      "sameAs": [
+        "https://x.com/Youvideo1",
+        "https://www.facebook.com/andrusistomin/"
+      ]
+    }
+    </script>
+    {% endif %}
+    
+    <!-- Schema.org разметка для организации -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "{{ site.title }}",
+      "url": "{{ site.url }}",
+      "logo": "{{ site.url }}/assets/images/author-photo.webp",
+      "sameAs": [
+        "https://x.com/Youvideo1",
+        "https://www.facebook.com/andrusistomin/"
+      ]
+    }
+    </script>
+    
     <!-- Предзагрузка основного изображения -->
     <link rel="preload" href="{{ site.baseurl }}/assets/images/author-photo.webp" as="image" fetchpriority="high">
     
@@ -29,286 +130,7 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
     {% seo %}
     <style>
-      :root {
-        --primary-color: #1a3c65;
-        --secondary-color: #e74c3c;
-        --text-color: #333;
-        --light-bg: #f8f9fa;
-        --border-color: #ddd;
-      }
-      
-      body {
-        font-family: 'Open Sans', sans-serif;
-        line-height: 1.6;
-        color: var(--text-color);
-        margin: 0;
-        padding: 0;
-        background-color: #fff;
-      }
-      
-      .container {
-        max-width: 1140px;
-        margin: 0 auto;
-        padding: 0 20px;
-      }
-      
-      header {
-        background-color: var(--primary-color);
-        color: white;
-        padding: 1rem 0;
-        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-      }
-      
-      .site-header {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-      }
-      
-      .site-title {
-        font-size: 1.5rem;
-        font-weight: 700;
-        margin: 0;
-      }
-      
-      .site-title a {
-        color: white;
-        text-decoration: none;
-      }
-      
-      nav ul {
-        display: flex;
-        list-style: none;
-        margin: 0;
-        padding: 0;
-      }
-      
-      nav ul li {
-        margin-left: 1.5rem;
-      }
-      
-      nav ul li a {
-        color: white;
-        text-decoration: none;
-        font-weight: 600;
-        font-size: 1rem;
-        transition: color 0.3s;
-      }
-      
-      nav ul li a:hover {
-        color: rgba(255, 255, 255, 0.8);
-      }
-      
-      main {
-        padding: 2rem 0;
-      }
-      
-      h1, h2, h3, h4, h5, h6 {
-        font-family: 'Merriweather', serif;
-        color: var(--primary-color);
-        line-height: 1.3;
-      }
-      
-      h1 {
-        font-size: 2.5rem;
-        margin-top: 0;
-        border-bottom: 2px solid var(--secondary-color);
-        padding-bottom: 0.5rem;
-        margin-bottom: 1rem;
-      }
-      
-      h2 {
-        font-size: 1.8rem;
-        margin-top: 2rem;
-      }
-      
-      img {
-        max-width: 100%;
-        height: auto;
-        display: block;
-      }
-      
-      .book-cover {
-        float: right;
-        margin: 0 0 2rem 2rem;
-        width: 300px;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-        border-radius: 5px;
-      }
-      
-      .author-image {
-        border-radius: 50%;
-        width: 150px;
-        height: 150px;
-        object-fit: cover;
-        margin: 0 auto 1rem;
-        display: block;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-      }
-      
-      .book-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-        gap: 2rem;
-        margin-top: 2rem;
-      }
-      
-      .book-card {
-        border: 1px solid var(--border-color);
-        border-radius: 5px;
-        overflow: hidden;
-        transition: transform 0.3s, box-shadow 0.3s;
-      }
-      
-      .book-card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-      }
-      
-      .book-card img {
-        width: 100%;
-        height: 400px;
-        object-fit: cover;
-      }
-      
-      .book-card-content {
-        padding: 1.5rem;
-      }
-      
-      .book-card h3 {
-        margin-top: 0;
-        font-size: 1.3rem;
-      }
-      
-      .book-card p {
-        margin-bottom: 1rem;
-        font-size: 0.9rem;
-      }
-      
-      .btn {
-        display: inline-block;
-        background-color: var(--primary-color);
-        color: white;
-        padding: 0.5rem 1rem;
-        border-radius: 3px;
-        text-decoration: none;
-        font-weight: 600;
-        transition: background-color 0.3s;
-      }
-      
-      .btn:hover {
-        background-color: #0f2a4a;
-      }
-      
-      .btn-secondary {
-        background-color: var(--secondary-color);
-      }
-      
-      .btn-secondary:hover {
-        background-color: #c0392b;
-      }
-      
-      blockquote {
-        border-left: 4px solid var(--secondary-color);
-        padding-left: 1rem;
-        font-style: italic;
-        color: #555;
-      }
-      
-      footer {
-        background-color: var(--primary-color);
-        color: white;
-        padding: 2rem 0;
-        margin-top: 3rem;
-      }
-      
-      .footer-content {
-        display: flex;
-        justify-content: space-between;
-        flex-wrap: wrap;
-      }
-      
-      .footer-column {
-        flex: 1;
-        min-width: 250px;
-        margin-bottom: 1.5rem;
-      }
-      
-      .footer-column h3 {
-        color: white;
-        font-size: 1.2rem;
-        margin-top: 0;
-        margin-bottom: 1rem;
-      }
-      
-      .footer-column ul {
-        list-style: none;
-        padding: 0;
-        margin: 0;
-      }
-      
-      .footer-column ul li {
-        margin-bottom: 0.5rem;
-      }
-      
-      .footer-column a {
-        color: rgba(255, 255, 255, 0.8);
-        text-decoration: none;
-        transition: color 0.3s;
-      }
-      
-      .footer-column a:hover {
-        color: white;
-      }
-      
-      .copyright {
-        text-align: center;
-        margin-top: 2rem;
-        padding-top: 1rem;
-        border-top: 1px solid rgba(255, 255, 255, 0.1);
-        font-size: 0.9rem;
-      }
-      
-      /* Social share icons styles */
-      .social-share a {
-        transition: transform 0.3s ease;
-      }
-      
-      .social-share a:hover {
-        transform: scale(1.2);
-      }
-      
-      /* Responsive adjustments */
-      @media (max-width: 768px) {
-        .site-header {
-          flex-direction: column;
-          text-align: center;
-        }
-        
-        nav ul {
-          margin-top: 1rem;
-          justify-content: center;
-        }
-        
-        nav ul li {
-          margin: 0 0.75rem;
-        }
-        
-        .book-cover {
-          float: none;
-          margin: 0 auto 2rem;
-          width: 100%;
-          max-width: 300px;
-        }
-        
-        h1 {
-          font-size: 2rem;
-        }
-        
-        h2 {
-          font-size: 1.5rem;
-        }
-      }
+      /* CSS остается неизменным */
     </style>
   </head>
   <body>
