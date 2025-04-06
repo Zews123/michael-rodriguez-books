@@ -4,7 +4,7 @@ title: Michael Rodriguez - Economic Analyst and Author
 description: Explore insightful books by Michael Rodriguez on global economics, financial markets, and technological trends that shape our world.
 ---
 
-<link rel="preload" href="{{ site.baseurl }}/assets/images/author-photo_400x600.webp" as="image">
+<link rel="preload" href="{{ site.baseurl }}/assets/images/author-photo.webp" as="image">
 
 # Michael Rodriguez
 ## Economic Analyst | Financial Market Expert | Author
