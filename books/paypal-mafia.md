@@ -7,7 +7,7 @@ description: "Uncover how PayPal's founding team transformed into the most influ
 # The PayPal Mafia
 ## Silicon Valley's Secret Power Brokers
 
-<img src="{{ site.baseurl }}/assets/images/paypalmafia.png" alt="The PayPal Mafia Book Cover" style="max-width: 300px; margin: 0 auto 20px; display: block;">
+<img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" alt="The PayPal Mafia Book Cover" style="max-width: 300px; margin: 0 auto 20px; display: block;">
 *By Michael Rodriguez*
 
 ## About the Book
