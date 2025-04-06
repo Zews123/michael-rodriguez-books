@@ -6,7 +6,7 @@ description: "A comprehensive analysis of China's precarious real estate market 
 
 # The Chinese Real Estate Bubble
 ## An Economy That Could Collapse The World
-<img src="{{ site.baseurl }}/assets/images/THE%20CHINESE%20REAL%20ESTATE%20BUBBLE%20print.png" alt="The Chinese Real Estate Bubble Book Cover" style="max-width: 300px; margin: 0 auto 20px; display: block;">
+<img src="{{ site.baseurl }}/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE print.webp" alt="The Chinese Real Estate Bubble Book Cover" style="max-width: 300px; margin: 0 auto 20px; display: block;">
 *by Michael Rodriguez*
 
 ## About the Book
