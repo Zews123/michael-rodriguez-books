@@ -2,12 +2,39 @@
 layout: default
 title: "The PayPal Mafia: Silicon Valley's Secret Power Brokers"
 description: "Uncover how PayPal's founding team transformed into the most influential network in tech history, creating Tesla, SpaceX, LinkedIn, and reshaping global politics and finance."
+image: "/assets/images/Pay_Pall_Mafia.webp"
 ---
+
+<!-- Schema.org markup for Book -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "The PayPal Mafia: Silicon Valley's Secret Power Brokers",
+  "author": {
+    "@type": "Person",
+    "@id": "https://zews123.github.io/michael-rodriguez-books/#person",
+    "name": "Michael Rodriguez"
+  },
+  "url": "https://zews123.github.io/michael-rodriguez-books/books/paypal-mafia",
+  "image": "https://zews123.github.io/michael-rodriguez-books/assets/images/Pay_Pall_Mafia.webp",
+  "description": "Uncover how PayPal's founding team transformed into the most influential network in tech history, creating Tesla, SpaceX, LinkedIn, and reshaping global politics and finance.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Resource Economics Press"
+  },
+  "isbn": "978-XXXXXXXXXX",
+  "datePublished": "2025-01",
+  "inLanguage": "en",
+  "genre": "Business & Economics",
+  "numberOfPages": "320"
+}
+</script>
 
 # The PayPal Mafia
 ## Silicon Valley's Secret Power Brokers
 
-<img src="{{ site.baseurl }}/assets/images/paypalmafia.png" alt="The PayPal Mafia Book Cover" style="max-width: 300px; margin: 0 auto 20px; display: block;">
+<img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" alt="The PayPal Mafia Book Cover" style="max-width: 300px; margin: 0 auto 20px; display: block;" width="300" height="450" loading="eager" fetchpriority="high">
 
 *By Michael Rodriguez*
 
