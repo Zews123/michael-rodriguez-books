@@ -16,6 +16,47 @@
     <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ page.description | default: site.description }}">
     
+    <!-- SEO Meta Tags -->
+    <meta name="keywords" content="Michael Rodriguez, economic analyst, financial markets, economic trends, China real estate, economics books">
+    <meta name="author" content="Michael Rodriguez">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://zews123.github.io/michael-rodriguez-books{{ page.url }}" />
+    
+    <!-- Open Graph / Social Media Meta Tags -->
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:description" content="{{ page.description | default: site.description }}" />
+    <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}" />
+    <meta property="og:url" content="https://zews123.github.io/michael-rodriguez-books{{ page.url }}" />
+    <meta property="og:image" content="https://zews123.github.io/michael-rodriguez-books/assets/images/author-photo.webp" />
+    <meta property="og:image:alt" content="Michael Rodriguez Photo" />
+    <meta property="og:site_name" content="Michael Rodriguez" />
+    
+    <!-- Schema.org markup for Person -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "@id": "https://zews123.github.io/michael-rodriguez-books/#person",
+      "name": "Michael Rodriguez",
+      "jobTitle": ["Economic Analyst", "Financial Market Expert", "Author"],
+      "description": "Economic analyst and author specializing in global financial markets and economic trends",
+      "image": "https://zews123.github.io/michael-rodriguez-books/assets/images/author-photo.webp",
+      "url": "https://zews123.github.io/michael-rodriguez-books/",
+      "sameAs": [
+        "https://x.com/Youvideo1",
+        "https://www.facebook.com/andrusistomin/"
+      ],
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Resource Economics Press"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://zews123.github.io/michael-rodriguez-books/"
+      }
+    }
+    </script>
+    
     <!-- Предзагрузка основного изображения -->
     <link rel="preload" href="{{ site.baseurl }}/assets/images/author-photo.webp" as="image" fetchpriority="high">
     
