@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+{% assign schema_type = "Book" %}
+
+<article class="book-page">
+  {{ content }}
+</article>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "{{ page.title }}",
+  "headline": "{{ page.title }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author | default: site.author_name | default: 'Michael Rodriguez' }}"
+  },
+  "url": "{{ site.url }}{{ page.url }}",
+  "workExample": {
+    "@type": "Book",
+    "isbn": "{{ page.isbn }}",
+    "bookEdition": "{{ page.edition | default: 'First Edition' }}",
+    "bookFormat": "https://schema.org/{{ page.book_format | default: 'Hardcover' }}",
+    "potentialAction": {
+      "@type": "ReadAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "{{ page.buy_link }}"
+      }
+    }
+  },
+  "description": "{{ page.description }}",
+  "image": "{{ site.url }}{{ page.cover_image }}",
+  "inLanguage": "{{ page.language | default: 'en' }}",
+  {% if page.publication_date %}
+  "datePublished": "{{ page.publication_date }}",
+  {% endif %}
+  {% if page.publisher %}
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ page.publisher }}"
+  },
+  {% else %}
+  "publisher": {
+    "@type": "Organization",
+    "name": "Resource Economics Press"
+  },
+  {% endif %}
+  {% if page.genre %}
+  "genre": "{{ page.genre }}",
+  {% endif %}
+  {% if page.price and page.currency %}
+  "offers": {
+    "@type": "Offer",
+    "price": "{{ page.price }}",
+    "priceCurrency": "{{ page.currency }}",
+    "availability": "https://schema.org/InStock",
+    "url": "{{ page.buy_link }}"
+  },
+  {% endif %}
+  {% if page.page_count %}
+  "numberOfPages": "{{ page.page_count }}",
+  {% endif %}
+  "keywords": "{{ page.keywords }}"
+}
+</script>
