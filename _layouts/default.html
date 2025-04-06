@@ -16,27 +16,18 @@
     <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ page.description | default: site.description }}">
     
-    <!-- Preconnect to fonts and CDN -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
-    
-    <!-- Preload critical resources -->
-    <link rel="preload" href="{{ "/assets/css/style.css" | relative_url }}" as="style">
+    <!-- Предзагрузка основного изображения -->
     <link rel="preload" href="{{ site.baseurl }}/assets/images/author-photo.webp" as="image" fetchpriority="high">
     
-    <!-- Optimized font loading -->
-    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Open+Sans:wght@400;600;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Open+Sans:wght@400;600;700&display=swap"></noscript>
+    <!-- Оптимизированная загрузка шрифтов -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Open+Sans:wght@400;600;700&display=swap">
     
-    <!-- Optimized CSS loading -->
-    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"></noscript>
-    
+    <!-- Оптимизированная загрузка CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
     {% seo %}
-    
-    <!-- Critical CSS inlined -->
     <style>
       :root {
         --primary-color: #1a3c65;
@@ -372,24 +363,5 @@
         </div>
       </div>
     </footer>
-    
-    <!-- Добавляем скрипт для быстрой загрузки неиспользуемых шрифтов -->
-    <script>
-      // Функция для отложенной загрузки шрифтов
-      function loadDeferredStyles() {
-        var styleElements = document.querySelectorAll('link[rel="preload"][as="style"]');
-        for (var i = 0; i < styleElements.length; i++) {
-          var element = styleElements[i];
-          element.rel = "stylesheet";
-        }
-      }
-      
-      // Запуск после загрузки основного контента
-      if (window.addEventListener) {
-        window.addEventListener('load', loadDeferredStyles);
-      } else if (window.attachEvent) {
-        window.attachEvent('onload', loadDeferredStyles);
-      }
-    </script>
   </body>
 </html>
