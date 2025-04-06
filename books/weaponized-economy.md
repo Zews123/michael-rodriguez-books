@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: book
 title: "Weaponized Economy: The Hidden History of Trade Wars and Their Impact on Global Politics"
 description: "Explore the fascinating history of economic warfare from Napoleon to modern US-China tensions. Michael Rodriguez reveals how nations weaponize trade and economic policy to achieve geopolitical objectives."
 cover_image: "/assets/images/Weaponized_Economy.webp"
