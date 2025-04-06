@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zews123.github.io/michael-rodriguez-books/sitemap.xml
