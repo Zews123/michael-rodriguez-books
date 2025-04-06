@@ -2,16 +2,10 @@ title: Michael Rodriguez - Economic Analyst and Author
 description: >-
   Official website of Michael Rodriguez, renowned economic analyst and author of 
   insightful books on global economics, financial markets, and technological disruption.
-author_name: Michael Rodriguez
 lang: en
-url: https://zews123.github.io # Обязательно укажите URL вашего сайта
-baseurl: /michael-rodriguez-books # Подпапка в URL (если есть)
-default_image: /assets/images/author-photo.webp # Изображение по умолчанию для Open Graph
-logo: /assets/images/logo.png # Логотип сайта, если есть
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap # Добавляем для автоматического создания sitemap.xml
 # SEO settings
 twitter:
   username: MRodriguezBooks
@@ -21,16 +15,5 @@ social:
   links:
     - https://x.com/Youvideo1
     - https://www.facebook.com/andrusistomin/
-# Настройки для книг
-book_publisher: Resource Economics Press
-book_publisher_url: https://zews123.github.io/michael-rodriguez-books
-# Настройки Open Graph
-og_image_width: 1200
-og_image_height: 630
-# Дополнительные настройки SEO
-keywords: economic analysis, financial markets, global economics, economics books, trade wars, michael rodriguez
 # Google Analytics (добавьте свой ID позже)
 # google_analytics: UA-XXXXXXXXX-X
-# Настройки для создания feed.xml
-feed:
-  path: feed.xml
