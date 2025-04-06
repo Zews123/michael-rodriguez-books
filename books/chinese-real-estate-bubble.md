@@ -2,22 +2,14 @@
 layout: book
 title: "The Chinese Real Estate Bubble: An Economy That Could Collapse The World"
 description: "A comprehensive analysis of China's precarious real estate market and how its potential collapse threatens the global economy. Essential reading for investors and economists."
-cover_image: "/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE print.webp"
-isbn: "979-8230107064"
-isbn_ebook: "979-8227986191"
-publication_date: "2025-01-01"
-publisher: "Resource Economics Press"
-author: "Michael Rodriguez"
-book_format: "Hardcover"
-price: "25.99"
-currency: "USD"
-buy_link: "https://books2read.com/b/bPpKel"
-edition: "First Edition"
-genre: "Business & Economics, International Economics, Real Estate"
-language: "en"
-page_count: "310"
-keywords: "China real estate, economic bubble, Chinese economy, global financial crisis, economic analysis, investment risks, Chinese housing market"
 ---
+
+# The Chinese Real Estate Bubble
+## An Economy That Could Collapse The World
+<img src="{{ site.baseurl }}/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE print.webp" alt="The Chinese Real Estate Bubble Book Cover" style="max-width: 300px; margin: 0 auto 20px; display: block;">
+*by Michael Rodriguez*
+
+## About the Book
 
 When was the last time you heard about China? Was it about their technological advancements? Their economic growth? Or perhaps their real estate market troubles?
 
@@ -60,3 +52,33 @@ The Chinese crisis is not just their internal problem but a full-scale economic 
 Michael Rodriguez is a renowned economic analyst and researcher specializing in global financial markets and their impact on the world economy. With extensive experience studying international economic systems, Rodriguez offers a unique perspective on financial bubbles and structural economic imbalances.
 
 His previous works include "Stoicism in Business," "Technological Breakthroughs of World War II: How War Changed Our World," and "Silver Empire: The Forgotten Metal That Powers Modern Civilization."
+
+## Share This Book
+
+<div class="social-share" style="margin: 30px 0;">
+  <p style="margin-bottom: 15px; font-weight: 600;">Help others discover this book:</p>
+  <a href="https://twitter.com/intent/tweet?text=Check out 'The Chinese Real Estate Bubble' by Michael Rodriguez&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&via=MRodriguezBooks" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #1DA1F2;">
+    <i class="fab fa-twitter-square"></i>
+  </a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #3b5998;">
+    <i class="fab fa-facebook-square"></i>
+  </a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title=The Chinese Real Estate Bubble by Michael Rodriguez" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #0077b5;">
+    <i class="fab fa-linkedin"></i>
+  </a>
+  <a href="mailto:?subject=Check out this book: The Chinese Real Estate Bubble&body=I thought you might be interested in this book by Michael Rodriguez: {{ site.url }}{{ site.baseurl }}{{ page.url }}" style="display: inline-block; font-size: 24px; color: #333333;">
+    <i class="fas fa-envelope-square"></i>
+  </a>
+</div>
+
+## Available Now
+
+<!-- Здесь нужно будет вставить ссылки на магазины -->
+**[Get the Book - Universal Book Link](https://books2read.com/b/bPpKel)** | **[Apple Books](https://books.apple.com/us/book/the-chinese-real-estate-bubble-an-economy-that/id6743546626)**
+
+*First edition: January 2025*  
+*Published by Resource Economics Press*  
+*New York • London • Singapore*
+
+ISBN: 979-8230107064 (Hardcover)  
+ISBN: 979-8227986191 (eBook)
