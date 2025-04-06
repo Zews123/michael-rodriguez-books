@@ -1,13 +1,15 @@
 ---
-layout: book
+layout: default
 title: "The Chinese Real Estate Bubble: An Economy That Could Collapse The World"
 description: "A comprehensive analysis of China's precarious real estate market and how its potential collapse threatens the global economy. Essential reading for investors and economists."
 ---
 
 # The Chinese Real Estate Bubble
 ## An Economy That Could Collapse The World
+
 <img src="{{ site.baseurl }}/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE print.webp" alt="The Chinese Real Estate Bubble Book Cover" style="max-width: 300px; margin: 0 auto 20px; display: block;">
-*by Michael Rodriguez*
+
+*By Michael Rodriguez*
 
 ## About the Book
 
@@ -71,14 +73,22 @@ His previous works include "Stoicism in Business," "Technological Breakthroughs 
   </a>
 </div>
 
+
 ## Available Now
 
 <!-- Здесь нужно будет вставить ссылки на магазины -->
-**[Get the Book - Universal Book Link](https://books2read.com/b/bPpKel)** | **[Apple Books](https://books.apple.com/us/book/the-chinese-real-estate-bubble-an-economy-that/id6743546626)**
+**[Get the Book - Universal Book Link]** | **[Apple Books]**
 
 *First edition: January 2025*  
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
 
-ISBN: 979-8230107064 (Hardcover)  
-ISBN: 979-8227986191 (eBook)
+ISBN: 978-XXXXXXXXXX (Hardcover)  
+ISBN: 978-XXXXXXXXXX (eBook)
+
+
+
+
+
+
+
