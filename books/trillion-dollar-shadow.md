@@ -2,17 +2,22 @@
 layout: book
 title: "The Trillion Dollar Shadow: Vanguard, John Bogle, and the New Financial Order"
 description: "Discover how John Bogle's revolutionary index fund strategy created Vanguard, a financial behemoth managing trillions that transformed global investing and market control."
+cover_image: "/assets/images/Trillion_Dollar_Shadow.webp"
+isbn: "997-98230169000"
+isbn_ebook: "979-8227941503"
+publication_date: "2025-01-01"
+publisher: "Resource Economics Press"
+author: "Michael Rodriguez"
+book_format: "Hardcover"
+price: "25.99"
+currency: "USD"
+buy_link: "https://books2read.com/b/3GgwMn"
+edition: "First Edition"
+genre: "Business & Economics, Finance, Investment Management"
+language: "en"
+page_count: "320"
+keywords: "index funds, John Bogle, Vanguard, passive investing, financial markets, investment strategy, corporate governance"
 ---
-
-# The Trillion Dollar Shadow
-## Vanguard, John Bogle, and the New Financial Order
-
-<img src="{{ site.baseurl }}/assets/images/Trillion_Dollar_Shadow.webp" alt="The Trillion Dollar Shadow Book Cover" style="max-width: 300px; margin: 0 auto 20px; display: block;">
-
-
-*By Michael Rodriguez*
-
-## About the Book
 
 "If anyone ever had to erect a monument in honor of the person who has done the most for American investors, the choice should fall on John Bogle." – Warren Buffett
 
@@ -60,33 +65,3 @@ Understanding the power and reach of Vanguard is essential for anyone interested
 Michael Rodriguez is a renowned economic analyst and researcher specializing in global financial markets and their impact on the world economy. With extensive experience studying international economic systems, Rodriguez offers a unique perspective on the inner workings of financial institutions and their influence on global markets.
 
 His interdisciplinary approach combines economic theory, historical analysis, and investigative research, allowing him to uncover connections between financial institutions and broader social and political trends. His work on Vanguard and the rise of passive investing sheds light on one of the most significant yet underexamined shifts in how capital is allocated and controlled in the modern world.
-
-## Share This Book
-
-<div class="social-share" style="margin: 30px 0;">
-  <p style="margin-bottom: 15px; font-weight: 600;">Help others discover this book:</p>
-  <a href="https://twitter.com/intent/tweet?text=Check out 'The Trillion Dollar Shadow' by Michael Rodriguez&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&via=MRodriguezBooks" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #1DA1F2;">
-    <i class="fab fa-twitter-square"></i>
-  </a>
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #3b5998;">
-    <i class="fab fa-facebook-square"></i>
-  </a>
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title=The Trillion Dollar Shadow by Michael Rodriguez" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #0077b5;">
-    <i class="fab fa-linkedin"></i>
-  </a>
-  <a href="mailto:?subject=Check out this book: The Trillion Dollar Shadow&body=I thought you might be interested in this book by Michael Rodriguez: {{ site.url }}{{ site.baseurl }}{{ page.url }}" style="display: inline-block; font-size: 24px; color: #333333;">
-    <i class="fas fa-envelope-square"></i>
-  </a>
-</div>
-
-## Available Now
-
-<!-- Здесь нужно будет вставить ссылки на магазины -->
-**[Get the Book - Universal Book Link](https://books2read.com/b/3GgwMn)** | **[Apple Books](https://books.apple.com/us/book/the-trillion-dollar-shadow-vanguard-john-bogle-and/id6743709054)**
-
-*First edition: January 2025*  
-*Published by Resource Economics Press*  
-*New York • London • Singapore*
-
-ISBN: 997-98230169000 (Hardcover)  
-ISBN: 979-8227941503 (eBook)
