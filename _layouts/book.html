@@ -3,41 +3,7 @@ layout: default
 ---
 
 <article class="book-page">
-  <h1>{{ page.title | split: ":" | first }}</h1>
-  <h2>{{ page.title | split: ":" | last }}</h2>
-
-  <img src="{{ site.baseurl }}{{ page.cover_image }}" alt="{{ page.title }} Book Cover" class="book-cover">
-
-  <p class="author"><em>By {{ page.author | default: "Michael Rodriguez" }}</em></p>
-
-  <h2>About the Book</h2>
   {{ content }}
-
-  <div class="book-details">
-    <p><strong>Publication Date:</strong> {{ page.publication_date | date: "%B %Y" }}</p>
-    <p><strong>Publisher:</strong> {{ page.publisher | default: "Resource Economics Press" }}</p>
-    <p><strong>ISBN:</strong> {{ page.isbn }} ({{ page.book_format }})</p>
-    {% if page.isbn_ebook %}
-    <p><strong>ISBN (eBook):</strong> {{ page.isbn_ebook }}</p>
-    {% endif %}
-  </div>
-
-  <div class="book-cta">
-    <a href="{{ page.buy_link }}" class="btn btn-primary" target="_blank" rel="noopener">Get the Book</a>
-  </div>
-
-  <div class="social-share" aria-label="Share this book on social media">
-    <p><strong>Share this Book:</strong></p>
-    <a href="https://twitter.com/intent/tweet?text=Check out '{{ page.title }}' by {{ page.author | default: 'Michael Rodriguez' }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" rel="noopener noreferrer" aria-label="Share on Twitter">
-      <i class="fab fa-twitter-square" title="Share on Twitter"></i>
-    </a>
-    <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" rel="noopener noreferrer" aria-label="Share on Facebook">
-      <i class="fab fa-facebook-square" title="Share on Facebook"></i>
-    </a>
-    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}" target="_blank" rel="noopener noreferrer" aria-label="Share on LinkedIn">
-      <i class="fab fa-linkedin" title="Share on LinkedIn"></i>
-    </a>
-  </div>
 </article>
 
 <script type="application/ld+json">
