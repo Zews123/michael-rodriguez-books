@@ -1,3 +1,4 @@
+---
 layout: default
 title: "The Chinese Real Estate Bubble: An Economy That Could Collapse The World"
 description: "A comprehensive analysis of China's precarious real estate market and how its potential collapse threatens the global economy. Essential reading for investors and economists."
