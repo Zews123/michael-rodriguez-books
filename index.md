@@ -16,24 +16,6 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE print.webp" alt="The Chinese Real Estate Bubble Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>The Chinese Real Estate Bubble</h3>
-      <p>A comprehensive analysis of China's economic model and its potential impact on global markets.</p>
-      <a href="{{ site.baseurl }}/books/chinese-real-estate-bubble" class="btn">Read More</a>
-    </div>
-  </div>
-  
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Trillion_Dollar_Shadow.webp" alt="The Trillion Dollar Shadow Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>The Trillion Dollar Shadow</h3>
-      <p>Dive into the mysterious world of index funds and discover how Vanguard Group revolutionized investing.</p>
-      <a href="{{ site.baseurl }}/books/trillion-dollar-shadow" class="btn">Read More</a>
-    </div>
-  </div>
-  
-  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" alt="Weaponized Economy Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>Weaponized Economy</h3>
@@ -43,11 +25,38 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
   </div>
   
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE print.webp" alt="The Chinese Real Estate Bubble Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The Chinese Real Estate Bubble</h3>
+      <p>A comprehensive analysis of China's economic model and its potential impact on global markets.</p>
+      <a href="{{ site.baseurl }}/books/chinese-real-estate-bubble" class="btn">Read More</a>
+    </div>
+  </div>
+  
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" alt="The PayPal Mafia Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>The PayPal Mafia</h3>
       <p>Uncover the incredible story of how a small group of entrepreneurs went on to reshape technology, finance, and global politics.</p>
       <a href="{{ site.baseurl }}/books/paypal-mafia" class="btn">Read More</a>
+    </div>
+  </div>
+  
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Silver-Empire-The-Forgotten-Metal.webp" alt="Silver Empire Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>Silver Empire</h3>
+      <p>Discover the extraordinary story of silver, a forgotten metal with dual powers as a precious store of wealth and irreplaceable industrial resource.</p>
+      <a href="{{ site.baseurl }}/books/silver-empire" class="btn">Read More</a>
+    </div>
+  </div>
+  
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Trillion_Dollar_Shadow.webp" alt="The Trillion Dollar Shadow Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The Trillion Dollar Shadow</h3>
+      <p>Dive into the mysterious world of index funds and discover how Vanguard Group revolutionized investing.</p>
+      <a href="{{ site.baseurl }}/books/trillion-dollar-shadow" class="btn">Read More</a>
     </div>
   </div>
 </div>
