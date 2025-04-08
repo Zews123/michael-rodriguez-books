@@ -81,14 +81,14 @@ His interdisciplinary approach combines economic theory, historical analysis, an
 ## Available Now
 
 <!-- Здесь нужно будет вставить ссылки на магазины -->
-**[Get the Book - Universal Book Link]** | **[Apple Books]**
+**[Get the Book - Universal Book Link](https://books2read.com/b/3GgwMn)** | **[Apple Books](https://books.apple.com/us/book/the-trillion-dollar-shadow-vanguard-john-bogle-and/id6743709054)**
 
 *First edition: January 2025*  
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
 
-ISBN: 978-XXXXXXXXXX (Hardcover)  
-ISBN: 978-XXXXXXXXXX (eBook)
+ISBN: 979-8230169000 (Hardcover)  
+ISBN: 979-8227941503 (eBook)
 
 
 
