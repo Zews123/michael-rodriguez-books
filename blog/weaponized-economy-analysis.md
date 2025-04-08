@@ -13,7 +13,7 @@ description: In-depth analysis of how economic warfare has shaped international 
       <span class="blog-author"><i class="far fa-user"></i> Michael Rodriguez</span>
       <span class="blog-reading-time"><i class="far fa-clock"></i> 12 min read</span>
     </div>
-    <img src="{{ site.baseurl }}assets/images/blog/weaponized-economy-analysis.jpg" alt="Trade Wars and Economic Warfare Through History" class="blog-feature-image">
+    <img src="{{ "/assets/images/blog/weaponized-economy-analysis.jpg" | relative_url }}" alt="Trade Wars and Economic Warfare Through History" class="blog-feature-image">
   </div>
 </div>
 
@@ -27,7 +27,7 @@ description: In-depth analysis of how economic warfare has shaped international 
     </div>
   
     <div class="blog-intro">
-      <p>Throughout history, nations have employed economic tactics as weapons long before the first shot is fired in conventional warfare. From Napoleon's Continental System to modern US-China tariff battles, economic warfare has often preceded—and sometimes prevented—military conflict. My book "<a href="{{ site.baseurl }}books/weaponized-economy">Weaponized Economy</a>" explores this fascinating history in depth, but in this article, I'll highlight key historical patterns that can help us understand today's economic tensions.</p>
+      <p>Throughout history, nations have employed economic tactics as weapons long before the first shot is fired in conventional warfare. From Napoleon's Continental System to modern US-China tariff battles, economic warfare has often preceded—and sometimes prevented—military conflict. My book "<a href="{{ "/books/weaponized-economy" | relative_url }}">Weaponized Economy</a>" explores this fascinating history in depth, but in this article, I'll highlight key historical patterns that can help us understand today's economic tensions.</p>
     </div>
     
     <h2>The Evolution of Economic Warfare</h2>
@@ -72,7 +72,7 @@ description: In-depth analysis of how economic warfare has shaped international 
     <p>The international response was swift and severe. Canada, Europe, and Latin America imposed retaliatory tariffs, and global trade collapsed. U.S. imports decreased by 66%, and exports by 61%. The act transformed an economic downturn into a global catastrophe.</p>
     
     <figure class="blog-figure">
-      <img src="{{ site.baseurl }}assets/images/blog/smoot-hawley-effects.jpg" alt="Graph showing the collapse of international trade after Smoot-Hawley Tariff Act">
+      <img src="{{ "/assets/images/blog/smoot-hawley-effects.jpg" | relative_url }}" alt="Graph showing the collapse of international trade after Smoot-Hawley Tariff Act">
       <figcaption>Global trade volume collapsed by nearly 66% between 1929 and 1934, exacerbating the Great Depression. Source: League of Nations Statistical Reports, 1935.</figcaption>
     </figure>
     
@@ -196,12 +196,12 @@ description: In-depth analysis of how economic warfare has shaped international 
     
     <div class="blog-cta">
       <h3>Dive Deeper Into This Topic</h3>
-      <p>For a comprehensive analysis of historical and contemporary economic warfare, read my book "<a href="{{ site.baseurl }}books/weaponized-economy">Weaponized Economy: The Hidden History of Trade Wars and Their Impact on Global Politics</a>."</p>
-      <a href="{{ site.baseurl }}books/weaponized-economy" class="btn">Learn More About the Book</a>
+      <p>For a comprehensive analysis of historical and contemporary economic warfare, read my book "<a href="{{ "/books/weaponized-economy" | relative_url }}">Weaponized Economy: The Hidden History of Trade Wars and Their Impact on Global Politics</a>."</p>
+      <a href="{{ "/books/weaponized-economy" | relative_url }}" class="btn">Learn More About the Book</a>
     </div>
     
     <div class="blog-author-bio">
-      <img src="{{ site.baseurl }}assets/images/author-photo.webp" alt="Michael Rodriguez" class="author-image">
+      <img src="{{ "/assets/images/author-photo.webp" | relative_url }}" alt="Michael Rodriguez" class="author-image">
       <div>
         <h3>About Michael Rodriguez</h3>
         <p>Michael Rodriguez is a renowned economic analyst and investigative journalist specializing in the intersection of geopolitics, finance, and economic policy. With over fifteen years of experience researching global power structures, his work illuminates the hidden forces shaping our economic system.</p>
@@ -217,20 +217,20 @@ description: In-depth analysis of how economic warfare has shaped international 
       <h3>Related Articles</h3>
       <div class="related-posts">
         <div class="related-post">
-          <a href="{{ site.baseurl }}blog/digital-monetary-revolution">
-            <img src="{{ site.baseurl }}assets/images/blog/digital-monetary-revolution.jpg" alt="The Digital Monetary Revolution: CBDCs vs Cryptocurrencies">
+          <a href="{{ "/blog/digital-monetary-revolution" | relative_url }}">
+            <img src="{{ "/assets/images/blog/digital-monetary-revolution.jpg" | relative_url }}" alt="The Digital Monetary Revolution: CBDCs vs Cryptocurrencies">
             <h4>The Digital Monetary Revolution: CBDCs vs Cryptocurrencies</h4>
           </a>
         </div>
         <div class="related-post">
-          <a href="{{ site.baseurl }}blog/tech-oligopoly-power">
-            <img src="{{ site.baseurl }}assets/images/blog/tech-oligopoly-power.jpg" alt="Silicon Valley's Shadow Powers: How Tech Elites Reshape Global Finance">
+          <a href="{{ "/blog/tech-oligopoly-power" | relative_url }}">
+            <img src="{{ "/assets/images/blog/tech-oligopoly-power.jpg" | relative_url }}" alt="Silicon Valley's Shadow Powers: How Tech Elites Reshape Global Finance">
             <h4>Silicon Valley's Shadow Powers: How Tech Elites Reshape Global Finance</h4>
           </a>
         </div>
         <div class="related-post">
-          <a href="{{ site.baseurl }}blog/silver-industrial-demand">
-            <img src="{{ site.baseurl }}assets/images/blog/silver-industrial-demand.jpg" alt="Silver: The Overlooked Metal Driving Technological Innovation">
+          <a href="{{ "/blog/silver-industrial-demand" | relative_url }}">
+            <img src="{{ "/assets/images/blog/silver-industrial-demand.jpg" | relative_url }}" alt="Silver: The Overlooked Metal Driving Technological Innovation">
             <h4>Silver: The Overlooked Metal Driving Technological Innovation</h4>
           </a>
         </div>
