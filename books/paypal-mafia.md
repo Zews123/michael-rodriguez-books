@@ -7,7 +7,7 @@ description: "Uncover how PayPal's founding team transformed into the most influ
 # The PayPal Mafia
 ## Silicon Valley's Secret Power Brokers
 
-<img src="{{ site.baseurl }}/assets/images/paypalmafia.png" alt="The PayPal Mafia Book Cover" style="max-width: 300px; margin: 0 auto 20px; display: block;">
+<img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" alt="The PayPal Mafia Book Cover" style="max-width: 300px; margin: 0 auto 20px; display: block;">
 
 *By Michael Rodriguez*
 
@@ -85,11 +85,10 @@ His interdisciplinary approach combines economic analysis, technological experti
 ## Available Now
 
 <!-- Здесь нужно будет вставить ссылки на магазины -->
-**[Get the Book - Universal Book Link]** | **[Apple Books]**
+**[Get the Book - Universal Book Link](https://books2read.com/b/3GgVza)** | **[Apple Books](https://books.apple.com/us/book/the-paypal-mafia-silicon-valleys-secret-power-brokers/id6744016273)**
 
 *First edition: January 2025*  
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
-
-ISBN: 978-XXXXXXXXXX (Hardcover)  
-ISBN: 978-XXXXXXXXXX (eBook)
+ 
+ISBN: 9798230937104 (eBook)
