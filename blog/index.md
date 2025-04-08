@@ -4,22 +4,18 @@ title: Blog
 description: Explore economic insights, financial analysis, and geopolitical commentary from economist Michael Rodriguez. Analysis of global markets, tech disruption, and monetary policy.
 ---
 
-<h1>Economic Insights & Analysis</h1>
+# Economic Insights & Analysis
 
-<p class="lead">Welcome to Michael Rodriguez's blog—a deep dive into global economics, financial markets, and geopolitical trends shaping our world. Here you'll find expert analysis on monetary policy, technological disruption, and the hidden forces driving market movements.</p>
+Welcome to Michael Rodriguez's blog—a deep dive into global economics, financial markets, and geopolitical trends shaping our world. Here you'll find expert analysis on monetary policy, technological disruption, and the hidden forces driving market movements.
 
-<div class="blog-filters">
-  <h3>Categories</h3>
-  <ul class="filter-list">
-    <li><a href="#" class="filter active" data-filter="all">All Topics</a></li>
-    <li><a href="#" class="filter" data-filter="economics">Economics</a></li>
-    <li><a href="#" class="filter" data-filter="geopolitics">Geopolitics</a></li>
-    <li><a href="#" class="filter" data-filter="tech">Technology</a></li>
-    <li><a href="#" class="filter" data-filter="finance">Finance</a></li>
-  </ul>
-</div>
+### Categories
+- [All Topics](#){:.filter.active data-filter="all"}
+- [Economics](#){:.filter data-filter="economics"}
+- [Geopolitics](#){:.filter data-filter="geopolitics"}
+- [Technology](#){:.filter data-filter="tech"}
+- [Finance](#){:.filter data-filter="finance"}
 
-<div class="blog-grid">
+<div class="blog-grid" markdown="0">
   <!-- Article 1 -->
   <article class="blog-card" data-category="geopolitics economics">
     <a href="{{ site.baseurl }}blog/weaponized-economy-analysis" class="blog-card-link">
@@ -97,7 +93,7 @@ description: Explore economic insights, financial analysis, and geopolitical com
   </article>
 </div>
 
-<div class="pagination">
+<div class="pagination" markdown="0">
   <span class="current-page">Page 1</span>
   <a href="#" class="page-number disabled">Previous</a>
   <a href="#" class="page-number active">1</a>
