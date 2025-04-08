@@ -73,7 +73,7 @@ His previous works include "Silver Empire: The Forgotten Metal That Powers Moder
 ## Available Now
 
 <!-- Здесь нужно будет вставить ссылки на магазины -->
-**[Get the Book - Universal Book Link](https://books2read.com/b/4jxEJo)** | **[Apple Books](https://books.apple.com/us/book/weaponized-economy-the-hidden-history-of-trade/id6744259293))**
+**[Get the Book - Universal Book Link](https://books2read.com/b/4jxEJo)** | **[Apple Books](https://books.apple.com/us/book/weaponized-economy-the-hidden-history-of-trade/id6744259293)**
 
 *First edition: January 2025*  
 *Published by Resource Economics Press*  
