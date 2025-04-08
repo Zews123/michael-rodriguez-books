@@ -77,14 +77,14 @@ His previous works include "Stoicism in Business," "Technological Breakthroughs 
 ## Available Now
 
 <!-- Здесь нужно будет вставить ссылки на магазины -->
-**[Get the Book - Universal Book Link]** | **[Apple Books]**
+**[Get the Book - Universal Book Link](https://books2read.com/b/bPpKel)** | **[Apple Books](https://books.apple.com/us/book/the-chinese-real-estate-bubble-an-economy-that/id6743546626)**
 
 *First edition: January 2025*  
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
 
-ISBN: 978-XXXXXXXXXX (Hardcover)  
-ISBN: 978-XXXXXXXXXX (eBook)
+ISBN: 979-8230107064 (Hardcover)  
+ISBN: 979-8227986191 (eBook)
 
 
 
