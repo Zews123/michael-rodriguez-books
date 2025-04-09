@@ -1,3 +1,13 @@
+# Для всех поисковых роботов
 User-agent: *
+
+# Разрешаем индексировать весь сайт
 Allow: /
+
+# Особенно поощряем индексацию основных разделов
+Allow: /blog/
+Allow: /books/
+Allow: /assets/images/
+
+# Ссылка на карту сайта для поисковых систем
 Sitemap: https://zews123.github.io/michael-rodriguez-books/sitemap.xml
