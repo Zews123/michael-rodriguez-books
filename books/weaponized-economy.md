@@ -79,5 +79,5 @@ His previous works include "Silver Empire: The Forgotten Metal That Powers Moder
 *Published by Resource Economics Press*  
 *New York • London • Singapore*  
 
-ISBN: 978-XXXXXXXXXX (Hardcover)  
-ISBN: 9798230126232 (eBook)
+ISBN: 979-8230374428 (Hardcover)  
+ISBN: 979-8230126232 (eBook)
