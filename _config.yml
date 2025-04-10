@@ -1,5 +1,4 @@
-title: Michael Rodriguez
-tagline: Economic Analyst and Author
+title: Michael Rodriguez - Economic Analyst and Author
 description: >-
   Official website of Michael Rodriguez, renowned economic analyst and author of 
   insightful books on global economics, financial markets, and technological disruption.
@@ -18,11 +17,3 @@ social:
     - https://www.facebook.com/andrusistomin/
 # Google Analytics (добавьте свой ID позже)
 # google_analytics: UA-XXXXXXXXX-X
-
-# Настройки jekyll-seo-tag для исправления длинных заголовков
-title_separator: ""
-# Альтернативное решение - можно использовать короткое название для суффикса
-seo:
-  site_title: ""
-  # Эта настройка отключает добавление названия сайта к заголовкам страниц
-  add_site_title: false
