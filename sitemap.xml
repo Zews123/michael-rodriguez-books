@@ -23,13 +23,13 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://zews123.github.io/michael-rodriguez-books/about</loc>
+    <loc>https://zews123.github.io/michael-rodriguez-books/about.html</loc>
     <lastmod>2025-04-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://zews123.github.io/michael-rodriguez-books/contact</loc>
+    <loc>https://zews123.github.io/michael-rodriguez-books/contact.html</loc>
     <lastmod>2025-04-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -63,31 +63,31 @@
   
   <!-- Страницы книг -->
   <url>
-    <loc>https://zews123.github.io/michael-rodriguez-books/books/chinese-real-estate-bubble</loc>
+    <loc>https://zews123.github.io/michael-rodriguez-books/books/chinese-real-estate-bubble.html</loc>
     <lastmod>2025-04-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zews123.github.io/michael-rodriguez-books/books/paypal-mafia</loc>
+    <loc>https://zews123.github.io/michael-rodriguez-books/books/paypal-mafia.html</loc>
     <lastmod>2025-04-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zews123.github.io/michael-rodriguez-books/books/silver-empire</loc>
+    <loc>https://zews123.github.io/michael-rodriguez-books/books/silver-empire.html</loc>
     <lastmod>2025-04-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zews123.github.io/michael-rodriguez-books/books/trillion-dollar-shadow</loc>
+    <loc>https://zews123.github.io/michael-rodriguez-books/books/trillion-dollar-shadow.html</loc>
     <lastmod>2025-04-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zews123.github.io/michael-rodriguez-books/books/weaponized-economy</loc>
+    <loc>https://zews123.github.io/michael-rodriguez-books/books/weaponized-economy.html</loc>
     <lastmod>2025-04-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -95,7 +95,7 @@
   
   <!-- Дополнительные страницы -->
   <url>
-    <loc>https://zews123.github.io/michael-rodriguez-books/index</loc>
+    <loc>https://zews123.github.io/michael-rodriguez-books/index.html</loc>
     <lastmod>2025-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
