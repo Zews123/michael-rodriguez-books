@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The PayPal Mafia: Silicon Valley's Secret Power Brokers"
-description: "Uncover how PayPal's founding team transformed into the most influential network in tech history, creating Tesla, SpaceX, LinkedIn, and reshaping global politics and finance."
+description: "Uncover how PayPal's founding team became tech's most influential network, creating Tesla, SpaceX, LinkedIn, and reshaping global politics."
 ---
 
 # The PayPal Mafia
