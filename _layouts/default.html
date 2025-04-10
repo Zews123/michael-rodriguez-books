@@ -26,7 +26,8 @@
     <!-- Оптимизированная загрузка CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-    {% seo %}
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+{% seo title=false %}
     <style>
       :root {
         --primary-color: #1a3c65;
