@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Trillion Dollar Shadow: Vanguard's New Financial Order"
-description: "Discover how John Bogle's revolutionary index fund strategy created Vanguard, a financial behemoth managing trillions that transformed global investing and market control."
+description: "Discover how John Bogle’s index fund strategy built Vanguard into a trillion-dollar giant, reshaping global investing and transforming market dynamics."
 ---
 
 # The Trillion Dollar Shadow
