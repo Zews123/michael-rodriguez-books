@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog
+title: Blog Michael Rodriguez
 description: Explore insightful articles, book updates, and author news by Michael Rodriguez.
 ---
 
