@@ -111,7 +111,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 <div class="blog-grid">
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/us-china-trade-war-escalation.png" alt="US-China Trade War">
+      <img src="{{ site.baseurl }}/assets/images/social/1.png" alt="US-China Trade War">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">April 11, 2025</span>
