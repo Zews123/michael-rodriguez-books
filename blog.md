@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog
+title: Blog Michael Rodriguez
 description: Explore insightful articles, book updates, and author news by Michael Rodriguez.
 ---
 
@@ -111,6 +111,30 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 <div class="blog-grid">
   <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/us-china-trade-war.png" alt="US-China Trade War">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 11, 2025</span>
+      <h2>US-China Trade War: Tariff Escalation in 2025</h2>
+      <p>Analyze the latest developments in the ongoing economic conflict between the world's two largest economies. Rodriguez breaks down how recent tariff escalations impact global supply chains, inflation, and geopolitical stability.</p>
+      <a href="{{ site.baseurl }}/blog/us-china-trade-war.html" class="read-more">Read More</a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Silver-Empire-The-Forgotten-Metal.webp" alt="Silver Empire">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 10, 2025</span>
+      <h2>Silver Empire: The Critical Metal Powering Our Modern World</h2>
+      <p>Explore how silver has become an essential component in renewable energy, electronics, and medical technology. This analysis reveals why this often-overlooked metal may become one of the most strategic resources of the 21st century.</p>
+      <a href="{{ site.baseurl }}/blog/silver-empire.html" class="read-more">Read More</a>
+    </div>
+  </div>
+  
+  <div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/trillion-dollar-shadow-3D.png" alt="The Trillion Dollar Shadow">
     </div>
     <div class="blog-card-content">
@@ -123,13 +147,13 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
   
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/the-chinese-real-estate-bubble-3D.png" alt="The Chinese Real Estate Bubble">
+      <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" alt="Weaponized Economy">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">April 10, 2025</span>
-      <h2>The Chinese Real Estate Bubble: An Economy That Could Collapse the World</h2>
-      <p>Explore how China's massive real estate bubble threatens the global economy in this eye-opening analysis by Michael Rodriguez. Discover why experts warn that the collapse of China's property market could trigger a worldwide financial crisis that affects us all.</p>
-      <a href="{{ site.baseurl }}/blog/chinese-real-estate-bubble.html" class="read-more">Read More</a>
+      <h2>Weaponized Economy — How Trade Wars Shape Our Future</h2>
+      <p>Discover the hidden history of trade wars and how economic weapons redefine global power. Based on the groundbreaking book by Michael Rodriguez, this analysis explores how nations weaponize trade and economic policy to achieve geopolitical objectives.</p>
+      <a href="{{ site.baseurl }}/blog/weaponized-economy.html" class="read-more">Read More</a>
     </div>
   </div>
   
@@ -147,13 +171,13 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
   
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" alt="Weaponized Economy">
+      <img src="{{ site.baseurl }}/assets/images/social/the-chinese-real-estate-bubble-3D.png" alt="The Chinese Real Estate Bubble">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">April 10, 2025</span>
-      <h2>Weaponized Economy — How Trade Wars Shape Our Future</h2>
-      <p>Discover the hidden history of trade wars and how economic weapons redefine global power. Based on the groundbreaking book by Michael Rodriguez, this analysis explores how nations weaponize trade and economic policy to achieve geopolitical objectives.</p>
-      <a href="{{ site.baseurl }}/blog/weaponized-economy.html" class="read-more">Read More</a>
+      <h2>The Chinese Real Estate Bubble: An Economy That Could Collapse the World</h2>
+      <p>Explore how China's massive real estate bubble threatens the global economy in this eye-opening analysis by Michael Rodriguez. Discover why experts warn that the collapse of China's property market could trigger a worldwide financial crisis that affects us all.</p>
+      <a href="{{ site.baseurl }}/blog/chinese-real-estate-bubble.html" class="read-more">Read More</a>
     </div>
   </div>
 </div>
