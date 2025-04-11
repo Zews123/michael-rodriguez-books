@@ -36,7 +36,13 @@
   </url>
   
   <!-- Статьи блога -->
-<url>
+  <url>
+    <loc>https://zews123.github.io/michael-rodriguez-books/blog/us-china-trade-war.html</loc>
+    <lastmod>2025-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://zews123.github.io/michael-rodriguez-books/blog/silver-empire.html</loc>
     <lastmod>2025-04-11</lastmod>
     <changefreq>monthly</changefreq>
