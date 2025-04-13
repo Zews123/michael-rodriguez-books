@@ -68,6 +68,9 @@ Dive into the complex world of global economics, financial markets, and power st
 
 Rodriguez is known for his meticulously researched books that reveal the hidden mechanisms behind global economic systems:
 
+### George Soros: The Man the World Hates (2025)
+A comprehensive analysis of the controversial financier who shaped global markets and influenced political landscapes across continents. This book examines Soros's journey from Nazi-occupied Hungary to becoming one of the world's most influential—and divisive—figures, revealing the truth behind his currency speculations, philanthropic empire, and the myths that surround him.
+
 ### The Chinese Real Estate Bubble (2025)
 An in-depth investigation into China's precarious real estate market and how its potential collapse could trigger a global economic crisis. This book explains the historic roots of China's construction boom, the demographic factors exacerbating the situation, and the worldwide implications of a Chinese economic downturn.
 
