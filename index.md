@@ -59,6 +59,15 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
       <a href="{{ site.baseurl }}/books/silver-empire" class="btn">Read More</a>
     </div>
   </div>
+  
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Trillion_Dollar_Shadow.webp" alt="The Trillion Dollar Shadow Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The Trillion Dollar Shadow</h3>
+      <p>Dive into the mysterious world of index funds and discover how Vanguard Group revolutionized investing.</p>
+      <a href="{{ site.baseurl }}/books/trillion-dollar-shadow" class="btn">Read More</a>
+    </div>
+  </div>
 </div>
 
 ## About the Author
