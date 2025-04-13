@@ -10,6 +10,15 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/George-Soros-Book-Cover.webp" alt="George Soros Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>George Soros: The Man the World Hates</h3>
+      <p>Uncover how one man shaped global markets, influenced politics across continents, and became the most controversial financier of our time.</p>
+      <a href="{{ site.baseurl }}/books/george-soros" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" alt="Weaponized Economy Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Weaponized Economy</h3>
