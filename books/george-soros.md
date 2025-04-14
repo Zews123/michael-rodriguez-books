@@ -69,7 +69,7 @@ His previous works include "The PayPal Mafia," "Silver Empire," "The Chinese Rea
 ## Available Now
 
 <!-- Здесь нужно будет вставить ссылки на магазины -->
-**[Get the Book - Universal Book Link](https://books2read.com/b/mdxQRW)** | **[Apple Books](https://books.apple.com/us/book/george-soros-the-man-the-world-hates/id1234567890)**
+**[Get the Book - Universal Book Link](https://books2read.com/b/mdxQRW)** | **[Apple Books](https://books.apple.com/us/book/george-soros-the-man-the-world-hates/id6744580936)**
 
 *First edition: April 2025*  
 *Published by Resource Economics Press*  
