@@ -111,6 +111,18 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 <div class="blog-grid">
   <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/George-Soros_Blog.png" alt="George Soros">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 15, 2025</span>
+      <h2>George Soros: The Controversial Figure Behind Global Finance and Politics</h2>
+      <p>Explore the complex legacy of George Soros—from his famous currency speculation to his vast philanthropic network and why he has become such a polarizing global figure.</p>
+      <a href="{{ site.baseurl }}/blog/george-soros-blog.html" class="read-more">Read More</a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/3.png" alt="US-China Trade War">
     </div>
     <div class="blog-card-content">
