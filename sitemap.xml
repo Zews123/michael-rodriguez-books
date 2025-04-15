@@ -12,5 +12,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-  <!-- Добавьте здесь остальные URL -->
+  <url>
+    <loc>https://zews123.github.io/michael-rodriguez-books/blog/george-soros-blog.html</loc>
+    <lastmod>2025-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Остальные URL из вашего полного sitemap.xml -->
 </urlset>
