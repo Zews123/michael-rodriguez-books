@@ -4,6 +4,8 @@ description: >-
   insightful books on global economics, financial markets, and technological disruption.
 lang: en
 theme: jekyll-theme-cayman
+url: "https://zews123.github.io"
+baseurl: "/michael-rodriguez-books"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -18,5 +20,11 @@ social:
     - https://www.facebook.com/MichaelRodriguezAuthor/
 # Отключаем добавление названия сайта к заголовкам страниц
 title_separator: ""
+# Настройки для sitemap
+sitemap:
+  filename: sitemap.xml
+  exclude:
+    - "/404.html"
+    - "/assets/css/style.scss"
 # Google Analytics (добавьте свой ID позже)
 # google_analytics: UA-XXXXXXXXX-X
