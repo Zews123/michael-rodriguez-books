@@ -75,5 +75,5 @@ His previous works include "The PayPal Mafia," "Silver Empire," "The Chinese Rea
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
 
-ISBN: 979-xxxxxxxxxx (Hardcover)  
-ISBN: 979-8230335658 (eBook)
+ISBN: 9798227436917 (Hardcover)  
+ISBN: 9798230335658 (eBook)
