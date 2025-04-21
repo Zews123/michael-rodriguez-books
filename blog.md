@@ -111,6 +111,18 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 <div class="blog-grid">
   <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/BlackRock-Empire.webp" alt="The BlackRock Empire">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 21, 2025</span>
+      <h2>The BlackRock Empire: The Hidden Power Controlling Global Finance</h2>
+      <p>Discover how BlackRock quietly became the world's most powerful financial institution, controlling $10 trillion in assets while shaping global markets, housing prices, and even government policy.</p>
+      <a href="{{ site.baseurl }}/blog/blackrock-empire.html" class="read-more">Read More</a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/George-Soros_Blog.png" alt="George Soros">
     </div>
     <div class="blog-card-content">
