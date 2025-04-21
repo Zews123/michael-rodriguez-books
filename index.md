@@ -16,6 +16,15 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/BlackRock-Empire.webp" alt="The BlackRock Empire Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The BlackRock Empire</h3>
+      <p>Uncover how BlackRock became the world's most powerful financial institution, controlling trillions in assets and shaping global markets.</p>
+      <a href="{{ site.baseurl }}/books/blackrock-empire" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/George-Soros-Book-Cover.webp" alt="George Soros Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>George Soros: The Man the World Hates</h3>
@@ -57,15 +66,6 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
       <h3>Silver Empire</h3>
       <p>Discover the extraordinary story of silver, a forgotten metal with dual powers as a precious store of wealth and irreplaceable industrial resource.</p>
       <a href="{{ site.baseurl }}/books/silver-empire" class="btn">Read More</a>
-    </div>
-  </div>
-  
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Trillion_Dollar_Shadow.webp" alt="The Trillion Dollar Shadow Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>The Trillion Dollar Shadow</h3>
-      <p>Dive into the mysterious world of index funds and discover how Vanguard Group revolutionized investing.</p>
-      <a href="{{ site.baseurl }}/books/trillion-dollar-shadow" class="btn">Read More</a>
     </div>
   </div>
 </div>
