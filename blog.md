@@ -111,7 +111,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 <div class="blog-grid">
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/BlackRock-Empire.webp" alt="The BlackRock Empire">
+      <img src="{{ site.baseurl }}/assets/images/social/BlackRock_Empire_Post.webp" alt="The BlackRock Empire">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">April 21, 2025</span>
