@@ -10,6 +10,15 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/BlackRock-Empire.webp" alt="The BlackRock Empire Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The BlackRock Empire</h3>
+      <p>Uncover how BlackRock became the world's most powerful financial institution, controlling trillions in assets and shaping global markets from behind the scenes.</p>
+      <a href="{{ site.baseurl }}/books/blackrock-empire" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/George-Soros-Book-Cover.webp" alt="George Soros Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>George Soros: The Man the World Hates</h3>
@@ -67,6 +76,9 @@ Dive into the complex world of global economics, financial markets, and power st
 ## Publications Overview
 
 Rodriguez is known for his meticulously researched books that reveal the hidden mechanisms behind global economic systems:
+
+### The BlackRock Empire (2025)
+An in-depth investigation into how BlackRock became the world's most powerful financial institution, with over $10 trillion in assets under management. This book reveals how Larry Fink built a financial giant that shapes markets, influences governments, and touches nearly every aspect of modern life through its revolutionary Aladdin technology and strategic acquisitions.
 
 ### George Soros: The Man the World Hates (2025)
 A comprehensive analysis of the controversial financier who shaped global markets and influenced political landscapes across continents. This book examines Soros's journey from Nazi-occupied Hungary to becoming one of the world's most influential—and divisive—figures, revealing the truth behind his currency speculations, philanthropic empire, and the myths that surround him.
