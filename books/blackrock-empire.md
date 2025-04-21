@@ -69,7 +69,7 @@ His previous works include "George Soros: The Man the World Hates," "The PayPal 
 
 ## Available Now
 
-**[Get the Book - Universal Book Link](https://books2read.com/u/3nxAe5)** | **[Apple Books](https://books.apple.com/us/book/the-blackrock-empire-how-a-financial-giant/id6744848638)**
+**[Get the Book - Universal Book Link](https://books2read.com/u/3nxAe5)**  |  **[Apple Books](https://books.apple.com/us/book/the-blackrock-empire-how-a-financial-giant/id6744848638)**
 
 *First edition: April 2025*  
 *Published by Resource Economics Press*  
