@@ -75,5 +75,5 @@ His previous works include "George Soros: The Man the World Hates," "The PayPal 
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
 
-ISBN: 979-000000000 (Hardcover)  
+ISBN: 9798230158646 (Hardcover)  
 ISBN: 9798227106384 (eBook)
