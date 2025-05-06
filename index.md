@@ -16,6 +16,15 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/How the IMF Manipulates Nations by Michael Rodrigez.webp" alt="How the IMF Manipulates Countries Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>How the IMF Manipulates Countries</h3>
+      <p>Uncover how the International Monetary Fund uses debt, structural adjustment, and currency manipulation to control nations and serve powerful global interests.</p>
+      <a href="{{ site.baseurl }}/books/imf-manipulates" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/BlackRock-Empire.webp" alt="The BlackRock Empire Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>The BlackRock Empire</h3>
@@ -57,15 +66,6 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
       <h3>The PayPal Mafia</h3>
       <p>Uncover the incredible story of how a small group of entrepreneurs went on to reshape technology, finance, and global politics.</p>
       <a href="{{ site.baseurl }}/books/paypal-mafia" class="btn">Read More</a>
-    </div>
-  </div>
-  
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Silver-Empire-The-Forgotten-Metal.webp" alt="Silver Empire Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>Silver Empire</h3>
-      <p>Discover the extraordinary story of silver, a forgotten metal with dual powers as a precious store of wealth and irreplaceable industrial resource.</p>
-      <a href="{{ site.baseurl }}/books/silver-empire" class="btn">Read More</a>
     </div>
   </div>
 </div>
