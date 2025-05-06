@@ -10,6 +10,15 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/How the IMF Manipulates Nations by Michael Rodrigez.webp" alt="How the IMF Manipulates Countries Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>How the IMF Manipulates Countries</h3>
+      <p>Uncover how the IMF uses debt, structural adjustment, and currency manipulation to control nations' economies and serve powerful interests.</p>
+      <a href="{{ site.baseurl }}/books/imf-manipulates" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/BlackRock-Empire.webp" alt="The BlackRock Empire Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The BlackRock Empire</h3>
@@ -76,6 +85,9 @@ Dive into the complex world of global economics, financial markets, and power st
 ## Publications Overview
 
 Rodriguez is known for his meticulously researched books that reveal the hidden mechanisms behind global economic systems:
+
+### How the IMF Manipulates Countries (2025)
+A comprehensive investigation into how the International Monetary Fund uses debt, structural adjustment programs, and currency manipulation to control national economies while serving powerful global interests. This explosive analysis reveals the IMF's role in economic crises from Argentina to East Asia and exposes alternatives that have allowed countries to escape debt dependency.
 
 ### The BlackRock Empire (2025)
 An in-depth investigation into how BlackRock became the world's most powerful financial institution, with over $10 trillion in assets under management. This book reveals how Larry Fink built a financial giant that shapes markets, influences governments, and touches nearly every aspect of modern life through its revolutionary Aladdin technology and strategic acquisitions.
