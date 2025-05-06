@@ -10,16 +10,6 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/How the IMF Manipulates Nations by Michael Rodrigez.webp" alt="How the IMF Manipulates Countries Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
-    <div class="book-card-content">
-      <h3>How the IMF Manipulates Countries</h3>
-      <p>Uncover how the IMF uses debt, structural adjustment, and currency manipulation to control nations' economies and serve powerful interests.</p>
-      <a href="{{ site.baseurl }}/books/imf-manipulates" class="btn">Read More</a>
-    </div>
-  </div>
-
-<div class="book-grid">
-  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/BlackRock-Empire.webp" alt="The BlackRock Empire Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The BlackRock Empire</h3>
