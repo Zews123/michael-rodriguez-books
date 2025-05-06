@@ -64,7 +64,7 @@ His previous works include "The BlackRock Empire," "George Soros: The Man the Wo
 
 ## Available Now
 
-**[Get the Book - Universal Book Link](https://books2read.com/b/3nxdJB)** | **[Apple Books](https://books.apple.com/us/book/how-the-imf-manipulates-countries-the-invisible/id6745517939)**
+**[Get the Book - Universal Book Link](https://books2read.com/b/3nxdJB)**  |  **[Apple Books](https://books.apple.com/us/book/how-the-imf-manipulates-countries-the-invisible/id6745517939)**
 
 *First edition: May 2025*  
 *Published by Resource Economics Press*  
