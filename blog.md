@@ -111,6 +111,18 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 <div class="blog-grid">
   <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/How the IMF Manipulates Countries.png" alt="How the IMF Manipulates Countries">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">May 7, 2025</span>
+      <h2>How the IMF Manipulates Countries: Financial Control in the Modern Era</h2>
+      <p>Expose how the IMF uses debt traps, structural adjustment, and monetary control to manipulate sovereign nations while serving powerful global interests. Rodriguez reveals the mechanisms that keep developing countries dependent on external financial aid.</p>
+      <a href="{{ site.baseurl }}/blog/imf-manipulates-countries.html" class="read-more">Read More</a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/BlackRock_Empire_Post.webp" alt="The BlackRock Empire">
     </div>
     <div class="blog-card-content">
