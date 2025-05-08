@@ -70,5 +70,5 @@ His previous works include "The BlackRock Empire," "George Soros: The Man the Wo
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
 
-ISBN: 979-xxxxxxxxx (Hardcover)  
+ISBN: 9798231531981 (Hardcover)  
 ISBN: 9798231388486 (eBook)
