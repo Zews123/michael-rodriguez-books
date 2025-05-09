@@ -63,9 +63,4 @@ Please include details about your event, including date, location, audience, and
 
 Stay informed about Michael's latest research, upcoming books, and public appearances by subscribing to his newsletter:
 
-<form>
-  <input type="email" placeholder="Your email address" style="padding: 10px; width: 300px; margin-right: 10px; border: 1px solid #ddd; border-radius: 3px;">
-  <button type="submit" class="btn">Subscribe</button>
-</form>
-
-*Note: This form is for demonstration purposes only. When implementing the actual site, you'll need to connect it to an email service provider.*
+<script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
