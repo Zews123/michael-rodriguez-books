@@ -62,13 +62,6 @@ His previous works include "The BlackRock Empire," "George Soros: The Man the Wo
   </a>
 </div>
 
-## Uncover the Hidden Economics of Power
-
-<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
-  <h3 style="margin-top: 0; color: #1a3c65;">Stay Ahead of Global Financial Manipulation</h3>
-  <p>Join thousands of readers who receive exclusive analysis on international finance, debt traps, and the hidden mechanisms controlling the global economy. Get insights that mainstream media won't share.</p>
-  <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
-</div>
 
 ## Available Now
 
@@ -80,3 +73,12 @@ His previous works include "The BlackRock Empire," "George Soros: The Man the Wo
 
 ISBN: 9798231531981 (Hardcover)  
 ISBN: 9798231388486 (eBook)
+
+
+## Uncover the Hidden Economics of Power
+
+<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
+  <h3 style="margin-top: 0; color: #1a3c65;">Stay Ahead of Global Financial Manipulation</h3>
+  <p>Join thousands of readers who receive exclusive analysis on international finance, debt traps, and the hidden mechanisms controlling the global economy. Get insights that mainstream media won't share.</p>
+  <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
+</div>
