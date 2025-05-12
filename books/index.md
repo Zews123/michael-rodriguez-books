@@ -8,7 +8,8 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
 
 Dive into the complex world of global economics, financial markets, and power structures through Michael Rodriguez's insightful and meticulously researched books.
 
-<div class="book-card">
+<div class="book-grid">
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Digital_Dollar_Dystopia.webp" alt="Digital Dollar Dystopia Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Digital Dollar Dystopia</h3>
@@ -17,7 +18,6 @@ Dive into the complex world of global economics, financial markets, and power st
     </div>
   </div>
 
-<div class="book-grid">
   <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/How the IMF Manipulates Nations by Michael Rodrigez.webp" alt="How the IMF Manipulates Countries Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
