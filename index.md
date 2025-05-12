@@ -16,6 +16,15 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Digital_Dollar_Dystopia.webp" alt="Digital Dollar Dystopia Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>Digital Dollar Dystopia</h3>
+      <p>Explore how Central Bank Digital Currencies threaten personal liberty, enable financial surveillance, and could create an unprecedented system of control.</p>
+      <a href="{{ site.baseurl }}/books/Digital-Dollar-Dystopia" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/How the IMF Manipulates Nations by Michael Rodrigez.webp" alt="How the IMF Manipulates Countries Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>How the IMF Manipulates Countries</h3>
@@ -52,15 +61,6 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
   </div>
   
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE print.webp" alt="The Chinese Real Estate Bubble Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>The Chinese Real Estate Bubble</h3>
-      <p>A comprehensive analysis of China's economic model and its potential impact on global markets.</p>
-      <a href="{{ site.baseurl }}/books/chinese-real-estate-bubble" class="btn">Read More</a>
-    </div>
-  </div>
-  
-  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" alt="The PayPal Mafia Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>The PayPal Mafia</h3>
@@ -70,12 +70,22 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
   </div>
 </div>
 
+<div style="text-align: center; margin: 30px 0;">
+  <a href="{{ site.baseurl }}/books/" class="btn btn-secondary" style="display: inline-block; padding: 12px 24px; font-size: 1.1rem;">Explore All Books by Michael Rodriguez</a>
+</div>
+
 ## About the Author
 <p>Michael Rodriguez combines economic theory, historical analysis, and investigative research to uncover connections between financial institutions, technological innovation, and broader social and political trends. His interdisciplinary approach allows him to identify patterns that others miss, making his analyses particularly valuable in today's complex global economy.</p>
 
 <p>With over fifteen years of experience studying international economic systems, Rodriguez offers unique perspectives on financial bubbles, structural economic imbalances, and the hidden forces shaping our economic future.</p>
 
 <p><a href="{{ site.baseurl }}/about">Learn more about Michael Rodriguez</a></p>
+
+<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
+  <h3 style="margin-top: 0; color: #1a3c65;">Stay Informed About New Releases</h3>
+  <p>Subscribe to receive exclusive updates, early access opportunities, and insights on upcoming books by Michael Rodriguez.</p>
+  <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
+</div>
 
 ## Contact
 <p>For media inquiries, speaking engagements, or other questions:</p>
