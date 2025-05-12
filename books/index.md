@@ -8,6 +8,15 @@ description: Explore insightful books by Michael Rodriguez on global economics, 
 
 Dive into the complex world of global economics, financial markets, and power structures through Michael Rodriguez's insightful and meticulously researched books.
 
+<div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Digital_Dollar_Dystopia.webp" alt="Digital Dollar Dystopia Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Digital Dollar Dystopia</h3>
+      <p>Explore how Central Bank Digital Currencies threaten personal liberty, enable financial surveillance, and could create an unprecedented system of control.</p>
+      <a href="{{ site.baseurl }}/books/Digital-Dollar-Dystopia" class="btn">Read More</a>
+    </div>
+  </div>
+
 <div class="book-grid">
   <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/How the IMF Manipulates Nations by Michael Rodrigez.webp" alt="How the IMF Manipulates Countries Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
@@ -85,6 +94,9 @@ Dive into the complex world of global economics, financial markets, and power st
 ## Publications Overview
 
 Rodriguez is known for his meticulously researched books that reveal the hidden mechanisms behind global economic systems:
+
+### Digital Dollar Dystopia (2025)
+An urgent warning about how Central Bank Digital Currencies (CBDCs) threaten personal freedom and enable unprecedented financial surveillance. This essential guide explores the technological capabilities of programmable money and provides practical strategies to protect your economic sovereignty as we approach a cashless future.
 
 ### How the IMF Manipulates Countries (2025)
 A comprehensive investigation into how the International Monetary Fund uses debt, structural adjustment programs, and currency manipulation to control national economies while serving powerful global interests. This explosive analysis reveals the IMF's role in economic crises from Argentina to East Asia and exposes alternatives that have allowed countries to escape debt dependency.
