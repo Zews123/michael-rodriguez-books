@@ -69,7 +69,7 @@ His previous works include "How the IMF Manipulates Countries," "The BlackRock E
 
 ## Available Now
 
-**[Get the Book - Universal Book Link](https://books2read.com/u/me6pxV)**  |  **[Apple Books](https://books.apple.com/us/book/digital-dollar-dystopia-how-cbdcs-will-end-financial/id6746281755)**
+**[Get the Book - Universal Book Link](https://books2read.com/u/me6pxV)**  |  **[Apple Books](https://books.apple.com/us/book/digital-dollar-dystopia-how-cbdcs-will-end-financial/id6745781048)**
 
 *First edition: May 2025*  
 *Published by Resource Economics Press*  
