@@ -117,7 +117,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
       <span class="blog-date">May 14, 2025</span>
       <h2>CBDC Unveiled: How Digital Currencies Will Transform Money—And Your Freedom</h2>
       <p>Discover the hidden risks of Central Bank Digital Currencies, their impact on privacy, and how they could fundamentally change the relationship between citizens and the state. This analysis reveals the troubling potential of programmable money.</p>
-      <a href="{{ site.baseurl }}/blog/cbdc-unveiled.html" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}/blog/CBDC-Unveiled.html" class="read-more">Read More</a>
     </div>
   </div>
 
