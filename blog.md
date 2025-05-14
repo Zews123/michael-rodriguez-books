@@ -111,6 +111,18 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 <div class="blog-grid">
   <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social /CBDC.webp" alt="CBDC Unveiled">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">May 14, 2025</span>
+      <h2>CBDC Unveiled: How Digital Currencies Will Transform Money—And Your Freedom</h2>
+      <p>Discover the hidden risks of Central Bank Digital Currencies, their impact on privacy, and how they could fundamentally change the relationship between citizens and the state. This analysis reveals the troubling potential of programmable money.</p>
+      <a href="{{ site.baseurl }}/blog/cbdc-unveiled.html" class="read-more">Read More</a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/How the IMF Manipulates Countries.png" alt="How the IMF Manipulates Countries">
     </div>
     <div class="blog-card-content">
@@ -216,4 +228,10 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
       <a href="{{ site.baseurl }}/blog/chinese-real-estate-bubble.html" class="read-more">Read More</a>
     </div>
   </div>
+</div>
+
+<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 40px 0; border: 1px solid #ddd; text-align: center;">
+  <h3 style="margin-top: 0; color: #1a3c65; font-size: 1.5rem;">Stay Informed About Financial Freedom</h3>
+  <p style="margin-bottom: 20px; font-size: 1.1rem;">Subscribe to receive exclusive analysis, early access to new content, and insights on how global economic shifts affect your financial sovereignty.</p>
+  <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
 </div>
