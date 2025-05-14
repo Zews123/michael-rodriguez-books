@@ -111,7 +111,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 <div class="blog-grid">
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social /CBDC.webp" alt="CBDC Unveiled">
+      <img src="{{ site.baseurl }}/assets/images/social/CBDC.webp" alt="CBDC Unveiled">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">May 14, 2025</span>
