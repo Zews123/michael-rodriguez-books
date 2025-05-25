@@ -2,6 +2,7 @@
 layout: default
 title: "Silver Empire: The Forgotten Metal of Modern Civilization"
 description: "Discover silver's dual role as precious metal and industrial resource. Rodriguez explores how this undervalued metal shapes our modern world and its future."
+canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/silver-empire"
 ---
 
 # Silver Empire
