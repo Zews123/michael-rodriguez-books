@@ -2,6 +2,7 @@
 layout: default
 title: Blog Michael Rodriguez
 description: Explore insightful articles, book updates, and author news by Michael Rodriguez.
+canonical_url: "https://zews123.github.io/michael-rodriguez-books/blog"
 ---
 
 # Blog
