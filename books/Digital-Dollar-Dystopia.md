@@ -2,6 +2,7 @@
 layout: default
 title: "Digital Dollar Dystopia: How CBDCs Will End Financial Freedom"
 description: "Explore how Central Bank Digital Currencies threaten personal liberty, enable financial surveillance, and create unprecedented control systems"
+canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Digital-Dollar-Dystopia"
 ---
 
 # Digital Dollar Dystopia
