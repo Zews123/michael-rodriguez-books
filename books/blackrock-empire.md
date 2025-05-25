@@ -2,6 +2,7 @@
 layout: default
 title: "The BlackRock Empire How a Financial Giant Controls the Global Economy"
 description: "Uncover how BlackRock became the world's most powerful financial institution, controlling trillions in assets and shaping global markets from behind the scenes."
+canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/blackrock-empire"
 ---
 
 # The BlackRock Empire
