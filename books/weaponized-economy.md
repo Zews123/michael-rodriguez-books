@@ -2,6 +2,7 @@
 layout: default
 title: "WWeaponized Economy: Trade Wars and Global Politics"
 description: "From Napoleon to modern US-China tensions, discover how nations use trade as a weapon. Rodriguez reveals economic warfare's impact on global politics."
+canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/weaponized-economy"
 ---
 
 # Weaponized Economy
