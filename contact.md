@@ -2,6 +2,7 @@
 layout: default
 title: Contact Michael Rodriguez
 description: Get in touch with economic analyst and author Michael Rodriguez for speaking engagements, media inquiries, or questions about his books.
+canonical_url: "https://zews123.github.io/michael-rodriguez-books/contact"
 ---
 
 # Contact
