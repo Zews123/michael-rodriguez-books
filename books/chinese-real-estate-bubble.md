@@ -2,6 +2,7 @@
 layout: default
 title: "China's Real Estate Bubble: A Global Economic Threat"
 description: "Analysis of China's property market crisis and how its collapse threatens the global economy. Essential for investors and economists"
+canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/chinese-real-estate-bubble"
 ---
 
 # The Chinese Real Estate Bubble
