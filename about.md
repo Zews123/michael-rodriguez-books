@@ -2,6 +2,7 @@
 layout: default
 title: About Michael Rodriguez
 description: Learn about Michael Rodriguez, renowned economic analyst and author specializing in global financial markets and hidden economic forces.
+canonical_url: "https://zews123.github.io/michael-rodriguez-books/about"
 ---
 
 # About Michael Rodriguez
