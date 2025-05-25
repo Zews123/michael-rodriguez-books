@@ -2,7 +2,7 @@
 layout: default
 title: Books by Michael Rodriguez
 description: Explore insightful books by Michael Rodriguez on global economics, financial markets, and the hidden forces shaping our world.
-canonical_url: "https://zews123.github.io/michael-rodriguez-books/"
+canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/"
 ---
 
 # Books by Michael Rodriguez
