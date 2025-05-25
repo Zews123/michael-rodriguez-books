@@ -2,6 +2,7 @@
 layout: default
 title: "George Soros: The Man the World Hates - Controversial Financial Titan"
 description: "Uncover how George Soros shaped global markets, influenced politics, and became both vilified and admired worldwide in this definitive analysis."
+canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/george-soros"
 ---
 
 # George Soros
