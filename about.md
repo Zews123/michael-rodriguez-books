@@ -21,10 +21,15 @@ After studying Economics and International Relations at Georgetown University, R
 
 Rodriguez is known for his meticulously researched books that reveal the hidden mechanisms behind global economic systems:
 
-- **The Chinese Real Estate Bubble: An Economy That Could Collapse The World** (2025)
-- **The Trillion Dollar Shadow: Vanguard, John Bogle, and the New Financial Order** (2025)
-- **Weaponized Economy: The Hidden History of Trade Wars and Their Impact on Global Politics** (2025)
-- **The PayPal Mafia: Silicon Valley's Secret Power Brokers** (2025)
+- **Warren Buffett: How to Become THE RICHEST? (2025)** - *The definitive biographical analysis of the Oracle of Omaha's journey from childhood entrepreneur to world's greatest investor*
+- **Digital Dollar Dystopia: How CBDCs Will End Financial Freedom (2025)** - *An urgent warning about Central Bank Digital Currencies and financial surveillance*
+- **How the IMF Manipulates Countries: The Invisible Hand of Market Control (2025)** - *Exposing international debt manipulation and economic control mechanisms*
+- **The BlackRock Empire: How a Financial Giant Controls the Global Economy (2025)** - *Investigating the world's most powerful financial institution*
+- **George Soros: The Man the World Hates (2025)** - *Comprehensive analysis of the controversial financier's global influence*
+- **The Chinese Real Estate Bubble: An Economy That Could Collapse The World (2025)**
+- **Weaponized Economy: The Hidden History of Trade Wars and Their Impact on Global Politics (2025)**
+- **The Trillion Dollar Shadow: Vanguard, John Bogle, and the New Financial Order (2025)**
+- **The PayPal Mafia: Silicon Valley's Secret Power Brokers (2025)**
 - <a href="https://books2read.com/b/3nxYAP"><strong>Silver Empire: The Forgotten Metal That Powers Modern Civilization (2024)</strong></a>
 - <a href="https://books2read.com/b/mg6Xdz"><strong>The Technological Breakthroughs of World War II: How War Changed Our World (2023)</strong></a>
 - <a href="https://books2read.com/b/mgoB1x"><strong>Stoicism in Business: Ancient Philosophy for Modern Leaders (2022)</strong></a>
