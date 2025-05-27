@@ -74,6 +74,15 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
   
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" alt="Weaponized Economy Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Weaponized Economy</h3>
+      <p>Explore the fascinating history of economic warfare from Napoleon to modern US-China tensions and how nations weaponize trade.</p>
+      <a href="{{ site.baseurl }}/books/weaponized-economy" class="btn">Read More</a>
+    </div>
+  </div>
+  
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Silver-Empire-The-Forgotten-Metal.webp" alt="Silver Empire Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Silver Empire</h3>
@@ -122,6 +131,9 @@ The untold story of how John Bogle's revolutionary index fund concept transforme
 
 ### The PayPal Mafia (2025)
 The remarkable story of how a small group of entrepreneurs from PayPal—including Elon Musk, Peter Thiel, and Reid Hoffman—went on to create some of the most influential companies of the 21st century and reshape technology, finance, and global politics.
+
+### Weaponized Economy (2025)
+An examination of how nations increasingly use economic tools as weapons in global conflicts. From Napoleon's Continental Blockade to modern sanctions regimes, this book traces the evolution of economic warfare and its consequences for international stability.
 
 ### Previous Works
 - Technological Breakthroughs of World War II: How War Changed Our World (2023)
