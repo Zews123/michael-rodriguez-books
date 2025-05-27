@@ -55,7 +55,7 @@ The Oracle's retirement marks not just a corporate transition, but the end of an
 
 Michael Rodriguez is a renowned economic analyst and investigative journalist specializing in the psychology of wealth creation and the hidden mechanisms of financial power. With over fifteen years of experience studying the intersection of personal psychology and investment success, Rodriguez brings unique insights to understanding how individual brilliance intersects with systemic advantages in building financial empires.
 
-His previous works include "Digital Dollar Dystopia," "How the IMF Manipulates Countries," "The BlackRock Empire," "George Soros: The Man the World Hates," "The PayPal Mafia," "Silver Empire," "The Chinese Real Estate Bubble," "Weaponized Economy," and "The Trillion Dollar Shadow."
+His previous works include [Digital Dollar Dystopia]({{ site.baseurl }}/books/Digital-Dollar-Dystopia), [How the IMF Manipulates Countries]({{ site.baseurl }}/books/imf-manipulates), [The BlackRock Empire]({{ site.baseurl }}/books/blackrock-empire), [George Soros: The Man the World Hates]({{ site.baseurl }}/books/george-soros), [The PayPal Mafia]({{ site.baseurl }}/books/paypal-mafia), [Silver Empire]({{ site.baseurl }}/books/silver-empire), [The Chinese Real Estate Bubble]({{ site.baseurl }}/books/chinese-real-estate-bubble), [Weaponized Economy]({{ site.baseurl }}/books/weaponized-economy), and [The Trillion Dollar Shadow]({{ site.baseurl }}/books/trillion-dollar-shadow).
 
 ## Share This Book
 
@@ -77,14 +77,14 @@ His previous works include "Digital Dollar Dystopia," "How the IMF Manipulates C
 
 ## Available Now
 
-**[Get the Book - Universal Book Link](https://books2read.com/u/me6jol)**  |  **[Apple Books](https://books.apple.com/us/book/warren-buffett-how-to-become-the-richest/id12345)**
+**[Get the Book - Universal Book Link](https://books2read.com/b/warren-buffett-richest)** | **[Apple Books](https://books.apple.com/us/book/warren-buffett-how-to-become-the-richest/id12345)**
 
 *First edition: May 2025*  
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
 
 ISBN: 9798231XXXXXX (Hardcover)  
-ISBN: 9798231565757 (eBook)
+ISBN: 9798231XXXXXX (eBook)
 
 ## Master the Psychology of Wealth Creation
 
