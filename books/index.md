@@ -11,6 +11,15 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Warren_Buffett.webp" alt="Warren Buffett Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Warren Buffett: How to Become THE RICHEST?</h3>
+      <p>Discover the untold story of Warren Buffett's journey from childhood entrepreneur to the world's greatest investor, revealing the psychology behind his unprecedented success.</p>
+      <a href="{{ site.baseurl }}/books/Warren_Buffett" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Digital_Dollar_Dystopia.webp" alt="Digital Dollar Dystopia Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Digital Dollar Dystopia</h3>
@@ -43,15 +52,6 @@ Dive into the complex world of global economics, financial markets, and power st
       <h3>George Soros: The Man the World Hates</h3>
       <p>Uncover how one man shaped global markets, influenced politics across continents, and became the most controversial financier of our time.</p>
       <a href="{{ site.baseurl }}/books/george-soros" class="btn">Read More</a>
-    </div>
-  </div>
-
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" alt="Weaponized Economy Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
-    <div class="book-card-content">
-      <h3>Weaponized Economy</h3>
-      <p>Explore the fascinating history of economic warfare from Napoleon to modern US-China tensions and how nations weaponize trade.</p>
-      <a href="{{ site.baseurl }}/books/weaponized-economy" class="btn">Read More</a>
     </div>
   </div>
   
@@ -96,6 +96,9 @@ Dive into the complex world of global economics, financial markets, and power st
 
 Rodriguez is known for his meticulously researched books that reveal the hidden mechanisms behind global economic systems:
 
+### Warren Buffett: How to Become THE RICHEST? (2025)
+The definitive biographical analysis of Warren Buffett's journey from childhood entrepreneur to the world's greatest investor. Rodriguez reveals the psychological forces, family dynamics, and strategic decisions that enabled Buffett's unprecedented success, while examining controversial aspects of his empire that mainstream biographies often overlook.
+
 ### Digital Dollar Dystopia (2025)
 An urgent warning about how Central Bank Digital Currencies (CBDCs) threaten personal freedom and enable unprecedented financial surveillance. This essential guide explores the technological capabilities of programmable money and provides practical strategies to protect your economic sovereignty as we approach a cashless future.
 
@@ -116,9 +119,6 @@ An extraordinary exploration of silver's crucial role in human history and moder
 
 ### The Trillion Dollar Shadow (2025)
 The untold story of how John Bogle's revolutionary index fund concept transformed into Vanguard Group, a financial giant managing over $10 trillion in assets. Rodriguez explores the unprecedented power of passive investment firms and their growing influence over global corporations.
-
-### Weaponized Economy (2025)
-An examination of how nations increasingly use economic tools as weapons in global conflicts. From Napoleon's Continental Blockade to modern sanctions regimes, this book traces the evolution of economic warfare and its consequences for international stability.
 
 ### The PayPal Mafia (2025)
 The remarkable story of how a small group of entrepreneurs from PayPal—including Elon Musk, Peter Thiel, and Reid Hoffman—went on to create some of the most influential companies of the 21st century and reshape technology, finance, and global politics.
