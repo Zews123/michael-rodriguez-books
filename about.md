@@ -21,18 +21,18 @@ After studying Economics and International Relations at Georgetown University, R
 
 Rodriguez is known for his meticulously researched books that reveal the hidden mechanisms behind global economic systems:
 
-- **Warren Buffett: How to Become THE RICHEST? (2025)** - *The definitive biographical analysis of the Oracle of Omaha's journey from childhood entrepreneur to world's greatest investor*
-- **Digital Dollar Dystopia: How CBDCs Will End Financial Freedom (2025)** - *An urgent warning about Central Bank Digital Currencies and financial surveillance*
-- **How the IMF Manipulates Countries: The Invisible Hand of Market Control (2025)** - *Exposing international debt manipulation and economic control mechanisms*
-- **The BlackRock Empire: How a Financial Giant Controls the Global Economy (2025)** - *Investigating the world's most powerful financial institution*
-- **George Soros: The Man the World Hates (2025)** - *Comprehensive analysis of the controversial financier's global influence*
-- **The Chinese Real Estate Bubble: An Economy That Could Collapse The World (2025)**
-- **Weaponized Economy: The Hidden History of Trade Wars and Their Impact on Global Politics (2025)**
-- **The Trillion Dollar Shadow: Vanguard, John Bogle, and the New Financial Order (2025)**
-- **The PayPal Mafia: Silicon Valley's Secret Power Brokers (2025)**
-- <a href="https://books2read.com/b/3nxYAP"><strong>Silver Empire: The Forgotten Metal That Powers Modern Civilization (2024)</strong></a>
-- <a href="https://books2read.com/b/mg6Xdz"><strong>The Technological Breakthroughs of World War II: How War Changed Our World (2023)</strong></a>
-- <a href="https://books2read.com/b/mgoB1x"><strong>Stoicism in Business: Ancient Philosophy for Modern Leaders (2022)</strong></a>
+- **[Warren Buffett: How to Become THE RICHEST?]({{ site.baseurl }}/books/Warren_Buffett) (2025)** - *The definitive biographical analysis of the Oracle of Omaha's journey from childhood entrepreneur to world's greatest investor*
+- **[Digital Dollar Dystopia: How CBDCs Will End Financial Freedom]({{ site.baseurl }}/books/Digital-Dollar-Dystopia) (2025)** - *An urgent warning about Central Bank Digital Currencies and financial surveillance*
+- **[How the IMF Manipulates Countries: The Invisible Hand of Market Control]({{ site.baseurl }}/books/imf-manipulates) (2025)** - *Exposing international debt manipulation and economic control mechanisms*
+- **[The BlackRock Empire: How a Financial Giant Controls the Global Economy]({{ site.baseurl }}/books/blackrock-empire) (2025)** - *Investigating the world's most powerful financial institution*
+- **[George Soros: The Man the World Hates]({{ site.baseurl }}/books/george-soros) (2025)** - *Comprehensive analysis of the controversial financier's global influence*
+- **[The Chinese Real Estate Bubble: An Economy That Could Collapse The World]({{ site.baseurl }}/books/chinese-real-estate-bubble) (2025)** - *Analysis of China's property crisis and global implications*
+- **[Weaponized Economy: The Hidden History of Trade Wars and Their Impact on Global Politics]({{ site.baseurl }}/books/weaponized-economy) (2025)** - *How nations use economic tools as weapons in global conflicts*
+- **[The Trillion Dollar Shadow: Vanguard, John Bogle, and the New Financial Order]({{ site.baseurl }}/books/trillion-dollar-shadow) (2025)** - *The untold story of Vanguard's transformation of global finance*
+- **[The PayPal Mafia: Silicon Valley's Secret Power Brokers]({{ site.baseurl }}/books/paypal-mafia) (2025)** - *How PayPal alumni reshaped technology, finance, and politics*
+- **[Silver Empire: The Forgotten Metal That Powers Modern Civilization]({{ site.baseurl }}/books/silver-empire) (2024)** | [Available on Apple Books](https://books2read.com/b/3nxYAP) - *The dual role of silver as precious metal and industrial resource*
+- **[The Technological Breakthroughs of World War II: How War Changed Our World](https://books2read.com/b/mg6Xdz) (2023)** - *Revolutionary innovations born from global conflict*
+- **[Stoicism in Business: Ancient Philosophy for Modern Leaders](https://books2read.com/b/mgoB1x) (2022)** - *Applying ancient wisdom to contemporary business challenges*
 
 ## Speaking and Consulting
 
