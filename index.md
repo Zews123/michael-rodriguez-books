@@ -17,6 +17,15 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Warren_Buffett.webp" alt="Warren Buffett Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>Warren Buffett: How to Become THE RICHEST?</h3>
+      <p>Discover the untold story of Warren Buffett's journey from childhood entrepreneur to the world's greatest investor, revealing the psychology behind his unprecedented success.</p>
+      <a href="{{ site.baseurl }}/books/Warren_Buffett" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Digital_Dollar_Dystopia.webp" alt="Digital Dollar Dystopia Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>Digital Dollar Dystopia</h3>
@@ -49,15 +58,6 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/"
       <h3>George Soros: The Man the World Hates</h3>
       <p>Uncover how one man shaped global markets, influenced politics across continents, and became the most controversial financier of our time.</p>
       <a href="{{ site.baseurl }}/books/george-soros" class="btn">Read More</a>
-    </div>
-  </div>
-
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" alt="Weaponized Economy Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>Weaponized Economy</h3>
-      <p>Explore the fascinating history of economic warfare from Napoleon's Continental Blockade to the modern US-China trade war.</p>
-      <a href="{{ site.baseurl }}/books/weaponized-economy" class="btn">Read More</a>
     </div>
   </div>
   
