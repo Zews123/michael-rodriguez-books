@@ -30,7 +30,7 @@ Rodriguez is known for his meticulously researched books that reveal the hidden 
 - **[Weaponized Economy: The Hidden History of Trade Wars and Their Impact on Global Politics]({{ site.baseurl }}/books/weaponized-economy) (2025)** - *How nations use economic tools as weapons in global conflicts*
 - **[The Trillion Dollar Shadow: Vanguard, John Bogle, and the New Financial Order]({{ site.baseurl }}/books/trillion-dollar-shadow) (2025)** - *The untold story of Vanguard's transformation of global finance*
 - **[The PayPal Mafia: Silicon Valley's Secret Power Brokers]({{ site.baseurl }}/books/paypal-mafia) (2025)** - *How PayPal alumni reshaped technology, finance, and politics*
-- **[Silver Empire: The Forgotten Metal That Powers Modern Civilization]({{ site.baseurl }}/books/silver-empire) (2024)** | [Available on Apple Books](https://books2read.com/b/3nxYAP) - *The dual role of silver as precious metal and industrial resource*
+- **[Silver Empire: The Forgotten Metal That Powers Modern Civilization]({{ site.baseurl }}/books/silver-empire) (2024)** - *The dual role of silver as precious metal and industrial resource*
 - **[The Technological Breakthroughs of World War II: How War Changed Our World](https://books2read.com/b/mg6Xdz) (2023)** - *Revolutionary innovations born from global conflict*
 - **[Stoicism in Business: Ancient Philosophy for Modern Leaders](https://books2read.com/b/mgoB1x) (2022)** - *Applying ancient wisdom to contemporary business challenges*
 
