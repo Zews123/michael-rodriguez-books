@@ -78,9 +78,11 @@ His previous works include [Digital Dollar Dystopia]({{ site.baseurl }}/books/Di
 ## Available Now
 
 <a href="https://books2read.com/u/me6jol" target="_blank" rel="noopener noreferrer">Get the Book - Universal Book Link</a> | <a href="https://books.apple.com/us/book/warren-buffett-how-to-become-the-richest/id12345" target="_blank" rel="noopener noreferrer">Apple Books</a>
-First edition: May 2025
-Published by Resource Economics Press
-New York • London • Singapore
+
+*First edition: May 2025*  
+*Published by Resource Economics Press*  
+*New York • London • Singapore*
+
 ISBN: 9798231XXXXXX (Hardcover)
 ISBN: 9798231565757 (eBook)
 
