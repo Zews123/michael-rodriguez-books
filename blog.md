@@ -118,7 +118,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
       <span class="blog-date">May 30, 2025</span>
       <h2>Warren Buffett FAQ 2025: Top Questions About The Oracle's Succession</h2>
       <p>Essential answers to the 12 most burning questions about Warren Buffett's historic retirement, Greg Abel's transition, and what Berkshire's record $325 billion cash position really means for investors.</p>
-      <a href="{{ site.baseurl }}/blog/warren-buffett-faq-2025.html" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}/blog/warren-buffett-faq-2025" class="read-more">Read More</a>
     </div>
   </div>
 
