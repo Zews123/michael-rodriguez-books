@@ -62,6 +62,14 @@ His previous works include [Warren Buffett: How to Become THE RICHEST?]({{ site.
       <span class="btn-icon">🍎</span>
       <span class="btn-text">Apple Books</span>
     </a>
+    <a href="#" target="_blank" rel="noopener noreferrer" class="book-btn kindle-btn">
+      <span class="btn-icon">📱</span>
+      <span class="btn-text">Amazon Kindle</span>
+    </a>
+    <a href="#" target="_blank" rel="noopener noreferrer" class="book-btn google-btn">
+      <span class="btn-icon">📗</span>
+      <span class="btn-text">Google Play</span>
+    </a>
     <a href="https://www.kobo.com/ww/en/ebook/passport-power-how-your-travel-document-shapes-global-economics-and-your-personal-freedom" target="_blank" rel="noopener noreferrer" class="book-btn kobo-btn">
       <span class="btn-icon">📖</span>
       <span class="btn-text">Kobo</span>
@@ -76,17 +84,8 @@ His previous works include [Warren Buffett: How to Become THE RICHEST?]({{ site.
     </a>
   </div>
   
-  <div style="background-color: #e8f4f8; padding: 15px; border-radius: 6px; margin-bottom: 15px; border-left: 3px solid #17a2b8;">
-    <p style="margin: 0 0 8px 0; font-size: 0.95em; color: #0c5460; font-weight: 600;">
-      🌍 Available Worldwide On 15+ Major Platforms
-    </p>
-    <p style="margin: 0; font-size: 0.85em; color: #0c5460;">
-      Including: Everand, Tolino, Gardners, Fable, ODILO, Vivlio, Baker & Taylor, and other major retailers
-    </p>
-  </div>
-  
   <p style="margin: 0; font-size: 0.9em; color: #666;">
-    <strong>📖 Digital Libraries:</strong> OverDrive, Hoopla, BorrowBox
+    <strong>📖 Also available in libraries:</strong> OverDrive, Hoopla, BorrowBox
   </p>
 </div>
 
@@ -121,6 +120,7 @@ His previous works include [Warren Buffett: How to Become THE RICHEST?]({{ site.
   color: inherit;
 }
 
+/* Apple style with gradient */
 .apple-btn {
   background: linear-gradient(135deg, #000 0%, #333 100%);
   color: white;
@@ -130,6 +130,27 @@ His previous works include [Warren Buffett: How to Become THE RICHEST?]({{ site.
   color: white;
 }
 
+/* Amazon Kindle orange */
+.kindle-btn {
+  background: linear-gradient(135deg, #ff9500 0%, #ff7700 100%);
+  color: white;
+}
+.kindle-btn:hover {
+  background: linear-gradient(135deg, #ff7700 0%, #e55500 100%);
+  color: white;
+}
+
+/* Google blue */
+.google-btn {
+  background: linear-gradient(135deg, #4285f4 0%, #1a73e8 100%);
+  color: white;
+}
+.google-btn:hover {
+  background: linear-gradient(135deg, #1a73e8 0%, #1557b0 100%);
+  color: white;
+}
+
+/* Kobo blue */
 .kobo-btn {
   background: linear-gradient(135deg, #1e90ff 0%, #1c7ed6 100%);
   color: white;
@@ -139,6 +160,7 @@ His previous works include [Warren Buffett: How to Become THE RICHEST?]({{ site.
   color: white;
 }
 
+/* Barnes & Noble green */
 .bn-btn {
   background: linear-gradient(135deg, #2e8b57 0%, #228b22 100%);
   color: white;
@@ -148,6 +170,7 @@ His previous works include [Warren Buffett: How to Become THE RICHEST?]({{ site.
   color: white;
 }
 
+/* Smashwords red */
 .smash-btn {
   background: linear-gradient(135deg, #ff6347 0%, #e55347 100%);
   color: white;
