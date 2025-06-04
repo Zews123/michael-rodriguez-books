@@ -57,6 +57,18 @@ Michael Rodriguez is a renowned economic analyst and investigative journalist sp
 
 His previous works include [Digital Dollar Dystopia]({{ site.baseurl }}/books/Digital-Dollar-Dystopia), [How the IMF Manipulates Countries]({{ site.baseurl }}/books/imf-manipulates), [The BlackRock Empire]({{ site.baseurl }}/books/blackrock-empire), [George Soros: The Man the World Hates]({{ site.baseurl }}/books/george-soros), [The PayPal Mafia]({{ site.baseurl }}/books/paypal-mafia), [Silver Empire]({{ site.baseurl }}/books/silver-empire), [The Chinese Real Estate Bubble]({{ site.baseurl }}/books/chinese-real-estate-bubble), [Weaponized Economy]({{ site.baseurl }}/books/weaponized-economy), and [The Trillion Dollar Shadow]({{ site.baseurl }}/books/trillion-dollar-shadow).
 
+
+## Available Now
+
+<a href="https://books2read.com/u/me6jol" target="_blank" rel="noopener noreferrer">Get the Book - Universal Book Link</a> | <a href="https://books.apple.com/us/book/warren-buffett-how-to-become-the-richest/id6746422862" target="_blank" rel="noopener noreferrer">Apple Books</a>
+
+*First edition: May 2025*  
+*Published by Resource Economics Press*  
+*New York • London • Singapore*
+
+ISBN: 9798231736584 (Hardcover)  
+ISBN: 9798231565757 (eBook)
+
 ## Share This Book
 
 <div class="social-share" style="margin: 30px 0;">
@@ -74,17 +86,6 @@ His previous works include [Digital Dollar Dystopia]({{ site.baseurl }}/books/Di
     <i class="fas fa-envelope-square"></i>
   </a>
 </div>
-
-## Available Now
-
-<a href="https://books2read.com/u/me6jol" target="_blank" rel="noopener noreferrer">Get the Book - Universal Book Link</a> | <a href="https://books.apple.com/us/book/warren-buffett-how-to-become-the-richest/id6746422862" target="_blank" rel="noopener noreferrer">Apple Books</a>
-
-*First edition: May 2025*  
-*Published by Resource Economics Press*  
-*New York • London • Singapore*
-
-ISBN: 9798231736584 (Hardcover)  
-ISBN: 9798231565757 (eBook)
 
 ## Master the Psychology of Wealth Creation
 
