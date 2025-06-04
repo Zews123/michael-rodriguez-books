@@ -91,3 +91,89 @@ ISBN: 9798231210046 (eBook)
   <p>Join thousands of readers who receive exclusive analysis on global citizenship trends, mobility strategies, and the hidden economic forces determining human freedom. Get insights that traditional travel guides won't share.</p>
   <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
 </div>
+
+
+
+## Get Your Copy Today
+
+<div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #1a3c65;">
+  <h4 style="margin-top: 0; color: #1a3c65;">📚 Buy Now</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
+    <a href="https://books.apple.com/us/book/passport-power-how-your-travel-document-shapes-global/id6746773141" target="_blank" rel="noopener noreferrer" style="background-color: #000; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold;">🍎 Apple Books</a>
+    <a href="https://www.kobo.com/ww/en/ebook/passport-power-how-your-travel-document-shapes-global-economics-and-your-personal-freedom" target="_blank" rel="noopener noreferrer" style="background-color: #1e90ff; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold;">📖 Kobo</a>
+    <a href="https://www.smashwords.com/books/view/1783438" target="_blank" rel="noopener noreferrer" style="background-color: #ff6347; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold;">📚 Smashwords</a>
+    <span style="background-color: #6c757d; color: white; padding: 8px 16px; border-radius: 5px; font-weight: bold;">🔜 Barnes & Noble</span>
+  </div>
+  <p style="margin: 0; font-size: 0.9em; color: #666;"><strong>📖 Also available in libraries:</strong> OverDrive, Hoopla, BorrowBox</p>
+</div>
+
+## 📖 Get Your Copy
+
+<div style="border: 2px solid #1a3c65; border-radius: 10px; padding: 20px; margin: 25px 0; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);">
+  <div style="text-align: center; margin-bottom: 15px;">
+    <h4 style="margin: 0 0 10px 0; color: #1a3c65; font-size: 1.2em;">Choose Your Format</h4>
+    <p style="margin: 0; color: #666; font-size: 0.9em;">Available in digital format worldwide</p>
+  </div>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; margin-bottom: 15px;">
+    <a href="https://books.apple.com/us/book/passport-power-how-your-travel-document-shapes-global/id6746773141" target="_blank" rel="noopener noreferrer" style="display: block; background-color: #1a3c65; color: white; padding: 12px 8px; border-radius: 6px; text-decoration: none; text-align: center; font-weight: 600; transition: transform 0.2s;">Apple Books</a>
+    <a href="https://www.kobo.com/ww/en/ebook/passport-power-how-your-travel-document-shapes-global-economics-and-your-personal-freedom" target="_blank" rel="noopener noreferrer" style="display: block; background-color: #1a3c65; color: white; padding: 12px 8px; border-radius: 6px; text-decoration: none; text-align: center; font-weight: 600; transition: transform 0.2s;">Kobo</a>
+    <a href="https://www.smashwords.com/books/view/1783438" target="_blank" rel="noopener noreferrer" style="display: block; background-color: #1a3c65; color: white; padding: 12px 8px; border-radius: 6px; text-decoration: none; text-align: center; font-weight: 600; transition: transform 0.2s;">Smashwords</a>
+  </div>
+  
+  <div style="text-align: center; border-top: 1px solid #dee2e6; padding-top: 12px;">
+    <p style="margin: 0 0 8px 0; font-size: 0.85em; color: #6c757d;"><strong>Coming Soon:</strong> Barnes & Noble</p>
+    <p style="margin: 0; font-size: 0.85em; color: #6c757d;"><strong>Libraries:</strong> OverDrive • Hoopla • BorrowBox</p>
+  </div>
+</div>
+
+## 🚀 Start Reading Today
+
+<div style="background-color: #ffffff; border: 1px solid #dee2e6; border-radius: 8px; padding: 25px; margin: 25px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  
+  <div style="margin-bottom: 20px;">
+    <h4 style="margin: 0 0 15px 0; color: #1a3c65; display: flex; align-items: center; gap: 8px;">
+      <span style="font-size: 1.2em;">📚</span>
+      <span>Purchase Options</span>
+    </h4>
+    
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+      <a href="https://books.apple.com/us/book/passport-power-how-your-travel-document-shapes-global/id6746773141" target="_blank" rel="noopener noreferrer" class="btn" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: 600; display: inline-block;">📱 Apple Books</a>
+      <a href="https://www.kobo.com/ww/en/ebook/passport-power-how-your-travel-document-shapes-global-economics-and-your-personal-freedom" target="_blank" rel="noopener noreferrer" class="btn" style="background-color: #28a745; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: 600; display: inline-block;">📖 Kobo</a>
+      <a href="https://www.smashwords.com/books/view/1783438" target="_blank" rel="noopener noreferrer" class="btn" style="background-color: #ffc107; color: #212529; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: 600; display: inline-block;">📚 Smashwords</a>
+    </div>
+  </div>
+  
+  <div style="border-top: 1px solid #eee; padding-top: 15px;">
+    <p style="margin: 0 0 8px 0; font-size: 0.9em; color: #6c757d;">
+      <strong>📅 Coming Soon:</strong> Barnes & Noble
+    </p>
+    <p style="margin: 0; font-size: 0.9em; color: #6c757d;">
+      <strong>📚 Digital Libraries:</strong> OverDrive, Hoopla, BorrowBox
+    </p>
+  </div>
+  
+</div>
+
+## 📖 Buy the Book
+
+<div style="margin: 25px 0; padding: 0;">
+  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 6px; border-left: 4px solid #1a3c65;">
+    
+    <p style="margin: 0 0 15px 0; font-weight: 600; color: #1a3c65; font-size: 1.1em;">Available Now:</p>
+    
+    <div style="margin-bottom: 15px;">
+      <a href="https://books.apple.com/us/book/passport-power-how-your-travel-document-shapes-global/id6746773141" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 15px 8px 0; padding: 8px 16px; background-color: #1a3c65; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">Apple Books</a>
+      <a href="https://www.kobo.com/ww/en/ebook/passport-power-how-your-travel-document-shapes-global-economics-and-your-personal-freedom" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 15px 8px 0; padding: 8px 16px; background-color: #1a3c65; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">Kobo</a>
+      <a href="https://www.smashwords.com/books/view/1783438" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 15px 8px 0; padding: 8px 16px; background-color: #1a3c65; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">Smashwords</a>
+    </div>
+    
+    <div style="font-size: 0.9em; color: #6c757d;">
+      <p style="margin: 0 0 5px 0;"><strong>Coming Soon:</strong> Barnes & Noble</p>
+      <p style="margin: 0;"><strong>Libraries:</strong> OverDrive, Hoopla, BorrowBox</p>
+    </div>
+    
+  </div>
+</div>
+
+
