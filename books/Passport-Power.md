@@ -57,51 +57,105 @@ His previous works include [Warren Buffett: How to Become THE RICHEST?]({{ site.
 <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #1a3c65;">
   <h4 style="margin-top: 0; color: #1a3c65;">📚 Buy Now</h4>
   
-  <div class="book-buttons" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
-    <a href="https://books.apple.com/us/book/passport-power-how-your-travel-document-shapes-global/id6746773141" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-apple">🍎 Apple Books</a>
-    <a href="https://www.kobo.com/ww/en/ebook/passport-power-how-your-travel-document-shapes-global-economics-and-your-personal-freedom" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-kobo">📖 Kobo</a>
-    <a href="https://www.smashwords.com/books/view/1783438" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-smash">📚 Smashwords</a>
-    <a href="https://www.barnesandnoble.com/w/passport-power-michael-rodriguez/1147531115?ean=2940181418868" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-bn">🏪 Barnes & Noble</a>
+  <div class="book-buttons" style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 15px;">
+    <a href="https://books.apple.com/us/book/passport-power-how-your-travel-document-shapes-global/id6746773141" target="_blank" rel="noopener noreferrer" class="book-btn apple-btn">
+      <span class="btn-icon">🍎</span>
+      <span class="btn-text">Apple Books</span>
+    </a>
+    <a href="https://www.kobo.com/ww/en/ebook/passport-power-how-your-travel-document-shapes-global-economics-and-your-personal-freedom" target="_blank" rel="noopener noreferrer" class="book-btn kobo-btn">
+      <span class="btn-icon">📖</span>
+      <span class="btn-text">Kobo</span>
+    </a>
+    <a href="https://www.barnesandnoble.com/w/passport-power-michael-rodriguez/1147531115?ean=2940181418868" target="_blank" rel="noopener noreferrer" class="book-btn bn-btn">
+      <span class="btn-icon">🏪</span>
+      <span class="btn-text">Barnes & Noble</span>
+    </a>
+    <a href="https://www.smashwords.com/books/view/1783438" target="_blank" rel="noopener noreferrer" class="book-btn smash-btn">
+      <span class="btn-icon">📚</span>
+      <span class="btn-text">Smashwords</span>
+    </a>
+  </div>
+  
+  <div style="background-color: #e8f4f8; padding: 15px; border-radius: 6px; margin-bottom: 15px; border-left: 3px solid #17a2b8;">
+    <p style="margin: 0 0 8px 0; font-size: 0.95em; color: #0c5460; font-weight: 600;">
+      🌍 Available Worldwide On 15+ Major Platforms
+    </p>
+    <p style="margin: 0; font-size: 0.85em; color: #0c5460;">
+      Including: Everand, Tolino, Gardners, Fable, ODILO, Vivlio, Baker & Taylor, and other major retailers
+    </p>
   </div>
   
   <p style="margin: 0; font-size: 0.9em; color: #666;">
-    <strong>📖 Also available in libraries:</strong> OverDrive, Hoopla, BorrowBox
+    <strong>📖 Digital Libraries:</strong> OverDrive, Hoopla, BorrowBox
   </p>
 </div>
 
 <style>
 .book-btn {
-  background-color: #1a3c65;
-  color: white;
-  padding: 10px 16px;
-  border-radius: 6px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 18px;
+  border-radius: 12px;
   text-decoration: none;
-  font-weight: bold;
-  display: inline-block;
-  text-align: center;
-  min-width: 110px;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  font-weight: 600;
+  font-size: 14px;
+  min-width: 140px;
+  justify-content: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
 }
 
 .book-btn:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
   text-decoration: none;
+}
+
+.btn-icon {
+  font-size: 16px;
+}
+
+.btn-text {
+  color: inherit;
+}
+
+.apple-btn {
+  background: linear-gradient(135deg, #000 0%, #333 100%);
+  color: white;
+}
+.apple-btn:hover {
+  background: linear-gradient(135deg, #333 0%, #555 100%);
   color: white;
 }
 
-.book-btn-apple { background-color: #000; }
-.book-btn-apple:hover { background-color: #333; }
+.kobo-btn {
+  background: linear-gradient(135deg, #1e90ff 0%, #1c7ed6 100%);
+  color: white;
+}
+.kobo-btn:hover {
+  background: linear-gradient(135deg, #1c7ed6 0%, #1864ab 100%);
+  color: white;
+}
 
-.book-btn-kobo { background-color: #1e90ff; }
-.book-btn-kobo:hover { background-color: #1c7ed6; }
+.bn-btn {
+  background: linear-gradient(135deg, #2e8b57 0%, #228b22 100%);
+  color: white;
+}
+.bn-btn:hover {
+  background: linear-gradient(135deg, #228b22 0%, #006400 100%);
+  color: white;
+}
 
-.book-btn-smash { background-color: #ff6347; }
-.book-btn-smash:hover { background-color: #e55347; }
-
-.book-btn-bn { background-color: #2e8b57; }
-.book-btn-bn:hover { background-color: #228b22; }
+.smash-btn {
+  background: linear-gradient(135deg, #ff6347 0%, #e55347 100%);
+  color: white;
+}
+.smash-btn:hover {
+  background: linear-gradient(135deg, #e55347 0%, #cc3333 100%);
+  color: white;
+}
 
 @media (max-width: 768px) {
   .book-buttons {
@@ -109,7 +163,7 @@ His previous works include [Warren Buffett: How to Become THE RICHEST?]({{ site.
   }
   .book-btn {
     width: 100%;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
   }
 }
 </style>
