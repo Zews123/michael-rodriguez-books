@@ -21,6 +21,7 @@ After studying Economics and International Relations at Georgetown University, R
 
 Rodriguez is known for his meticulously researched books that reveal the hidden mechanisms behind global economic systems:
 
+- **[Passport Power: How Your Travel Document Shapes Global Economics and Your Personal Freedom]({{ site.baseurl }}/books/Passport-Power) (2025)** - *The definitive investigation into how passports shape human destiny, from ancient passes to digital citizenship revolution*
 - **[Warren Buffett: How to Become THE RICHEST?]({{ site.baseurl }}/books/Warren_Buffett) (2025)** - *The definitive biographical analysis of the Oracle of Omaha's journey from childhood entrepreneur to world's greatest investor*
 - **[Digital Dollar Dystopia: How CBDCs Will End Financial Freedom]({{ site.baseurl }}/books/Digital-Dollar-Dystopia) (2025)** - *An urgent warning about Central Bank Digital Currencies and financial surveillance*
 - **[How the IMF Manipulates Countries: The Invisible Hand of Market Control]({{ site.baseurl }}/books/imf-manipulates) (2025)** - *Exposing international debt manipulation and economic control mechanisms*
