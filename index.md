@@ -17,6 +17,15 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Passport_Power.webp" alt="Passport Power Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>Passport Power</h3>
+      <p>Discover how your travel document shapes global opportunities, economic freedom, and life chances. From ancient passes to digital citizenship revolution.</p>
+      <a href="{{ site.baseurl }}/books/Passport-Power" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Warren_Buffett.webp" alt="Warren Buffett Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>Warren Buffett: How to Become THE RICHEST?</h3>
