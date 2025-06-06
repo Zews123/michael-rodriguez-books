@@ -118,7 +118,7 @@ His previous works include [Warren Buffett: How to Become THE RICHEST?]({{ site.
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
 
-ISBN: 97xxxxxxxxxxx (Hardcover)  
+ISBN: 9798231677771 (Hardcover)  
 ISBN: 9798231210046 (eBook)
 
 ## Share This Book
