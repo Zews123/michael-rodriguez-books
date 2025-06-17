@@ -11,6 +11,15 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Bilderberg_Exposed.webp" alt="Bilderberg Exposed Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Bilderberg Exposed</h3>
+      <p>Uncover 70 years of secret meetings that shaped world history. Discover how the Bilderberg Club influences global politics, economics, and the future of humanity.</p>
+      <a href="{{ site.baseurl }}/books/Bilderberg_Exposed" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Passport_Power.webp" alt="Passport Power Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Passport Power</h3>
@@ -113,6 +122,9 @@ Dive into the complex world of global economics, financial markets, and power st
 ## Publications Overview
 
 Rodriguez is known for his meticulously researched books that reveal the hidden mechanisms behind global economic systems:
+
+### Bilderberg Exposed: The Shadow Architects of Global Power (2025)
+A groundbreaking 70-year investigation into the world's most secretive power network. Rodriguez exposes how the Bilderberg Club has shaped everything from NATO's expansion and European integration to financial crises and pandemic responses. This comprehensive analysis reveals the club's evolution from a Cold War discussion forum to arguably the most influential informal institution in modern history, operating through a sophisticated three-tier system that coordinates Western policy away from public scrutiny.
 
 ### Passport Power: How Your Travel Document Shapes Global Economics and Your Personal Freedom (2025)
 The definitive investigation into how passports shape human destiny in the modern world. Rodriguez traces the evolution from ancient biblical passes to quantum-encrypted digital identities, revealing how geography becomes destiny through the "birth lottery." This comprehensive analysis exposes the hidden economic forces behind passport rankings, the $50 billion "golden citizenship" industry, and the coming digital identity revolution that will redefine belonging itself. Essential reading for understanding how climate migration, technological surveillance, and new forms of global integration will transform citizenship in the 21st century.
