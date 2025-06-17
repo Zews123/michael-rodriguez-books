@@ -17,6 +17,15 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Bilderberg_Exposed.webp" alt="Bilderberg Exposed Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>Bilderberg Exposed</h3>
+      <p>Uncover 70 years of secret meetings that shaped world history. Discover how the Bilderberg Club influences global politics, economics, and your daily life.</p>
+      <a href="{{ site.baseurl }}/books/Bilderberg_Exposed" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Passport_Power.webp" alt="Passport Power Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>Passport Power</h3>
