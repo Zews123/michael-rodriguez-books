@@ -112,6 +112,18 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 <div class="blog-grid">
   <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Bilderberg_Exposed-Rodriguez.webp" alt="Bilderberg Group FAQ 2025">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">June 18, 2025</span>
+      <h2>Bilderberg Group FAQ: 12 Most Asked Questions Answered</h2>
+      <p>Get honest answers to the most common Bilderberg Group questions. Separating facts from conspiracy theories with expert research based on seven decades of previously classified documents.</p>
+      <a href="{{ site.baseurl }}/blog/Bilderberg-Group-FAQ.html" class="read-more">Read More</a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/Warren-Baffet-Blog.webp" alt="Warren Buffett FAQ 2025">
     </div>
     <div class="blog-card-content">
