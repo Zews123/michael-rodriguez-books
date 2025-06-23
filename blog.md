@@ -190,7 +190,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
       <span class="blog-date">April 11, 2025</span>
       <h2>US-China Trade War: Tariff Escalation in 2025</h2>
       <p>Analyze the latest developments in the ongoing economic conflict between the world's two largest economies. Rodriguez breaks down how recent tariff escalations impact global supply chains, inflation, and geopolitical stability.</p>
-      <a href="{{ site.baseurl }}/blog/us-china-trade-war.html" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}/blog/china-property-crisis-global-threat.html" class="read-more">Read More</a>
     </div>
   </div>
 
