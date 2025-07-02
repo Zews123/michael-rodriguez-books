@@ -250,7 +250,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
       <span class="blog-date">April 10, 2025</span>
       <h2>The Chinese Real Estate Bubble: An Economy That Could Collapse the World</h2>
       <p>Explore how China's massive real estate bubble threatens the global economy in this eye-opening analysis by Michael Rodriguez. Discover why experts warn that the collapse of China's property market could trigger a worldwide financial crisis that affects us all.</p>
-      <a href="{{ site.baseurl }}/blog/chinese-real-estate-bubble.html" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}/blog/china-property-crisis-global-threat.html" class="read-more">Read More</a>
     </div>
   </div>
 </div>
