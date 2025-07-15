@@ -135,7 +135,7 @@ ISBN: 9798231686230 (eBook)
 ## Share This Book
 
 <div class="social-share" style="margin: 30px 0;">
-  <p style="margin-bottom: 15px; font-weight: 600;">Поделитесь этой книгой:</p>
+  <p style="margin-bottom: 15px; font-weight: 600;">Help others discover this book:</p>
   <a href="https://twitter.com/intent/tweet?text=Check out 'Dark Money Empire' by Michael Rodriguez&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&via=MRodriguezBooks" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #1DA1F2;">
     <i class="fab fa-twitter-square"></i>
   </a>
