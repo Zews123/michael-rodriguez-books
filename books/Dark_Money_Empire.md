@@ -24,32 +24,6 @@ Drawing from leaked documents, whistleblower testimonies, and decades of forensi
 
 As financial surveillance expands and cash disappears, understanding these secret laundering networks becomes essential for grasping the forces that will determine humanity's economic future.
 
-## Share This Book
-
-<div class="social-share" style="margin: 30px 0;">
-  <p style="margin-bottom: 15px; font-weight: 600;">Поделитесь этой книгой:</p>
-  <a href="https://twitter.com/intent/tweet?text=Check out 'Dark Money Empire' by Michael Rodriguez&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&via=MRodriguezBooks" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #1DA1F2;">
-    <i class="fab fa-twitter-square"></i>
-  </a>
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #3b5998;">
-    <i class="fab fa-facebook-square"></i>
-  </a>
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title=Dark Money Empire by Michael Rodriguez" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #0077b5;">
-    <i class="fab fa-linkedin"></i>
-  </a>
-  <a href="mailto:?subject=Check out this book: Dark Money Empire&body=I thought you might be interested in this book by Michael Rodriguez: {{ site.url }}{{ site.baseurl }}{{ page.url }}" style="display: inline-block; font-size: 24px; color: #333333;">
-    <i class="fas fa-envelope-square"></i>
-  </a>
-</div>
-
-## Uncover the Hidden Mechanisms of Financial Crime
-
-<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
-  <h3 style="margin-top: 0; color: #1a3c65;">Expose the Dark Money Networks Controlling Your World</h3>
-  <p>Join thousands of readers who receive exclusive analysis on offshore banking, money laundering schemes, and the hidden financial networks that drain resources from democratic societies. Get insights that mainstream media will never share.</p>
-  <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
-</div>
-
 ## What You'll Discover
 
 - The complete $32 trillion shadow economy exposed: how black, gray, and white money flows through secret networks larger than America and China combined
@@ -157,3 +131,30 @@ What sets Rodriguez apart is his ability to humanize complex financial crimes by
 *New York • London • Singapore*
 
 ISBN: 9798231686230 (eBook)
+
+## Share This Book
+
+<div class="social-share" style="margin: 30px 0;">
+  <p style="margin-bottom: 15px; font-weight: 600;">Поделитесь этой книгой:</p>
+  <a href="https://twitter.com/intent/tweet?text=Check out 'Dark Money Empire' by Michael Rodriguez&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&via=MRodriguezBooks" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #1DA1F2;">
+    <i class="fab fa-twitter-square"></i>
+  </a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #3b5998;">
+    <i class="fab fa-facebook-square"></i>
+  </a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title=Dark Money Empire by Michael Rodriguez" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #0077b5;">
+    <i class="fab fa-linkedin"></i>
+  </a>
+  <a href="mailto:?subject=Check out this book: Dark Money Empire&body=I thought you might be interested in this book by Michael Rodriguez: {{ site.url }}{{ site.baseurl }}{{ page.url }}" style="display: inline-block; font-size: 24px; color: #333333;">
+    <i class="fas fa-envelope-square"></i>
+  </a>
+</div>
+
+## Uncover the Hidden Mechanisms of Financial Crime
+
+<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
+  <h3 style="margin-top: 0; color: #1a3c65;">Expose the Dark Money Networks Controlling Your World</h3>
+  <p>Join thousands of readers who receive exclusive analysis on offshore banking, money laundering schemes, and the hidden financial networks that drain resources from democratic societies. Get insights that mainstream media will never share.</p>
+  <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
+</div>
+
