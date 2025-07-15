@@ -110,7 +110,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Silver_Empire.webp" alt="Silver Empire Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Silver-Empire-The-Forgotten-Metal.webp" alt="Silver Empire Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Silver Empire</h3>
       <p>An extraordinary exploration of silver's crucial role in human history and modern technology. Rodriguez reveals how this overlooked metal has shaped economies for centuries.</p>
