@@ -119,7 +119,7 @@ His previous works include [Passport Power: How Your Travel Document Shapes Glob
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
 
-ISBN: x-00000000000 (Hardcover)  
+ISBN: 9798231195947 (Hardcover)  
 ISBN: 9798230998600 (eBook)
 
 ## Share This Book
