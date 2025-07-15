@@ -11,6 +11,15 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/DARK MONEY EMPIRE.webp" alt="Dark Money Empire Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Dark Money Empire</h3>
+      <p>Uncover how presidents, oligarchs, Nazis and rock stars launder billions through secret offshore networks. Expose the $32 trillion shadow economy that operates parallel to our world.</p>
+      <a href="{{ site.baseurl }}/books/Dark_Money_Empire" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Bilderberg_Exposed.webp" alt="Bilderberg Exposed Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Bilderberg Exposed</h3>
@@ -99,35 +108,40 @@ Dive into the complex world of global economics, financial markets, and power st
       <a href="{{ site.baseurl }}/books/weaponized-economy" class="btn">Read More</a>
     </div>
   </div>
-  
+
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Silver-Empire-The-Forgotten-Metal.webp" alt="Silver Empire Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Silver_Empire.webp" alt="Silver Empire Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Silver Empire</h3>
-      <p>Discover the extraordinary story of silver, a forgotten metal with dual powers as both a precious store of wealth and an irreplaceable industrial resource.</p>
+      <p>An extraordinary exploration of silver's crucial role in human history and modern technology. Rodriguez reveals how this overlooked metal has shaped economies for centuries.</p>
       <a href="{{ site.baseurl }}/books/silver-empire" class="btn">Read More</a>
     </div>
   </div>
-  
+
   <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Trillion_Dollar_Shadow.webp" alt="The Trillion Dollar Shadow Book Cover" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Trillion Dollar Shadow</h3>
-      <p>Discover how John Bogle's revolutionary index fund strategy created Vanguard, a financial behemoth that transformed global investing.</p>
+      <p>The untold story of how John Bogle's revolutionary index fund concept transformed into Vanguard Group, a financial giant managing over $10 trillion in assets.</p>
       <a href="{{ site.baseurl }}/books/trillion-dollar-shadow" class="btn">Read More</a>
     </div>
   </div>
 </div>
 
-## Publications Overview
+## About Michael Rodriguez's Work
 
-Rodriguez is known for his meticulously researched books that reveal the hidden mechanisms behind global economic systems:
+Michael Rodriguez combines economic theory, historical analysis, and investigative research to uncover connections between financial institutions, technological innovation, and broader social and political trends. His interdisciplinary approach allows him to identify patterns that others miss, making his analyses particularly valuable in today's complex global economy.
+
+## Complete Bibliography
+
+### Dark Money Empire: Inside the Secret Laundering Networks of Presidents, Oligarchs, Nazis and Rock Stars (2025)
+A groundbreaking investigation into the $32 trillion shadow economy that operates parallel to our world. Rodriguez exposes how dictators, oligarchs, Nazi war criminals, and celebrity musicians use sophisticated offshore networks to hide billions while undermining democratic institutions and economic justice.
 
 ### Bilderberg Exposed: The Shadow Architects of Global Power (2025)
-A groundbreaking 70-year investigation into the world's most secretive power network. Rodriguez exposes how the Bilderberg Club has shaped everything from NATO's expansion and European integration to financial crises and pandemic responses. This comprehensive analysis reveals the club's evolution from a Cold War discussion forum to arguably the most influential informal institution in modern history, operating through a sophisticated three-tier system that coordinates Western policy away from public scrutiny.
+The first comprehensive investigation into the Bilderberg Group's seven-decade evolution from Cold War forum to modern global governance mechanism. Rodriguez reveals how this secretive organization has shaped everything from NATO's expansion to today's digital transformation, operating as an informal world government when formal coordination proves impossible.
 
 ### Passport Power: How Your Travel Document Shapes Global Economics and Your Personal Freedom (2025)
-The definitive investigation into how passports shape human destiny in the modern world. Rodriguez traces the evolution from ancient biblical passes to quantum-encrypted digital identities, revealing how geography becomes destiny through the "birth lottery." This comprehensive analysis exposes the hidden economic forces behind passport rankings, the $50 billion "golden citizenship" industry, and the coming digital identity revolution that will redefine belonging itself. Essential reading for understanding how climate migration, technological surveillance, and new forms of global integration will transform citizenship in the 21st century.
+This comprehensive analysis exposes the hidden economic forces behind passport rankings, the $50 billion "golden citizenship" industry, and the coming digital identity revolution that will redefine belonging itself. Essential reading for understanding how climate migration, technological surveillance, and new forms of global integration will transform citizenship in the 21st century.
 
 ### Warren Buffett: How to Become THE RICHEST? (2025)
 The definitive biographical analysis of Warren Buffett's journey from childhood entrepreneur to the world's greatest investor. Rodriguez reveals the psychological forces, family dynamics, and strategic decisions that enabled Buffett's unprecedented success, while examining controversial aspects of his empire that mainstream biographies often overlook.
@@ -162,3 +176,11 @@ An examination of how nations increasingly use economic tools as weapons in glob
 ### Previous Works
 - Technological Breakthroughs of World War II: How War Changed Our World (2023)
 - Stoicism in Business: Ancient Philosophy for Modern Leaders (2022)
+
+## Stay Connected
+
+<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
+  <h3 style="margin-top: 0; color: #1a3c65;">Get Exclusive Insights</h3>
+  <p>Join thousands of readers who receive expert analysis on global economics, financial markets, and technological trends that mainstream media won't cover.</p>
+  <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
+</div>
