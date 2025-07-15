@@ -17,6 +17,15 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/DARK MONEY EMPIRE.webp" alt="Dark Money Empire Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>Dark Money Empire</h3>
+      <p>Uncover how presidents, oligarchs, Nazis and rock stars launder billions through secret offshore networks. Expose the $32 trillion shadow economy that operates parallel to our world.</p>
+      <a href="{{ site.baseurl }}/books/Dark_Money_Empire" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Bilderberg_Exposed.webp" alt="Bilderberg Exposed Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>Bilderberg Exposed</h3>
@@ -94,18 +103,20 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/"
 </div>
 
 ## About the Author
-<p>Michael Rodriguez combines economic theory, historical analysis, and investigative research to uncover connections between financial institutions, technological innovation, and broader social and political trends. His interdisciplinary approach allows him to identify patterns that others miss, making his analyses particularly valuable in today's complex global economy.</p>
+<p>Michael Rodriguez combines economic theory, historical analysis, and investigative research to uncover connections between financial institutions, technological innovation, and broader social and political trends.</p>
 
-<p>With over fifteen years of experience studying international economic systems, Rodriguez offers unique perspectives on financial bubbles, structural economic imbalances, and the hidden forces shaping our economic future.</p>
+<p>With over fifteen years of experience in economic analysis and investigative journalism, Rodriguez specializes in examining how global power structures operate through informal networks, technological systems, and financial markets.</p>
 
-<p><a href="{{ site.baseurl }}/about">Learn more about Michael Rodriguez</a></p>
+<p>His work bridges the gap between academic research and accessible storytelling, making complex economic and political concepts understandable to general audiences while maintaining analytical rigor.</p>
 
-<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
-  <h3 style="margin-top: 0; color: #1a3c65;">Stay Informed About New Releases</h3>
-  <p>Subscribe to receive exclusive updates, early access opportunities, and insights on upcoming books by Michael Rodriguez.</p>
-  <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
+<div style="text-align: center; margin: 30px 0;">
+  <a href="{{ site.baseurl }}/about/" class="btn btn-primary">Learn More About Michael Rodriguez</a>
 </div>
 
-## Contact
-<p>For media inquiries, speaking engagements, or other questions:</p>
-<p><strong>Email:</strong> <a href="mailto:marlonturner135@gmail.com">marlonturner135@gmail.com</a></p>
+## Stay Connected
+
+<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
+  <h3 style="margin-top: 0; color: #1a3c65;">Get Exclusive Insights</h3>
+  <p>Join thousands of readers who receive expert analysis on global economics, financial markets, and technological trends that mainstream media won't cover.</p>
+  <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
+</div>
