@@ -5,32 +5,10 @@ description: "Uncover how presidents, oligarchs, Nazis and rock stars launder bi
 canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Dark_Money_Empire"
 ---
 
-<!-- Resource Hints для ускорения загрузки -->
-<link rel="dns-prefetch" href="//michael-rodriguez.kit.com">
-<link rel="dns-prefetch" href="//fonts.googleapis.com">
-<link rel="preconnect" href="https://cdnjs.cloudflare.com">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
-<!-- Критический CSS -->
-<style>
-.book-buttons{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:15px}.book-btn{background-color:#1a3c65;color:white;padding:10px 16px;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;text-align:center;min-width:110px;transition:transform .2s ease,box-shadow .2s ease;box-shadow:0 2px 4px rgba(0,0,0,.1)}.book-btn:hover{transform:translateY(-1px);box-shadow:0 4px 8px rgba(0,0,0,.15);text-decoration:none;color:white}.book-btn-apple{background-color:#000}.book-btn-apple:hover{background-color:#333}.book-btn-kobo{background-color:#1e90ff}.book-btn-kobo:hover{background-color:#1c7ed6}.book-btn-smash{background-color:#ff6347}.book-btn-smash:hover{background-color:#e55347}.book-btn-bn{background-color:#2e8b57}.book-btn-bn:hover{background-color:#228b22}@media (max-width:768px){.book-buttons{flex-direction:column}.book-btn{width:100%;margin-bottom:5px}}
-</style>
-
-<!-- Асинхронная загрузка Font Awesome -->
-<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"></noscript>
-
 # Dark Money Empire
 ## Inside the Secret Laundering Networks of Presidents, Oligarchs, Nazis and Rock Stars
 
-<img src="{{ site.baseurl }}/assets/images/DARK MONEY EMPIRE.webp" 
-     alt="Dark Money Empire: Inside the Secret Laundering Networks of Presidents, Oligarchs, Nazis and Rock Stars" 
-     style="max-width: 300px; margin: 0 auto 20px; display: block;"
-     loading="eager" 
-     fetchpriority="high"
-     width="300" 
-     height="450">
+<img src="{{ site.baseurl }}/assets/images/DARK MONEY EMPIRE.webp" alt="Dark Money Empire: Inside the Secret Laundering Networks of Presidents, Oligarchs, Nazis and Rock Stars" style="max-width: 300px; margin: 0 auto 20px; display: block;">
 
 *By Michael Rodriguez*
 
@@ -90,7 +68,7 @@ What sets Rodriguez apart is his ability to humanize complex financial crimes by
 <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #1a3c65;">
   <h4 style="margin-top: 0; color: #1a3c65;">📚 Available Now</h4>
   
-  <div class="book-buttons">
+  <div class="book-buttons" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
     <a href="https://www.smashwords.com/books/view/1810791" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-smash">📚 Smashwords</a>
     <a href="https://books.apple.com/us/book/dark-money-empire-inside-the-secret-laundering/id6748650137" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-apple">🍎 Apple Books</a>
     <a href="https://www.kobo.com/ww/en/ebook/dark-money-empire" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-kobo">📖 Kobo</a>
@@ -102,6 +80,51 @@ What sets Rodriguez apart is his ability to humanize complex financial crimes by
     <strong>📖 ISBN:</strong> 9798231686230
   </p>
 </div>
+
+<style>
+.book-btn {
+  background-color: #1a3c65;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  min-width: 110px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.book-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  text-decoration: none;
+  color: white;
+}
+
+.book-btn-apple { background-color: #000; }
+.book-btn-apple:hover { background-color: #333; }
+
+.book-btn-kobo { background-color: #1e90ff; }
+.book-btn-kobo:hover { background-color: #1c7ed6; }
+
+.book-btn-smash { background-color: #ff6347; }
+.book-btn-smash:hover { background-color: #e55347; }
+
+.book-btn-bn { background-color: #2e8b57; }
+.book-btn-bn:hover { background-color: #228b22; }
+
+@media (max-width: 768px) {
+  .book-buttons {
+    flex-direction: column;
+  }
+  .book-btn {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+}
+</style>
 
 *First edition: July 2025*  
 *Published by Resource Economics Press*  
@@ -132,18 +155,5 @@ ISBN: 9798231686230 (eBook)
 <div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
   <h3 style="margin-top: 0; color: #1a3c65;">Expose the Dark Money Networks Controlling Your World</h3>
   <p>Join thousands of readers who receive exclusive analysis on offshore banking, money laundering schemes, and the hidden financial networks that drain resources from democratic societies. Get insights that mainstream media will never share.</p>
-  <div id="newsletter-container"></div>
+  <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
 </div>
-
-<!-- Отложенная загрузка скрипта newsletter -->
-<script>
-window.addEventListener('load', function() {
-  setTimeout(function() {
-    var script = document.createElement('script');
-    script.src = 'https://michael-rodriguez.kit.com/b2a1614bc4/index.js';
-    script.async = true;
-    script.setAttribute('data-uid', 'b2a1614bc4');
-    document.getElementById('newsletter-container').appendChild(script);
-  }, 1000);
-});
-</script>
