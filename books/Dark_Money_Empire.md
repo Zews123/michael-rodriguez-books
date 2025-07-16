@@ -71,7 +71,7 @@ What sets Rodriguez apart is his ability to humanize complex financial crimes by
   <div class="book-buttons" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
     <a href="https://www.smashwords.com/books/view/1810791" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-smash">📚 Smashwords</a>
     <a href="https://books.apple.com/us/book/dark-money-empire-inside-the-secret-laundering/id6748650137" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-apple">🍎 Apple Books</a>
-    <a href="https://www.kobo.com/ww/en/ebook/dark-money-empire" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-kobo">📖 Kobo</a>
+    <a href="https://www.kobo.com/ww/en/ebook/dark-money-empire-inside-the-secret-laundering-networks-of-presidents-oligarchs-nazis-and-rock-stars" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-kobo">📖 Kobo</a>
     <a href="https://www.barnesandnoble.com/w/dark-money-empire-michael-rodriguez/1147636040" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-bn">🏪 Barnes & Noble</a>
   </div>
   
@@ -130,6 +130,7 @@ What sets Rodriguez apart is his ability to humanize complex financial crimes by
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
 
+ISBN: 9798230931799 (Hardcover)
 ISBN: 9798231686230 (eBook)
 
 ## Share This Book
