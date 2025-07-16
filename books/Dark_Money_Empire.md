@@ -131,7 +131,7 @@ What sets Rodriguez apart is his ability to humanize complex financial crimes by
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
 
-ISBN: 9798230931799 (Hardcover)
+ISBN: 9798230931799 (Hardcover)  
 ISBN: 9798231686230 (eBook)
 
 ## Share This Book
