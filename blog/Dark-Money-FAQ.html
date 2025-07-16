@@ -96,7 +96,7 @@ blockquote {
 
 <h1>Dark Money FAQ: The 12 Most Essential Questions About Secret Wealth Networks</h1>
 
-<p class="date">Published on July 16, 2025</p>
+<p class="date">Published on July 2, 2025</p>
 
 <img src="{{ site.baseurl }}/assets/images/social/Dark_Money_Empire-Blog.webp" 
      alt="Dark Money FAQ 2025" 
@@ -232,9 +232,11 @@ blockquote {
         <p class="book-title" style="margin-top: 0;">Dark Money Empire: How Billionaires, Oligarchs, and Criminals Hide Their Wealth</p>
         <p class="book-author">By Michael Rodriguez</p>
         <p class="book-description">Expose the shocking $32 trillion shadow economy where presidents, oligarchs, Nazi war criminals, and rock stars hide their wealth. From Swiss banks laundering Nazi gold to modern cryptocurrency schemes, discover how dark money networks drain resources from democratic societies while ordinary citizens pay the price.</p>
-        <div class="book-buttons">
-            <a href="https://books2read.com/u/4jlDrG" class="buy-button" target="_blank" rel="noopener noreferrer">Universal Book Link</a> | 
-            <a href="https://books.apple.com/us/book/dark-money-empire-how-billionaires-oligarchs/id6746849749" class="buy-button" target="_blank" rel="noopener noreferrer">Apple Books</a>
+        <div class="book-buttons" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
+            <a href="https://books.apple.com/us/book/dark-money-empire-how-billionaires-oligarchs/id6746849749" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-apple">🍎 Apple Books</a>
+            <a href="https://www.kobo.com/ww/en/ebook/dark-money-empire-how-billionaires-oligarchs-and-criminals-hide-their-wealth" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-kobo">📖 Kobo</a>
+            <a href="https://www.smashwords.com/books/view/1782345" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-smash">📚 Smashwords</a>
+            <a href="https://www.barnesandnoble.com/w/dark-money-empire-michael-rodriguez/1147530890" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-bn">🏪 Barnes & Noble</a>
         </div>
         <div class="learn-more-container" style="margin-top: 10px;">
             <a href="../books/Dark_Money_Empire" class="learn-more">Learn More</a>
@@ -355,5 +357,48 @@ ol li {
 .buy-button:hover, .learn-more:hover {
     color: #e74c3c;
     text-decoration: underline;
+}
+
+.book-btn {
+    background-color: #1a3c65;
+    color: white;
+    padding: 10px 16px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+    min-width: 110px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.book-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    text-decoration: none;
+    color: white;
+}
+
+.book-btn-apple { background-color: #000; }
+.book-btn-apple:hover { background-color: #333; }
+
+.book-btn-kobo { background-color: #1e90ff; }
+.book-btn-kobo:hover { background-color: #1c7ed6; }
+
+.book-btn-smash { background-color: #ff6347; }
+.book-btn-smash:hover { background-color: #e55347; }
+
+.book-btn-bn { background-color: #2e8b57; }
+.book-btn-bn:hover { background-color: #228b22; }
+
+@media (max-width: 768px) {
+    .book-buttons {
+        flex-direction: column;
+    }
+    .book-btn {
+        width: 100%;
+        margin-bottom: 5px;
+    }
 }
 </style>
