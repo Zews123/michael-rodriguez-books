@@ -112,6 +112,18 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 <div class="blog-grid">
   <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Dark_Money_Empire-Blog.webp" alt="Dark Money FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">July 16, 2025</span>
+      <h2>Dark Money FAQ: 12 Essential Questions About Secret Wealth Networks</h2>
+      <p>Get clear answers about dark money, offshore banking, and money laundering. Expert insights into the $32 trillion shadow economy affecting your life.</p>
+      <a href="{{ site.baseurl }}/blog/Dark-Money-FAQ.html" class="read-more">Read More</a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/Bilderberg_Exposed-Rodriguez.webp" alt="Bilderberg Group FAQ 2025">
     </div>
     <div class="blog-card-content">
@@ -201,62 +213,56 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
     <div class="blog-card-content">
       <span class="blog-date">April 10, 2025</span>
       <h2>Silver Empire: The Critical Metal Powering Our Modern World</h2>
-      <p>Explore how silver has become an essential component in renewable energy, electronics, and medical technology. This analysis reveals why this often-overlooked metal may become one of the most strategic resources of the 21st century.</p>
+      <p>Explore how silver has become an essential component in renewable energy, electronics, and medical technology. Rodriguez reveals why silver shortages could threaten the global push toward sustainability and technological advancement.</p>
       <a href="{{ site.baseurl }}/blog/silver-empire.html" class="read-more">Read More</a>
     </div>
   </div>
-  
+
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/trillion-dollar-shadow-3D.png" alt="The Trillion Dollar Shadow">
+      <img src="{{ site.baseurl }}/assets/images/social/Weaponized_Economy.png" alt="The Weaponized Economy">
     </div>
     <div class="blog-card-content">
-      <span class="blog-date">April 9, 2025</span>
-      <h2>The Trillion Dollar Shadow: How Vanguard Quietly Revolutionized Global Finance</h2>
-      <p>Discover the untold story of Vanguard Group and John Bogle's revolutionary impact on global finance. From student thesis to trillion-dollar empire, this exposé reveals how a single investment company wields unprecedented power over the world economy.</p>
-      <a href="{{ site.baseurl }}/blog/the-trillion-dollar-shadow-how-vanguard-quietly-revolutionized-global-finance.html" class="read-more">Read More</a>
-    </div>
-  </div>
-  
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" alt="Weaponized Economy">
-    </div>
-    <div class="blog-card-content">
-      <span class="blog-date">April 10, 2025</span>
-      <h2>Weaponized Economy — How Trade Wars Shape Our Future</h2>
-      <p>Discover the hidden history of trade wars and how economic weapons redefine global power. Based on the groundbreaking book by Michael Rodriguez, this analysis explores how nations weaponize trade and economic policy to achieve geopolitical objectives.</p>
+      <span class="blog-date">March 18, 2025</span>
+      <h2>The Weaponized Economy: How Financial Systems Have Become the New Battlefield</h2>
+      <p>Explore how economic sanctions, financial warfare, and monetary control have replaced traditional military might as the preferred tools of global conflict. Rodriguez exposes the transformation of international finance into a weapon system.</p>
       <a href="{{ site.baseurl }}/blog/weaponized-economy.html" class="read-more">Read More</a>
     </div>
   </div>
-  
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" alt="The PayPal Mafia">
-    </div>
-    <div class="blog-card-content">
-      <span class="blog-date">April 10, 2025</span>
-      <h2>The PayPal Mafia: How Silicon Valley's Secret Network Reshaped Global Finance</h2>
-      <p>Discover how a small group of tech innovators from PayPal created a powerful network that revolutionized finance, technology, and politics by championing cryptocurrency and challenging traditional banking systems.</p>
-      <a href="{{ site.baseurl }}/blog/the-paypal-mafia.html" class="read-more">Read More</a>
-    </div>
-  </div>
-  
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/the-chinese-real-estate-bubble-3D.png" alt="The Chinese Real Estate Bubble">
-    </div>
-    <div class="blog-card-content">
-      <span class="blog-date">April 10, 2025</span>
-      <h2>The Chinese Real Estate Bubble: An Economy That Could Collapse the World</h2>
-      <p>Explore how China's massive real estate bubble threatens the global economy in this eye-opening analysis by Michael Rodriguez. Discover why experts warn that the collapse of China's property market could trigger a worldwide financial crisis that affects us all.</p>
-      <a href="{{ site.baseurl }}/blog/china-property-crisis-global-threat.html" class="read-more">Read More</a>
-    </div>
-  </div>
-</div>
 
-<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 40px 0; border: 1px solid #ddd; text-align: center;">
-  <h3 style="margin-top: 0; color: #1a3c65; font-size: 1.5rem;">Stay Informed About Financial Freedom</h3>
-  <p style="margin-bottom: 20px; font-size: 1.1rem;">Subscribe to receive exclusive analysis, early access to new content, and insights on how global economic shifts affect your financial sovereignty.</p>
-  <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/The_Chinese_Real_Estate_Bubble.webp" alt="The Chinese Real Estate Bubble">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">March 3, 2025</span>
+      <h2>The Chinese Real Estate Bubble: A Ticking Time Bomb for the Global Economy</h2>
+      <p>China's $52 trillion property market represents the world's largest asset bubble. Rodriguez reveals how millions of empty apartments, ghost cities, and unsustainable debt levels threaten to trigger a global financial crisis.</p>
+      <a href="{{ site.baseurl }}/blog/chinese-real-estate-bubble.html" class="read-more">Read More</a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Trillion-Dollar-Shadow.png" alt="The Trillion Dollar Shadow">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">February 20, 2025</span>
+      <h2>The Trillion Dollar Shadow: How Passive Investing Is Reshaping Capitalism</h2>
+      <p>Uncover how index funds and ETFs have created a new form of "shadow ownership" that concentrates unprecedented power in the hands of a few giant asset managers, fundamentally altering how markets work.</p>
+      <a href="{{ site.baseurl }}/blog/trillion-dollar-shadow.html" class="read-more">Read More</a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/3.png" alt="Passport Power">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">February 1, 2025</span>
+      <h2>Passport Power: How Your Travel Document Shapes Your Economic Future</h2>
+      <p>Your passport isn't just a travel document—it's an economic asset worth millions. Rodriguez reveals how citizenship determines access to opportunities, wealth, and freedom in our interconnected yet divided world.</p>
+      <a href="{{ site.baseurl }}/blog/passport-power.html" class="read-more">Read More</a>
+    </div>
+  </div>
 </div>
