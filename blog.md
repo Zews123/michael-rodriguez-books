@@ -244,13 +244,13 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/Trillion-Dollar-Shadow.png" alt="The Trillion Dollar Shadow">
+      <img src="{{ site.baseurl }}/assets/images/social/trillion-dollar-shadow-3D.png" alt="The Trillion Dollar Shadow">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">February 20, 2025</span>
       <h2>The Trillion Dollar Shadow: How Passive Investing Is Reshaping Capitalism</h2>
       <p>Uncover how index funds and ETFs have created a new form of "shadow ownership" that concentrates unprecedented power in the hands of a few giant asset managers, fundamentally altering how markets work.</p>
-      <a href="{{ site.baseurl }}/blog/trillion-dollar-shadow.html" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}/blog/the-trillion-dollar-shadow-how-vanguard-quietly-revolutionized-global-finance.html" class="read-more">Read More</a>
     </div>
   </div>
 
