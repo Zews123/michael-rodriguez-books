@@ -232,7 +232,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/The_Chinese_Real_Estate_Bubble.webp" alt="The Chinese Real Estate Bubble">
+      <img src="{{ site.baseurl }}/assets/images/social/the-chinese-real-estate-bubble-3D.png" alt="The Chinese Real Estate Bubble">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">March 3, 2025</span>
