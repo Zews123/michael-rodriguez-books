@@ -238,7 +238,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
       <span class="blog-date">March 3, 2025</span>
       <h2>The Chinese Real Estate Bubble: A Ticking Time Bomb for the Global Economy</h2>
       <p>China's $52 trillion property market represents the world's largest asset bubble. Rodriguez reveals how millions of empty apartments, ghost cities, and unsustainable debt levels threaten to trigger a global financial crisis.</p>
-      <a href="{{ site.baseurl }}/blog/blog/china-property-crisis-global-threat.html" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}/blog/china-property-crisis-global-threat.html" class="read-more">Read More</a>
     </div>
   </div>
 
