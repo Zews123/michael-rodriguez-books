@@ -220,7 +220,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/Weaponized_Economy.png" alt="The Weaponized Economy">
+      <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.png" alt="The Weaponized Economy">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">March 18, 2025</span>
