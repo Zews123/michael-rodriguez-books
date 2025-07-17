@@ -253,16 +253,4 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
       <a href="{{ site.baseurl }}/blog/the-trillion-dollar-shadow-how-vanguard-quietly-revolutionized-global-finance.html" class="read-more">Read More</a>
     </div>
   </div>
-
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/3.png" alt="Passport Power">
-    </div>
-    <div class="blog-card-content">
-      <span class="blog-date">February 1, 2025</span>
-      <h2>Passport Power: How Your Travel Document Shapes Your Economic Future</h2>
-      <p>Your passport isn't just a travel document—it's an economic asset worth millions. Rodriguez reveals how citizenship determines access to opportunities, wealth, and freedom in our interconnected yet divided world.</p>
-      <a href="{{ site.baseurl }}/blog/passport-power.html" class="read-more">Read More</a>
-    </div>
-  </div>
 </div>
