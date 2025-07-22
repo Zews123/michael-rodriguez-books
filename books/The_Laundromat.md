@@ -114,3 +114,31 @@ What sets Rodriguez apart is his ability to humanize complex financial crimes by
 ---
 
 *"The laundromat has been running for over a century. Whether it continues for another century depends on people like you."* — Michael Rodriguez
+
+## Publication Information
+
+*First edition: July 2025*  
+*Published by Resource Economics Press*  
+*New York • London • Singapore*
+
+**ISBN:** 9798230931799 (Hardcover)  
+**ISBN:** 9798231686230 (eBook)
+
+## Share This Book
+
+Help others discover this book:
+
+<div class="social-share" style="margin: 30px 0;">
+  <a href="https://twitter.com/intent/tweet?text=Check out 'The Laundromat: How Presidents, Billionaires and Drug Lords Built the World's Biggest Money-Washing Machine' by Michael Rodriguez&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&via=MRodriguezBooks" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #1DA1F2;">
+    <i class="fab fa-twitter-square"></i>
+  </a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #3b5998;">
+    <i class="fab fa-facebook-square"></i>
+  </a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title=The Laundromat by Michael Rodriguez" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #0077b5;">
+    <i class="fab fa-linkedin"></i>
+  </a>
+  <a href="mailto:?subject=Check out this book: The Laundromat&body=I thought you might be interested in this book by Michael Rodriguez: {{ site.url }}{{ site.baseurl }}{{ page.url }}" style="display: inline-block; font-size: 24px; color: #333333;">
+    <i class="fas fa-envelope-square"></i>
+  </a>
+</div>
