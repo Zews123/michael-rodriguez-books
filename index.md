@@ -119,7 +119,7 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/"
 <p>His work bridges the gap between academic research and accessible storytelling, making complex economic and political concepts understandable to general audiences while maintaining analytical rigor.</p>
 
 <div style="text-align: center; margin: 30px 0;">
-  <a href="{{ site.baseurl }}/about/" class="btn btn-primary">Learn More About Michael Rodriguez</a>
+  <a href="{{ site.baseurl }}/contact" class="btn btn-primary">Contact Michael Rodriguez</a>
 </div>
 
 ## Stay Connected
