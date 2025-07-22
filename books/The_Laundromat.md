@@ -84,51 +84,53 @@ What sets Rodriguez apart is his ability to humanize complex financial crimes by
   text-decoration: none;
   font-weight: bold;
   display: inline-block;
-  transition: all 0.3s ease;
-  border: none;
-  cursor: pointer;
+  text-align: center;
+  min-width: 110px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 .book-btn:hover {
-  background-color: #0f2a4a;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-  color: white;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
   text-decoration: none;
+  color: white;
 }
 
-.book-btn-apple:hover { background-color: #007AFF; }
-.book-btn-kobo:hover { background-color: #68BC71; }
-.book-btn-smash:hover { background-color: #1e6091; }
-.book-btn-bn:hover { background-color: #00704a; }
+.book-btn-apple { background-color: #000; }
+.book-btn-apple:hover { background-color: #333; }
+
+.book-btn-kobo { background-color: #1e90ff; }
+.book-btn-kobo:hover { background-color: #1c7ed6; }
+
+.book-btn-smash { background-color: #ff6347; }
+.book-btn-smash:hover { background-color: #e55347; }
+
+.book-btn-bn { background-color: #2e8b57; }
+.book-btn-bn:hover { background-color: #228b22; }
+
+@media (max-width: 768px) {
+  .book-buttons {
+    flex-direction: column;
+  }
+  .book-btn {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+}
 </style>
-
-## Subscribe to Newsletter
-
-<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
-  <h3 style="margin-top: 0; color: #1a3c65;">🔍 Want exclusive insights into financial crime investigations?</h3>
-  <p>Join thousands of readers who get behind-the-scenes access to money laundering investigations, economic analysis, and early previews of upcoming exposés. Get insights that mainstream media will never share.</p>
-  <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
-</div>
-
----
-
-*"The laundromat has been running for over a century. Whether it continues for another century depends on people like you."* — Michael Rodriguez
-
-## Publication Information
 
 *First edition: July 2025*  
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
 
-**ISBN:** 9798230931799 (Hardcover)  
-**ISBN:** 9798231686230 (eBook)
+**ISBN:** 9798231896264 (Hardcover)  
+**ISBN:** 9798230685685 (eBook)
 
 ## Share This Book
 
-Help others discover this book:
-
 <div class="social-share" style="margin: 30px 0;">
+  <p style="margin-bottom: 15px; font-weight: 600;">Help others discover this book:</p>
   <a href="https://twitter.com/intent/tweet?text=Check out 'The Laundromat: How Presidents, Billionaires and Drug Lords Built the World's Biggest Money-Washing Machine' by Michael Rodriguez&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&via=MRodriguezBooks" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #1DA1F2;">
     <i class="fab fa-twitter-square"></i>
   </a>
@@ -142,3 +144,15 @@ Help others discover this book:
     <i class="fas fa-envelope-square"></i>
   </a>
 </div>
+
+## Subscribe to Newsletter
+
+<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
+  <h3 style="margin-top: 0; color: #1a3c65;">🔍 Want exclusive insights into financial crime investigations?</h3>
+  <p>Join thousands of readers who get behind-the-scenes access to money laundering investigations, economic analysis, and early previews of upcoming exposés. Get insights that mainstream media will never share.</p>
+  <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
+</div>
+
+---
+
+*"The laundromat has been running for over a century. Whether it continues for another century depends on people like you."* — Michael Rodriguez
