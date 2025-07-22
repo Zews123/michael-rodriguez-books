@@ -17,16 +17,6 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/THE_LAUNDROMAT.webp" alt="The Laundromat Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>The Laundromat</h3>
-      <p>Discover how presidents, billionaires, and drug lords built the world's biggest money-washing machine. Expose the $32 trillion shadow economy and century-long evolution of financial crime.</p>
-      <a href="{{ site.baseurl }}/books/The_Laundromat" class="btn">Read More</a>
-    </div>
-  </div>
-
-<div class="book-grid">
-  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/DARK MONEY EMPIRE.webp" alt="Dark Money Empire Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>Dark Money Empire</h3>
