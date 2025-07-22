@@ -69,78 +69,10 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/"
       <a href="{{ site.baseurl }}/books/imf-manipulates" class="btn">Read More</a>
     </div>
   </div>
+</div>
 
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/BlackRock-Empire.webp" alt="The BlackRock Empire Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>The BlackRock Empire</h3>
-      <p>Uncover how BlackRock became the world's most powerful financial institution, controlling trillions in assets and shaping global markets.</p>
-      <a href="{{ site.baseurl }}/books/blackrock-empire" class="btn">Read More</a>
-    </div>
-  </div>
-
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/George-Soros-Book-Cover.webp" alt="George Soros Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>George Soros: The Man the World Hates</h3>
-      <p>Uncover how one man shaped global markets, influenced politics across continents, and became the most controversial financier of our time.</p>
-      <a href="{{ site.baseurl }}/books/george-soros" class="btn">Read More</a>
-    </div>
-  </div>
-  
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" alt="The PayPal Mafia Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>The PayPal Mafia</h3>
-      <p>Uncover the incredible story of how a small group of entrepreneurs went on to reshape technology, finance, and global politics.</p>
-      <a href="{{ site.baseurl }}/books/paypal-mafia" class="btn">Read More</a>
-    </div>
-  </div>
-
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Weaponized-Economy.webp" alt="Weaponized Economy Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>Weaponized Economy</h3>
-      <p>Discover how economic warfare has replaced traditional conflicts and how financial weapons are reshaping global power structures.</p>
-      <a href="{{ site.baseurl }}/books/weaponized-economy" class="btn">Read More</a>
-    </div>
-  </div>
-
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Chinese-Real-Estate-Bubble.webp" alt="The Chinese Real Estate Bubble Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>The Chinese Real Estate Bubble</h3>
-      <p>Analyze the world's largest real estate market and its implications for global economic stability and China's political future.</p>
-      <a href="{{ site.baseurl }}/books/chinese-real-estate-bubble" class="btn">Read More</a>
-    </div>
-  </div>
-
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/The-Trillion-Dollar-Shadow.webp" alt="The Trillion Dollar Shadow Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>The Trillion Dollar Shadow</h3>
-      <p>Explore how passive investing is transforming capitalism and concentrating unprecedented economic power in the hands of a few giant asset managers.</p>
-      <a href="{{ site.baseurl }}/books/trillion-dollar-shadow" class="btn">Read More</a>
-    </div>
-  </div>
-
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Silver-Empire.webp" alt="Silver Empire Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>Silver Empire</h3>
-      <p>Discover the forgotten story of silver and how this precious metal continues to drive technological innovation, financial markets, and geopolitical power.</p>
-      <a href="{{ site.baseurl }}/books/silver-empire" class="btn">Read More</a>
-    </div>
-  </div>
-
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Warren_Buffett.webp" alt="Warren Buffett Book Cover" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>Warren Buffett</h3>
-      <p>Explore the investment philosophy, business strategies, and remarkable journey of the world's most successful investor and his impact on modern finance.</p>
-      <a href="{{ site.baseurl }}/books/Warren_Buffett" class="btn">Read More</a>
-    </div>
-  </div>
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="{{ site.baseurl }}/books/" class="btn btn-secondary" style="font-size: 1.1rem; padding: 0.75rem 2rem;">📚 View All Books</a>
 </div>
 
 ## About Michael Rodriguez
