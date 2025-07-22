@@ -71,7 +71,6 @@ What sets Rodriguez apart is his ability to humanize complex financial crimes by
   
   <p style="margin: 0; font-size: 0.9em; color: #666;">
     <strong>📖 Libraries:</strong> OverDrive, Hoopla, BorrowBox<br>
-    <strong>📖 ISBN:</strong> 9798227542915
   </p>
 </div>
 
