@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Michael Rodriguez - Economic Analyst and Author
+title: Michael Rodriguez - Economic Analyst & Author (2025)
 description: Explore insightful books by Michael Rodriguez on global economics, financial markets, and technological trends that shape our world.
 canonical_url: "https://zews123.github.io/michael-rodriguez-books/"
 ---
