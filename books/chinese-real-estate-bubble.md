@@ -8,7 +8,7 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/chinese-
 # The Chinese Real Estate Bubble
 ## An Economy That Could Collapse The World
 
-<img src="{{ site.baseurl }}/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE print.webp" alt="The Chinese Real Estate Bubble Book Cover" style="max-width: 300px; margin: 0 auto 20px; display: block;">
+<img src="{{ site.baseurl }}/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE print.webp" alt="The Chinese Real Estate Bubble: An Economy That Could Collapse The World - Economic Analysis by Michael Rodriguez" style="max-width: 300px; margin: 0 auto 20px; display: block;">
 
 *By Michael Rodriguez*
 
