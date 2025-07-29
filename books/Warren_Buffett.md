@@ -8,7 +8,7 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Warren_B
 # Warren Buffett
 ## How to Become THE RICHEST?
 
-<img src="{{ site.baseurl }}/assets/images/Warren_Buffett.webp" alt="Warren Buffett Book Cover" style="max-width: 300px; margin: 0 auto 20px; display: block;">
+<img src="{{ site.baseurl }}/assets/images/Warren_Buffett.webp" alt="Warren Buffett: How to Become THE RICHEST? - Investment Biography by Michael Rodriguez" style="max-width: 300px; margin: 0 auto 20px; display: block;">
 
 *By Michael Rodriguez*
 
