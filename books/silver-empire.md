@@ -8,7 +8,7 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/silver-e
 # Silver Empire
 ## The Forgotten Metal That Powers Modern Civilization
 
-<img src="{{ site.baseurl }}/assets/images/Silver-Empire-The-Forgotten-Metal.webp" alt="Silver Empire Book Cover" style="max-width: 300px; margin: 0 auto 20px; display: block;">
+<img src="{{ site.baseurl }}/assets/images/Silver-Empire-The-Forgotten-Metal.webp" alt="Silver Empire: The Forgotten Metal That Powers Modern Civilization - Investment Book by Michael Rodriguez" style="max-width: 300px; margin: 0 auto 20px; display: block;">
 
 *By Michael Rodriguez*
 
