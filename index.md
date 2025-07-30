@@ -17,6 +17,15 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Dopamine_Dealers.webp" alt="The Dopamine Dealers: How McDonald's, KFC & Burger King Turned Your Brain Into Their ATM by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The Dopamine Dealers</h3>
+      <p>Discover how McDonald's, KFC & Burger King use neuroscience to turn your brain into their ATM. Expose the sophisticated manipulation tactics behind fast food addiction.</p>
+      <a href="{{ site.baseurl }}/books/Dopamine_Dealers" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/THE_LAUNDROMAT.webp" alt="The Laundromat: How Presidents, Billionaires and Drug Lords Built the World's Biggest Money-Washing Machine by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>The Laundromat</h3>
