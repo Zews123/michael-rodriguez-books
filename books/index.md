@@ -11,6 +11,15 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Dopamine_Dealers.webp" alt="The Dopamine Dealers: How McDonald's, KFC & Burger King Turned Your Brain Into Their ATM by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The Dopamine Dealers</h3>
+      <p>Discover how McDonald's, KFC & Burger King use neuroscience to turn your brain into their ATM. Expose the sophisticated manipulation tactics behind fast food addiction.</p>
+      <a href="{{ site.baseurl }}/books/Dopamine_Dealers" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/THE_LAUNDROMAT.webp" alt="The Laundromat: How Presidents, Billionaires and Drug Lords Built the World's Biggest Money-Washing Machine by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Laundromat</h3>
@@ -142,6 +151,9 @@ Dive into the complex world of global economics, financial markets, and power st
 Michael Rodriguez combines economic theory, historical analysis, and investigative research to uncover connections between financial institutions, technological innovation, and broader social and political trends. His interdisciplinary approach allows him to identify patterns that others miss, making his analyses particularly valuable in today's complex global economy.
 
 ## Complete Bibliography
+
+### The Dopamine Dealers: How McDonald's, KFC & Burger King Turned Your Brain Into Their ATM (2025)
+A groundbreaking investigation into the most sophisticated consumer manipulation campaign in human history. Rodriguez exposes how the world's largest fast food corporations have weaponized cutting-edge neuroscience to transform ordinary people into neurologically dependent customers who literally cannot resist their products. Drawing from leaked internal documents, interviews with former corporate insiders, and peer-reviewed studies spanning decades of research, this explosive exposé reveals the hidden science behind every "craving" you experience and provides practical strategies for reclaiming control over your own mind.
 
 ### The Laundromat: How Presidents, Billionaires and Drug Lords Built the World's Biggest Money-Washing Machine (2025)
 A groundbreaking investigation into the century-long evolution of money laundering, from Prohibition-era gangsters to AI-powered cryptocurrency schemes. Rodriguez exposes how a $32 trillion shadow economy operates parallel to legitimate finance, threatening the foundations of democratic governance worldwide.
