@@ -8,7 +8,7 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Passport
 # Passport Power
 ## How Your Travel Document Shapes Global Economics and Your Personal Freedom
 
-<img src="{{ site.baseurl }}/assets/images/Passport_Power.webp" alt="Passport Power Book Cover" style="max-width: 300px; margin: 0 auto 20px; display: block;">
+<img src="{{ site.baseurl }}/assets/images/Passport_Power.webp" alt="Passport Power: How Your Travel Document Shapes Global Economics and Personal Freedom by Michael Rodriguez" style="max-width: 300px; margin: 0 auto 20px; display: block;">
 
 *By Michael Rodriguez*
 
