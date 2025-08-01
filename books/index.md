@@ -51,7 +51,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>Passport Power</h3>
       <p>Discover how your travel document shapes global opportunities, economic freedom, and life chances. From ancient passes to digital citizenship revolution.</p>
-      <a href="{{ site.baseurl }}/books/passport-power" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/Passport-Power" class="btn">Read More</a>
     </div>
   </div>
 
@@ -69,7 +69,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>Digital Dollar Dystopia</h3>
       <p>Explore how Central Bank Digital Currencies threaten personal liberty, enable financial surveillance, and could create an unprecedented system of control.</p>
-      <a href="{{ site.baseurl }}/books/digital-dollar-dystopia" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/Digital-Dollar-Dystopia" class="btn">Read More</a>
     </div>
   </div>
 
