@@ -124,6 +124,18 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 <div class="blog-grid">
   <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/The Dopamine Dealers-3D.webp" alt="Fast Food Brain FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">August 1, 2025</span>
+      <h2>Fast Food Brain FAQ: 7 Essential Questions About Dopamine Addiction</h2>
+      <p>Expert answers about fast food dopamine addiction, McDonald's brain manipulation, and food psychology. Learn how to protect yourself from these tactics and understand the neuroscience behind food cravings.</p>
+      <a href="{{ site.baseurl }}/blog/Fast-Food-Brain-FAQ.html" class="read-more">Read More</a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/Dark_Money_Empire-Blog.webp" alt="Dark Money FAQ">
     </div>
     <div class="blog-card-content">
