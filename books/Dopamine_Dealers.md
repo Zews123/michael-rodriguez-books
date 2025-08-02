@@ -118,7 +118,7 @@ Through meticulous documentation and fearless reporting, Rodriguez illuminates t
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
 
-**ISBN:** x-00000000000 (Hardcover)  
+**ISBN:** 9798231482153 (Hardcover)  
 **ISBN:** 9798231823918 (eBook)
 
 ## Share This Book
