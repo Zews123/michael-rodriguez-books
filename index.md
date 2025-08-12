@@ -56,43 +56,16 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/"
     <img src="{{ site.baseurl }}/assets/images/Bilderberg_Exposed.webp" alt="Bilderberg Exposed: The Shadow Architects of Global Power - Political Analysis Book by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>Bilderberg Exposed</h3>
-      <p>Uncover 70 years of secret meetings that shaped world history. Expose how global elites coordinate policy behind closed doors, influencing everything from elections to economic crises.</p>
-      <a href="{{ site.baseurl }}/books/Bilderberg-Exposed" class="btn">Read More</a>
+      <p>Uncover 70 years of secret meetings that shaped world history. Discover how the Bilderberg Club influences global politics, economics, and your daily life.</p>
+      <a href="{{ site.baseurl }}/books/Bilderberg_Exposed" class="btn">Read More</a>
     </div>
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Black_Rock_Empire.webp" alt="BlackRock Empire: Global Asset Management and Financial Control by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>BlackRock Empire</h3>
-      <p>Explore how the world's largest asset manager controls $10 trillion and influences global markets, corporate governance, and economic policy worldwide.</p>
-      <a href="{{ site.baseurl }}/books/BlackRock-Empire" class="btn">Read More</a>
-    </div>
-  </div>
-
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/PayPal_Mafia.webp" alt="PayPal Mafia: How Silicon Valley Elite Built the Tech Empire by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>PayPal Mafia</h3>
-      <p>Discover how former PayPal executives created the most powerful tech empire in history, from Tesla to Facebook, reshaping business and global politics.</p>
-      <a href="{{ site.baseurl }}/books/paypal-mafia" class="btn">Read More</a>
-    </div>
-  </div>
-
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/george-soros.webp" alt="George Soros: Currency Speculator or Financial Terrorist? Economic Analysis by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>George Soros: Currency Speculator or Financial Terrorist?</h3>
-      <p>Analyze the controversial career of George Soros, from breaking the Bank of England to influencing global politics through financial markets and foundations.</p>
-      <a href="{{ site.baseurl }}/books/george-soros" class="btn">Read More</a>
-    </div>
-  </div>
-
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Passport-Power.webp" alt="Passport Power: The Rise and Fall of Global Citizenship by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <img src="{{ site.baseurl }}/assets/images/Passport_Power.webp" alt="Passport Power: How Your Travel Document Shapes Global Economics and Personal Freedom by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>Passport Power</h3>
-      <p>Explore the hidden economics of citizenship and how passports became tools of global inequality. From ancient passes to digital citizenship revolution.</p>
+      <p>Discover how your travel document shapes global opportunities, economic freedom, and life chances. From ancient passes to digital citizenship revolution.</p>
       <a href="{{ site.baseurl }}/books/Passport-Power" class="btn">Read More</a>
     </div>
   </div>
@@ -120,7 +93,34 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/"
     <div class="book-card-content">
       <h3>How the IMF Manipulates Countries</h3>
       <p>Uncover how the International Monetary Fund uses debt, structural adjustment, and currency manipulation to control nations and serve powerful global interests.</p>
-      <a href="{{ site.baseurl }}/books/IMF-Manipulates-Countries" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/imf-manipulates" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/BlackRock-Empire.webp" alt="The BlackRock Empire: World's Most Powerful Financial Institution Analysis by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The BlackRock Empire</h3>
+      <p>Uncover how BlackRock became the world's most powerful financial institution, controlling trillions in assets and shaping global markets.</p>
+      <a href="{{ site.baseurl }}/books/blackrock-empire" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/George-Soros-Book-Cover.webp" alt="George Soros: The Man the World Hates - Controversial Financier Biography by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>George Soros: The Man the World Hates</h3>
+      <p>Uncover how one man shaped global markets, influenced politics across continents, and became the most controversial financier of our time.</p>
+      <a href="{{ site.baseurl }}/books/george-soros" class="btn">Read More</a>
+    </div>
+  </div>
+  
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" alt="The PayPal Mafia: Silicon Valley's Secret Power Brokers - Tech History Book by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The PayPal Mafia</h3>
+      <p>Uncover the incredible story of how a small group of entrepreneurs went on to reshape technology, finance, and global politics.</p>
+      <a href="{{ site.baseurl }}/books/paypal-mafia" class="btn">Read More</a>
     </div>
   </div>
 </div>
