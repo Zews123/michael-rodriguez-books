@@ -11,6 +11,15 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Secrets_Medici.webp" alt="Secrets of the Medici: The Dark Aristocracy Behind Global Power by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Secrets of the Medici</h3>
+      <p>Expose how Renaissance banking dynasties created the blueprint for modern elite control. Discover 500+ years of hidden power networks operating through Vatican banks and European institutions.</p>
+      <a href="{{ site.baseurl }}/books/Secrets_Medici" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Dopamine_Dealers.webp" alt="The Dopamine Dealers: How McDonald's, KFC & Burger King Turned Your Brain Into Their ATM by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Dopamine Dealers</h3>
@@ -151,6 +160,9 @@ Dive into the complex world of global economics, financial markets, and power st
 Michael Rodriguez combines economic theory, historical analysis, and investigative research to uncover connections between financial institutions, technological innovation, and broader social and political trends. His interdisciplinary approach allows him to identify patterns that others miss, making his analyses particularly valuable in today's complex global economy.
 
 ## Complete Bibliography
+
+### Secrets of the Medici: The Dark Aristocracy Behind Global Power (2025)
+A groundbreaking investigation that exposes the hidden truth behind five centuries of elite family control that continues to shape our world today. Rodriguez traces how the legendary Medici banking dynasty created the foundational techniques for modern power projection, establishing networks of influence that their descendants—both biological and ideological—still use to control everything from European Central Bank policy to Vatican financial operations. Drawing from leaked diplomatic cables, genealogical records, financial documents, and testimonies from former intelligence operatives, this meticulously researched exposé reveals how power actually works in the modern world, demonstrating how ancient European families maintain influence across generations while remaining virtually invisible to democratic oversight.
 
 ### The Dopamine Dealers: How McDonald's, KFC & Burger King Turned Your Brain Into Their ATM (2025)
 A groundbreaking investigation into the most sophisticated consumer manipulation campaign in human history. Rodriguez exposes how the world's largest fast food corporations have weaponized cutting-edge neuroscience to transform ordinary people into neurologically dependent customers who literally cannot resist their products. Drawing from leaked internal documents, interviews with former corporate insiders, and peer-reviewed studies spanning decades of research, this explosive exposé reveals the hidden science behind every "craving" you experience and provides practical strategies for reclaiming control over your own mind.
