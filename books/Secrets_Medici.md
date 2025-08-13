@@ -120,7 +120,7 @@ Through meticulous documentation and fearless historical analysis, Rodriguez ill
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
 
-**ISBN:** x-xxxxxxxxxxx (Hardcover)  
+**ISBN:** 9798231481583 (Hardcover)  
 **ISBN:** 9798231497669 (eBook)
 
 ## Share This Book
