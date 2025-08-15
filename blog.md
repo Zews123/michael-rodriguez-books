@@ -117,7 +117,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
       <span class="blog-date">August 15, 2025</span>
       <h2>Medici Banking Secrets FAQ: 7 Questions About Hidden Elite Power Networks</h2>
       <p>Discover how the Medici banking dynasty created 500-year power networks that still control European Central Bank policy, Vatican finances, and Swiss banking through ancient bloodline connections. Expert answers to the most searched questions about Renaissance banking dynasties and modern elite control.</p>
-      <a href="{{ site.baseurl }}/blog/medici-banking-secrets-faq.html" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}/blog/Medici-Secrets-FAQ.html" class="read-more">Read More</a>
     </div>
   </div>
 
