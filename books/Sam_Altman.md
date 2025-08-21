@@ -1,14 +1,97 @@
 ---
 layout: default
-title: "AI Emperor: Sam Altman ChatGPT Revolution Save or Destroy"
-description: "Expose Sam Altman's rise to AI supremacy. How ChatGPT revolutionized society and one man gained unprecedented control over humanity's future."
+title: "The AI Emperor — Sam Altman & the ChatGPT Revolution (Book by Michael Rodriguez)"
+description: "The untold story of Sam Altman and the ChatGPT revolution—how AI could save or destroy our future. Read “The AI Emperor” by Michael Rodriguez."
 canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Sam_Altman"
+image: "/assets/images/Sam-Altman.webp"
+og_title: "The AI Emperor — Sam Altman & the ChatGPT Revolution"
+og_description: "Discover the untold story of Sam Altman and how the ChatGPT revolution could save or destroy our future."
+og_type: "book"
+twitter_card: "summary_large_image"
 ---
 
-# The AI Emperor
-## Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us
+<!-- Structured Data: Book + Breadcrumb + FAQ -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}{{ site.baseurl }}/" },
+        { "@type": "ListItem", "position": 2, "name": "Books", "item": "{{ site.url }}{{ site.baseurl }}/books/" },
+        { "@type": "ListItem", "position": 3, "name": "The AI Emperor" }
+      ]
+    },
+    {
+      "@type": "Book",
+      "name": "The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us",
+      "author": { "@type": "Person", "name": "Michael Rodriguez" },
+      "publisher": "Resource Economics Press",
+      "datePublished": "2025-01-01",
+      "inLanguage": "en",
+      "bookFormat": "EBook",
+      "isbn": "9798227128263",
+      "url": "{{ page.canonical_url | default: site.url }}",
+      "image": "{{ site.url }}{{ site.baseurl }}/assets/images/Sam-Altman.webp",
+      "sameAs": [
+        "https://www.smashwords.com/books/view/1837046",
+        "https://books.apple.com/us/book/the-ai-emperor-sam-altman-and-the-chatgpt/id6751287384",
+        "https://www.kobo.com/ww/en/ebook/the-ai-emperor-sam-altman-and-the-chatgpt-revolution-that-could-save-or-destroy-us?sId=a1fb6c38-523a-49ca-b20c-2207d68a84fd",
+        "https://www.barnesandnoble.com/w/the-ai-emperor-michael-rodriguez/1148080788?ean=2940180626233"
+      ],
+      "workExample": [
+        {
+          "@type": "Book",
+          "bookFormat": "Hardcover",
+          "isbn": "9798231694440"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Who is this book about?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sam Altman, the high-profile CEO linked to OpenAI and the ChatGPT revolution—his rise, power dynamics, and global impact of AI."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is unique about “The AI Emperor”?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It blends investigative reporting with institutional analysis, revealing the hidden power structures behind AI and their democratic implications."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this a pro‑ or anti‑AI book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It’s neither: the book presents both utopian and dystopian scenarios, arguing for accountability, transparency, and public‑interest governance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where can I buy the book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The book is available on Smashwords, Apple Books, Kobo and Barnes & Noble. Library distribution includes OverDrive, Hoopla and BorrowBox."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
-<img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us" style="max-width: 300px; margin: 0 auto 20px; display: block;">
+# The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us
+
+<img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us" loading="lazy" style="max-width: 300px; margin: 0 auto 20px; display: block;">
 
 *By Michael Rodriguez*
 
@@ -58,28 +141,18 @@ Analyze competing visions for AI's role in society, the potential for both utopi
 
 **The Economic Disruption Already Underway:** Analysis of ChatGPT's impact on employment, education, creative industries, and economic structures, revealing how AI adoption is creating new forms of inequality and concentrating economic benefits among technology owners.
 
-## About the Author
-
-**Michael Rodriguez** is an investigative journalist and institutional power analyst with over fifteen years of experience exposing the hidden networks that shape global technology, finance, and governance. His unique methodology combines traditional investigative journalism with deep institutional analysis, utilizing insider sources, leaked documents, and financial forensics to reveal how concentrated power operates in the modern world.
-
-Rodriguez's previous investigations include the internationally acclaimed "Dark Money Empire: Inside the Secret Laundering Networks of Presidents, Oligarchs, Nazis and Rock Stars," along with "The Dopamine Dealers," "Bilderberg Exposed," "The BlackRock Empire," "Digital Dollar Dystopia," and "Secrets of the Medici." His transition to technology power analysis reflects his recognition that understanding contemporary elite influence requires examining how Silicon Valley innovation intersects with broader patterns of institutional control.
-
-For "The AI Emperor," Rodriguez conducted extensive interviews with former OpenAI employees, Silicon Valley venture capitalists, AI safety researchers, and policy experts to construct the most comprehensive investigation yet published into how AI development decisions are made and who really controls humanity's most powerful technology. His analysis reveals not just what happened during the ChatGPT revolution, but why it represents a fundamental challenge to democratic governance and public accountability.
-
-Through fearless investigation and rigorous analysis, Rodriguez illuminates the hidden power structures behind technological innovation, helping readers understand not just how AI systems work, but why their development and deployment represent critical democratic issues that affect everyone. His work serves as both an exposé of current tech oligarchy and a warning about the future of human agency in an AI-dominated world.
-
 ## Get Your Copy Today
 
 <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #1a3c65;">
   <h4 style="margin-top: 0; color: #1a3c65;">🤖 Available Now</h4>
-  
+
   <div class="book-buttons" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
     <a href="https://www.smashwords.com/books/view/1837046" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-smash">📚 Smashwords</a>
     <a href="https://books.apple.com/us/book/the-ai-emperor-sam-altman-and-the-chatgpt/id6751287384" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-apple">🍎 Apple Books</a>
     <a href="https://www.kobo.com/ww/en/ebook/the-ai-emperor-sam-altman-and-the-chatgpt-revolution-that-could-save-or-destroy-us?sId=a1fb6c38-523a-49ca-b20c-2207d68a84fd" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-kobo">📖 Kobo</a>
     <a href="https://www.barnesandnoble.com/w/the-ai-emperor-michael-rodriguez/1148080788?ean=2940180626233" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-bn">🏪 Barnes & Noble</a>
   </div>
-  
+
   <p style="margin: 0; font-size: 0.9em; color: #666;">
     <strong>📖 Libraries:</strong> OverDrive, Hoopla, BorrowBox<br>
   </p>
