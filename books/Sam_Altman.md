@@ -10,6 +10,10 @@ og_type: "book"
 twitter_card: "summary_large_image"
 ---
 
+<!-- Критичные preload для производительности -->
+<link rel="preload" as="image" href="{{ site.baseurl }}/assets/images/Sam-Altman.webp" fetchpriority="high">
+<link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -37,12 +41,10 @@ twitter_card: "summary_large_image"
 }
 </script>
 
-
-
 # The AI Emperor
 ## Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us
 
-<img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us" width="300" height="400" style="max-width: 300px; margin: 0 auto 20px; display: block;" loading="lazy" decoding="async">
+<img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us" width="250" height="333" style="max-width: 250px; margin: 0 auto 20px; display: block;" loading="eager" decoding="async" fetchpriority="high">
 
 *By Michael Rodriguez*
 
