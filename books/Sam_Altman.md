@@ -10,24 +10,12 @@ og_type: "book"
 twitter_card: "summary_large_image"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Book",
-  "name": "The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us",
-  "author": { "@type": "Person", "name": "Michael Rodriguez" },
-  "publisher": "Resource Economics Press",
-  "datePublished": "2025-01-01",
-  "isbn": "9798227128263",
-  "url": "{{ page.canonical_url | default: site.url }}",
-  "image": "{{ site.url }}{{ site.baseurl }}/assets/images/Sam-Altman.webp"
-}
-</script>
+
 
 # The AI Emperor
 ## Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us
 
-<img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us" style="max-width: 300px; margin: 0 auto 20px; display: block;">
+<img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us" width="300" height="400" style="max-width: 300px; margin: 0 auto 20px; display: block;" loading="lazy" decoding="async">
 
 *By Michael Rodriguez*
 
@@ -105,48 +93,13 @@ Through fearless investigation and rigorous analysis, Rodriguez illuminates the 
 </div>
 
 <style>
-.book-btn {
-  background-color: #1a3c65;
-  color: white;
-  padding: 10px 16px;
-  border-radius: 6px;
-  text-decoration: none;
-  font-weight: bold;
-  display: inline-block;
-  text-align: center;
-  min-width: 110px;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-.book-btn:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
-  text-decoration: none;
-  color: white;
-}
-
-.book-btn-apple { background-color: #000; }
-.book-btn-apple:hover { background-color: #333; }
-
-.book-btn-kobo { background-color: #1e90ff; }
-.book-btn-kobo:hover { background-color: #1c7ed6; }
-
-.book-btn-smash { background-color: #ff6347; }
-.book-btn-smash:hover { background-color: #e55347; }
-
-.book-btn-bn { background-color: #2e8b57; }
-.book-btn-bn:hover { background-color: #228b22; }
-
-@media (max-width: 768px) {
-  .book-buttons {
-    flex-direction: column;
-  }
-  .book-btn {
-    width: 100%;
-    margin-bottom: 5px;
-  }
-}
+.book-btn{background:#1a3c65;color:white;padding:10px 16px;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;text-align:center;min-width:110px}
+.book-btn:hover{text-decoration:none;color:white}
+.book-btn-apple{background:#000}
+.book-btn-kobo{background:#1e90ff}
+.book-btn-smash{background:#ff6347}
+.book-btn-bn{background:#2e8b57}
+@media (max-width:768px){.book-buttons{flex-direction:column}.book-btn{width:100%;margin-bottom:5px}}
 </style>
 
 *First edition: January 2025*  
@@ -181,6 +134,6 @@ Through fearless investigation and rigorous analysis, Rodriguez illuminates the 
 
 <div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
   <h3 style="margin-top: 0; color: #1a3c65;">Get Exclusive Insights on AI & Tech Power</h3>
-  <p>Join thousands of readers who receive expert analysis on artificial intelligence, technology governance, and the hidden power structures shaping our digital future. Get insights that mainstream tech media won't cover.</p>
-  <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
+  <p>Join thousands of readers who receive expert analysis on artificial intelligence, technology governance, and the hidden power structures shaping our digital future.</p>
+  <a href="https://michael-rodriguez.kit.com/b2a1614bc4" target="_blank" rel="noopener noreferrer" style="background:#1a3c65;color:white;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block">Subscribe Now</a>
 </div>
