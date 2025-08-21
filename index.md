@@ -17,6 +17,15 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The AI Emperor</h3>
+      <p>Expose Sam Altman's rise to AI supremacy and the 96-hour corporate coup that transformed him into the unelected emperor of humanity's most powerful technology. Discover how ChatGPT revolutionized society.</p>
+      <a href="{{ site.baseurl }}/books/Sam_Altman" class="btn">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Secrets_Medici.webp" alt="Secrets of the Medici: The Dark Aristocracy Behind Global Power by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>Secrets of the Medici</h3>
@@ -47,79 +56,43 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/"
     <img src="{{ site.baseurl }}/assets/images/DARK MONEY EMPIRE.webp" alt="Dark Money Empire: Inside the Secret Laundering Networks of Presidents, Oligarchs, Nazis and Rock Stars by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>Dark Money Empire</h3>
-      <p>Uncover how presidents, oligarchs, Nazis and rock stars launder billions through secret offshore networks. Expose the $32 trillion shadow economy that operates parallel to our world.</p>
+      <p>Uncover how presidents, oligarchs, Nazis and rock stars launder billions through secret offshore networks. Follow the money from ancient bloodlines to modern cryptocurrencies.</p>
       <a href="{{ site.baseurl }}/books/Dark_Money_Empire" class="btn">Read More</a>
     </div>
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Bilderberg_Exposed.webp" alt="Bilderberg Exposed: The Shadow Architects of Global Power - Political Analysis Book by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <img src="{{ site.baseurl }}/assets/images/BILDERBERG.webp" alt="Bilderberg Exposed: The Real Global Shadow Government's Secret Agenda by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>Bilderberg Exposed</h3>
-      <p>Uncover 70 years of secret meetings that shaped world history. Discover how the Bilderberg Club influences global politics, economics, and your daily life.</p>
+      <p>Uncover the secretive annual meetings of world leaders, CEOs, and elite influencers. Discover the real agenda behind closed-door discussions that shape global politics and economics.</p>
       <a href="{{ site.baseurl }}/books/Bilderberg_Exposed" class="btn">Read More</a>
     </div>
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Passport_Power.webp" alt="Passport Power: How Your Travel Document Shapes Global Economics and Personal Freedom by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>Passport Power</h3>
-      <p>Discover how your travel document shapes global opportunities, economic freedom, and life chances. From ancient passes to digital citizenship revolution.</p>
-      <a href="{{ site.baseurl }}/books/Passport-Power" class="btn">Read More</a>
-    </div>
-  </div>
-
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Warren_Buffett.webp" alt="Warren Buffett: How to Become THE RICHEST? - Investment Strategy Book by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>Warren Buffett: How to Become THE RICHEST?</h3>
-      <p>Discover the untold story of Warren Buffett's journey from childhood entrepreneur to the world's greatest investor, revealing the psychology behind his unprecedented success.</p>
-      <a href="{{ site.baseurl }}/books/Warren_Buffett" class="btn">Read More</a>
-    </div>
-  </div>
-
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Digital_Dollar_Dystopia.webp" alt="Digital Dollar Dystopia: Central Bank Digital Currencies and Financial Control by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>Digital Dollar Dystopia</h3>
-      <p>Explore how Central Bank Digital Currencies threaten personal liberty, enable financial surveillance, and could create an unprecedented system of control.</p>
-      <a href="{{ site.baseurl }}/books/Digital-Dollar-Dystopia" class="btn">Read More</a>
-    </div>
-  </div>
-
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/How the IMF Manipulates Nations by Michael Rodrigez.webp" alt="How the IMF Manipulates Countries: Debt, Structural Adjustment and Currency Control by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>How the IMF Manipulates Countries</h3>
-      <p>Uncover how the International Monetary Fund uses debt, structural adjustment, and currency manipulation to control nations and serve powerful global interests.</p>
-      <a href="{{ site.baseurl }}/books/imf-manipulates" class="btn">Read More</a>
-    </div>
-  </div>
-
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/BlackRock-Empire.webp" alt="The BlackRock Empire: World's Most Powerful Financial Institution Analysis by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <img src="{{ site.baseurl }}/assets/images/BlackRock-Empire.webp" alt="The BlackRock Empire: How the Shadows Masters Control Global Finance & Politics by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>The BlackRock Empire</h3>
-      <p>Uncover how BlackRock became the world's most powerful financial institution, controlling trillions in assets and shaping global markets.</p>
-      <a href="{{ site.baseurl }}/books/blackrock-empire" class="btn">Read More</a>
+      <p>Discover how a single investment firm manages $10 trillion and shapes global economic policy. Explore the shadow financial empire influencing governments and global politics.</p>
+      <a href="{{ site.baseurl }}/books/BlackRock_Empire" class="btn">Read More</a>
     </div>
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/George-Soros-Book-Cover.webp" alt="George Soros: The Man the World Hates - Controversial Financier Biography by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <img src="{{ site.baseurl }}/assets/images/Central-Bank.webp" alt="Digital Dollar Dystopia: How Central Bank Digital Currencies Will End Financial Privacy Forever by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
-      <h3>George Soros: The Man the World Hates</h3>
-      <p>Uncover how one man shaped global markets, influenced politics across continents, and became the most controversial financier of our time.</p>
-      <a href="{{ site.baseurl }}/books/george-soros" class="btn">Read More</a>
+      <h3>Digital Dollar Dystopia</h3>
+      <p>Explore the coming transformation of money and its implications for privacy and freedom. Understand how Central Bank Digital Currencies could reshape financial surveillance and global politics.</p>
+      <a href="{{ site.baseurl }}/books/Digital_Dollar_Dystopia" class="btn">Read More</a>
     </div>
   </div>
-  
+
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" alt="The PayPal Mafia: Silicon Valley's Secret Power Brokers - Tech History Book by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <img src="{{ site.baseurl }}/assets/images/paypal-mafia.webp" alt="PayPal Mafia's Secret Empire: How Peter Thiel's Network Controls Tech, Politics & Global Finance by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
-      <h3>The PayPal Mafia</h3>
-      <p>Uncover the incredible story of how a small group of entrepreneurs went on to reshape technology, finance, and global politics.</p>
+      <h3>PayPal Mafia's Secret Empire</h3>
+      <p>Uncover how Peter Thiel's network from PayPal's early days controls today's tech giants, venture capital, and global politics.</p>
       <a href="{{ site.baseurl }}/books/paypal-mafia" class="btn">Read More</a>
     </div>
   </div>
