@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "AI Emperor: Sam Altman ChatGPT Revolution - Michael Rodriguez"
+title: "The AI Emperor: Sam Altman and the ChatGPT Revolution (Book)"
 description: "Expose Sam Altman's rise to AI supremacy. How ChatGPT revolutionized society and one man gained unprecedented control over humanity's future."
 canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Sam_Altman"
 image: "/assets/images/Sam-Altman.webp"
