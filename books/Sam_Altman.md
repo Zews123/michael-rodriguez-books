@@ -10,6 +10,33 @@ og_type: "book"
 twitter_card: "summary_large_image"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Rodriguez"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Resource Economics Press"
+  },
+  "datePublished": "2025-01-01",
+  "bookFormat": "EBook",
+  "isbn": "9798227128263",
+  "url": "{{ page.canonical_url }}",
+  "image": "{{ site.url }}{{ site.baseurl }}/assets/images/Sam-Altman.webp",
+  "description": "Expose Sam Altman's rise to AI supremacy. How ChatGPT revolutionized society and one man gained unprecedented control over humanity's future.",
+  "offers": {
+    "@type": "Offer",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.smashwords.com/books/view/1837046"
+  }
+}
+</script>
+
 
 
 # The AI Emperor
