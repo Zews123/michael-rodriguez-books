@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The AI Emperor: Sam Altman and the ChatGPT Revolution (Book)"
+title: "AI Emperor: Sam Altman ChatGPT Revolution - Michael Rodriguez"
 description: "Expose Sam Altman's rise to AI supremacy. How ChatGPT revolutionized society and one man gained unprecedented control over humanity's future."
 canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Sam_Altman"
 image: "/assets/images/Sam-Altman.webp"
@@ -13,31 +13,70 @@ twitter_card: "summary_large_image"
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Book",
-  "name": "The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us",
-  "author": {
-    "@type": "Person",
-    "name": "Michael Rodriguez"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Resource Economics Press"
-  },
-  "datePublished": "2025-01-01",
-  "bookFormat": "EBook",
-  "isbn": "9798227128263",
-  "url": "{{ page.canonical_url }}",
-  "image": "{{ site.url }}{{ site.baseurl }}/assets/images/Sam-Altman.webp",
-  "description": "Expose Sam Altman's rise to AI supremacy. How ChatGPT revolutionized society and one man gained unprecedented control over humanity's future.",
-  "offers": {
-    "@type": "Offer",
-    "availability": "https://schema.org/InStock",
-    "url": "https://www.smashwords.com/books/view/1837046"
-  }
+  "@graph": [
+    {
+      "@type": "Book",
+      "name": "The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us",
+      "author": {
+        "@type": "Person",
+        "name": "Michael Rodriguez"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Resource Economics Press"
+      },
+      "datePublished": "2025-01-01",
+      "bookFormat": "EBook",
+      "isbn": "9798227128263",
+      "url": "{{ page.canonical_url }}",
+      "image": "{{ site.url }}{{ site.baseurl }}/assets/images/Sam-Altman.webp",
+      "description": "Expose Sam Altman's rise to AI supremacy. How ChatGPT revolutionized society and one man gained unprecedented control over humanity's future.",
+      "offers": {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.smashwords.com/books/view/1837046"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Who is this book about?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sam Altman, the CEO of OpenAI and the ChatGPT revolution—his rise, power dynamics, and global impact of AI."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is unique about The AI Emperor?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It blends investigative reporting with institutional analysis, revealing hidden power structures behind AI and their democratic implications."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this a pro-AI or anti-AI book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Neither: the book presents both utopian and dystopian scenarios, arguing for accountability, transparency, and public-interest governance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where can I buy the book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Available on Smashwords, Apple Books, Kobo and Barnes & Noble. Library distribution includes OverDrive, Hoopla and BorrowBox."
+          }
+        }
+      ]
+    }
+  ]
 }
 </script>
-
-
 
 # The AI Emperor
 ## Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us
