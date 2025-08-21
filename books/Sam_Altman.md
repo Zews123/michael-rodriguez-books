@@ -37,6 +37,8 @@ twitter_card: "summary_large_image"
 }
 </script>
 
+
+
 # The AI Emperor
 ## Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us
 
