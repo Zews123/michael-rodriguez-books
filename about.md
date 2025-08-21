@@ -21,6 +21,10 @@ After studying Economics and International Relations at Georgetown University, R
 
 Rodriguez is known for his meticulously researched books that reveal the hidden mechanisms behind global economic systems, financial crime networks, and elite power structures:
 
+- **[The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us]({{ site.baseurl }}/books/Sam_Altman) (2025)** - *The explosive investigation exposing how one man accumulated unprecedented power over humanity's most transformative technology*
+- **[Secrets of the Medici: The Dark Aristocracy Behind Global Power]({{ site.baseurl }}/books/Secrets_Medici) (2025)** - *A groundbreaking investigation into 500+ years of elite family control networks operating through Vatican banks and European institutions*
+- **[The Dopamine Dealers: How McDonald's, KFC & Burger King Turned Your Brain Into Their ATM]({{ site.baseurl }}/books/Dopamine_Dealers) (2025)** - *Exposing the sophisticated neuroscience manipulation tactics behind fast food addiction*
+- **[The Laundromat: How Presidents, Billionaires and Drug Lords Built the World's Biggest Money-Washing Machine]({{ site.baseurl }}/books/The_Laundromat) (2025)** - *A groundbreaking investigation into the century-long evolution of money laundering and the $32 trillion shadow economy*
 - **[Dark Money Empire: Inside the Secret Laundering Networks of Presidents, Oligarchs, Nazis and Rock Stars]({{ site.baseurl }}/books/Dark_Money_Empire) (2025)** - *A groundbreaking investigation into the $32 trillion shadow economy and the sophisticated offshore networks used by criminals and elites to hide wealth*
 - **[Bilderberg Exposed: The Shadow Architects of Global Power]({{ site.baseurl }}/books/Bilderberg_Exposed) (2025)** - *A groundbreaking 70-year investigation into the world's most secretive power network and its influence on global politics and economics*
 - **[Passport Power: How Your Travel Document Shapes Global Economics and Your Personal Freedom]({{ site.baseurl }}/books/Passport-Power) (2025)** - *The definitive investigation into how passports shape human destiny, from ancient passes to digital citizenship revolution*
