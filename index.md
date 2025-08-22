@@ -31,7 +31,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The AI Emperor</h3>
       <p>Expose Sam Altman's rise to AI supremacy and the 96-hour corporate coup that transformed him into the unelected emperor of humanity's most powerful technology. Discover how ChatGPT revolutionized society.</p>
-      <a href="{{ site.baseurl }}/books/Sam_Altman" class="btn" aria-label="Read more about The AI Emperor book by Michael Rodriguez">Read More</a>
+      <a href="{{ site.baseurl }}/books/Sam_Altman" class="btn">Read "The AI Emperor"</a>
     </div>
   </div>
 
@@ -40,7 +40,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>Secrets of the Medici</h3>
       <p>Expose how Renaissance banking dynasties created the blueprint for modern elite control. Discover 500+ years of hidden power networks operating through Vatican banks and European institutions.</p>
-      <a href="{{ site.baseurl }}/books/Secrets_Medici" class="btn" aria-label="Read more about Secrets of the Medici book by Michael Rodriguez">Read More</a>
+      <a href="{{ site.baseurl }}/books/Secrets_Medici" class="btn">Explore "Secrets of the Medici"</a>
     </div>
   </div>
 
@@ -49,7 +49,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The Dopamine Dealers</h3>
       <p>Discover how McDonald's, KFC & Burger King use neuroscience to turn your brain into their ATM. Expose the sophisticated manipulation tactics behind fast food addiction.</p>
-      <a href="{{ site.baseurl }}/books/Dopamine_Dealers" class="btn" aria-label="Read more about The Dopamine Dealers book by Michael Rodriguez">Read More</a>
+      <a href="{{ site.baseurl }}/books/Dopamine_Dealers" class="btn">Discover "The Dopamine Dealers"</a>
     </div>
   </div>
 
@@ -58,7 +58,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The Laundromat</h3>
       <p>Discover how presidents, billionaires, and drug lords built the world's biggest money-washing machine. Expose the $32 trillion shadow economy and century-long evolution of financial crime.</p>
-      <a href="{{ site.baseurl }}/books/The_Laundromat" class="btn" aria-label="Read more about The Laundromat book by Michael Rodriguez">Read More</a>
+      <a href="{{ site.baseurl }}/books/The_Laundromat" class="btn">Read "The Laundromat"</a>
     </div>
   </div>
 
@@ -67,7 +67,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>Dark Money Empire</h3>
       <p>Uncover how presidents, oligarchs, Nazis and rock stars launder billions through secret offshore networks. Expose the $32 trillion shadow economy that operates parallel to our world.</p>
-      <a href="{{ site.baseurl }}/books/Dark_Money_Empire" class="btn" aria-label="Read more about Dark Money Empire book by Michael Rodriguez">Read More</a>
+      <a href="{{ site.baseurl }}/books/Dark_Money_Empire" class="btn">Explore "Dark Money Empire"</a>
     </div>
   </div>
 
@@ -76,7 +76,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>Bilderberg Exposed</h3>
       <p>Uncover 70 years of secret meetings that shaped world history. Discover how the Bilderberg Club influences global politics, economics, and your daily life.</p>
-      <a href="{{ site.baseurl }}/books/Bilderberg_Exposed" class="btn" aria-label="Read more about Bilderberg Exposed book by Michael Rodriguez">Read More</a>
+      <a href="{{ site.baseurl }}/books/Bilderberg_Exposed" class="btn">Uncover "Bilderberg Exposed"</a>
     </div>
   </div>
 
@@ -85,7 +85,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>Passport Power</h3>
       <p>Discover how your travel document shapes global opportunities, economic freedom, and life chances. From ancient passes to digital citizenship revolution.</p>
-      <a href="{{ site.baseurl }}/books/Passport-Power" class="btn" aria-label="Read more about Passport Power book by Michael Rodriguez">Read More</a>
+      <a href="{{ site.baseurl }}/books/Passport-Power" class="btn">Learn About "Passport Power"</a>
     </div>
   </div>
 
@@ -94,7 +94,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>Warren Buffett: How to Become THE RICHEST?</h3>
       <p>Discover the untold story of Warren Buffett's journey from childhood entrepreneur to the world's greatest investor, revealing the psychology behind his unprecedented success.</p>
-      <a href="{{ site.baseurl }}/books/Warren_Buffett" class="btn" aria-label="Read more about Warren Buffett book by Michael Rodriguez">Read More</a>
+      <a href="{{ site.baseurl }}/books/Warren_Buffett" class="btn">Study Warren Buffett's Success</a>
     </div>
   </div>
 
@@ -103,7 +103,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>Digital Dollar Dystopia</h3>
       <p>Explore how Central Bank Digital Currencies threaten personal liberty, enable financial surveillance, and could create an unprecedented system of control.</p>
-      <a href="{{ site.baseurl }}/books/Digital-Dollar-Dystopia" class="btn" aria-label="Read more about Digital Dollar Dystopia book by Michael Rodriguez">Read More</a>
+      <a href="{{ site.baseurl }}/books/Digital-Dollar-Dystopia" class="btn">Explore "Digital Dollar Dystopia"</a>
     </div>
   </div>
 
@@ -112,7 +112,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>How the IMF Manipulates Countries</h3>
       <p>Uncover how the International Monetary Fund uses debt, structural adjustment, and currency manipulation to control nations and serve powerful global interests.</p>
-      <a href="{{ site.baseurl }}/books/imf-manipulates" class="btn" aria-label="Read more about How the IMF Manipulates Countries book by Michael Rodriguez">Read More</a>
+      <a href="{{ site.baseurl }}/books/imf-manipulates" class="btn">Investigate IMF Manipulation</a>
     </div>
   </div>
 
@@ -121,7 +121,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The BlackRock Empire</h3>
       <p>Uncover how BlackRock became the world's most powerful financial institution, controlling trillions in assets and shaping global markets.</p>
-      <a href="{{ site.baseurl }}/books/blackrock-empire" class="btn" aria-label="Read more about The BlackRock Empire book by Michael Rodriguez">Read More</a>
+      <a href="{{ site.baseurl }}/books/blackrock-empire" class="btn">Analyze "The BlackRock Empire"</a>
     </div>
   </div>
 
@@ -130,7 +130,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>George Soros: The Man the World Hates</h3>
       <p>Uncover how one man shaped global markets, influenced politics across continents, and became the most controversial financier of our time.</p>
-      <a href="{{ site.baseurl }}/books/george-soros" class="btn" aria-label="Read more about George Soros book by Michael Rodriguez">Read More</a>
+      <a href="{{ site.baseurl }}/books/george-soros" class="btn">Understand George Soros</a>
     </div>
   </div>
   
@@ -139,7 +139,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The PayPal Mafia</h3>
       <p>Uncover the incredible story of how a small group of entrepreneurs went on to reshape technology, finance, and global politics.</p>
-      <a href="{{ site.baseurl }}/books/paypal-mafia" class="btn" aria-label="Read more about The PayPal Mafia book by Michael Rodriguez">Read More</a>
+      <a href="{{ site.baseurl }}/books/paypal-mafia" class="btn">Discover "The PayPal Mafia"</a>
     </div>
   </div>
 </div>
