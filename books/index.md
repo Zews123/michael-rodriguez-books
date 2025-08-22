@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Books by Michael Rodriguez
-description: Explore insightful books by Michael Rodriguez on global economics, financial markets, and the hidden forces shaping our world.
+title: "Michael Rodriguez Books | Financial Crime & Money Laundering Analysis"
+description: "Complete collection of investigative books by Michael Rodriguez on financial crime, money laundering, shadow economy, AI power, and global corruption networks."
 canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/"
 ---
 
@@ -15,7 +15,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>The AI Emperor</h3>
       <p>Expose Sam Altman's rise to AI supremacy and the 96-hour corporate coup that transformed him into the unelected emperor of humanity's most powerful technology. Discover how ChatGPT revolutionized society.</p>
-      <a href="{{ site.baseurl }}/books/Sam_Altman" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/Sam_Altman" class="btn">Read More <span class="visually-hidden">about The AI Emperor by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -24,7 +24,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>Secrets of the Medici</h3>
       <p>Expose how Renaissance banking dynasties created the blueprint for modern elite control. Discover 500+ years of hidden power networks operating through Vatican banks and European institutions.</p>
-      <a href="{{ site.baseurl }}/books/Secrets_Medici" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/Secrets_Medici" class="btn">Read More <span class="visually-hidden">about Secrets of the Medici by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -33,7 +33,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>The Dopamine Dealers</h3>
       <p>Discover how McDonald's, KFC & Burger King use neuroscience to turn your brain into their ATM. Expose the sophisticated manipulation tactics behind fast food addiction.</p>
-      <a href="{{ site.baseurl }}/books/Dopamine_Dealers" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/Dopamine_Dealers" class="btn">Read More <span class="visually-hidden">about The Dopamine Dealers by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -42,7 +42,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>The Laundromat</h3>
       <p>Discover how presidents, billionaires, and drug lords built the world's biggest money-washing machine. Expose the $32 trillion shadow economy and century-long evolution of financial crime.</p>
-      <a href="{{ site.baseurl }}/books/The_Laundromat" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/The_Laundromat" class="btn">Read More <span class="visually-hidden">about The Laundromat by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -51,7 +51,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>Dark Money Empire</h3>
       <p>Uncover how presidents, oligarchs, Nazis and rock stars launder billions through secret offshore networks. Expose the $32 trillion shadow economy that operates parallel to our world.</p>
-      <a href="{{ site.baseurl }}/books/Dark_Money_Empire" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/Dark_Money_Empire" class="btn">Read More <span class="visually-hidden">about Dark Money Empire by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -60,7 +60,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>Bilderberg Exposed</h3>
       <p>Uncover 70 years of secret meetings that shaped world history. Discover how the Bilderberg Club influences global politics, economics, and the future of humanity.</p>
-      <a href="{{ site.baseurl }}/books/Bilderberg_Exposed" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/Bilderberg_Exposed" class="btn">Read More <span class="visually-hidden">about Bilderberg Exposed by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -69,7 +69,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>Passport Power</h3>
       <p>Discover how your travel document shapes global opportunities, economic freedom, and life chances. From ancient passes to digital citizenship revolution.</p>
-      <a href="{{ site.baseurl }}/books/Passport-Power" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/Passport-Power" class="btn">Read More <span class="visually-hidden">about Passport Power by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -78,7 +78,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>Warren Buffett: How to Become THE RICHEST?</h3>
       <p>Discover the untold story of Warren Buffett's journey from childhood entrepreneur to the world's greatest investor, revealing the psychology behind his unprecedented success.</p>
-      <a href="{{ site.baseurl }}/books/Warren_Buffett" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/Warren_Buffett" class="btn">Read More <span class="visually-hidden">about Warren Buffett How to Become THE RICHEST by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -87,7 +87,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>Digital Dollar Dystopia</h3>
       <p>Explore how Central Bank Digital Currencies threaten personal liberty, enable financial surveillance, and could create an unprecedented system of control.</p>
-      <a href="{{ site.baseurl }}/books/Digital-Dollar-Dystopia" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/Digital-Dollar-Dystopia" class="btn">Read More <span class="visually-hidden">about Digital Dollar Dystopia by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -96,7 +96,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>How the IMF Manipulates Countries</h3>
       <p>Uncover how the IMF uses debt, structural adjustment, and currency manipulation to control nations' economies and serve powerful interests.</p>
-      <a href="{{ site.baseurl }}/books/imf-manipulates" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/imf-manipulates" class="btn">Read More <span class="visually-hidden">about How the IMF Manipulates Countries by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -105,7 +105,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>The BlackRock Empire</h3>
       <p>Uncover how BlackRock became the world's most powerful financial institution, controlling trillions in assets and shaping global markets from behind the scenes.</p>
-      <a href="{{ site.baseurl }}/books/blackrock-empire" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/blackrock-empire" class="btn">Read More <span class="visually-hidden">about The BlackRock Empire by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -114,7 +114,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>George Soros: The Man the World Hates</h3>
       <p>Uncover how one man shaped global markets, influenced politics across continents, and became the most controversial financier of our time.</p>
-      <a href="{{ site.baseurl }}/books/george-soros" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/george-soros" class="btn">Read More <span class="visually-hidden">about George Soros The Man the World Hates by Michael Rodriguez</span></a>
     </div>
   </div>
   
@@ -123,7 +123,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>The Chinese Real Estate Bubble</h3>
       <p>A comprehensive analysis of China's precarious real estate market and how its potential collapse threatens the global economy.</p>
-      <a href="{{ site.baseurl }}/books/chinese-real-estate-bubble" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/chinese-real-estate-bubble" class="btn">Read More <span class="visually-hidden">about The Chinese Real Estate Bubble by Michael Rodriguez</span></a>
     </div>
   </div>
   
@@ -132,7 +132,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>The PayPal Mafia</h3>
       <p>Uncover how PayPal's founding team transformed into the most influential network in tech history, reshaping global politics and finance.</p>
-      <a href="{{ site.baseurl }}/books/paypal-mafia" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/paypal-mafia" class="btn">Read More <span class="visually-hidden">about The PayPal Mafia by Michael Rodriguez</span></a>
     </div>
   </div>
   
@@ -141,7 +141,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>Weaponized Economy</h3>
       <p>Explore the fascinating history of economic warfare from Napoleon to modern US-China tensions and how nations weaponize trade.</p>
-      <a href="{{ site.baseurl }}/books/weaponized-economy" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/weaponized-economy" class="btn">Read More <span class="visually-hidden">about Weaponized Economy by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -150,7 +150,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>Silver Empire</h3>
       <p>An extraordinary exploration of silver's crucial role in human history and modern technology. Rodriguez reveals how this overlooked metal has shaped economies for centuries.</p>
-      <a href="{{ site.baseurl }}/books/silver-empire" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/silver-empire" class="btn">Read More <span class="visually-hidden">about Silver Empire by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -159,7 +159,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>The Trillion Dollar Shadow</h3>
       <p>The untold story of how John Bogle's revolutionary index fund concept transformed into Vanguard Group, a financial giant managing over $10 trillion in assets.</p>
-      <a href="{{ site.baseurl }}/books/trillion-dollar-shadow" class="btn">Read More</a>
+      <a href="{{ site.baseurl }}/books/trillion-dollar-shadow" class="btn">Read More <span class="visually-hidden">about The Trillion Dollar Shadow by Michael Rodriguez</span></a>
     </div>
   </div>
 </div>
@@ -232,3 +232,177 @@ An examination of how nations increasingly use economic tools as weapons in glob
   <p>Join thousands of readers who receive expert analysis on global economics, financial markets, and technological trends that mainstream media won't cover.</p>
   <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
 </div>
+
+<!-- Enhanced SEO Schema for Books Page -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Books by Michael Rodriguez",
+  "description": "Complete collection of investigative books by Michael Rodriguez on financial crime, money laundering, shadow economy, AI power, and global corruption networks.",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Rodriguez",
+    "jobTitle": "Economic Analyst and Investigative Author",
+    "url": "https://zews123.github.io/michael-rodriguez-books/"
+  },
+  "hasPart": [
+    {
+      "@type": "Book",
+      "name": "The AI Emperor",
+      "author": "Michael Rodriguez",
+      "description": "Expose Sam Altman's rise to AI supremacy and the 96-hour corporate coup that transformed him into the unelected emperor of humanity's most powerful technology."
+    },
+    {
+      "@type": "Book", 
+      "name": "The Laundromat",
+      "author": "Michael Rodriguez",
+      "description": "Discover how presidents, billionaires, and drug lords built the world's biggest money-washing machine. Expose the $32 trillion shadow economy."
+    },
+    {
+      "@type": "Book",
+      "name": "Dark Money Empire", 
+      "author": "Michael Rodriguez",
+      "description": "Uncover how presidents, oligarchs, Nazis and rock stars launder billions through secret offshore networks."
+    }
+  ]
+}
+</script>
+
+<!-- Improved Accessibility CSS -->
+<style>
+/* High contrast colors for better accessibility */
+:root {
+  --primary-color: #0f2c4c; /* Darker blue for better contrast */
+  --secondary-color: #d73527; /* Darker red for better contrast */
+  --text-color: #1a1a1a; /* Darker text */
+  --light-bg: #f8f9fa;
+  --border-color: #ddd;
+}
+
+/* Improve button contrast */
+.btn {
+  background-color: var(--primary-color);
+  color: #ffffff;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease;
+  border: 2px solid var(--primary-color);
+}
+
+.btn:hover {
+  background-color: var(--secondary-color);
+  border-color: var(--secondary-color);
+  color: #ffffff;
+}
+
+.btn:focus {
+  outline: 3px solid #ffbf00;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 2px rgba(255, 191, 0, 0.3);
+}
+
+/* Improve heading contrast */
+h1, h2, h3 {
+  color: var(--primary-color);
+  font-weight: 700;
+}
+
+/* Better link contrast */
+a {
+  color: var(--primary-color);
+  font-weight: 500;
+}
+
+a:hover {
+  color: var(--secondary-color);
+}
+
+a:focus {
+  outline: 2px solid #ffbf00;
+  outline-offset: 2px;
+  background-color: rgba(255, 191, 0, 0.1);
+  border-radius: 2px;
+}
+
+/* Improve text readability */
+p {
+  color: var(--text-color);
+  line-height: 1.6;
+  font-size: 1.05rem;
+}
+
+/* Ensure footer text remains white */
+footer p {
+  color: white !important;
+}
+
+footer .footer-column p {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+footer .footer-column h3 {
+  color: white !important;
+}
+
+footer .footer-column a {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+footer .footer-column a:hover {
+  color: white !important;
+}
+
+footer .copyright {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+/* Book card improvements */
+.book-card h3 {
+  color: var(--primary-color);
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.book-card p {
+  color: #2c2c2c;
+  line-height: 1.5;
+}
+
+/* Screen reader only text */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Focus indicators for all interactive elements */
+*:focus {
+  outline: 2px solid #ffbf00;
+  outline-offset: 2px;
+}
+
+/* Remove focus outline for mouse users but keep for keyboard users */
+.js-focus-visible *:focus:not(.focus-visible) {
+  outline: none;
+}
+
+/* Ensure minimum touch target size for mobile */
+@media (max-width: 768px) {
+  .btn {
+    min-height: 44px;
+    min-width: 44px;
+    padding: 12px 24px;
+    font-size: 1rem;
+  }
+}
+</style>
