@@ -285,6 +285,31 @@ p {
   font-size: 1.05rem;
 }
 
+/* Ensure footer text remains white */
+footer p {
+  color: white !important;
+}
+
+footer .footer-column p {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+footer .footer-column h3 {
+  color: white !important;
+}
+
+footer .footer-column a {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+footer .footer-column a:hover {
+  color: white !important;
+}
+
+footer .copyright {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
 /* Book card improvements */
 .book-card h3 {
   color: var(--primary-color);
