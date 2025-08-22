@@ -15,9 +15,6 @@ twitter_card: "summary_large_image"
 # Michael Rodriguez - Financial Crime Expert & Money Laundering Investigator
 ## Economic Analyst | Investigative Author | Expert on Shadow Economy
 
-<!-- Skip to main content link for accessibility -->
-<a href="#main-content" class="skip-link" style="position: absolute; top: -40px; left: 6px; background: #1a3c65; color: white; padding: 8px; text-decoration: none; z-index: 100; border-radius: 0 0 4px 4px;">Skip to main content</a>
-
 <img src="{{ site.baseurl }}/assets/images/author-photo.webp"
      alt="Michael Rodriguez - Financial Crime Expert, Money Laundering Investigator and Author specializing in Shadow Economy"
      class="author-image"
@@ -25,12 +22,37 @@ twitter_card: "summary_large_image"
      width="150" height="150"
      fetchpriority="high">
 
-<main id="main-content">
 <p>Welcome to the official website of Michael Rodriguez, a renowned investigative author and economic analyst specializing in <strong>money laundering</strong>, <strong>financial crime</strong>, and the <strong>shadow economy</strong>. Explore expert analysis of global corruption, AI power structures, and economic manipulation through his <a href="{{ site.baseurl }}/books/">investigative books</a> or learn more <a href="{{ site.baseurl }}/about">about the author</a>.</p>
 
-<section aria-labelledby="latest-books-heading">
-<h2 id="latest-books-heading">Latest Books on Financial Crime & Global Power</h2>
-<div role="grid" class="book-grid" aria-label="Collection of books by Michael Rodriguez">
+## Latest Books
+<div class="book-grid">
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The AI Emperor</h3>
+      <p>Expose Sam Altman's rise to AI supremacy and the 96-hour corporate coup that transformed him into the unelected emperor of humanity's most powerful technology. Discover how ChatGPT revolutionized society.</p>
+      <a href="{{ site.baseurl }}/books/Sam_Altman" class="btn" aria-label="Read more about The AI Emperor book by Michael Rodriguez">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Secrets_Medici.webp" alt="Secrets of the Medici: The Dark Aristocracy Behind Global Power by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>Secrets of the Medici</h3>
+      <p>Expose how Renaissance banking dynasties created the blueprint for modern elite control. Discover 500+ years of hidden power networks operating through Vatican banks and European institutions.</p>
+      <a href="{{ site.baseurl }}/books/Secrets_Medici" class="btn" aria-label="Read more about Secrets of the Medici book by Michael Rodriguez">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Dopamine_Dealers.webp" alt="The Dopamine Dealers: How McDonald's, KFC & Burger King Turned Your Brain Into Their ATM by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The Dopamine Dealers</h3>
+      <p>Discover how McDonald's, KFC & Burger King use neuroscience to turn your brain into their ATM. Expose the sophisticated manipulation tactics behind fast food addiction.</p>
+      <a href="{{ site.baseurl }}/books/Dopamine_Dealers" class="btn" aria-label="Read more about The Dopamine Dealers book by Michael Rodriguez">Read More</a>
+    </div>
+  </div>
+
   <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/THE_LAUNDROMAT.webp" alt="The Laundromat: How Presidents, Billionaires and Drug Lords Built the World's Biggest Money-Washing Machine by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
@@ -50,15 +72,6 @@ twitter_card: "summary_large_image"
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>The AI Emperor</h3>
-      <p>Expose Sam Altman's rise to AI supremacy and the 96-hour corporate coup that transformed him into the unelected emperor of humanity's most powerful technology. Discover how ChatGPT revolutionized society.</p>
-      <a href="{{ site.baseurl }}/books/Sam_Altman" class="btn" aria-label="Read more about The AI Emperor book by Michael Rodriguez">Read More</a>
-    </div>
-  </div>
-
-  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Bilderberg_Exposed.webp" alt="Bilderberg Exposed: The Shadow Architects of Global Power - Political Analysis Book by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>Bilderberg Exposed</h3>
@@ -68,11 +81,20 @@ twitter_card: "summary_large_image"
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/BlackRock-Empire.webp" alt="The BlackRock Empire: World's Most Powerful Financial Institution Analysis by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <img src="{{ site.baseurl }}/assets/images/Passport_Power.webp" alt="Passport Power: How Your Travel Document Shapes Global Economics and Personal Freedom by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
-      <h3>The BlackRock Empire</h3>
-      <p>Uncover how BlackRock became the world's most powerful financial institution, controlling trillions in assets and shaping global markets.</p>
-      <a href="{{ site.baseurl }}/books/blackrock-empire" class="btn" aria-label="Read more about The BlackRock Empire book by Michael Rodriguez">Read More</a>
+      <h3>Passport Power</h3>
+      <p>Discover how your travel document shapes global opportunities, economic freedom, and life chances. From ancient passes to digital citizenship revolution.</p>
+      <a href="{{ site.baseurl }}/books/Passport-Power" class="btn" aria-label="Read more about Passport Power book by Michael Rodriguez">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Warren_Buffett.webp" alt="Warren Buffett: How to Become THE RICHEST? - Investment Strategy Book by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>Warren Buffett: How to Become THE RICHEST?</h3>
+      <p>Discover the untold story of Warren Buffett's journey from childhood entrepreneur to the world's greatest investor, revealing the psychology behind his unprecedented success.</p>
+      <a href="{{ site.baseurl }}/books/Warren_Buffett" class="btn" aria-label="Read more about Warren Buffett book by Michael Rodriguez">Read More</a>
     </div>
   </div>
 
@@ -95,6 +117,15 @@ twitter_card: "summary_large_image"
   </div>
 
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/BlackRock-Empire.webp" alt="The BlackRock Empire: World's Most Powerful Financial Institution Analysis by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The BlackRock Empire</h3>
+      <p>Uncover how BlackRock became the world's most powerful financial institution, controlling trillions in assets and shaping global markets.</p>
+      <a href="{{ site.baseurl }}/books/blackrock-empire" class="btn" aria-label="Read more about The BlackRock Empire book by Michael Rodriguez">Read More</a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/George-Soros-Book-Cover.webp" alt="George Soros: The Man the World Hates - Controversial Financier Biography by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>George Soros: The Man the World Hates</h3>
@@ -102,16 +133,7 @@ twitter_card: "summary_large_image"
       <a href="{{ site.baseurl }}/books/george-soros" class="btn" aria-label="Read more about George Soros book by Michael Rodriguez">Read More</a>
     </div>
   </div>
-
-  <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Dopamine_Dealers.webp" alt="The Dopamine Dealers: How McDonald's, KFC & Burger King Turned Your Brain Into Their ATM by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
-    <div class="book-card-content">
-      <h3>The Dopamine Dealers</h3>
-      <p>Discover how McDonald's, KFC & Burger King use neuroscience to turn your brain into their ATM. Expose the sophisticated manipulation tactics behind fast food addiction.</p>
-      <a href="{{ site.baseurl }}/books/Dopamine_Dealers" class="btn" aria-label="Read more about The Dopamine Dealers book by Michael Rodriguez">Read More</a>
-    </div>
-  </div>
-
+  
   <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" alt="The PayPal Mafia: Silicon Valley's Secret Power Brokers - Tech History Book by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
@@ -121,14 +143,12 @@ twitter_card: "summary_large_image"
     </div>
   </div>
 </div>
-</section>
 
 <div style="text-align: center; margin: 30px 0;">
-  <a href="{{ site.baseurl }}/books/" class="btn btn-secondary" style="display: inline-block; padding: 12px 24px; font-size: 1.1rem;" aria-label="Explore complete collection of Michael Rodriguez books">Explore All Books by Michael Rodriguez</a>
+  <a href="{{ site.baseurl }}/books/" class="btn btn-secondary" style="display: inline-block; padding: 12px 24px; font-size: 1.1rem;">Explore All Books by Michael Rodriguez</a>
 </div>
 
-<section aria-labelledby="about-author-heading">
-<h2 id="about-author-heading">About Michael Rodriguez - Expert on Financial Crime & Shadow Economy</h2>
+## About Michael Rodriguez - Expert on Financial Crime & Shadow Economy
 <p>Michael Rodriguez is a renowned investigative author specializing in <strong>money laundering networks</strong>, <strong>financial crime investigation</strong>, and the global <strong>shadow economy</strong>. He combines economic theory, forensic analysis, and investigative journalism to expose connections between financial institutions, technological innovation, and broader economic corruption.</p>
 
 <p>With over fifteen years of experience in economic analysis and financial crime investigation, Rodriguez specializes in examining how global power structures operate through offshore networks, technological systems, and shadow financial markets that facilitate money laundering and economic manipulation.</p>
@@ -136,20 +156,16 @@ twitter_card: "summary_large_image"
 <p>His investigative work bridges the gap between academic research and accessible storytelling, making complex financial crime schemes understandable to general audiences while maintaining analytical rigor and investigative depth.</p>
 
 <div style="text-align: center; margin: 30px 0;">
-  <a href="{{ site.baseurl }}/contact" class="btn btn-primary" aria-label="Contact Michael Rodriguez for inquiries">Contact Michael Rodriguez</a>
+  <a href="{{ site.baseurl }}/contact" class="btn btn-primary">Contact Michael Rodriguez</a>
 </div>
-</section>
 
-<section aria-labelledby="stay-connected-heading">
-<h2 id="stay-connected-heading">Stay Connected</h2>
+## Stay Connected
 
 <div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
   <h3 style="margin-top: 0; color: #1a3c65;">Get Exclusive Insights</h3>
   <p>Join thousands of readers who receive expert analysis on money laundering, financial crime, shadow economy, and technological trends that mainstream media won't cover.</p>
   <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
 </div>
-</section>
-</main>
 
 <!-- Enhanced FAQ Schema for rich results -->
 <script type="application/ld+json">
@@ -193,47 +209,122 @@ twitter_card: "summary_large_image"
 }
 </script>
 
-<!-- Accessibility CSS improvements -->
+<!-- Improved Accessibility CSS -->
 <style>
-.skip-link:focus {
-  top: 6px;
-  background: #1a3c65;
-  color: white;
-  padding: 8px 16px;
+/* High contrast colors for better accessibility */
+:root {
+  --primary-color: #0f2c4c; /* Darker blue for better contrast */
+  --secondary-color: #d73527; /* Darker red for better contrast */
+  --text-color: #1a1a1a; /* Darker text */
+  --light-bg: #f8f9fa;
+  --border-color: #ddd;
+}
+
+/* Improve button contrast */
+.btn {
+  background-color: var(--primary-color);
+  color: #ffffff;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 4px;
   text-decoration: none;
-  border-radius: 0 0 4px 4px;
-  font-weight: bold;
-  outline: 2px solid #e74c3c;
-  outline-offset: 2px;
+  display: inline-block;
+  transition: all 0.2s ease;
+  border: 2px solid var(--primary-color);
+}
+
+.btn:hover {
+  background-color: var(--secondary-color);
+  border-color: var(--secondary-color);
+  color: #ffffff;
 }
 
 .btn:focus {
-  outline: 2px solid #e74c3c;
+  outline: 3px solid #ffbf00;
   outline-offset: 2px;
-  box-shadow: 0 0 0 4px rgba(231, 76, 60, 0.2);
+  box-shadow: 0 0 0 2px rgba(255, 191, 0, 0.3);
+}
+
+.btn-secondary {
+  background-color: var(--secondary-color);
+  border-color: var(--secondary-color);
+}
+
+.btn-secondary:hover {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+/* Improve heading contrast */
+h1, h2, h3 {
+  color: var(--primary-color);
+  font-weight: 700;
+}
+
+/* Better link contrast */
+a {
+  color: var(--primary-color);
+  font-weight: 500;
+}
+
+a:hover {
+  color: var(--secondary-color);
 }
 
 a:focus {
-  outline: 2px solid #e74c3c;
+  outline: 2px solid #ffbf00;
+  outline-offset: 2px;
+  background-color: rgba(255, 191, 0, 0.1);
+  border-radius: 2px;
+}
+
+/* Improve text readability */
+p {
+  color: var(--text-color);
+  line-height: 1.6;
+  font-size: 1.05rem;
+}
+
+/* Book card improvements */
+.book-card h3 {
+  color: var(--primary-color);
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.book-card p {
+  color: #2c2c2c;
+  line-height: 1.5;
+}
+
+/* Newsletter section contrast */
+.newsletter-section {
+  background-color: #f0f4f8;
+  border: 2px solid #e1e8ed;
+}
+
+.newsletter-section h3 {
+  color: var(--primary-color);
+}
+
+/* Focus indicators for all interactive elements */
+*:focus {
+  outline: 2px solid #ffbf00;
   outline-offset: 2px;
 }
 
-/* Improve color contrast for better accessibility */
-.book-card h3 {
-  color: #1a3c65;
-  font-weight: 600;
+/* Remove focus outline for mouse users but keep for keyboard users */
+.js-focus-visible *:focus:not(.focus-visible) {
+  outline: none;
 }
 
-/* Screen reader only text */
-.sr-only {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-  border: 0;
+/* Ensure minimum touch target size for mobile */
+@media (max-width: 768px) {
+  .btn {
+    min-height: 44px;
+    min-width: 44px;
+    padding: 12px 24px;
+    font-size: 1rem;
+  }
 }
 </style>
