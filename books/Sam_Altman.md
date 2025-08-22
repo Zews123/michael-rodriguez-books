@@ -3,7 +3,7 @@ layout: default
 title: "The AI Emperor: Sam Altman and the ChatGPT Revolution (Book)"
 description: "Expose Sam Altman's rise to AI supremacy. How ChatGPT revolutionized society and one man gained unprecedented control over humanity's future."
 canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Sam_Altman"
-image: "/assets/images/Sam-Altman-2.webp"
+image: "/assets/images/Sam-Altman.webp"
 og_title: "The AI Emperor: Sam Altman & ChatGPT Revolution"
 og_description: "Discover how Sam Altman became the unelected emperor of AI and what it means for humanity's future."
 og_type: "book"
@@ -14,11 +14,6 @@ twitter_card: "summary_large_image"
 <link rel="preload" href="{{ site.baseurl }}/assets/images/Sam-Altman.webp" as="image" fetchpriority="high">
 <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
-<!-- Data URL fallback for faster initial render -->
-<style>
-.book-cover-placeholder{width:300px;height:400px;margin:0 auto 20px;display:block;background:linear-gradient(135deg,#1a3c65,#2c5f98);border-radius:8px;display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.2rem;text-align:center}
-</style>
 
 <!-- Critical Inline CSS -->
 <style>
@@ -52,7 +47,7 @@ twitter_card: "summary_large_image"
       "bookFormat": "EBook",
       "isbn": "9798227128263",
       "url": "{{ page.canonical_url }}",
-      "image": "{{ site.url }}{{ site.baseurl }}/assets/images/Sam-Altman-2.webp",
+      "image": "{{ site.url }}{{ site.baseurl }}/assets/images/Sam-Altman.webp",
       "description": "Expose Sam Altman's rise to AI supremacy. How ChatGPT revolutionized society and one man gained unprecedented control over humanity's future.",
       "offers": {
         "@type": "Offer",
@@ -104,7 +99,7 @@ twitter_card: "summary_large_image"
 # The AI Emperor
 ## Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us
 
-<img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us" width="250" height="333" style="max-width:250px;margin:0 auto 20px;display:block" loading="eager" decoding="async">
+<img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us" width="300" height="400" style="max-width:300px;margin:0 auto 20px;display:block" loading="lazy" decoding="async">
 
 *By Michael Rodriguez*
 
@@ -204,7 +199,7 @@ Through fearless investigation and rigorous analysis, Rodriguez illuminates the 
   <a href="https://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title=The AI Emperor: How Sam Altman Controls Humanity's Most Powerful Technology" target="_blank" rel="noopener noreferrer" style="color:#FF5700">
     <i class="fab fa-reddit-square"></i>
   </a>
-  <a href="https://pinterest.com/pin/create/button/?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&media={{ site.url }}{{ site.baseurl }}/assets/images/Sam-Altman-2.webp&description=The AI Emperor: Sam Altman and the ChatGPT Revolution by Michael Rodriguez" target="_blank" rel="noopener noreferrer" style="color:#E60023">
+  <a href="https://pinterest.com/pin/create/button/?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&media={{ site.url }}{{ site.baseurl }}/assets/images/Sam-Altman.webp&description=The AI Emperor: Sam Altman and the ChatGPT Revolution by Michael Rodriguez" target="_blank" rel="noopener noreferrer" style="color:#E60023">
     <i class="fab fa-pinterest-square"></i>
   </a>
 </div>
