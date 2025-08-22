@@ -10,6 +10,24 @@ og_type: "book"
 twitter_card: "summary_large_image"
 ---
 
+<!-- Critical Performance Optimizations -->
+<link rel="preload" href="{{ site.baseurl }}/assets/images/Sam-Altman.webp" as="image" fetchpriority="high">
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- Critical Inline CSS -->
+<style>
+.book-btn{background:#1a3c65;color:#fff;padding:10px 16px;border-radius:6px;text-decoration:none;font-weight:700;display:inline-block;text-align:center;min-width:110px;border:0}
+.book-btn:hover{text-decoration:none;color:#fff;opacity:0.9}
+.book-btn-apple{background:#000}
+.book-btn-kobo{background:#1e90ff}
+.book-btn-smash{background:#ff6347}
+.book-btn-bn{background:#2e8b57}
+.book-buttons{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:15px}
+@media (max-width:768px){.book-buttons{flex-direction:column}.book-btn{width:100%;margin-bottom:5px}}
+.social-share a{display:inline-block;margin-right:15px;font-size:24px;text-decoration:none}
+</style>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -81,7 +99,7 @@ twitter_card: "summary_large_image"
 # The AI Emperor
 ## Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us
 
-<img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us" width="300" height="400" style="max-width: 300px; margin: 0 auto 20px; display: block;" loading="lazy" decoding="async">
+<img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us" width="300" height="400" style="max-width:300px;margin:0 auto 20px;display:block" loading="lazy" decoding="async">
 
 *By Michael Rodriguez*
 
@@ -143,30 +161,20 @@ Through fearless investigation and rigorous analysis, Rodriguez illuminates the 
 
 ## Get Your Copy Today
 
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #1a3c65;">
-  <h4 style="margin-top: 0; color: #1a3c65;">🤖 Available Now</h4>
+<div style="background-color:#f8f9fa;padding:20px;border-radius:8px;margin:20px 0;border-left:4px solid #1a3c65">
+  <h4 style="margin-top:0;color:#1a3c65">🤖 Available Now</h4>
   
-  <div class="book-buttons" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
+  <div class="book-buttons">
     <a href="https://www.smashwords.com/books/view/1837046" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-smash">📚 Smashwords</a>
     <a href="https://books.apple.com/us/book/the-ai-emperor-sam-altman-and-the-chatgpt/id6751287384" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-apple">🍎 Apple Books</a>
     <a href="https://www.kobo.com/ww/en/ebook/the-ai-emperor-sam-altman-and-the-chatgpt-revolution-that-could-save-or-destroy-us?sId=a1fb6c38-523a-49ca-b20c-2207d68a84fd" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-kobo">📖 Kobo</a>
     <a href="https://www.barnesandnoble.com/w/the-ai-emperor-michael-rodriguez/1148080788?ean=2940180626233" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-bn">🏪 Barnes & Noble</a>
   </div>
   
-  <p style="margin: 0; font-size: 0.9em; color: #666;">
+  <p style="margin:0;font-size:0.9em;color:#666">
     <strong>📖 Libraries:</strong> OverDrive, Hoopla, BorrowBox<br>
   </p>
 </div>
-
-<style>
-.book-btn{background:#1a3c65;color:white;padding:10px 16px;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;text-align:center;min-width:110px}
-.book-btn:hover{text-decoration:none;color:white}
-.book-btn-apple{background:#000}
-.book-btn-kobo{background:#1e90ff}
-.book-btn-smash{background:#ff6347}
-.book-btn-bn{background:#2e8b57}
-@media (max-width:768px){.book-buttons{flex-direction:column}.book-btn{width:100%;margin-bottom:5px}}
-</style>
 
 *First edition: January 2025*  
 *Published by Resource Economics Press*  
@@ -177,29 +185,29 @@ Through fearless investigation and rigorous analysis, Rodriguez illuminates the 
 
 ## Share This Book
 
-<div class="social-share" style="margin: 30px 0;">
-  <p style="margin-bottom: 15px; font-weight: 600;">Help others understand the AI revolution's impact on humanity:</p>
-  <a href="https://twitter.com/intent/tweet?text=Discover how Sam Altman became the unelected emperor of AI - 'The AI Emperor: Sam Altman and the ChatGPT Revolution' by Michael Rodriguez&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&via=MRodriguezBooks" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #1DA1F2;">
+<div class="social-share" style="margin:30px 0">
+  <p style="margin-bottom:15px;font-weight:600">Help others understand the AI revolution's impact on humanity:</p>
+  <a href="https://twitter.com/intent/tweet?text=Discover how Sam Altman became the unelected emperor of AI - 'The AI Emperor: Sam Altman and the ChatGPT Revolution' by Michael Rodriguez&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&via=MRodriguezBooks" target="_blank" rel="noopener noreferrer" style="color:#1DA1F2">
     <i class="fab fa-twitter-square"></i>
   </a>
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #3b5998;">
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" rel="noopener noreferrer" style="color:#3b5998">
     <i class="fab fa-facebook-square"></i>
   </a>
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title=The AI Emperor: Sam Altman and the ChatGPT Revolution by Michael Rodriguez" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #0077b5;">
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title=The AI Emperor: Sam Altman and the ChatGPT Revolution by Michael Rodriguez" target="_blank" rel="noopener noreferrer" style="color:#0077b5">
     <i class="fab fa-linkedin"></i>
   </a>
-  <a href="https://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title=The AI Emperor: How Sam Altman Controls Humanity's Most Powerful Technology" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #FF5700;">
+  <a href="https://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title=The AI Emperor: How Sam Altman Controls Humanity's Most Powerful Technology" target="_blank" rel="noopener noreferrer" style="color:#FF5700">
     <i class="fab fa-reddit-square"></i>
   </a>
-  <a href="https://pinterest.com/pin/create/button/?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&media={{ site.url }}{{ site.baseurl }}/assets/images/Sam-Altman.webp&description=The AI Emperor: Sam Altman and the ChatGPT Revolution by Michael Rodriguez" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px; font-size: 24px; color: #E60023;">
+  <a href="https://pinterest.com/pin/create/button/?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&media={{ site.url }}{{ site.baseurl }}/assets/images/Sam-Altman.webp&description=The AI Emperor: Sam Altman and the ChatGPT Revolution by Michael Rodriguez" target="_blank" rel="noopener noreferrer" style="color:#E60023">
     <i class="fab fa-pinterest-square"></i>
   </a>
 </div>
 
 ## Subscribe to Newsletter
 
-<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
-  <h3 style="margin-top: 0; color: #1a3c65;">Get Exclusive Insights on AI & Tech Power</h3>
+<div style="background-color:#f9f9fb;padding:25px;border-radius:8px;margin:30px 0;border:1px solid #ddd">
+  <h3 style="margin-top:0;color:#1a3c65">Get Exclusive Insights on AI & Tech Power</h3>
   <p>Join thousands of readers who receive expert analysis on artificial intelligence, technology governance, and the hidden power structures shaping our digital future.</p>
-  <a href="https://michael-rodriguez.kit.com/b2a1614bc4" target="_blank" rel="noopener noreferrer" style="background:#1a3c65;color:white;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block">Subscribe Now</a>
+  <a href="https://michael-rodriguez.kit.com/b2a1614bc4" target="_blank" rel="noopener noreferrer" style="background:#1a3c65;color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:700;display:inline-block">Subscribe Now</a>
 </div>
