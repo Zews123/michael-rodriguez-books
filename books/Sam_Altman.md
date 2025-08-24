@@ -160,12 +160,11 @@ For "The AI Emperor," Rodriguez conducted extensive interviews with former OpenA
 Through fearless investigation and rigorous analysis, Rodriguez illuminates the hidden power structures behind technological innovation, helping readers understand not just how AI systems work, but why their development and deployment represent critical democratic issues that affect everyone. His work serves as both an exposé of current tech oligarchy and a warning about the future of human agency in an AI-dominated world.
 
 ## Get Your Copy Today
-
 <div style="background-color:#f8f9fa;padding:20px;border-radius:8px;margin:20px 0;border-left:4px solid #1a3c65">
   <h4 style="margin-top:0;color:#1a3c65">🤖 Available Now</h4>
   
   <div class="book-buttons">
-    <a href="https://www.smashwords.com/books/view/1837046" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-smash">📚 Smashwords</a>
+    <a href="https://www.amazon.com/AI-Emperor-ChatGPT-Revolution-Destroy/dp/B0FN6PNKCZ/" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-amazon">🛒 Amazon</a>
     <a href="https://books.apple.com/us/book/the-ai-emperor-sam-altman-and-the-chatgpt/id6751287384" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-apple">🍎 Apple Books</a>
     <a href="https://www.kobo.com/ww/en/ebook/the-ai-emperor-sam-altman-and-the-chatgpt-revolution-that-could-save-or-destroy-us?sId=a1fb6c38-523a-49ca-b20c-2207d68a84fd" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-kobo">📖 Kobo</a>
     <a href="https://www.barnesandnoble.com/w/the-ai-emperor-michael-rodriguez/1148080788?ean=2940180626233" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-bn">🏪 Barnes & Noble</a>
@@ -175,11 +174,9 @@ Through fearless investigation and rigorous analysis, Rodriguez illuminates the 
     <strong>📖 Libraries:</strong> OverDrive, Hoopla, BorrowBox<br>
   </p>
 </div>
-
 *First edition: January 2025*  
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
-
 **ISBN:** 9798231625834 (Hardcover)  
 **ISBN:** 9798231643891 (eBook)
 
