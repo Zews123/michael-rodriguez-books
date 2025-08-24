@@ -164,7 +164,9 @@ Through fearless investigation and rigorous analysis, Rodriguez illuminates the 
   <h4 style="margin-top:0;color:#1a3c65">🤖 Available Now</h4>
   
   <div class="book-buttons">
-    <a href="https://www.amazon.com/AI-Emperor-ChatGPT-Revolution-Destroy/dp/B0FN6PNKCZ/" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-amazon">🛒 Amazon</a>
+    <a href="https://www.amazon.com/AI-Emperor-ChatGPT-Revolution-Destroy/dp/B0FN6PNKCZ/" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-amazon">
+      <span style="font-size:16px;">📦</span> Amazon
+    </a>
     <a href="https://books.apple.com/us/book/the-ai-emperor-sam-altman-and-the-chatgpt/id6751287384" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-apple">🍎 Apple Books</a>
     <a href="https://www.kobo.com/ww/en/ebook/the-ai-emperor-sam-altman-and-the-chatgpt-revolution-that-could-save-or-destroy-us?sId=a1fb6c38-523a-49ca-b20c-2207d68a84fd" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-kobo">📖 Kobo</a>
     <a href="https://www.barnesandnoble.com/w/the-ai-emperor-michael-rodriguez/1148080788?ean=2940180626233" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-bn">🏪 Barnes & Noble</a>
@@ -174,6 +176,25 @@ Through fearless investigation and rigorous analysis, Rodriguez illuminates the 
     <strong>📖 Libraries:</strong> OverDrive, Hoopla, BorrowBox<br>
   </p>
 </div>
+
+<style>
+.book-btn-amazon {
+  background: linear-gradient(135deg, #ff9900 0%, #ffb84d 100%) !important;
+  color: #000 !important;
+  border: 2px solid #e67e00 !important;
+  font-weight: bold !important;
+  box-shadow: 0 3px 6px rgba(255, 153, 0, 0.3) !important;
+  transition: all 0.3s ease !important;
+}
+
+.book-btn-amazon:hover {
+  background: linear-gradient(135deg, #e67e00 0%, #ff9900 100%) !important;
+  transform: translateY(-2px) !important;
+  box-shadow: 0 5px 12px rgba(255, 153, 0, 0.4) !important;
+  color: #000 !important;
+}
+</style>
+
 *First edition: January 2025*  
 *Published by Resource Economics Press*  
 *New York • London • Singapore*
