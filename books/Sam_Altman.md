@@ -182,19 +182,23 @@ Through fearless investigation and rigorous analysis, Rodriguez illuminates the 
 
 <style>
 .book-btn-amazon {
-  background: linear-gradient(135deg, #ff9900 0%, #ffb84d 100%) !important;
-  color: #000 !important;
-  border: 2px solid #e67e00 !important;
-  font-weight: bold !important;
-  box-shadow: 0 3px 6px rgba(255, 153, 0, 0.3) !important;
-  transition: all 0.3s ease !important;
+  display: inline-block;
+  padding: 12px 24px;
+  background: linear-gradient(135deg, #ff9900 0%, #ffb84d 100%);
+  color: #000;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  box-shadow: 0 4px 8px rgba(255, 153, 0, 0.3);
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .book-btn-amazon:hover {
-  background: linear-gradient(135deg, #e67e00 0%, #ff9900 100%) !important;
-  transform: translateY(-2px) !important;
-  box-shadow: 0 5px 12px rgba(255, 153, 0, 0.4) !important;
-  color: #000 !important;
+  background: linear-gradient(135deg, #e67e00 0%, #ff9900 100%);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 14px rgba(255, 153, 0, 0.4);
 }
 </style>
 
