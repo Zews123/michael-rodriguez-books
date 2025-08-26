@@ -122,7 +122,7 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Rigged_G
 Published by Resource Economics Press  
 New York • London • Singapore*
 
-**ISBN:** 979-xxxxxxxxxx (Hardcover)  
+**ISBN:** 979-8231144044 (Hardcover)  
 **ISBN:** 979-8231940332 (eBook)
 
 ## About the Book
