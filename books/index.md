@@ -11,6 +11,15 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Rigged-Game.webp" alt="THE RIGGED GAME: How the 1% Built a System to Keep You Poor by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>THE RIGGED GAME</h3>
+      <p>Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth. Discover the $2 trillion secret they don't want you to know.</p>
+      <a href="{{ site.baseurl }}/books/Rigged_Game" class="btn">Read More <span class="visually-hidden">about THE RIGGED GAME by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The AI Emperor</h3>
@@ -170,6 +179,9 @@ Michael Rodriguez combines economic theory, historical analysis, and investigati
 
 ## Complete Bibliography
 
+### THE RIGGED GAME: How the 1% Built a System to Keep You Poor (2025)
+The explosive investigation that exposes how the wealthiest 1% systematically built an economic system designed to concentrate wealth and keep ordinary people poor. Rodriguez reveals the $2 trillion secret through eighteen months of following money trails, leaked documents, and insider interviews. From Dutch financial innovations to modern inequality, this meticulously researched exposé shows how capitalism isn't broken—it's working exactly as designed. Essential reading for understanding how every market crash and bailout transfers wealth upward while revealing viable alternatives that could democratize economic power.
+
 ### The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us (2025)
 The explosive investigation that exposes the untold story behind the most powerful figure in artificial intelligence. Rodriguez reveals how a midwestern teenager transformed himself into the unelected emperor of humanity's most transformative technology, accumulating unprecedented control over systems that could reshape civilization itself. From the mysterious 2023 board coup that lasted exactly 96 hours to the hidden networks connecting Silicon Valley venture capital to global AI governance, this meticulously researched exposé reveals how artificial intelligence development operates without democratic oversight or public accountability.
 
@@ -247,6 +259,12 @@ An examination of how nations increasingly use economic tools as weapons in glob
     "url": "https://zews123.github.io/michael-rodriguez-books/"
   },
   "hasPart": [
+    {
+      "@type": "Book",
+      "name": "THE RIGGED GAME",
+      "author": "Michael Rodriguez",
+      "description": "Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth. Discover the $2 trillion secret they don't want you to know."
+    },
     {
       "@type": "Book",
       "name": "The AI Emperor",
