@@ -21,6 +21,7 @@ After studying Economics and International Relations at Georgetown University, R
 
 Rodriguez is known for his meticulously researched books that reveal the hidden mechanisms behind global economic systems, financial crime networks, and elite power structures:
 
+- **[THE RIGGED GAME: How the 1% Built a System to Keep You Poor]({{ site.baseurl }}/books/Rigged_Game) (2025)** - *Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth and keep ordinary people poor*
 - **[The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us]({{ site.baseurl }}/books/Sam_Altman) (2025)** - *The explosive investigation exposing how one man accumulated unprecedented power over humanity's most transformative technology*
 - **[Secrets of the Medici: The Dark Aristocracy Behind Global Power]({{ site.baseurl }}/books/Secrets_Medici) (2025)** - *A groundbreaking investigation into 500+ years of elite family control networks operating through Vatican banks and European institutions*
 - **[The Dopamine Dealers: How McDonald's, KFC & Burger King Turned Your Brain Into Their ATM]({{ site.baseurl }}/books/Dopamine_Dealers) (2025)** - *Exposing the sophisticated neuroscience manipulation tactics behind fast food addiction*
