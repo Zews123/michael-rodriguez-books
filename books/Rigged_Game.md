@@ -3,6 +3,11 @@ layout: default
 title: "THE RIGGED GAME: How the 1% Built a System to Keep You Poor"
 description: "Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth and keep you poor."
 canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Rigged_Game"
+image: "/assets/images/Rigged-Game.webp"
+og_title: "THE RIGGED GAME: How the 1% Built a System to Keep You Poor"
+og_description: "Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth and keep you poor."
+og_type: "book"
+twitter_card: "summary_large_image"
 ---
 
 <!-- Preload критических ресурсов -->
@@ -16,11 +21,14 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Rigged_G
 <style>
 .book-btn{background:#1a3c65;color:#fff;padding:10px 16px;border-radius:6px;text-decoration:none;font-weight:700;display:inline-block;text-align:center;min-width:110px;border:0}
 .book-btn:hover{text-decoration:none;color:#fff;opacity:0.9}
+.book-btn-amazon{background:linear-gradient(135deg, #ff9900 0%, #ffb84d 100%);color:#000;border-radius:8px;font-size:1.1rem;font-weight:700;box-shadow:0 4px 8px rgba(255, 153, 0, 0.3);transition:transform 0.2s ease, box-shadow 0.2s ease}
+.book-btn-amazon:hover{background:linear-gradient(135deg, #e67e00 0%, #ff9900 100%);transform:translateY(-3px);box-shadow:0 6px 14px rgba(255, 153, 0, 0.4);color:#000}
 .book-btn-apple{background:#000}
 .book-btn-kobo{background:#1e90ff}
 .book-btn-smash{background:#ff6347}
 .book-btn-bn{background:#2e8b57}
 .book-buttons{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:15px}
+.social-share a{display:inline-block;margin-right:15px;font-size:24px;text-decoration:none}
 @media (max-width:768px){.book-buttons{flex-direction:column}.book-btn{width:100%;margin-bottom:5px}}
 </style>
 
@@ -116,13 +124,6 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Rigged_G
 
 *By Michael Rodriguez*
 
-*First edition: August 2025  
-Published by Resource Economics Press  
-New York • London • Singapore*
-
-**ISBN:** 979-8345678912 (Hardcover)  
-**ISBN:** 979-8231940332 (eBook)
-
 ## About the Book
 
 Picture this: You wake up tomorrow morning to discover that ten men—just ten human beings—have accumulated more wealth than 3.8 billion people combined. Half the planet's entire population. Every construction worker in Bangladesh, every teacher in Brazil, every farmer in Nigeria—all of them together possess less than these ten individuals.
@@ -177,22 +178,42 @@ His investigations have been featured in major financial publications worldwide,
 ## Get Your Copy Today
 
 <div class="book-buttons">
-  <a href="https://www.amazon.com/AI-Emperor-ChatGPT-Revolution-Destroy/dp/B0FN6PNKCZ/" class="book-btn" target="_blank" rel="noopener noreferrer">Amazon Kindle</a>
-  <a href="https://books.apple.com/us/book/the-rigged-game-how-the-1-built-a-system-to-keep-you-poor/id6751493642" class="book-btn book-btn-apple" target="_blank" rel="noopener noreferrer">Apple Books</a>
-  <a href="https://www.kobo.com/ww/en/ebook/the-rigged-game-how-the-1-built-a-system-to-keep-you-poor?sId=c36bc768-ba66-437d-a24c-846788c92ff8" class="book-btn book-btn-kobo" target="_blank" rel="noopener noreferrer">Kobo</a>
-  <a href="https://www.barnesandnoble.com/w/the-rigged-game-michael-rodriguez/1148109172" class="book-btn book-btn-bn" target="_blank" rel="noopener noreferrer">Barnes & Noble</a>
+  <a href="https://www.amazon.com/AI-Emperor-ChatGPT-Revolution-Destroy/dp/B0FN6PNKCZ/" class="book-btn book-btn-amazon" target="_blank" rel="noopener noreferrer"><span style="font-size:16px;">📦</span> Amazon</a>
+  <a href="https://books.apple.com/us/book/the-rigged-game-how-the-1-built-a-system-to-keep-you-poor/id6751493642" class="book-btn book-btn-apple" target="_blank" rel="noopener noreferrer">🍎 Apple Books</a>
+  <a href="https://www.kobo.com/ww/en/ebook/the-rigged-game-how-the-1-built-a-system-to-keep-you-poor?sId=c36bc768-ba66-437d-a24c-846788c92ff8" class="book-btn book-btn-kobo" target="_blank" rel="noopener noreferrer">📖 Kobo</a>
+  <a href="https://www.barnesandnoble.com/w/the-rigged-game-michael-rodriguez/1148109172" class="book-btn book-btn-bn" target="_blank" rel="noopener noreferrer">🏪 Barnes & Noble</a>
 </div>
 
 ### Libraries & Digital Collections
 
 Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating libraries. Contact your local library to request digital access.
 
+*First edition: August 2025*  
+*Published by Resource Economics Press*  
+*New York • London • Singapore*
+
+**ISBN:** 979-8345678912 (Hardcover)  
+**ISBN:** 979-8231940332 (eBook)
+
 ## Share This Book
 
-<div class="social-share">
-  <a href="https://twitter.com/intent/tweet?text=THE%20RIGGED%20GAME%20exposes%20how%20the%201%25%20built%20a%20system%20to%20keep%20you%20poor&url=https://zews123.github.io/michael-rodriguez-books/books/Rigged_Game&via=MRodriguezBooks" target="_blank" rel="noopener noreferrer" style="color: #1da1f2;"><i class="fab fa-twitter"></i> Twitter</a>
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://zews123.github.io/michael-rodriguez-books/books/Rigged_Game" target="_blank" rel="noopener noreferrer" style="color: #4267B2; margin-left: 15px;"><i class="fab fa-facebook"></i> Facebook</a>
-  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://zews123.github.io/michael-rodriguez-books/books/Rigged_Game" target="_blank" rel="noopener noreferrer" style="color: #0077b5; margin-left: 15px;"><i class="fab fa-linkedin"></i> LinkedIn</a>
+<div class="social-share" style="margin:30px 0">
+  <p style="margin-bottom:15px;font-weight:600">Help others understand how the economic game is rigged:</p>
+  <a href="https://twitter.com/intent/tweet?text=THE%20RIGGED%20GAME%20exposes%20how%20the%201%25%20built%20a%20system%20to%20keep%20you%20poor%20-%20by%20Michael%20Rodriguez&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&via=MRodriguezBooks" target="_blank" rel="noopener noreferrer" style="color:#1DA1F2">
+    <i class="fab fa-twitter-square"></i>
+  </a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" rel="noopener noreferrer" style="color:#3b5998">
+    <i class="fab fa-facebook-square"></i>
+  </a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title=THE%20RIGGED%20GAME:%20How%20the%201%25%20Built%20a%20System%20to%20Keep%20You%20Poor%20by%20Michael%20Rodriguez" target="_blank" rel="noopener noreferrer" style="color:#0077b5">
+    <i class="fab fa-linkedin"></i>
+  </a>
+  <a href="https://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title=THE%20RIGGED%20GAME:%20How%20the%201%25%20Built%20a%20System%20to%20Keep%20You%20Poor" target="_blank" rel="noopener noreferrer" style="color:#FF5700">
+    <i class="fab fa-reddit-square"></i>
+  </a>
+  <a href="https://pinterest.com/pin/create/button/?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&media={{ site.url }}{{ site.baseurl }}/assets/images/Rigged-Game.webp&description=THE%20RIGGED%20GAME:%20How%20the%201%25%20Built%20a%20System%20to%20Keep%20You%20Poor%20by%20Michael%20Rodriguez" target="_blank" rel="noopener noreferrer" style="color:#E60023">
+    <i class="fab fa-pinterest-square"></i>
+  </a>
 </div>
 
 ## Subscribe to Newsletter
