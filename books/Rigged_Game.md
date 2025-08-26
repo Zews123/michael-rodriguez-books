@@ -3,11 +3,6 @@ layout: default
 title: "THE RIGGED GAME: How the 1% Built a System to Keep You Poor"
 description: "Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth and keep you poor."
 canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Rigged_Game"
-image: "/assets/images/Rigged-Game.webp"
-og_title: "THE RIGGED GAME: How the 1% Built a System to Keep You Poor"
-og_description: "Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth and keep you poor."
-og_type: "book"
-twitter_card: "summary_large_image"
 ---
 
 <!-- Preload критических ресурсов -->
@@ -21,8 +16,7 @@ twitter_card: "summary_large_image"
 <style>
 .book-btn{background:#1a3c65;color:#fff;padding:10px 16px;border-radius:6px;text-decoration:none;font-weight:700;display:inline-block;text-align:center;min-width:110px;border:0}
 .book-btn:hover{text-decoration:none;color:#fff;opacity:0.9}
-.book-btn-amazon{background:linear-gradient(135deg, #ff9900 0%, #ffb84d 100%);color:#000;border-radius:8px;font-size:1.1rem;font-weight:700;box-shadow:0 4px 8px rgba(255, 153, 0, 0.3);transition:transform 0.2s ease, box-shadow 0.2s ease}
-.book-btn-amazon:hover{background:linear-gradient(135deg, #e67e00 0%, #ff9900 100%);transform:translateY(-3px);box-shadow:0 6px 14px rgba(255, 153, 0, 0.4);color:#000}
+.book-btn-amazon{background:#ff9900;color:#000}
 .book-btn-apple{background:#000}
 .book-btn-kobo{background:#1e90ff}
 .book-btn-smash{background:#ff6347}
@@ -124,6 +118,13 @@ twitter_card: "summary_large_image"
 
 *By Michael Rodriguez*
 
+*First edition: August 2025  
+Published by Resource Economics Press  
+New York • London • Singapore*
+
+**ISBN:** 979-xxxxxxxxxx (Hardcover)  
+**ISBN:** 979-8231940332 (eBook)
+
 ## About the Book
 
 Picture this: You wake up tomorrow morning to discover that ten men—just ten human beings—have accumulated more wealth than 3.8 billion people combined. Half the planet's entire population. Every construction worker in Bangladesh, every teacher in Brazil, every farmer in Nigeria—all of them together possess less than these ten individuals.
@@ -187,13 +188,6 @@ His investigations have been featured in major financial publications worldwide,
 ### Libraries & Digital Collections
 
 Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating libraries. Contact your local library to request digital access.
-
-*First edition: August 2025*  
-*Published by Resource Economics Press*  
-*New York • London • Singapore*
-
-**ISBN:** 979-8345678912 (Hardcover)  
-**ISBN:** 979-8231940332 (eBook)
 
 ## Share This Book
 
