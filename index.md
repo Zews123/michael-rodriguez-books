@@ -27,6 +27,15 @@ twitter_card: "summary_large_image"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Rigged-Game.webp" alt="THE RIGGED GAME: How the 1% Built a System to Keep You Poor by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>THE RIGGED GAME</h3>
+      <p>Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth. Discover the $2 trillion secret they don't want you to know.</p>
+      <a href="{{ site.baseurl }}/books/Rigged_Game" class="btn">Read More <span class="visually-hidden">about THE RIGGED GAME by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>The AI Emperor</h3>
