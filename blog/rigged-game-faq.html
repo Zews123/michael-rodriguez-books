@@ -6,6 +6,11 @@ image: "/assets/images/social/Rigged-Game-3D.webp"
 canonical_url: "https://zews123.github.io/michael-rodriguez-books/blog/rigged-game-faq.html"
 ---
 
+<!-- Preload critical resources -->
+<link rel="preload" href="{{ site.baseurl }}/assets/images/social/Rigged-Game-3D.webp" as="image" fetchpriority="high">
+<link rel="preload" href="{{ site.baseurl }}/assets/images/social/Rigged-Game-Available.webp" as="image">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com">
+
 <!-- Critical CSS inline for fast rendering -->
 <style>
 /* Critical styles for fast initial rendering */
@@ -15,6 +20,7 @@ body {
   color: #333;
   margin: 0;
   padding: 0;
+  font-display: swap;
 }
 
 h1, h2 {
@@ -23,6 +29,7 @@ h1, h2 {
   color: #1a3c65;
   margin-top: 1.5em;
   margin-bottom: 0.8em;
+  font-display: swap;
 }
 
 h1 {
@@ -57,16 +64,6 @@ a {
 
 a:hover {
   color: #1a3c65;
-}
-
-blockquote {
-  border-left: 3px solid #1a3c65;
-  padding-left: 1rem;
-  margin-left: 0;
-  font-style: italic;
-  color: #555;
-  background-color: #f9f9f9;
-  padding: 1em;
 }
 
 .first-letter::first-letter {
@@ -165,6 +162,8 @@ blockquote {
      alt="The Rigged Game FAQ 2025 - How the 1% Built a System to Keep You Poor" 
      loading="eager" 
      fetchpriority="high"
+     width="800"
+     height="600"
      style="width: 100%; max-width: 800px; height: auto; margin: 20px auto; display: block; border-radius: 8px;">
 
 <p class="first-letter">Picture this scenario: You wake up tomorrow morning to discover that while you were sleeping, ten men—just ten human beings—had somehow acquired more wealth than 3.8 billion of their fellow humans combined. Half the planet's entire population. Every construction worker in Bangladesh, every teacher in Brazil, every farmer in Nigeria—all of them together possess less than these ten individuals.</p>
@@ -253,6 +252,8 @@ blockquote {
       <a href="https://zews123.github.io/michael-rodriguez-books/books/Rigged_Game" style="display: block; border-bottom: none;">
         <img src="{{ site.baseurl }}/assets/images/social/Rigged-Game-Available.webp" 
              alt="The Rigged Game: How the 1% Built a System to Keep You Poor - Available Now" 
+             width="300"
+             height="400"
              style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 3px 6px rgba(0,0,0,0.1); transition: transform 0.3s ease;"
              loading="lazy">
       </a>
@@ -315,7 +316,25 @@ blockquote {
 
 <!-- Non-critical styles moved to end of document for faster loading -->
 <style>
+blockquote {
+  border-left: 3px solid #1a3c65;
+  padding-left: 1rem;
+  margin-left: 0;
+  font-style: italic;
+  color: #555;
+  background-color: #f9f9f9;
+  padding: 1em;
+}
+
 @media (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+    }
+    
+    h2 {
+        font-size: 1.5rem;
+    }
+    
     .book-container {
         grid-template-columns: 1fr !important;
         gap: 10px !important;
@@ -357,4 +376,7 @@ blockquote {
 .social-share a:hover {
     opacity: 0.8;
 }
+
+/* Optimize font loading */
+@import url('https://fonts.googleapis.com/css2?family=Georgia&display=swap');
 </style>
