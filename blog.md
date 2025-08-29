@@ -141,6 +141,18 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Rigged-Game-3D.webp" alt="The Rigged Game FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">August 29, 2025</span>
+      <h2>The Rigged Game FAQ: How the 1% Built a System to Keep You Poor</h2>
+      <p>Discover how the economic game is rigged against you. Expert answers to the most asked questions about wealth concentration, Dutch financial innovations from 1602, the $2 trillion secret, and viable alternatives to the rigged system that keeps ordinary people poor.</p>
+      <a href="{{ site.baseurl }}/blog/rigged-game-faq.html" class="read-more">Read More <span class="visually-hidden">about The Rigged Game FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/Sam-Altman-3DCover.webp" alt="AI Emperor FAQ">
     </div>
     <div class="blog-card-content">
@@ -353,6 +365,13 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
     "url": "https://zews123.github.io/michael-rodriguez-books/"
   },
   "blogPost": [
+    {
+      "@type": "BlogPosting",
+      "headline": "The Rigged Game FAQ: How the 1% Built a System to Keep You Poor",
+      "description": "Discover how the economic game is rigged against you. Expert answers to the most asked questions about wealth concentration and financial control.",
+      "datePublished": "2025-08-29",
+      "author": "Michael Rodriguez"
+    },
     {
       "@type": "BlogPosting",
       "headline": "AI Emperor FAQ: 7 Questions About Sam Altman's ChatGPT Revolution",
