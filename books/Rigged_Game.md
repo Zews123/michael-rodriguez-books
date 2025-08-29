@@ -40,16 +40,29 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Rigged_G
         "name": "Michael Rodriguez",
         "url": "https://zews123.github.io/michael-rodriguez-books/about"
       },
-      "datePublished": "2025-08-26",
+      "datePublished": "2025-08-25",
       "description": "Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth and keep you poor",
-      "genre": ["Economics", "Politics", "Finance"],
-      "isbn": "979-8345678912",
+      "genre": "https://schema.org/NonFiction",
+      "isbn": "979-8231144044",
+      "bookFormat": "https://schema.org/Paperback",
+      "inLanguage": "en",
       "publisher": {
         "@type": "Organization",
         "name": "Resource Economics Press"
       },
       "image": "https://zews123.github.io/michael-rodriguez-books/assets/images/Rigged-Game.webp",
-      "url": "https://zews123.github.io/michael-rodriguez-books/books/Rigged_Game"
+      "url": "https://zews123.github.io/michael-rodriguez-books/books/Rigged_Game",
+      "offers": {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "price": "24.99",
+        "priceCurrency": "USD",
+        "url": "https://www.amazon.com/Rigged-Game-Built-System-Keep/dp/B0FNTGG6BZ",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      }
     },
     {
       "@type": "FAQPage",
