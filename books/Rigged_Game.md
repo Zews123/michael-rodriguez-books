@@ -67,6 +67,9 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Rigged_G
     {
       "@type": "FAQPage",
       "@id": "https://zews123.github.io/michael-rodriguez-books/books/Rigged_Game#faq",
+      "mainEntityOfPage": {
+        "@id": "https://zews123.github.io/michael-rodriguez-books/books/Rigged_Game#book"
+      },
       "mainEntity": [
         {
           "@type": "Question",
@@ -115,8 +118,8 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Rigged_G
 <meta property="og:url" content="https://zews123.github.io/michael-rodriguez-books/books/Rigged_Game">
 <meta property="og:type" content="book">
 <meta property="book:author" content="Michael Rodriguez">
-<meta property="book:isbn" content="979-8345678912">
-<meta property="book:release_date" content="2025-08-26">
+<meta property="book:isbn" content="979-8231144044">
+<meta property="book:release_date" content="2025-08-25">
 
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary_large_image">
