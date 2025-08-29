@@ -19,6 +19,7 @@ twitter_card: "summary_large_image"
 <style>
 .book-btn{background:#1a3c65;color:#fff;padding:10px 16px;border-radius:6px;text-decoration:none;font-weight:700;display:inline-block;text-align:center;min-width:110px;border:0}
 .book-btn:hover{text-decoration:none;color:#fff;opacity:0.9}
+.book-btn-amazon{background:#ff9900;color:#000}
 .book-btn-apple{background:#000}
 .book-btn-kobo{background:#1e90ff}
 .book-btn-smash{background:#ff6347}
@@ -34,29 +35,43 @@ twitter_card: "summary_large_image"
   "@graph": [
     {
       "@type": "Book",
+      "@id": "https://zews123.github.io/michael-rodriguez-books/books/Sam_Altman#book",
       "name": "The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us",
       "author": {
         "@type": "Person",
-        "name": "Michael Rodriguez"
+        "name": "Michael Rodriguez",
+        "url": "https://zews123.github.io/michael-rodriguez-books/about"
       },
       "publisher": {
         "@type": "Organization",
         "name": "Resource Economics Press"
       },
-      "datePublished": "2025-01-01",
-      "bookFormat": "EBook",
-      "isbn": "9798227128263",
-      "url": "{{ page.canonical_url }}",
-      "image": "{{ site.url }}{{ site.baseurl }}/assets/images/Sam-Altman.webp",
+      "datePublished": "2025-08-18",
+      "bookFormat": "https://schema.org/Paperback",
+      "genre": "https://schema.org/NonFiction",
+      "isbn": "979-8231694440",
+      "inLanguage": "en",
+      "url": "https://zews123.github.io/michael-rodriguez-books/books/Sam_Altman",
+      "image": "https://zews123.github.io/michael-rodriguez-books/assets/images/Sam-Altman.webp",
       "description": "Expose Sam Altman's rise to AI supremacy. How ChatGPT revolutionized society and one man gained unprecedented control over humanity's future.",
       "offers": {
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "url": "https://www.smashwords.com/books/view/1837046"
+        "price": "24.99",
+        "priceCurrency": "USD",
+        "url": "https://www.amazon.com/AI-Emperor-ChatGPT-Revolution-Destroy/dp/B0FN6PNKCZ/",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
       }
     },
     {
       "@type": "FAQPage",
+      "@id": "https://zews123.github.io/michael-rodriguez-books/books/Sam_Altman#faq",
+      "mainEntityOfPage": {
+        "@id": "https://zews123.github.io/michael-rodriguez-books/books/Sam_Altman#book"
+      },
       "mainEntity": [
         {
           "@type": "Question",
@@ -87,7 +102,7 @@ twitter_card: "summary_large_image"
           "name": "Where can I buy the book?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Available on Smashwords, Apple Books, Kobo and Barnes & Noble. Library distribution includes OverDrive, Hoopla and BorrowBox."
+            "text": "Available on Amazon, Apple Books, Kobo and Barnes & Noble. Library distribution includes OverDrive, Hoopla and BorrowBox."
           }
         }
       ]
@@ -102,6 +117,13 @@ twitter_card: "summary_large_image"
 <img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us" width="300" height="400" style="max-width:300px;margin:0 auto 20px;display:block" loading="lazy" decoding="async">
 
 *By Michael Rodriguez*
+
+*First edition: August 2025*  
+*Published by Resource Economics Press*  
+*New York • London • Singapore*
+
+**ISBN:** 979-8231694440 (Hardcover)  
+**ISBN:** 979-8231643891 (eBook)
 
 ## About the Book
 
@@ -179,34 +201,6 @@ Through fearless investigation and rigorous analysis, Rodriguez illuminates the 
     <strong>📖 Libraries:</strong> OverDrive, Hoopla, BorrowBox<br>
   </p>
 </div>
-
-<style>
-.book-btn-amazon {
-  display: inline-block;
-  padding: 12px 24px;
-  background: linear-gradient(135deg, #ff9900 0%, #ffb84d 100%);
-  color: #000;
-  border: none;
-  border-radius: 8px;
-  font-size: 1.1rem;
-  font-weight: bold;
-  box-shadow: 0 4px 8px rgba(255, 153, 0, 0.3);
-  text-decoration: none;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.book-btn-amazon:hover {
-  background: linear-gradient(135deg, #e67e00 0%, #ff9900 100%);
-  transform: translateY(-3px);
-  box-shadow: 0 6px 14px rgba(255, 153, 0, 0.4);
-}
-</style>
-
-*First edition: January 2025*  
-*Published by Resource Economics Press*  
-*New York • London • Singapore*
-**ISBN:** 9798231625834 (Hardcover)  
-**ISBN:** 9798231643891 (eBook)
 
 ## Share This Book
 
