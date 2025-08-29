@@ -179,7 +179,7 @@ His investigations have been featured in major financial publications worldwide,
 ## Get Your Copy Today
 
 <div class="book-buttons">
-  <a href="https://www.amazon.com/AI-Emperor-ChatGPT-Revolution-Destroy/dp/B0FN6PNKCZ/" class="book-btn book-btn-amazon" target="_blank" rel="noopener noreferrer"><span style="font-size:16px;">📦</span> Amazon</a>
+  <a href="https://www.amazon.com/Rigged-Game-Built-System-Keep/dp/B0FNTGG6BZ" class="book-btn book-btn-amazon" target="_blank" rel="noopener noreferrer"><span style="font-size:16px;">📦</span> Amazon</a>
   <a href="https://books.apple.com/us/book/the-rigged-game-how-the-1-built-a-system-to-keep-you-poor/id6751493642" class="book-btn book-btn-apple" target="_blank" rel="noopener noreferrer">🍎 Apple Books</a>
   <a href="https://www.kobo.com/ww/en/ebook/the-rigged-game-how-the-1-built-a-system-to-keep-you-poor?sId=c36bc768-ba66-437d-a24c-846788c92ff8" class="book-btn book-btn-kobo" target="_blank" rel="noopener noreferrer">📖 Kobo</a>
   <a href="https://www.barnesandnoble.com/w/the-rigged-game-michael-rodriguez/1148109172" class="book-btn book-btn-bn" target="_blank" rel="noopener noreferrer">🏪 Barnes & Noble</a>
