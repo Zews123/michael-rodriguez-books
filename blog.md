@@ -141,6 +141,18 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Bilderberg_Forum_Inside.webp" alt="Inside Bilderberg Forum">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">August 31, 2025</span>
+      <h2>Inside Bilderberg Forum: What Really Happens Behind Doors</h2>
+      <p>Exclusive insights into the Bilderberg Forum's secret discussions. Discover what topics 150 global elites debate annually and how these conversations shape global policy through sophisticated coordination mechanisms.</p>
+      <a href="{{ site.baseurl }}/blog/inside-bilderberg-forum.html" class="read-more">Read More <span class="visually-hidden">about Inside Bilderberg Forum</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/Rigged-Game-3D.webp" alt="The Rigged Game FAQ">
     </div>
     <div class="blog-card-content">
@@ -365,6 +377,13 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
     "url": "https://zews123.github.io/michael-rodriguez-books/"
   },
   "blogPost": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Inside Bilderberg Forum: What Really Happens Behind Doors",
+      "description": "Exclusive insights into the Bilderberg Forum's secret discussions. Discover what topics 150 global elites debate annually and how these conversations shape global policy.",
+      "datePublished": "2025-08-31",
+      "author": "Michael Rodriguez"
+    },
     {
       "@type": "BlogPosting",
       "headline": "The Rigged Game FAQ: How the 1% Built a System to Keep You Poor",
