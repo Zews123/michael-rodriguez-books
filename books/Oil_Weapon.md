@@ -107,15 +107,23 @@ Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating 
 
 
 ## Share This Book
-
-Help others understand how the economic game is rigged:
-
-<div style="display: flex; gap: 15px; margin: 20px 0; align-items: center;">
-<a href="https://twitter.com/intent/tweet?text=Explosive%20investigation%3A%20%22The%20Oil%20Weapon%22%20by%20Michael%20Rodriguez%20reveals%20150%20years%20of%20energy%20warfare%20from%20Rockefeller%20to%20Ukrainian%20drones&url={{ page.url | absolute_url }}" style="color: #1da1f2; font-size: 24px; text-decoration: none;">🐦</a>
-<a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" style="color: #4267b2; font-size: 24px; text-decoration: none;">📘</a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url }}" style="color: #0077b5; font-size: 24px; text-decoration: none;">💼</a>
-<a href="https://reddit.com/submit?url={{ page.url | absolute_url }}&title=The%20Oil%20Weapon%20by%20Michael%20Rodriguez" style="color: #ff4500; font-size: 24px; text-decoration: none;">🤖</a>
-<a href="https://pinterest.com/pin/create/button/?url={{ page.url | absolute_url }}&description=The%20Oil%20Weapon%20by%20Michael%20Rodriguez" style="color: #bd081c; font-size: 24px; text-decoration: none;">📌</a>
+<div class="social-share" style="margin:30px 0">
+  <p style="margin-bottom:15px;font-weight:600">Help expose the hidden truth about energy geopolitics:</p>
+  <a href="https://twitter.com/intent/tweet?text=THE%20OIL%20WEAPON%20reveals%20150%20years%20of%20energy%20warfare%20from%20Rockefeller%20to%20Ukrainian%20drones%20-%20by%20Michael%20Rodriguez&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&via=MRodriguezBooks" target="_blank" rel="noopener noreferrer" style="color:#1DA1F2">
+    <i class="fab fa-twitter-square"></i>
+  </a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" rel="noopener noreferrer" style="color:#3b5998">
+    <i class="fab fa-facebook-square"></i>
+  </a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title=THE%20OIL%20WEAPON:%20How%20Black%20Gold%20Destroys%20Empires%20and%20Controls%20Nations%20by%20Michael%20Rodriguez" target="_blank" rel="noopener noreferrer" style="color:#0077b5">
+    <i class="fab fa-linkedin"></i>
+  </a>
+  <a href="https://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title=THE%20OIL%20WEAPON:%20How%20Black%20Gold%20Destroys%20Empires%20and%20Controls%20Nations" target="_blank" rel="noopener noreferrer" style="color:#FF5700">
+    <i class="fab fa-reddit-square"></i>
+  </a>
+  <a href="https://pinterest.com/pin/create/button/?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&media={{ site.url }}{{ site.baseurl }}/assets/images/Oil_Weapon_Book.webp&description=THE%20OIL%20WEAPON:%20How%20Black%20Gold%20Destroys%20Empires%20and%20Controls%20Nations%20by%20Michael%20Rodriguez" target="_blank" rel="noopener noreferrer" style="color:#E60023">
+    <i class="fab fa-pinterest-square"></i>
+  </a>
 </div>
 
 
