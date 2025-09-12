@@ -95,31 +95,28 @@ Rodriguez's unique methodology combines traditional investigative journalism wit
 ## Get Your Copy Today
 
 <div class="book-buttons">
-<a href="https://www.amazon.com/dp/B0FQRMZYS9" class="book-btn book-btn-amazon">Amazon Kindle</a>
-<a href="https://books.apple.com/us/book/the-oil-weapon-how-black-gold-destroys-empires/id6752257073" class="book-btn book-btn-apple">Apple Books</a>
-<a href="https://www.kobo.com/ww/en/ebook/the-oil-weapon-how-black-gold-destroys-empires-and-controls-nations?sId=b1f5a389-7994-4d97-860b-5f4d532d17de&ssId=Z1XwO22AgbFzWwy4x_pUR&cPos=1" class="book-btn book-btn-kobo">Kobo</a>
-<a href="https://www.barnesandnoble.com/w/the-oil-weapon-michael-rodriguez/1148249978?ean=9798232385644" class="book-btn book-btn-bn">Barnes & Noble</a>
+<a href="https://www.amazon.com/dp/B0FQRMZYS9" class="book-btn book-btn-amazon">🛒 Amazon</a>
+<a href="https://books.apple.com/us/book/the-oil-weapon-how-black-gold-destroys-empires/id6752257073" class="book-btn book-btn-apple">🍎 Apple Books</a>
+<a href="https://www.kobo.com/ww/en/ebook/the-oil-weapon-how-black-gold-destroys-empires-and-controls-nations?sId=b1f5a389-7994-4d97-860b-5f4d532d17de&ssId=Z1XwO22AgbFzWwy4x_pUR&cPos=1" class="book-btn book-btn-kobo">📚 Kobo</a>
+<a href="https://www.barnesandnoble.com/w/the-oil-weapon-michael-rodriguez/1148249978?ean=9798232385644" class="book-btn book-btn-bn">🏬 Barnes & Noble</a>
 </div>
 
-**Also available at your local library through:**
-- OverDrive
-- Hoopla  
-- BorrowBox
+## Libraries & Digital Collections
+
+Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating libraries. Contact your local library to request digital access.
+
 
 ## Share This Book
 
-Help expose the hidden truth about energy geopolitics:
+Help others understand how the economic game is rigged:
 
-**Social Media:**
-- [Share on Twitter](https://twitter.com/intent/tweet?text=Explosive%20investigation%3A%20%22The%20Oil%20Weapon%22%20by%20Michael%20Rodriguez%20reveals%20150%20years%20of%20energy%20warfare%20from%20Rockefeller%20to%20Ukrainian%20drones&url={{ page.url | absolute_url }})
-- [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url }})
-- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }})
-- [Share on Reddit](https://reddit.com/submit?url={{ page.url | absolute_url }}&title=The%20Oil%20Weapon%20by%20Michael%20Rodriguez)
-- [Share on Telegram](https://t.me/share/url?url={{ page.url | absolute_url }}&text=The%20Oil%20Weapon%20by%20Michael%20Rodriguez)
-
-**Messaging:**
-- [Share via Email](mailto:?subject=The%20Oil%20Weapon%20by%20Michael%20Rodriguez&body=Check%20out%20this%20explosive%20investigation%20into%20energy%20geopolitics%3A%20{{ page.url | absolute_url }})
-- [Share on WhatsApp](https://wa.me/?text=The%20Oil%20Weapon%20by%20Michael%20Rodriguez%20{{ page.url | absolute_url }})
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 20px 0;">
+<a href="https://twitter.com/intent/tweet?text=Explosive%20investigation%3A%20%22The%20Oil%20Weapon%22%20by%20Michael%20Rodriguez%20reveals%20150%20years%20of%20energy%20warfare%20from%20Rockefeller%20to%20Ukrainian%20drones&url={{ page.url | absolute_url }}" style="background: #1da1f2; color: white; padding: 8px 12px; text-decoration: none; border-radius: 4px; display: inline-flex; align-items: center; font-weight: 500;">📱 Twitter</a>
+<a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" style="background: #4267b2; color: white; padding: 8px 12px; text-decoration: none; border-radius: 4px; display: inline-flex; align-items: center; font-weight: 500;">👥 Facebook</a>
+<a href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url }}" style="background: #0077b5; color: white; padding: 8px 12px; text-decoration: none; border-radius: 4px; display: inline-flex; align-items: center; font-weight: 500;">💼 LinkedIn</a>
+<a href="https://reddit.com/submit?url={{ page.url | absolute_url }}&title=The%20Oil%20Weapon%20by%20Michael%20Rodriguez" style="background: #ff4500; color: white; padding: 8px 12px; text-decoration: none; border-radius: 4px; display: inline-flex; align-items: center; font-weight: 500;">🔥 Reddit</a>
+<a href="mailto:?subject=The%20Oil%20Weapon%20by%20Michael%20Rodriguez&body=Check%20out%20this%20explosive%20investigation%20into%20energy%20geopolitics%3A%20{{ page.url | absolute_url }}" style="background: #d14836; color: white; padding: 8px 12px; text-decoration: none; border-radius: 4px; display: inline-flex; align-items: center; font-weight: 500;">✉️ Email</a>
+</div>
 
 ## Subscribe to Newsletter
 
