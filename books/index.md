@@ -11,6 +11,15 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Oil_Weapon_Book.webp" alt="The Oil Weapon: How Black Gold Destroys Empires and Controls Nations by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The Oil Weapon</h3>
+      <p>Explosive investigation into 150 years of energy geopolitics - from Rockefeller's empire to Ukrainian drones targeting Russian refineries. Discover how energy became the ultimate weapon of mass economic destruction.</p>
+      <a href="{{ site.baseurl }}/books/Oil_Weapon" class="btn">Read More <span class="visually-hidden">about The Oil Weapon by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Rigged-Game.webp" alt="THE RIGGED GAME: How the 1% Built a System to Keep You Poor by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>THE RIGGED GAME</h3>
@@ -179,6 +188,9 @@ Michael Rodriguez combines economic theory, historical analysis, and investigati
 
 ## Complete Bibliography
 
+### The Oil Weapon: How Black Gold Destroys Empires and Controls Nations (2025)
+An explosive investigation into 150 years of energy geopolitics, from John D. Rockefeller's ruthless Standard Oil monopoly to the Ukrainian drone strikes rewriting the rules of modern warfare. Rodriguez exposes how oil became the ultimate weapon of mass economic destruction through three years of investigation across thirty-seven countries, revealing classified documents, leaked intelligence, and insider testimonies that show how energy control determines the rise and fall of empires. From the secret 1945 deal that created the petrodollar system to the precision drone warfare that's ending superpower energy dominance, this meticulously researched exposé reveals the hidden mechanisms that have shaped our world and the technological revolution that may finally break oil's stranglehold on global power.
+
 ### THE RIGGED GAME: How the 1% Built a System to Keep You Poor (2025)
 The explosive investigation that exposes how the wealthiest 1% systematically built an economic system designed to concentrate wealth and keep ordinary people poor. Rodriguez reveals the $2 trillion secret through eighteen months of following money trails, leaked documents, and insider interviews. From Dutch financial innovations to modern inequality, this meticulously researched exposé shows how capitalism isn't broken—it's working exactly as designed. Essential reading for understanding how every market crash and bailout transfers wealth upward while revealing viable alternatives that could democratize economic power.
 
@@ -259,6 +271,12 @@ An examination of how nations increasingly use economic tools as weapons in glob
     "url": "https://zews123.github.io/michael-rodriguez-books/"
   },
   "hasPart": [
+    {
+      "@type": "Book",
+      "name": "The Oil Weapon",
+      "author": "Michael Rodriguez",
+      "description": "Explosive investigation into 150 years of energy geopolitics - from Rockefeller's empire to Ukrainian drones targeting Russian refineries."
+    },
     {
       "@type": "Book",
       "name": "THE RIGGED GAME",
