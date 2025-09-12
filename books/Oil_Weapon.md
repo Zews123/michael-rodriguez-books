@@ -37,7 +37,7 @@ language: "English"
 **ISBN: 979-8232246587 (eBook)**
 
 <div class="book-cover-container">
-<img src="/assets/images/Oil_Weapon_Book.webp" alt="The Oil Weapon book cover by Michael Rodriguez" width="300" height="450" loading="lazy" decoding="async" class="book-cover">
+<img src="{{ site.baseurl }}/assets/images/Oil_Weapon_Book.webp" alt="The Oil Weapon book cover by Michael Rodriguez" width="300" height="450" loading="lazy" decoding="async" class="book-cover">
 </div>
 
 ## About the Book
