@@ -2,6 +2,7 @@
 layout: default
 title: "The Oil Weapon: Energy Geopolitics by Michael Rodriguez"
 description: "Explosive investigation into 150 years of energy geopolitics - from Rockefeller's empire to Ukrainian drones targeting Russian refineries."
+canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Oil_Weapon"
 image: "/assets/images/Oil_Weapon_Book.webp"
 author: "Michael Rodriguez"
 book_title: "The Oil Weapon: How Black Gold Destroys Empires and Controls Nations"
@@ -11,9 +12,9 @@ publication_date: "September 2025"
 publisher: "Resource Economics Press"
 category: "investigative-journalism"
 tags: ["energy", "geopolitics", "oil", "warfare", "investigation"]
-price_kindle: "$9.99"
+price_kindle: "$4.99"
 price_hardcover: "$24.99"
-pages: "400+"
+pages: "100+"
 language: "English"
 ---
 
