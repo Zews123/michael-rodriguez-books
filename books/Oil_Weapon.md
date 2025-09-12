@@ -17,12 +17,12 @@ pages: "400+"
 language: "English"
 ---
 
-<link rel="preload" href="/assets/images/Oil_Weapon_Book.webp" as="image" fetchpriority="high">
+<link rel="preload" href="{{ site.baseurl }}/assets/images/Oil_Weapon_Book.webp" as="image" fetchpriority="high">
 <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
 <link rel="preconnect" href="https://www.amazon.com">
 
 <style>
-.book-btn{background:#1a3c65;color:#fff;padding:10px 16px;border-radius:6px;text-decoration:none;font-weight:700;display:inline-block;text-align:center;min-width:110px;border:0}.book-btn:hover{text-decoration:none;color:#fff;opacity:0.9}.book-btn-apple{background:#000}.book-btn-kobo{background:#1e90ff}.book-btn-smash{background:#ff6347}.book-btn-bn{background:#2e8b57}.book-buttons{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:15px}@media (max-width:768px){.book-buttons{flex-direction:column}.book-btn{width:100%;margin-bottom:5px}}
+.book-btn{background:#1a3c65;color:#fff;padding:10px 16px;border-radius:6px;text-decoration:none;font-weight:700;display:inline-block;text-align:center;min-width:110px;border:0}.book-btn:hover{text-decoration:none;color:#fff;opacity:0.9}.book-btn-amazon{background:#ff9900}.book-btn-apple{background:#000}.book-btn-kobo{background:#1e90ff}.book-btn-bn{background:#2e8b57}.book-btn-smash{background:#ff6347}.book-buttons{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:15px}@media (max-width:768px){.book-buttons{flex-direction:column}.book-btn{width:100%;margin-bottom:5px}}
 </style>
 
 # The Oil Weapon: How Black Gold Destroys Empires and Controls Nations
@@ -36,8 +36,8 @@ language: "English"
 **ISBN: 979-8232385644 (Hardcover)**  
 **ISBN: 979-8232246587 (eBook)**
 
-<div class="book-cover-container">
-<img src="{{ site.baseurl }}/assets/images/Oil_Weapon_Book.webp" alt="The Oil Weapon book cover by Michael Rodriguez" width="300" height="450" loading="lazy" decoding="async" class="book-cover">
+<div class="book-cover-container" style="text-align: center; margin: 30px 0;">
+<img src="{{ site.baseurl }}/assets/images/Oil_Weapon_Book.webp" alt="The Oil Weapon book cover by Michael Rodriguez" width="300" height="450" loading="lazy" decoding="async" class="book-cover" style="box-shadow: 0 4px 20px rgba(0,0,0,0.15); border-radius: 8px;">
 </div>
 
 ## About the Book
@@ -95,7 +95,7 @@ Rodriguez's unique methodology combines traditional investigative journalism wit
 ## Get Your Copy Today
 
 <div class="book-buttons">
-<a href="https://www.amazon.com/dp/B0FQRMZYS9" class="book-btn">Amazon Kindle</a>
+<a href="https://www.amazon.com/dp/B0FQRMZYS9" class="book-btn book-btn-amazon">Amazon Kindle</a>
 <a href="https://books.apple.com/us/book/the-oil-weapon-how-black-gold-destroys-empires/id6752257073" class="book-btn book-btn-apple">Apple Books</a>
 <a href="https://www.kobo.com/ww/en/ebook/the-oil-weapon-how-black-gold-destroys-empires-and-controls-nations?sId=b1f5a389-7994-4d97-860b-5f4d532d17de&ssId=Z1XwO22AgbFzWwy4x_pUR&cPos=1" class="book-btn book-btn-kobo">Kobo</a>
 <a href="https://www.barnesandnoble.com/w/the-oil-weapon-michael-rodriguez/1148249978?ean=9798232385644" class="book-btn book-btn-bn">Barnes & Noble</a>
@@ -110,9 +110,16 @@ Rodriguez's unique methodology combines traditional investigative journalism wit
 
 Help expose the hidden truth about energy geopolitics:
 
+**Social Media:**
 - [Share on Twitter](https://twitter.com/intent/tweet?text=Explosive%20investigation%3A%20%22The%20Oil%20Weapon%22%20by%20Michael%20Rodriguez%20reveals%20150%20years%20of%20energy%20warfare%20from%20Rockefeller%20to%20Ukrainian%20drones&url={{ page.url | absolute_url }})
 - [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url }})
 - [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }})
+- [Share on Reddit](https://reddit.com/submit?url={{ page.url | absolute_url }}&title=The%20Oil%20Weapon%20by%20Michael%20Rodriguez)
+- [Share on Telegram](https://t.me/share/url?url={{ page.url | absolute_url }}&text=The%20Oil%20Weapon%20by%20Michael%20Rodriguez)
+
+**Messaging:**
+- [Share via Email](mailto:?subject=The%20Oil%20Weapon%20by%20Michael%20Rodriguez&body=Check%20out%20this%20explosive%20investigation%20into%20energy%20geopolitics%3A%20{{ page.url | absolute_url }})
+- [Share on WhatsApp](https://wa.me/?text=The%20Oil%20Weapon%20by%20Michael%20Rodriguez%20{{ page.url | absolute_url }})
 
 ## Subscribe to Newsletter
 
