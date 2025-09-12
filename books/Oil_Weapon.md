@@ -118,9 +118,16 @@ Help others understand how the economic game is rigged:
 <a href="https://pinterest.com/pin/create/button/?url={{ page.url | absolute_url }}&description=The%20Oil%20Weapon%20by%20Michael%20Rodriguez" style="color: #bd081c; font-size: 24px; text-decoration: none;">📌</a>
 </div>
 
+
 ## Subscribe to Newsletter
 
-Stay informed about energy geopolitics and get exclusive updates on upcoming investigations: [Subscribe Here](mailto:subscribe@michael-rodriguez-books.com?subject=Newsletter%20Subscription&body=Please%20add%20me%20to%20the%20newsletter)
+Stay informed about Rodriguez's latest investigations and upcoming books:
+
+<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
+  <h3 style="margin-top: 0; color: #1a3c65;">Get Exclusive Updates</h3>
+  <p>Join thousands of readers receiving exclusive analysis on financial crime, wealth concentration, and the hidden networks draining resources from democratic societies.</p>
+  <a href="https://michael-rodriguez.kit.com/b2a1614bc4" style="background:#1a3c65;color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:700;display:inline-block">Subscribe Now</a>
+</div>
 
 <script type="application/ld+json">
 {
