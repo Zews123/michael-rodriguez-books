@@ -141,6 +141,18 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Oil_Weapon_3D.webp" alt="The Oil Weapon FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">September 12, 2025</span>
+      <h2>The Oil Weapon FAQ: How Energy Became the Ultimate Economic Weapon</h2>
+      <p>Discover how energy warfare evolved from Rockefeller's monopoly to Ukrainian drones. Expert answers to the most asked questions about energy geopolitics, the democratization of energy warfare, and how technology is reshaping global power structures.</p>
+      <a href="{{ site.baseurl }}/blog/oil-weapon-faq.html" class="read-more">Read More <span class="visually-hidden">about The Oil Weapon FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/Bilderberg_Forum_Inside.webp" alt="Inside Bilderberg Forum">
     </div>
     <div class="blog-card-content">
@@ -377,6 +389,13 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
     "url": "https://zews123.github.io/michael-rodriguez-books/"
   },
   "blogPost": [
+    {
+      "@type": "BlogPosting",
+      "headline": "The Oil Weapon FAQ: How Energy Became the Ultimate Economic Weapon",
+      "description": "Discover how energy warfare evolved from Rockefeller's monopoly to Ukrainian drones. Expert answers to the most asked questions about energy geopolitics.",
+      "datePublished": "2025-09-12",
+      "author": "Michael Rodriguez"
+    },
     {
       "@type": "BlogPosting",
       "headline": "Inside Bilderberg Forum: What Really Happens Behind Doors",
