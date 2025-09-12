@@ -27,6 +27,15 @@ twitter_card: "summary_large_image"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Oil_Weapon_Book.webp" alt="The Oil Weapon: How Black Gold Destroys Empires and Controls Nations by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The Oil Weapon</h3>
+      <p>Explosive investigation into 150 years of energy geopolitics - from Rockefeller's empire to Ukrainian drones targeting Russian refineries. Discover how energy became the ultimate weapon of mass economic destruction.</p>
+      <a href="{{ site.baseurl }}/books/Oil_Weapon" class="btn">Read More <span class="visually-hidden">about The Oil Weapon by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Rigged-Game.webp" alt="THE RIGGED GAME: How the 1% Built a System to Keep You Poor by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>THE RIGGED GAME</h3>
