@@ -110,12 +110,12 @@ Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating 
 
 Help others understand how the economic game is rigged:
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 20px 0;">
-<a href="https://twitter.com/intent/tweet?text=Explosive%20investigation%3A%20%22The%20Oil%20Weapon%22%20by%20Michael%20Rodriguez%20reveals%20150%20years%20of%20energy%20warfare%20from%20Rockefeller%20to%20Ukrainian%20drones&url={{ page.url | absolute_url }}" style="background: #1da1f2; color: white; padding: 8px 12px; text-decoration: none; border-radius: 4px; display: inline-flex; align-items: center; font-weight: 500;">📱 Twitter</a>
-<a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" style="background: #4267b2; color: white; padding: 8px 12px; text-decoration: none; border-radius: 4px; display: inline-flex; align-items: center; font-weight: 500;">👥 Facebook</a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url }}" style="background: #0077b5; color: white; padding: 8px 12px; text-decoration: none; border-radius: 4px; display: inline-flex; align-items: center; font-weight: 500;">💼 LinkedIn</a>
-<a href="https://reddit.com/submit?url={{ page.url | absolute_url }}&title=The%20Oil%20Weapon%20by%20Michael%20Rodriguez" style="background: #ff4500; color: white; padding: 8px 12px; text-decoration: none; border-radius: 4px; display: inline-flex; align-items: center; font-weight: 500;">🔥 Reddit</a>
-<a href="mailto:?subject=The%20Oil%20Weapon%20by%20Michael%20Rodriguez&body=Check%20out%20this%20explosive%20investigation%20into%20energy%20geopolitics%3A%20{{ page.url | absolute_url }}" style="background: #d14836; color: white; padding: 8px 12px; text-decoration: none; border-radius: 4px; display: inline-flex; align-items: center; font-weight: 500;">✉️ Email</a>
+<div style="display: flex; gap: 15px; margin: 20px 0; align-items: center;">
+<a href="https://twitter.com/intent/tweet?text=Explosive%20investigation%3A%20%22The%20Oil%20Weapon%22%20by%20Michael%20Rodriguez%20reveals%20150%20years%20of%20energy%20warfare%20from%20Rockefeller%20to%20Ukrainian%20drones&url={{ page.url | absolute_url }}" style="color: #1da1f2; font-size: 24px; text-decoration: none;">🐦</a>
+<a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" style="color: #4267b2; font-size: 24px; text-decoration: none;">📘</a>
+<a href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url }}" style="color: #0077b5; font-size: 24px; text-decoration: none;">💼</a>
+<a href="https://reddit.com/submit?url={{ page.url | absolute_url }}&title=The%20Oil%20Weapon%20by%20Michael%20Rodriguez" style="color: #ff4500; font-size: 24px; text-decoration: none;">🤖</a>
+<a href="https://pinterest.com/pin/create/button/?url={{ page.url | absolute_url }}&description=The%20Oil%20Weapon%20by%20Michael%20Rodriguez" style="color: #bd081c; font-size: 24px; text-decoration: none;">📌</a>
 </div>
 
 ## Subscribe to Newsletter
