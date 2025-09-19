@@ -27,6 +27,15 @@ twitter_card: "summary_large_image"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Richest_Poor_Country.webp" alt="The Richest Poor Country: Venezuela's Oil Curse and the New Cold War in America's Backyard by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The Richest Poor Country</h3>
+      <p>Inside Venezuela's transformation from oil paradise to economic collapse - exploring the new Cold War battles in America's backyard. Discover how competing superpowers engineered a nation's destruction.</p>
+      <a href="{{ site.baseurl }}/books/Richest_Poor_Country" class="btn">Read More <span class="visually-hidden">about The Richest Poor Country by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Oil_Weapon_Book.webp" alt="The Oil Weapon: How Black Gold Destroys Empires and Controls Nations by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>The Oil Weapon</h3>
