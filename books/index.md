@@ -11,6 +11,15 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Richest_Poor_Country.webp" alt="The Richest Poor Country: Venezuela's Oil Curse and the New Cold War in America's Backyard by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The Richest Poor Country</h3>
+      <p>Inside Venezuela's transformation from oil paradise to economic collapse - exploring the new Cold War battles in America's backyard. Discover how competing superpowers engineered a nation's destruction.</p>
+      <a href="{{ site.baseurl }}/books/Richest_Poor_Country" class="btn">Read More <span class="visually-hidden">about The Richest Poor Country by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Oil_Weapon_Book.webp" alt="The Oil Weapon: How Black Gold Destroys Empires and Controls Nations by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Oil Weapon</h3>
@@ -188,6 +197,9 @@ Michael Rodriguez combines economic theory, historical analysis, and investigati
 
 ## Complete Bibliography
 
+### The Richest Poor Country: Venezuela's Oil Curse and the New Cold War in America's Backyard (2025)
+Inside Venezuela's transformation from oil paradise to economic collapse - exploring the new Cold War battles in America's backyard. Rodriguez reveals how Venezuela became the epicenter of a new Cold War through exclusive interviews with former government officials, leaked intelligence documents, and three years of investigation across five countries. From Hugo Chávez's revolutionary rise to Chinese credit lifelines and Russian mercenaries, this explosive investigation exposes how Venezuela's collapse wasn't an accident—it was engineered by competing superpowers, predatory oligarchs, and a revolutionary movement that lost its way in petrostate corruption.
+
 ### The Oil Weapon: How Black Gold Destroys Empires and Controls Nations (2025)
 An explosive investigation into 150 years of energy geopolitics, from John D. Rockefeller's ruthless Standard Oil monopoly to the Ukrainian drone strikes rewriting the rules of modern warfare. Rodriguez exposes how oil became the ultimate weapon of mass economic destruction through three years of investigation across thirty-seven countries, revealing classified documents, leaked intelligence, and insider testimonies that show how energy control determines the rise and fall of empires. From the secret 1945 deal that created the petrodollar system to the precision drone warfare that's ending superpower energy dominance, this meticulously researched exposé reveals the hidden mechanisms that have shaped our world and the technological revolution that may finally break oil's stranglehold on global power.
 
@@ -271,6 +283,12 @@ An examination of how nations increasingly use economic tools as weapons in glob
     "url": "https://zews123.github.io/michael-rodriguez-books/"
   },
   "hasPart": [
+    {
+      "@type": "Book",
+      "name": "The Richest Poor Country",
+      "author": "Michael Rodriguez",
+      "description": "Inside Venezuela's transformation from oil paradise to economic collapse - exploring the new Cold War battles in America's backyard."
+    },
     {
       "@type": "Book",
       "name": "The Oil Weapon",
