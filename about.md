@@ -21,6 +21,7 @@ After studying Economics and International Relations at Georgetown University, R
 
 Rodriguez is known for his meticulously researched books that reveal the hidden mechanisms behind global economic systems, financial crime networks, and elite power structures:
 
+- **[The Richest Poor Country: Venezuela's Oil Curse and the New Cold War in America's Backyard]({{ site.baseurl }}/books/Richest_Poor_Country) (2025)** - *Inside Venezuela's transformation from oil paradise to economic collapse - exploring the new Cold War battles in America's backyard and how competing superpowers engineered a nation's destruction*
 - **[The Oil Weapon: How Black Gold Destroys Empires and Controls Nations]({{ site.baseurl }}/books/Oil_Weapon) (2025)** - *Explosive investigation into 150 years of energy geopolitics, from Rockefeller's empire to Ukrainian drone strikes rewriting the rules of modern warfare*
 - **[THE RIGGED GAME: How the 1% Built a System to Keep You Poor]({{ site.baseurl }}/books/Rigged_Game) (2025)** - *Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth and keep ordinary people poor*
 - **[The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us]({{ site.baseurl }}/books/Sam_Altman) (2025)** - *The explosive investigation exposing how one man accumulated unprecedented power over humanity's most transformative technology*
