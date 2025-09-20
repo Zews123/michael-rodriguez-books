@@ -141,6 +141,18 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Venezuela_3D.webp" alt="Venezuela's Oil Curse FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">September 20, 2025</span>
+      <h2>Venezuela's Oil Curse FAQ: How the Richest Poor Country Became America's Biggest Threat</h2>
+      <p>Discover how Venezuela transformed from oil paradise to narco-state. Expert answers about the $15M bounty, China's $67B gambit, and the new Cold War in America's backyard.</p>
+      <a href="{{ site.baseurl }}/blog/venezuela-oil-curse-faq.html" class="read-more">Read More <span class="visually-hidden">about Venezuela's Oil Curse FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/Oil_Weapon_3D.webp" alt="The Oil Weapon FAQ">
     </div>
     <div class="blog-card-content">
@@ -389,6 +401,13 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
     "url": "https://zews123.github.io/michael-rodriguez-books/"
   },
   "blogPost": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Venezuela's Oil Curse FAQ: How the Richest Poor Country Became America's Biggest Threat",
+      "description": "Discover how Venezuela transformed from oil paradise to narco-state. Expert answers about the $15M bounty, China's $67B gambit, and the new Cold War in America's backyard.",
+      "datePublished": "2025-09-20",
+      "author": "Michael Rodriguez"
+    },
     {
       "@type": "BlogPosting",
       "headline": "The Oil Weapon FAQ: How Energy Became the Ultimate Economic Weapon",
