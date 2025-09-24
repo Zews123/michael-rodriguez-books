@@ -27,6 +27,15 @@ twitter_card: "summary_large_image"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/India_Paradox.webp" alt="The India Paradox: Nuclear Power, Digital Dreams, and a Billion People's Quest for Global Dominance by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The India Paradox</h3>
+      <p>Inside India's transformation to global superpower - nuclear ambitions, tech revolution, and billion-person democracy shaping world order. Discover how the world's largest democracy became its most unpredictable power.</p>
+      <a href="{{ site.baseurl }}/books/India_Paradox" class="btn">Read More <span class="visually-hidden">about The India Paradox by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Richest_Poor_Country.webp" alt="The Richest Poor Country: Venezuela's Oil Curse and the New Cold War in America's Backyard by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>The Richest Poor Country</h3>
