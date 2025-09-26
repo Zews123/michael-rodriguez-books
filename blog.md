@@ -141,6 +141,18 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/India_3D.webp" alt="India Paradox FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">September 26, 2025</span>
+      <h2>India Paradox FAQ: Nuclear Power, Digital Dreams, and Democracy's Superpower Rise</h2>
+      <p>How India landed on the Moon for $74M while 400M lack toilets. Expert answers about nuclear ambitions, China rivalry, and democratic innovation reshaping global power.</p>
+      <a href="{{ site.baseurl }}/blog/india-paradox-faq.html" class="read-more">Read More <span class="visually-hidden">about India Paradox FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/Venezuela_3D.webp" alt="Venezuela's Oil Curse FAQ">
     </div>
     <div class="blog-card-content">
@@ -401,6 +413,13 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
     "url": "https://zews123.github.io/michael-rodriguez-books/"
   },
   "blogPost": [
+    {
+      "@type": "BlogPosting",
+      "headline": "India Paradox FAQ: Nuclear Power, Digital Dreams, and Democracy's Superpower Rise",
+      "description": "How India landed on the Moon for $74M while 400M lack toilets. Expert answers about nuclear ambitions, China rivalry, and democratic innovation reshaping global power.",
+      "datePublished": "2025-09-26",
+      "author": "Michael Rodriguez"
+    },
     {
       "@type": "BlogPosting",
       "headline": "Venezuela's Oil Curse FAQ: How the Richest Poor Country Became America's Biggest Threat",
