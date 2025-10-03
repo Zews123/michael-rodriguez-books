@@ -1,215 +1,498 @@
 ---
 layout: default
-title: "Bush Machine: Oil, Espionage & American Power Analysis"
-description: "Inside Bush dynasty's hidden empire - four generations of oil money, CIA connections, and political power shaping American history and global policy."
-canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Bush_Machine"
-image: "/assets/images/Bush_Machine.webp"
-author: "Michael Rodriguez"
-book_title: "The Bush Machine: Four Generations of Oil, Espionage, and American Power"
-isbn_hardcover: "979-8231018451"
-isbn_ebook: "979-8232320911"
-publication_date: "September 2025"
-publisher: "Resource Economics Press"
-category: "investigative-journalism"
-tags: ["bush-dynasty", "oil", "cia", "american-politics", "espionage"]
-price_kindle: "$4.99"
-price_hardcover: "$24.99"
-pages: "420+"
-language: "English"
+title: "Michael Rodriguez Books | Financial Crime & Money Laundering Analysis"
+description: "Complete collection of investigative books by Michael Rodriguez on financial crime, money laundering, shadow economy, AI power, and global corruption networks."
+canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/"
 ---
 
-<link rel="preload" href="{{ site.baseurl }}/assets/images/Bush_Machine.webp" as="image" fetchpriority="high">
-<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
-<link rel="preconnect" href="https://www.amazon.com">
+# Books by Michael Rodriguez
 
-<style>
-.book-btn{background:#1a3c65;color:#fff;padding:10px 16px;border-radius:6px;text-decoration:none;font-weight:700;display:inline-block;text-align:center;min-width:110px;border:0}.book-btn:hover{text-decoration:none;color:#fff;opacity:0.9}.book-btn-amazon{background:#ff9900}.book-btn-apple{background:#000}.book-btn-kobo{background:#1e90ff}.book-btn-bn{background:#2e8b57}.book-btn-smash{background:#ff6347}.book-buttons{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:15px}@media (max-width:768px){.book-buttons{flex-direction:column}.book-btn{width:100%;margin-bottom:5px}}
-</style>
+Dive into the complex world of global economics, financial markets, and power structures through Michael Rodriguez's insightful and meticulously researched books.
 
-# The Bush Machine: Four Generations of Oil, Espionage, and American Power
+<div class="book-grid">
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Bush_Machine.webp" alt="The Bush Machine: Four Generations of Oil, Espionage, and American Power by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The Bush Machine</h3>
+      <p>Inside Bush dynasty's hidden empire - four generations of oil money, CIA connections, and political power shaping American history. Discover how one family controlled U.S. foreign policy for nearly a century.</p>
+      <a href="{{ site.baseurl }}/books/Bush_Machine" class="btn">Read More <span class="visually-hidden">about The Bush Machine by Michael Rodriguez</span></a>
+    </div>
+  </div>
 
-*By Michael Rodriguez*
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/India_Paradox.webp" alt="The India Paradox: Nuclear Power, Digital Dreams, and a Billion People's Quest for Global Dominance by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The India Paradox</h3>
+      <p>Inside India's transformation to global superpower - nuclear ambitions, tech revolution, and billion-person democracy shaping world order. Discover how the world's largest democracy became its most unpredictable power.</p>
+      <a href="{{ site.baseurl }}/books/India_Paradox" class="btn">Read More <span class="visually-hidden">about The India Paradox by Michael Rodriguez</span></a>
+    </div>
+  </div>
 
-**First edition: September 2025**  
-**Published by Resource Economics Press**  
-**New York • London • Singapore**
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Richest_Poor_Country.webp" alt="The Richest Poor Country: Venezuela's Oil Curse and the New Cold War in America's Backyard by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The Richest Poor Country</h3>
+      <p>Inside Venezuela's transformation from oil paradise to economic collapse - exploring the new Cold War battles in America's backyard. Discover how competing superpowers engineered a nation's destruction.</p>
+      <a href="{{ site.baseurl }}/books/Richest_Poor_Country" class="btn">Read More <span class="visually-hidden">about The Richest Poor Country by Michael Rodriguez</span></a>
+    </div>
+  </div>
 
-**ISBN: 979-8231018451 (Hardcover)**  
-**ISBN: 979-8232320911 (eBook)**
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Oil_Weapon_Book.webp" alt="The Oil Weapon: How Black Gold Destroys Empires and Controls Nations by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The Oil Weapon</h3>
+      <p>Explosive investigation into 150 years of energy geopolitics - from Rockefeller's empire to Ukrainian drones targeting Russian refineries. Discover how energy became the ultimate weapon of mass economic destruction.</p>
+      <a href="{{ site.baseurl }}/books/Oil_Weapon" class="btn">Read More <span class="visually-hidden">about The Oil Weapon by Michael Rodriguez</span></a>
+    </div>
+  </div>
 
-<div class="book-cover-container" style="text-align: center; margin: 30px 0;">
-<img src="{{ site.baseurl }}/assets/images/Bush_Machine.webp" alt="The Bush Machine book cover by Michael Rodriguez" width="300" height="450" loading="lazy" decoding="async" class="book-cover" style="box-shadow: 0 4px 20px rgba(0,0,0,0.15); border-radius: 8px;">
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Rigged-Game.webp" alt="THE RIGGED GAME: How the 1% Built a System to Keep You Poor by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>THE RIGGED GAME</h3>
+      <p>Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth. Discover the $2 trillion secret they don't want you to know.</p>
+      <a href="{{ site.baseurl }}/books/Rigged_Game" class="btn">Read More <span class="visually-hidden">about THE RIGGED GAME by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The AI Emperor</h3>
+      <p>Expose Sam Altman's rise to AI supremacy and the 96-hour corporate coup that transformed him into the unelected emperor of humanity's most powerful technology. Discover how ChatGPT revolutionized society.</p>
+      <a href="{{ site.baseurl }}/books/Sam_Altman" class="btn">Read More <span class="visually-hidden">about The AI Emperor by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Secrets_Medici.webp" alt="Secrets of the Medici: The Dark Aristocracy Behind Global Power by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Secrets of the Medici</h3>
+      <p>Expose how Renaissance banking dynasties created the blueprint for modern elite control. Discover 500+ years of hidden power networks operating through Vatican banks and European institutions.</p>
+      <a href="{{ site.baseurl }}/books/Secrets_Medici" class="btn">Read More <span class="visually-hidden">about Secrets of the Medici by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Dopamine_Dealers.webp" alt="The Dopamine Dealers: How McDonald's, KFC & Burger King Turned Your Brain Into Their ATM by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The Dopamine Dealers</h3>
+      <p>Discover how McDonald's, KFC & Burger King use neuroscience to turn your brain into their ATM. Expose the sophisticated manipulation tactics behind fast food addiction.</p>
+      <a href="{{ site.baseurl }}/books/Dopamine_Dealers" class="btn">Read More <span class="visually-hidden">about The Dopamine Dealers by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/THE_LAUNDROMAT.webp" alt="The Laundromat: How Presidents, Billionaires and Drug Lords Built the World's Biggest Money-Washing Machine by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The Laundromat</h3>
+      <p>Discover how presidents, billionaires, and drug lords built the world's biggest money-washing machine. Expose the $32 trillion shadow economy and century-long evolution of financial crime.</p>
+      <a href="{{ site.baseurl }}/books/The_Laundromat" class="btn">Read More <span class="visually-hidden">about The Laundromat by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/DARK MONEY EMPIRE.webp" alt="Dark Money Empire: Inside the Secret Laundering Networks of Presidents, Oligarchs, Nazis and Rock Stars by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Dark Money Empire</h3>
+      <p>Uncover how presidents, oligarchs, Nazis and rock stars launder billions through secret offshore networks. Expose the $32 trillion shadow economy that operates parallel to our world.</p>
+      <a href="{{ site.baseurl }}/books/Dark_Money_Empire" class="btn">Read More <span class="visually-hidden">about Dark Money Empire by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Bilderberg_Exposed.webp" alt="Bilderberg Exposed: The Shadow Architects of Global Power - Political Analysis Book by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Bilderberg Exposed</h3>
+      <p>Uncover 70 years of secret meetings that shaped world history. Discover how the Bilderberg Club influences global politics, economics, and the future of humanity.</p>
+      <a href="{{ site.baseurl }}/books/Bilderberg_Exposed" class="btn">Read More <span class="visually-hidden">about Bilderberg Exposed by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Passport_Power.webp" alt="Passport Power: How Your Travel Document Shapes Global Economics and Personal Freedom by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Passport Power</h3>
+      <p>Discover how your travel document shapes global opportunities, economic freedom, and life chances. From ancient passes to digital citizenship revolution.</p>
+      <a href="{{ site.baseurl }}/books/Passport-Power" class="btn">Read More <span class="visually-hidden">about Passport Power by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Warren_Buffett.webp" alt="Warren Buffett: How to Become THE RICHEST? - Investment Strategy Book by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Warren Buffett: How to Become THE RICHEST?</h3>
+      <p>Discover the untold story of Warren Buffett's journey from childhood entrepreneur to the world's greatest investor, revealing the psychology behind his unprecedented success.</p>
+      <a href="{{ site.baseurl }}/books/Warren_Buffett" class="btn">Read More <span class="visually-hidden">about Warren Buffett How to Become THE RICHEST by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Digital_Dollar_Dystopia.webp" alt="Digital Dollar Dystopia: Central Bank Digital Currencies and Financial Control by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Digital Dollar Dystopia</h3>
+      <p>Explore how Central Bank Digital Currencies threaten personal liberty, enable financial surveillance, and could create an unprecedented system of control.</p>
+      <a href="{{ site.baseurl }}/books/Digital-Dollar-Dystopia" class="btn">Read More <span class="visually-hidden">about Digital Dollar Dystopia by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/How the IMF Manipulates Nations by Michael Rodrigez.webp" alt="How the IMF Manipulates Countries: Debt, Structural Adjustment and Currency Control by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>How the IMF Manipulates Countries</h3>
+      <p>Uncover how the IMF uses debt, structural adjustment, and currency manipulation to control nations' economies and serve powerful interests.</p>
+      <a href="{{ site.baseurl }}/books/imf-manipulates" class="btn">Read More <span class="visually-hidden">about How the IMF Manipulates Countries by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/BlackRock-Empire.webp" alt="The BlackRock Empire: World's Most Powerful Financial Institution Analysis by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The BlackRock Empire</h3>
+      <p>Uncover how BlackRock became the world's most powerful financial institution, controlling trillions in assets and shaping global markets from behind the scenes.</p>
+      <a href="{{ site.baseurl }}/books/blackrock-empire" class="btn">Read More <span class="visually-hidden">about The BlackRock Empire by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/George-Soros-Book-Cover.webp" alt="George Soros: The Man the World Hates - Controversial Financier Biography by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>George Soros: The Man the World Hates</h3>
+      <p>Uncover how one man shaped global markets, influenced politics across continents, and became the most controversial financier of our time.</p>
+      <a href="{{ site.baseurl }}/books/george-soros" class="btn">Read More <span class="visually-hidden">about George Soros The Man the World Hates by Michael Rodriguez</span></a>
+    </div>
+  </div>
+  
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE print.webp" alt="The Chinese Real Estate Bubble: Comprehensive Analysis of China's Property Market Crisis by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The Chinese Real Estate Bubble</h3>
+      <p>A comprehensive analysis of China's precarious real estate market and how its potential collapse threatens the global economy.</p>
+      <a href="{{ site.baseurl }}/books/chinese-real-estate-bubble" class="btn">Read More <span class="visually-hidden">about The Chinese Real Estate Bubble by Michael Rodriguez</span></a>
+    </div>
+  </div>
+  
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" alt="The PayPal Mafia: Silicon Valley's Secret Power Brokers - Tech History Book by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The PayPal Mafia</h3>
+      <p>Uncover how PayPal's founding team transformed into the most influential network in tech history, reshaping global politics and finance.</p>
+      <a href="{{ site.baseurl }}/books/paypal-mafia" class="btn">Read More <span class="visually-hidden">about The PayPal Mafia by Michael Rodriguez</span></a>
+    </div>
+  </div>
+  
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" alt="Weaponized Economy: History of Economic Warfare from Napoleon to Modern Trade Wars by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Weaponized Economy</h3>
+      <p>Explore the fascinating history of economic warfare from Napoleon to modern US-China tensions and how nations weaponize trade.</p>
+      <a href="{{ site.baseurl }}/books/weaponized-economy" class="btn">Read More <span class="visually-hidden">about Weaponized Economy by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Silver-Empire-The-Forgotten-Metal.webp" alt="Silver Empire: The Forgotten Metal That Powers Modern Civilization - Investment Book by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Silver Empire</h3>
+      <p>An extraordinary exploration of silver's crucial role in human history and modern technology. Rodriguez reveals how this overlooked metal has shaped economies for centuries.</p>
+      <a href="{{ site.baseurl }}/books/silver-empire" class="btn">Read More <span class="visually-hidden">about Silver Empire by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Trillion_Dollar_Shadow.webp" alt="The Trillion Dollar Shadow: Vanguard, John Bogle and the New Financial Order by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The Trillion Dollar Shadow</h3>
+      <p>The untold story of how John Bogle's revolutionary index fund concept transformed into Vanguard Group, a financial giant managing over $10 trillion in assets.</p>
+      <a href="{{ site.baseurl }}/books/trillion-dollar-shadow" class="btn">Read More <span class="visually-hidden">about The Trillion Dollar Shadow by Michael Rodriguez</span></a>
+    </div>
+  </div>
 </div>
 
-## About the Book
+## About Michael Rodriguez's Work
 
-Picture this: A Texas oilman's grandson becomes CIA Director, then President. His son follows him into the White House two decades later. Between them, they launch four wars in the Middle East, preside over three economic crashes, and build a political dynasty that secretly controlled American foreign policy for nearly a century. All while their family business partners made billions from the very conflicts they orchestrated.
+Michael Rodriguez combines economic theory, historical analysis, and investigative research to uncover connections between financial institutions, technological innovation, and broader social and political trends. His interdisciplinary approach allows him to identify patterns that others miss, making his analyses particularly valuable in today's complex global economy.
 
-This is the Bush Machine: America's most powerful political dynasty, built on a foundation of oil money, intelligence connections, and backroom deals that transformed a Connecticut senator's son into the architect of the modern surveillance state. A family whose fingerprints appear on every major American foreign policy decision from World War II to the War on Terror, yet whose true influence has remained hidden behind layers of corporate shells, classified documents, and carefully managed public personas.
+## Complete Bibliography
 
-Through unprecedented access to declassified CIA files, leaked financial records, and exclusive interviews with former intelligence operatives, cabinet officials, and family insiders, "The Bush Machine" exposes how four generations of one family weaponized American power to serve their business interests while convincing the public they were serving the nation.
+### The Bush Machine: Four Generations of Oil, Espionage, and American Power (2025)
+Inside Bush dynasty's hidden empire - four generations of oil money, CIA connections, and political power shaping American history and global policy. Rodriguez exposes how one family controlled U.S. foreign policy for nearly a century through unprecedented access to declassified CIA files, leaked financial records, and exclusive interviews with former intelligence operatives and cabinet officials. From Prescott Bush's secret business partnerships with Nazi industrialists and Saudi royals to George H.W. Bush's transformation of the CIA into a family instrument, from the $39 billion in war profits to the mysterious bin Laden family evacuation after 9/11, this five-year investigation across seven countries reveals the hidden networks connecting Yale's Skull and Bones society to Saudi oil fields, CIA black sites to Carlyle Group boardrooms, exposing how dynastic power operates in modern democracies and the dangers it poses to democratic institutions.
 
-Michael Rodriguez spent five years investigating across seven countries, analyzing thousands of pages of declassified documents, offshore banking records, and secret intelligence assessments to trace the hidden networks connecting Yale's Skull and Bones society to Saudi oil fields, from CIA black sites to Carlyle Group boardrooms, from BCCI money laundering to Halliburton war profits.
+### The India Paradox: Nuclear Power, Digital Dreams, and a Billion People's Quest for Global Dominance (2025)
+Inside India's transformation to global superpower - nuclear ambitions, tech revolution, and billion-person democracy shaping world order. Rodriguez reveals how the world's largest democracy became its most unpredictable power through exclusive interviews with nuclear scientists, space engineers, and government officials. From secret nuclear tests that shocked the CIA to the digital revolution reshaping global economics, this investigation exposes how India's contradictions are actually strategic advantages in global competition, utilizing ancient wisdom to guide AI development while demographic forces determine the 21st century's balance of power.
 
-## What You'll Discover
+### The Richest Poor Country: Venezuela's Oil Curse and the New Cold War in America's Backyard (2025)
+Inside Venezuela's transformation from oil paradise to economic collapse - exploring the new Cold War battles in America's backyard. Rodriguez reveals how Venezuela became the epicenter of a new Cold War through exclusive interviews with former government officials, leaked intelligence documents, and three years of investigation across five countries. From Hugo Chávez's revolutionary rise to Chinese credit lifelines and Russian mercenaries, this explosive investigation exposes how Venezuela's collapse wasn't an accident—it was engineered by competing superpowers, predatory oligarchs, and a revolutionary movement that lost its way in petrostate corruption.
 
-### 🛢️ **The Oil Empire Origins**
-How Prescott Bush built the family fortune through secret business partnerships with Nazi industrialists and Saudi royals, creating an oil-intelligence complex that would shape American foreign policy for generations.
+### The Oil Weapon: How Black Gold Destroys Empires and Controls Nations (2025)
+An explosive investigation into 150 years of energy geopolitics, from John D. Rockefeller's ruthless Standard Oil monopoly to the Ukrainian drone strikes rewriting the rules of modern warfare. Rodriguez exposes how oil became the ultimate weapon of mass economic destruction through three years of investigation across thirty-seven countries, revealing classified documents, leaked intelligence, and insider testimonies that show how energy control determines the rise and fall of empires. From the secret 1945 deal that created the petrodollar system to the precision drone warfare that's ending superpower energy dominance, this meticulously researched exposé reveals the hidden mechanisms that have shaped our world and the technological revolution that may finally break oil's stranglehold on global power.
 
-### 🕵️ **The CIA Dynasty Project** 
-Exclusive documents revealing how George H.W. Bush transformed the CIA from intelligence agency into private family instrument, building networks that influenced elections, toppled governments, and protected business interests worldwide.
+### THE RIGGED GAME: How the 1% Built a System to Keep You Poor (2025)
+The explosive investigation that exposes how the wealthiest 1% systematically built an economic system designed to concentrate wealth and keep ordinary people poor. Rodriguez reveals the $2 trillion secret through eighteen months of following money trails, leaked documents, and insider interviews. From Dutch financial innovations to modern inequality, this meticulously researched exposé shows how capitalism isn't broken—it's working exactly as designed. Essential reading for understanding how every market crash and bailout transfers wealth upward while revealing viable alternatives that could democratize economic power.
 
-### 💣 **The War Profit Machine**
-Financial forensics exposing how Bush family companies earned over $39 billion from wars they helped orchestrate in Iraq, Afghanistan, and Kuwait, while taxpayers bore the human and economic costs.
+### The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us (2025)
+The explosive investigation that exposes the untold story behind the most powerful figure in artificial intelligence. Rodriguez reveals how a midwestern teenager transformed himself into the unelected emperor of humanity's most transformative technology, accumulating unprecedented control over systems that could reshape civilization itself. From the mysterious 2023 board coup that lasted exactly 96 hours to the hidden networks connecting Silicon Valley venture capital to global AI governance, this meticulously researched exposé reveals how artificial intelligence development operates without democratic oversight or public accountability.
 
-### 🏛️ **The Shadow Government Network**
-Investigation into the Carlyle Group, Halliburton, and other Bush-connected corporations that formed a parallel power structure controlling defense contracts, oil concessions, and reconstruction projects across the Middle East.
+### Secrets of the Medici: The Dark Aristocracy Behind Global Power (2025)
+A groundbreaking investigation that exposes the hidden truth behind five centuries of elite family control that continues to shape our world today. Rodriguez traces how the legendary Medici banking dynasty created the foundational techniques for modern power projection, establishing networks of influence that their descendants—both biological and ideological—still use to control everything from European Central Bank policy to Vatican financial operations. Drawing from leaked diplomatic cables, genealogical records, financial documents, and testimonies from former intelligence operatives, this meticulously researched exposé reveals how power actually works in the modern world, demonstrating how ancient European families maintain influence across generations while remaining virtually invisible to democratic oversight.
 
-### 🤝 **The Saudi Royal Connection**
-Intelligence analysis of the secret Bush-Saudi alliance spanning 75 years, from Roosevelt's meeting with Ibn Saud to the mysterious evacuation of bin Laden family members after 9/11.
+### The Dopamine Dealers: How McDonald's, KFC & Burger King Turned Your Brain Into Their ATM (2025)
+A groundbreaking investigation into the most sophisticated consumer manipulation campaign in human history. Rodriguez exposes how the world's largest fast food corporations have weaponized cutting-edge neuroscience to transform ordinary people into neurologically dependent customers who literally cannot resist their products. Drawing from leaked internal documents, interviews with former corporate insiders, and peer-reviewed studies spanning decades of research, this explosive exposé reveals the hidden science behind every "craving" you experience and provides practical strategies for reclaiming control over your own mind.
 
-### 🎭 **The Dynasty Succession Strategy**
-Political analysis revealing how the Bush Machine groomed Jeb Bush, positioned George P. Bush, and plans to maintain dynastic control of Republican politics through the 21st century.
+### The Laundromat: How Presidents, Billionaires and Drug Lords Built the World's Biggest Money-Washing Machine (2025)
+A groundbreaking investigation into the century-long evolution of money laundering, from Prohibition-era gangsters to AI-powered cryptocurrency schemes. Rodriguez exposes how a $32 trillion shadow economy operates parallel to legitimate finance, threatening the foundations of democratic governance worldwide.
 
-## Key Revelations
+### Dark Money Empire: Inside the Secret Laundering Networks of Presidents, Oligarchs, Nazis and Rock Stars (2025)
+A groundbreaking investigation into the $32 trillion shadow economy that operates parallel to our world. Rodriguez exposes how dictators, oligarchs, Nazi war criminals, and celebrity musicians use sophisticated offshore networks to hide billions while undermining democratic institutions and economic justice.
 
-- **The Skull and Bones Files**: Leaked membership records and ritual documents exposing how Yale's secret society created the Bush political network and continues recruiting future dynasty members
+### Bilderberg Exposed: The Shadow Architects of Global Power (2025)
+The first comprehensive investigation into the Bilderberg Group's seven-decade evolution from Cold War forum to modern global governance mechanism. Rodriguez reveals how this secretive organization has shaped everything from NATO's expansion to today's digital transformation, operating as an informal world government when formal coordination proves impossible.
 
-- **The BCCI Money Trail**: Banking records proving Bush family connections to the criminal Bank of Credit and Commerce International, used to funnel arms-dealing profits and drug money through offshore accounts
+### Passport Power: How Your Travel Document Shapes Global Economics and Your Personal Freedom (2025)
+This comprehensive analysis exposes the hidden economic forces behind passport rankings, the $50 billion "golden citizenship" industry, and the coming digital identity revolution that will redefine belonging itself. Essential reading for understanding how climate migration, technological surveillance, and new forms of global integration will transform citizenship in the 21st century.
 
-- **The Iran-Contra Nexus**: Declassified CIA cables showing George H.W. Bush's direct role in illegal weapons sales to Iran and cocaine trafficking to fund Nicaraguan contras
+### Warren Buffett: How to Become THE RICHEST? (2025)
+The definitive biographical analysis of Warren Buffett's journey from childhood entrepreneur to the world's greatest investor. Rodriguez reveals the psychological forces, family dynamics, and strategic decisions that enabled Buffett's unprecedented success, while examining controversial aspects of his empire that mainstream biographies often overlook.
 
-- **The Iraq War Architects**: Email correspondence revealing how Dick Cheney, Donald Rumsfeld, and Paul Wolfowitz planned the 2003 invasion years before 9/11 to secure oil contracts and military base access
+### Digital Dollar Dystopia (2025)
+An urgent warning about how Central Bank Digital Currencies (CBDCs) threaten personal freedom and enable unprecedented financial surveillance. This essential guide explores the technological capabilities of programmable money and provides practical strategies to protect your economic sovereignty as we approach a cashless future.
 
-- **The Saudi Bailout Documents**: Treasury records showing how Saudi Arabia rescued Bush family businesses from bankruptcy multiple times, creating conflicts of interest during both Bush presidencies
+### How the IMF Manipulates Countries (2025)
+A comprehensive investigation into how the International Monetary Fund uses debt, structural adjustment programs, and currency manipulation to control national economies while serving powerful global interests. This explosive analysis reveals the IMF's role in economic crises from Argentina to East Asia and exposes alternatives that have allowed countries to escape debt dependency.
 
-- **The Jeb Bush Restoration Blueprint**: Internal Republican strategy memos detailing the multi-decade plan to rehabilitate the Bush brand and position the next generation for power
+### The BlackRock Empire (2025)
+An in-depth investigation into how BlackRock became the world's most powerful financial institution, with over $10 trillion in assets under management. This book reveals how Larry Fink built a financial giant that shapes markets, influences governments, and touches nearly every aspect of modern life through its revolutionary Aladdin technology and strategic acquisitions.
 
-## About the Author
+### George Soros: The Man the World Hates (2025)
+A comprehensive analysis of the controversial financier who shaped global markets and influenced political landscapes across continents. This book examines Soros's journey from Nazi-occupied Hungary to becoming one of the world's most influential—and divisive—figures, revealing the truth behind his currency speculations, philanthropic empire, and the myths that surround him.
 
-**Michael Rodriguez** is an investigative journalist and economic analyst whose groundbreaking exposés have influenced international policy and shaped global investment strategies. His previous bestsellers include "The Richest Poor Country," "Dark Money Empire," "The AI Emperor," "The BlackRock Empire," and "The India Paradox."
+### The Chinese Real Estate Bubble (2025)
+An in-depth investigation into China's precarious real estate market and how its potential collapse could trigger a global economic crisis. This book explains the historic roots of China's construction boom, the demographic factors exacerbating the situation, and the worldwide implications of a Chinese economic downturn.
 
-For "The Bush Machine," Rodriguez obtained unprecedented access to declassified CIA files, conducted forensic analysis of offshore financial networks, and interviewed over 400 sources including former intelligence operatives, White House officials, oil industry executives, and Bush family associates. His investigation utilized document authentication, financial forensics, and political network analysis to expose the mechanisms through which one family accumulated and wielded power across four generations.
+### Silver Empire (2025)
+An extraordinary exploration of silver's crucial role in human history and modern technology. Rodriguez reveals how this overlooked metal has shaped economies for centuries and why it may become the strategic resource of our future as industrial demand skyrockets while supply diminishes.
 
-Rodriguez's methodology combines traditional investigative journalism with advanced data analytics, utilizing political genealogy mapping, corporate network analysis, and historical pattern recognition to reveal how dynastic power operates in modern democracies and the dangers it poses to democratic institutions.
+### The Trillion Dollar Shadow (2025)
+The untold story of how John Bogle's revolutionary index fund concept transformed into Vanguard Group, a financial giant managing over $10 trillion in assets. Rodriguez explores the unprecedented power of passive investment firms and their growing influence over global corporations.
 
-## Get Your Copy Today
+### The PayPal Mafia (2025)
+The remarkable story of how a small group of entrepreneurs from PayPal—including Elon Musk, Peter Thiel, and Reid Hoffman—went on to create some of the most influential companies of the 21st century and reshape technology, finance, and global politics.
 
-<div class="book-buttons">
-<a href="https://www.amazon.com/dp/The-Bush-Machine/B0FSBBG5JT" class="book-btn book-btn-amazon">🛒 Amazon</a>
-<a href="https://books.apple.com/us/book/the-bush-machine-four-generations-of-oil/id6753166881" class="book-btn book-btn-apple">🍎 Apple Books</a>
-<a href="https://www.kobo.com/ww/en/ebook/the-bush-machine-four-generations-of-oil-espionage-and-american-power?sId=3cf410f9-d0de-42e3-8929-3786594fffaf&ssId=i15ZsPcFgvi_zeWPxZ2CQ" class="book-btn book-btn-kobo">📚 Kobo</a>
-<a href="https://www.barnesandnoble.com/w/the-bush-machine-michael-rodriguez/1148413008" class="book-btn book-btn-bn">🏬 Barnes & Noble</a>
-</div>
+### Weaponized Economy (2025)
+An examination of how nations increasingly use economic tools as weapons in global conflicts. From Napoleon's Continental Blockade to modern sanctions regimes, this book traces the evolution of economic warfare and its consequences for international stability.
 
-## Libraries & Digital Collections
+### Previous Works
+- Technological Breakthroughs of World War II: How War Changed Our World (2023)
+- Stoicism in Business: Ancient Philosophy for Modern Leaders (2022)
 
-Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating libraries. Contact your local library to request digital access.
-
-## Share This Book
-<div class="social-share" style="margin:30px 0">
-  <p style="margin-bottom:15px;font-weight:600">Help expose the truth about America's most powerful political dynasty:</p>
-  <a href="https://twitter.com/intent/tweet?text=THE%20BUSH%20MACHINE%20exposes%20four%20generations%20of%20oil%20money%20CIA%20connections%20and%20political%20power%20-%20by%20Michael%20Rodriguez&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&via=MRodriguezBooks" target="_blank" rel="noopener noreferrer" style="color:#1DA1F2">
-    <i class="fab fa-twitter-square"></i>
-  </a>
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" rel="noopener noreferrer" style="color:#3b5998">
-    <i class="fab fa-facebook-square"></i>
-  </a>
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title=THE%20BUSH%20MACHINE:%20Four%20Generations%20of%20Oil%20Espionage%20and%20American%20Power%20by%20Michael%20Rodriguez" target="_blank" rel="noopener noreferrer" style="color:#0077b5">
-    <i class="fab fa-linkedin"></i>
-  </a>
-  <a href="https://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title=THE%20BUSH%20MACHINE:%20Four%20Generations%20of%20Oil%20Espionage%20and%20American%20Power" target="_blank" rel="noopener noreferrer" style="color:#FF5700">
-    <i class="fab fa-reddit-square"></i>
-  </a>
-  <a href="https://pinterest.com/pin/create/button/?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&media={{ site.url }}{{ site.baseurl }}/assets/images/Bush_Machine.webp&description=THE%20BUSH%20MACHINE:%20Four%20Generations%20of%20Oil%20Espionage%20and%20American%20Power%20by%20Michael%20Rodriguez" target="_blank" rel="noopener noreferrer" style="color:#E60023">
-    <i class="fab fa-pinterest-square"></i>
-  </a>
-</div>
-
-## Subscribe to Newsletter
-
-Stay informed about Rodriguez's latest investigations and upcoming books:
+## Stay Connected
 
 <div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
-  <h3 style="margin-top: 0; color: #1a3c65;">Get Exclusive Updates</h3>
-  <p>Join thousands of readers receiving exclusive analysis on global power shifts, technological disruption, and the hidden networks reshaping international relations in the 21st century.</p>
-  <a href="https://michael-rodriguez.kit.com/b2a1614bc4" style="background:#1a3c65;color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:700;display:inline-block">Subscribe Now</a>
+  <h3 style="margin-top: 0; color: #1a3c65;">Get Exclusive Insights</h3>
+  <p>Join thousands of readers who receive expert analysis on global economics, financial markets, and technological trends that mainstream media won't cover.</p>
+  <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
 </div>
 
+<!-- Enhanced SEO Schema for Books Page -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@graph": [
+  "@type": "CollectionPage",
+  "name": "Books by Michael Rodriguez",
+  "description": "Complete collection of investigative books by Michael Rodriguez on financial crime, money laundering, shadow economy, AI power, and global corruption networks.",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Rodriguez",
+    "jobTitle": "Economic Analyst and Investigative Author",
+    "url": "https://zews123.github.io/michael-rodriguez-books/"
+  },
+  "hasPart": [
     {
       "@type": "Book",
-      "@id": "{{ page.url | absolute_url }}#book",
-      "name": "The Bush Machine: Four Generations of Oil, Espionage, and American Power",
-      "author": {
-        "@type": "Person",
-        "name": "Michael Rodriguez",
-        "@id": "{{ site.url }}/about#person"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Resource Economics Press"
-      },
-      "datePublished": "2025-09-19",
-      "isbn": ["979-8231018451", "979-8232320911"],
-      "bookFormat": ["Hardcover", "EBook"],
-      "numberOfPages": "420",
-      "inLanguage": "en",
-      "genre": ["Investigative Journalism", "Political History", "American Politics"],
-      "description": "Inside Bush dynasty's hidden empire - four generations of oil money, CIA connections, and political power shaping American history and global policy.",
-      "image": "{{ '/assets/images/Bush_Machine.webp' | absolute_url }}",
-      "url": "{{ page.url | absolute_url }}",
-      "offers": [
-        {
-          "@type": "Offer",
-          "price": "4.99",
-          "priceCurrency": "USD",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.amazon.com/dp/The-Bush-Machine/B0FSBBG5JT"
-        }
-      ]
+      "name": "The Bush Machine",
+      "author": "Michael Rodriguez",
+      "description": "Inside Bush dynasty's hidden empire - four generations of oil money, CIA connections, and political power shaping American history and global policy."
     },
     {
-      "@type": "FAQPage",
-      "@id": "{{ page.url | absolute_url }}#faq",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What makes this Bush family investigation unique?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The Bush Machine combines five years of research across seven countries with unprecedented access to declassified CIA files, offshore banking records, and interviews with 400+ sources including former intelligence operatives and family insiders."
-          }
-        },
-        {
-          "@type": "Question", 
-          "name": "Does this book cover both Bush presidencies?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, the book traces four generations from Prescott Bush through both George H.W. Bush and George W. Bush presidencies, plus the family's ongoing influence through Jeb and George P. Bush."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What evidence does the book provide about Bush-Saudi connections?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The investigation includes banking records, intelligence assessments, and declassified documents showing 75 years of Bush-Saudi business partnerships, including the controversial bin Laden family evacuation after 9/11."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is this book politically biased?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Rodriguez uses verifiable evidence including declassified CIA files, court documents, and financial records rather than partisan rhetoric, focusing on documented facts about how dynastic power operates in American democracy."
-          }
-        }
-      ]
+      "@type": "Book",
+      "name": "The India Paradox",
+      "author": "Michael Rodriguez",
+      "description": "Inside India's transformation to global superpower - nuclear ambitions, tech revolution, and billion-person democracy shaping world order."
+    },
+    {
+      "@type": "Book",
+      "name": "The Richest Poor Country",
+      "author": "Michael Rodriguez",
+      "description": "Inside Venezuela's transformation from oil paradise to economic collapse - exploring the new Cold War battles in America's backyard."
+    },
+    {
+      "@type": "Book",
+      "name": "The Oil Weapon",
+      "author": "Michael Rodriguez",
+      "description": "Explosive investigation into 150 years of energy geopolitics - from Rockefeller's empire to Ukrainian drones targeting Russian refineries."
+    },
+    {
+      "@type": "Book",
+      "name": "THE RIGGED GAME",
+      "author": "Michael Rodriguez",
+      "description": "Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth. Discover the $2 trillion secret they don't want you to know."
+    },
+    {
+      "@type": "Book",
+      "name": "The AI Emperor",
+      "author": "Michael Rodriguez",
+      "description": "Expose Sam Altman's rise to AI supremacy and the 96-hour corporate coup that transformed him into the unelected emperor of humanity's most powerful technology."
+    },
+    {
+      "@type": "Book", 
+      "name": "The Laundromat",
+      "author": "Michael Rodriguez",
+      "description": "Discover how presidents, billionaires, and drug lords built the world's biggest money-washing machine. Expose the $32 trillion shadow economy."
+    },
+    {
+      "@type": "Book",
+      "name": "Dark Money Empire", 
+      "author": "Michael Rodriguez",
+      "description": "Uncover how presidents, oligarchs, Nazis and rock stars launder billions through secret offshore networks."
     }
   ]
 }
 </script>
+
+<!-- Improved Accessibility CSS -->
+<style>
+/* High contrast colors for better accessibility */
+:root {
+  --primary-color: #0f2c4c; /* Darker blue for better contrast */
+  --secondary-color: #d73527; /* Darker red for better contrast */
+  --text-color: #1a1a1a; /* Darker text */
+  --light-bg: #f8f9fa;
+  --border-color: #ddd;
+}
+
+/* Improve button contrast */
+.btn {
+  background-color: var(--primary-color);
+  color: #ffffff;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease;
+  border: 2px solid var(--primary-color);
+}
+
+.btn:hover {
+  background-color: var(--secondary-color);
+  border-color: var(--secondary-color);
+  color: #ffffff;
+}
+
+.btn:focus {
+  outline: 3px solid #ffbf00;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 2px rgba(255, 191, 0, 0.3);
+}
+
+/* Improve heading contrast */
+h1, h2, h3 {
+  color: var(--primary-color);
+  font-weight: 700;
+}
+
+/* Better link contrast */
+a {
+  color: var(--primary-color);
+  font-weight: 500;
+}
+
+a:hover {
+  color: var(--secondary-color);
+}
+
+a:focus {
+  outline: 2px solid #ffbf00;
+  outline-offset: 2px;
+  background-color: rgba(255, 191, 0, 0.1);
+  border-radius: 2px;
+}
+
+/* Improve text readability */
+p {
+  color: var(--text-color);
+  line-height: 1.6;
+  font-size: 1.05rem;
+}
+
+/* Ensure footer text remains white */
+footer p {
+  color: white !important;
+}
+
+footer .footer-column p {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+footer .footer-column h3 {
+  color: white !important;
+}
+
+footer .footer-column a {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+footer .footer-column a:hover {
+  color: white !important;
+}
+
+footer .copyright {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+/* Book card improvements */
+.book-card h3 {
+  color: var(--primary-color);
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.book-card p {
+  color: #2c2c2c;
+  line-height: 1.5;
+}
+
+/* Screen reader only text */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Focus indicators for all interactive elements */
+*:focus {
+  outline: 2px solid #ffbf00;
+  outline-offset: 2px;
+}
+
+/* Remove focus outline for mouse users but keep for keyboard users */
+.js-focus-visible *:focus:not(.focus-visible) {
+  outline: none;
+}
+
+/* Ensure minimum touch target size for mobile */
+@media (max-width: 768px) {
+  .btn {
+    min-height: 44px;
+    min-width: 44px;
+    padding: 12px 24px;
+    font-size: 1rem;
+  }
+}
+</style>
