@@ -27,6 +27,15 @@ twitter_card: "summary_large_image"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Bush_Machine.webp" alt="The Bush Machine: Four Generations of Oil, Espionage, and American Power by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The Bush Machine</h3>
+      <p>Inside Bush dynasty's hidden empire - four generations of oil money, CIA connections, and political power shaping American history. Discover how one family controlled U.S. foreign policy for nearly a century.</p>
+      <a href="{{ site.baseurl }}/books/Bush_Machine" class="btn">Read More <span class="visually-hidden">about The Bush Machine by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/India_Paradox.webp" alt="The India Paradox: Nuclear Power, Digital Dreams, and a Billion People's Quest for Global Dominance by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>The India Paradox</h3>
