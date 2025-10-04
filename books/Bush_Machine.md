@@ -96,7 +96,7 @@ Rodriguez's methodology combines traditional investigative journalism with advan
 ## Get Your Copy Today
 
 <div class="book-buttons">
-<a href="https://www.amazon.com/dp/The-Bush-Machine/B0FSBBG5JT" class="book-btn book-btn-amazon">🛒 Amazon</a>
+<a href="https://www.amazon.com/s?k=Michael+Rodriguez">🛒 Amazon</a>
 <a href="https://books.apple.com/us/book/the-bush-machine-four-generations-of-oil/id6753166881" class="book-btn book-btn-apple">🍎 Apple Books</a>
 <a href="https://www.kobo.com/ww/en/ebook/the-bush-machine-four-generations-of-oil-espionage-and-american-power?sId=3cf410f9-d0de-42e3-8929-3786594fffaf&ssId=i15ZsPcFgvi_zeWPxZ2CQ" class="book-btn book-btn-kobo">📚 Kobo</a>
 <a href="https://www.barnesandnoble.com/w/the-bush-machine-michael-rodriguez/1148413008" class="book-btn book-btn-bn">🏬 Barnes & Noble</a>
