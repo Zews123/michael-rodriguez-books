@@ -141,6 +141,18 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Bush_3D.webp" alt="Bush Machine FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">October 4, 2025</span>
+      <h2>Bush Machine FAQ: Oil, CIA & Dynasty's Hidden Power Network</h2>
+      <p>How Prescott Bush's Nazi ties didn't end his dynasty. Expert answers on CIA control, $39B war profits, and the shadow network ruling America for 100 years.</p>
+      <a href="{{ site.baseurl }}/blog/bush-machine-faq.html" class="read-more">Read More <span class="visually-hidden">about Bush Machine FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/India_3D.webp" alt="India Paradox FAQ">
     </div>
     <div class="blog-card-content">
@@ -413,6 +425,13 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
     "url": "https://zews123.github.io/michael-rodriguez-books/"
   },
   "blogPost": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Bush Machine FAQ: Oil, CIA & Dynasty's Hidden Power Network",
+      "description": "How Prescott Bush's Nazi ties didn't end his dynasty. Expert answers on CIA control, $39B war profits, and the shadow network ruling America for 100 years.",
+      "datePublished": "2025-10-04",
+      "author": "Michael Rodriguez"
+    },
     {
       "@type": "BlogPosting",
       "headline": "India Paradox FAQ: Nuclear Power, Digital Dreams, and Democracy's Superpower Rise",
