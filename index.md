@@ -27,6 +27,15 @@ twitter_card: "summary_large_image"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Profit_Machine.webp" alt="The Profit Machine: How Corporations Turn War Into Wall Street's Biggest Payday by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The Profit Machine</h3>
+      <p>How defense contractors, banks & corporations profit billions from wars while taxpayers pay. Expose the military-industrial complex turning warfare into Wall Street's most lucrative business model.</p>
+      <a href="{{ site.baseurl }}/books/Profit_Machine" class="btn">Read More <span class="visually-hidden">about The Profit Machine by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Bush_Machine.webp" alt="The Bush Machine: Four Generations of Oil, Espionage, and American Power by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>The Bush Machine</h3>
