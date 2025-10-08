@@ -11,6 +11,15 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Profit_Machine.webp" alt="The Profit Machine: How Corporations Turn War Into Wall Street's Biggest Payday by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The Profit Machine</h3>
+      <p>How defense contractors, banks & corporations profit billions from wars while taxpayers pay. Expose the military-industrial complex turning warfare into Wall Street's most lucrative business model.</p>
+      <a href="{{ site.baseurl }}/books/Profit_Machine" class="btn">Read More <span class="visually-hidden">about The Profit Machine by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Bush_Machine.webp" alt="The Bush Machine: Four Generations of Oil, Espionage, and American Power by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Bush Machine</h3>
@@ -215,6 +224,9 @@ Michael Rodriguez combines economic theory, historical analysis, and investigati
 
 ## Complete Bibliography
 
+### The Profit Machine: How Corporations Turn War Into Wall Street's Biggest Payday (2025)
+How defense contractors, banks & corporations profit billions from wars while taxpayers pay. Rodriguez exposes the military-industrial-financial complex through six years of investigation across twelve countries, analyzing over 50,000 pages of Pentagon procurement documents, earnings calls, and private equity transactions. From classified contracts showing 400% cost inflation to the $2.3 trillion Afghanistan profit timeline, from mercenaries earning 10x regular soldiers to trading algorithms programmed to buy defense stocks during conflicts, this unprecedented investigation reveals how Wall Street weaponized warfare and transformed America's military into a profit center for shareholders, with exclusive access to whistleblower testimonies from defense industry insiders and interviews with over 500 sources including former executives from Lockheed Martin, Raytheon, Boeing, and Halliburton.
+
 ### The Bush Machine: Four Generations of Oil, Espionage, and American Power (2025)
 Inside Bush dynasty's hidden empire - four generations of oil money, CIA connections, and political power shaping American history and global policy. Rodriguez exposes how one family controlled U.S. foreign policy for nearly a century through unprecedented access to declassified CIA files, leaked financial records, and exclusive interviews with former intelligence operatives and cabinet officials. From Prescott Bush's secret business partnerships with Nazi industrialists and Saudi royals to George H.W. Bush's transformation of the CIA into a family instrument, from the $39 billion in war profits to the mysterious bin Laden family evacuation after 9/11, this five-year investigation across seven countries reveals the hidden networks connecting Yale's Skull and Bones society to Saudi oil fields, CIA black sites to Carlyle Group boardrooms, exposing how dynastic power operates in modern democracies and the dangers it poses to democratic institutions.
 
@@ -307,6 +319,12 @@ An examination of how nations increasingly use economic tools as weapons in glob
     "url": "https://zews123.github.io/michael-rodriguez-books/"
   },
   "hasPart": [
+    {
+      "@type": "Book",
+      "name": "The Profit Machine",
+      "author": "Michael Rodriguez",
+      "description": "How defense contractors, banks & corporations profit billions from wars while taxpayers pay. Exposing the military-industrial complex."
+    },
     {
       "@type": "Book",
       "name": "The Bush Machine",
