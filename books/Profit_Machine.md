@@ -96,7 +96,7 @@ Rodriguez's methodology combines investigative journalism with quantitative anal
 ## Get Your Copy Today
 
 <div class="book-buttons">
-<a href="- https://www.amazon.com/Profit-Machine-Corporations-Streets-Biggest/dp/B0FV3TZYJV" class="book-btn book-btn-amazon">🛒 Amazon</a>
+<a href="https://www.amazon.com/Profit-Machine-Corporations-Streets-Biggest/dp/B0FV3TZYJV" class="book-btn book-btn-amazon">🛒 Amazon</a>
 <a href="https://books.apple.com/us/book/the-profit-machine-how-corporations-turn-war-into/id6753674859" class="book-btn book-btn-apple">🍎 Apple Books</a>
 <a href="https://www.kobo.com/ww/en/ebook/the-profit-machine-how-corporations-turn-war-into-wall-street-s-biggest-payday?sId=e32d86c5-7b45-4e62-847c-16b6d965ce1e&ssId=f60veySuoj7oRoCAhmLIC" class="book-btn book-btn-kobo">📚 Kobo</a>
 <a href="https://www.barnesandnoble.com/w/the-profit-machine-michael-rodriguez/1148464531" class="book-btn book-btn-bn">🏬 Barnes & Noble</a>
