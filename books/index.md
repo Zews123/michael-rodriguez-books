@@ -11,6 +11,15 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Disease_Dealers.webp" alt="The Disease Dealers: Inside the Pharmaceutical Industry's Business of Making You Sick by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The Disease Dealers</h3>
+      <p>How pharmaceutical giants create diseases, manipulate research & price-gouge patients for profit. Expose Big Pharma's billion-dollar deception from opioid crisis to invented illnesses.</p>
+      <a href="{{ site.baseurl }}/books/Disease_Dealers" class="btn">Read More <span class="visually-hidden">about The Disease Dealers by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Profit_Machine.webp" alt="The Profit Machine: How Corporations Turn War Into Wall Street's Biggest Payday by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Profit Machine</h3>
@@ -224,6 +233,9 @@ Michael Rodriguez combines economic theory, historical analysis, and investigati
 
 ## Complete Bibliography
 
+### The Disease Dealers: Inside the Pharmaceutical Industry's Business of Making You Sick (2025)
+How pharmaceutical giants create diseases, manipulate research & price-gouge patients for profit. Rodriguez exposes Big Pharma's billion-dollar deception through eighteen months of intensive investigation across pharmaceutical company internal documents, FDA regulatory archives, clinical trial databases, and whistleblower testimonies. From the opioid crisis engineered by Purdue Pharma to invented diseases like "restless leg syndrome," from medications costing $3 to manufacture sold for $84,000 to doctors bribed with luxury vacations, from clinical trials on prisoners without consent to Americans paying 100x more than other countries for identical drugs, this unprecedented investigation reveals how pharmaceutical corporations corrupted every institution meant to protect patients, utilizing interviews with over 500 sources including medical whistleblowers, patient advocates, and former executives from Pfizer, Johnson & Johnson, and GlaxoSmithKline to expose how medicine became Wall Street's most lucrative scam.
+
 ### The Profit Machine: How Corporations Turn War Into Wall Street's Biggest Payday (2025)
 How defense contractors, banks & corporations profit billions from wars while taxpayers pay. Rodriguez exposes the military-industrial-financial complex through six years of investigation across twelve countries, analyzing over 50,000 pages of Pentagon procurement documents, earnings calls, and private equity transactions. From classified contracts showing 400% cost inflation to the $2.3 trillion Afghanistan profit timeline, from mercenaries earning 10x regular soldiers to trading algorithms programmed to buy defense stocks during conflicts, this unprecedented investigation reveals how Wall Street weaponized warfare and transformed America's military into a profit center for shareholders, with exclusive access to whistleblower testimonies from defense industry insiders and interviews with over 500 sources including former executives from Lockheed Martin, Raytheon, Boeing, and Halliburton.
 
@@ -319,6 +331,12 @@ An examination of how nations increasingly use economic tools as weapons in glob
     "url": "https://zews123.github.io/michael-rodriguez-books/"
   },
   "hasPart": [
+    {
+      "@type": "Book",
+      "name": "The Disease Dealers",
+      "author": "Michael Rodriguez",
+      "description": "How pharmaceutical giants create diseases, manipulate research & price-gouge patients for profit. Inside Big Pharma's billion-dollar deception."
+    },
     {
       "@type": "Book",
       "name": "The Profit Machine",
