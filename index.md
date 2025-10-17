@@ -27,6 +27,15 @@ twitter_card: "summary_large_image"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Disease_Dealers.webp" alt="The Disease Dealers: Inside the Pharmaceutical Industry's Business of Making You Sick by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The Disease Dealers</h3>
+      <p>How pharmaceutical giants create diseases, manipulate research & price-gouge patients for profit. Expose Big Pharma's billion-dollar deception from opioid crisis to invented illnesses.</p>
+      <a href="{{ site.baseurl }}/books/Disease_Dealers" class="btn">Read More <span class="visually-hidden">about The Disease Dealers by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Profit_Machine.webp" alt="The Profit Machine: How Corporations Turn War Into Wall Street's Biggest Payday by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>The Profit Machine</h3>
