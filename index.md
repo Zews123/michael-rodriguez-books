@@ -27,6 +27,15 @@ twitter_card: "summary_large_image"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Why_Aren't_You_Rich.webp" alt="If You're So Smart, Why Aren't You Rich book cover by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>If You're So Smart, Why Aren't You Rich?</h3>
+      <p>Why smart people struggle financially while the wealthy exploit intelligence. Michael Rodriguez exposes the rigged system that keeps intelligent people poor and reveals wealth-building secrets.</p>
+      <a href="{{ site.baseurl }}/books/If_You_re_So_Smart" class="btn">Read More <span class="visually-hidden">about If You're So Smart Why Aren't You Rich by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Disease_Dealers.webp" alt="The Disease Dealers: Inside the Pharmaceutical Industry's Business of Making You Sick by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>The Disease Dealers</h3>
