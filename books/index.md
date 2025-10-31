@@ -11,6 +11,15 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Why_Aren't_You_Rich.webp" alt="If You're So Smart, Why Aren't You Rich book cover by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>If You're So Smart, Why Aren't You Rich?</h3>
+      <p>Why smart people struggle financially while the wealthy exploit intelligence. Michael Rodriguez exposes the rigged system that keeps intelligent people poor and reveals wealth-building secrets.</p>
+      <a href="{{ site.baseurl }}/books/If_You_re_So_Smart" class="btn">Read More <span class="visually-hidden">about If You're So Smart Why Aren't You Rich by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Disease_Dealers.webp" alt="The Disease Dealers: Inside the Pharmaceutical Industry's Business of Making You Sick by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Disease Dealers</h3>
@@ -233,6 +242,9 @@ Michael Rodriguez combines economic theory, historical analysis, and investigati
 
 ## Complete Bibliography
 
+### If You're So Smart, Why Aren't You Rich?: The Hidden System That Keeps Smart People Poor (2025)
+Why smart people struggle financially while the wealthy exploit intelligence. Rodriguez exposes how the economic system systematically converts intellectual capital into financial dependence through student debt, salary-based compensation, lifestyle inflation, and social conditioning that keeps intelligent people from accessing wealth-building strategies. Through fifteen months of comprehensive research across wealth management firms, elite educational institutions, and government policy archives, this investigation reveals how institutions like Goldman Sachs, McKinsey & Company, and Harvard Business School deliberately cultivate high-IQ talent into well-compensated but financially dependent employees, while teaching their own children the wealth-building strategies they keep hidden from their smartest workers. From student loan systems engineered to create lifelong debt obligations to corporate career tracks designed to maximize income while minimizing wealth accumulation, from tax structures that penalize earned income while rewarding inherited assets to social conditioning that equates salary with success, this investigation reveals how the economic elite have transformed education and intelligence into tools of their own enrichment.
+
 ### The Disease Dealers: Inside the Pharmaceutical Industry's Business of Making You Sick (2025)
 How pharmaceutical giants create diseases, manipulate research & price-gouge patients for profit. Rodriguez exposes Big Pharma's billion-dollar deception through eighteen months of intensive investigation across pharmaceutical company internal documents, FDA regulatory archives, clinical trial databases, and whistleblower testimonies. From the opioid crisis engineered by Purdue Pharma to invented diseases like "restless leg syndrome," from medications costing $3 to manufacture sold for $84,000 to doctors bribed with luxury vacations, from clinical trials on prisoners without consent to Americans paying 100x more than other countries for identical drugs, this unprecedented investigation reveals how pharmaceutical corporations corrupted every institution meant to protect patients, utilizing interviews with over 500 sources including medical whistleblowers, patient advocates, and former executives from Pfizer, Johnson & Johnson, and GlaxoSmithKline to expose how medicine became Wall Street's most lucrative scam.
 
@@ -331,6 +343,12 @@ An examination of how nations increasingly use economic tools as weapons in glob
     "url": "https://zews123.github.io/michael-rodriguez-books/"
   },
   "hasPart": [
+    {
+      "@type": "Book",
+      "name": "If You're So Smart, Why Aren't You Rich?",
+      "author": "Michael Rodriguez",
+      "description": "Why smart people struggle financially while the wealthy exploit intelligence. Michael Rodriguez exposes the rigged system that keeps intelligent people poor and reveals wealth-building secrets."
+    },
     {
       "@type": "Book",
       "name": "The Disease Dealers",
