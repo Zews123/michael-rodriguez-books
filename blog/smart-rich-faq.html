@@ -67,11 +67,16 @@ a:hover {
 }
 
 .first-letter::first-letter {
-  font-size: 3.5em;
+  font-size: 3.5em !important;
   float: left;
   line-height: 0.8;
-  margin: 0.1em 0.1em 0 0;
-  color: #1a3c65;
+  margin: 0.1em 0.15em 0.1em 0;
+  padding: 0.05em;
+  color: #1a3c65 !important;
+  font-family: Georgia, "Times New Roman", serif !important;
+  font-weight: bold !important;
+  text-transform: uppercase;
+  display: block;
 }
 </style>
 
@@ -403,4 +408,18 @@ blockquote {
 
 /* Optimize font loading */
 @import url('https://fonts.googleapis.com/css2?family=Georgia&display=swap');
+
+/* Additional first-letter styling for better compatibility */
+.first-letter::first-letter {
+  font-size: 3.5em !important;
+  float: left;
+  line-height: 0.8 !important;
+  margin: 0.1em 0.15em 0.1em 0 !important;
+  padding: 0.05em !important;
+  color: #1a3c65 !important;
+  font-family: Georgia, "Times New Roman", serif !important;
+  font-weight: bold !important;
+  text-transform: uppercase !important;
+  display: block !important;
+}
 </style>
