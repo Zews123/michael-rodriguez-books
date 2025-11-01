@@ -141,6 +141,18 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Rich_3D.webp" alt="Smart but Broke FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">November 1, 2025</span>
+      <h2>Smart but Broke? Why Intelligence Doesn't Equal Wealth FAQ</h2>
+      <p>Expert answers to why intelligent people struggle financially. Discover the 7 intelligence traps keeping smart minds poor and broke.</p>
+      <a href="{{ site.baseurl }}/blog/smart-rich-faq.html" class="read-more">Read More <span class="visually-hidden">about Smart but Broke FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/Bush_3D.webp" alt="Bush Machine FAQ">
     </div>
     <div class="blog-card-content">
@@ -425,6 +437,13 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
     "url": "https://zews123.github.io/michael-rodriguez-books/"
   },
   "blogPost": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Smart but Broke? Why Intelligence Doesn't Equal Wealth FAQ",
+      "description": "Expert answers to why intelligent people struggle financially. Discover the 7 intelligence traps keeping smart minds poor and broke.",
+      "datePublished": "2025-11-01",
+      "author": "Michael Rodriguez"
+    },
     {
       "@type": "BlogPosting",
       "headline": "Bush Machine FAQ: Oil, CIA & Dynasty's Hidden Power Network",
