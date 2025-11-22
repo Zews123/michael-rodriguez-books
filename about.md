@@ -97,7 +97,7 @@ Stay informed about Rodriguez's latest investigations, upcoming books, and publi
   "@type": "Person",
   "@id": "{{ site.url }}{{ site.baseurl }}/about#person",
   "name": "Michael Rodriguez",
-  "jobTitle": ["Economic Analyst", "Investigative Journalist", "Author"],
+  "jobTitle": "Economic Analyst and Investigative Journalist",
   "description": "Renowned economic analyst and investigative journalist specializing in global financial markets, money laundering networks, offshore banking, and the hidden economic forces that shape our world.",
   "url": "{{ site.url }}{{ site.baseurl }}/about",
   "image": "{{ site.url }}{{ site.baseurl }}/assets/images/author-photo.webp",
@@ -146,27 +146,27 @@ Stay informed about Rodriguez's latest investigations, upcoming books, and publi
     {
       "@type": "Book",
       "name": "If You're So Smart, Why Aren't You Rich?",
-      "datePublished": "2025"
+      "datePublished": "2025-01"
     },
     {
       "@type": "Book",
       "name": "The Disease Dealers",
-      "datePublished": "2025"
+      "datePublished": "2025-01"
     },
     {
       "@type": "Book",
       "name": "The Profit Machine",
-      "datePublished": "2025"
+      "datePublished": "2025-10"
     },
     {
       "@type": "Book",
       "name": "The Bush Machine",
-      "datePublished": "2025"
+      "datePublished": "2025-01"
     },
     {
       "@type": "Book",
       "name": "The India Paradox",
-      "datePublished": "2025"
+      "datePublished": "2025-01"
     }
   ]
 }
