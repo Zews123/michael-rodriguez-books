@@ -65,3 +65,34 @@ Please include details about your event, including date, location, audience, and
 Stay informed about Michael's latest research, upcoming books, and public appearances by subscribing to his newsletter:
 
 <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "@id": "{{ site.url }}{{ site.baseurl }}/contact#contactpage",
+  "name": "Contact Michael Rodriguez",
+  "description": "Get in touch with economic analyst and author Michael Rodriguez for speaking engagements, media inquiries, or questions about his books.",
+  "url": "{{ site.url }}{{ site.baseurl }}/contact",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Michael Rodriguez",
+    "@id": "{{ site.url }}{{ site.baseurl }}/about#person",
+    "email": "marlonturner135@gmail.com",
+    "contactPoint": [
+      {
+        "@type": "ContactPoint",
+        "contactType": "Media Inquiries",
+        "email": "marlonturner135@gmail.com",
+        "availableLanguage": ["English"]
+      },
+      {
+        "@type": "ContactPoint",
+        "contactType": "Speaking Engagements",
+        "email": "marlonturner135@gmail.com",
+        "availableLanguage": ["English"]
+      }
+    ]
+  }
+}
+</script>

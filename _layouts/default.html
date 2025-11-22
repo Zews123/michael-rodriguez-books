@@ -27,6 +27,57 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 {% seo title=false %}
+    
+    <!-- Organization and WebSite Schema Markup -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "{{ site.url }}{{ site.baseurl }}/#organization",
+          "name": "Michael Rodriguez Books",
+          "alternateName": "Michael Rodriguez - Economic Analyst and Author",
+          "url": "{{ site.url }}{{ site.baseurl }}/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "{{ site.url }}{{ site.baseurl }}/assets/images/author-photo.webp",
+            "width": "150",
+            "height": "150"
+          },
+          "description": "Official website of Michael Rodriguez, renowned economic analyst and author of insightful books on global economics, financial markets, and technological disruption.",
+          "sameAs": [
+            "https://x.com/Youvideo1",
+            "https://www.facebook.com/MichaelRodriguezAuthor/",
+            "https://medium.com/@MichaelRodriguez_Books"
+          ],
+          "founder": {
+            "@type": "Person",
+            "name": "Michael Rodriguez",
+            "@id": "{{ site.url }}{{ site.baseurl }}/about#person"
+          },
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "email": "marlonturner135@gmail.com",
+            "contactType": "Customer Service",
+            "availableLanguage": ["English"]
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "{{ site.url }}{{ site.baseurl }}/#website",
+          "url": "{{ site.url }}{{ site.baseurl }}/",
+          "name": "Michael Rodriguez - Economic Analyst and Author",
+          "description": "Official website of Michael Rodriguez, renowned economic analyst and author specializing in global economics, financial markets, and hidden economic forces.",
+          "publisher": {
+            "@id": "{{ site.url }}{{ site.baseurl }}/#organization"
+          },
+          "inLanguage": "en-US"
+        }
+      ]
+    }
+    </script>
+    
     <style>
       :root {
         --primary-color: #1a3c65;
