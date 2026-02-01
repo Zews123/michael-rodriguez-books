@@ -19,7 +19,8 @@ Thank you for your interest in Michael Rodriguez's work. Please use the informat
 
 ## Contact Information
 
-**Email:** [marlonturner135@gmail.com](mailto:marlonturner135@gmail.com)
+**Publisher:** Andru Istomin 
+**Email:** [mavro111@gmail.com](mailto:mavro111@gmail.com)
 
 
 **For Media Inquiries:**  
