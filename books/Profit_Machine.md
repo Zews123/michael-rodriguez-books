@@ -126,6 +126,77 @@ Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating 
   </a>
 </div>
 
+## Frequently Asked Questions About The Profit Machine
+{: #faq}
+
+<div class="faq-section" itemscope itemtype="https://schema.org/FAQPage">
+
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">How do defense contractors like Lockheed Martin and Raytheon profit from war?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<div itemprop="text">
+<p><strong>The war revenue model exposed:</strong> <em>The Profit Machine</em> reveals how defense contractors engineer perpetual conflicts by designing weapons systems that require constant replacement, maintenance contracts that never expire, and strategic failures that guarantee expanded budgets. Through forensic analysis of over 50,000 pages of Pentagon procurement documents, Rodriguez documents how companies like Lockheed Martin, Raytheon, and Boeing inflate cost estimates by 400%, knowing projects will never be cancelled regardless of overruns or performance failures.</p>
+<p>The investigation traces how the Afghanistan war alone generated $2.3 trillion in contractor revenues, with defense companies posting record profits throughout the conflict. This system ensures that warfare is sustained not for victory, but for maximum profit extraction — a pattern also examined in Rodriguez's analysis of <a href="{{ site.baseurl }}/books/Dark_Money_Empire">global financial networks</a>.</p>
+</div>
+</div>
+</div>
+
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">How much money do private military contractors like Blackwater make compared to soldiers?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<div itemprop="text">
+<p><strong>The mercenary money trail:</strong> Rodriguez exposes how outsourcing warfare to private military contractors like Blackwater (now Academi), DynCorp, and other firms costs taxpayers 10x more than deploying regular soldiers for identical duties. Banking data analyzed in <em>The Profit Machine</em> traces billions in unnecessary contractor payments, revealing a parallel military operating without oversight, accountability, or legal constraints governing national armies.</p>
+<p>These private contractors earned premium rates while performing the same missions as enlisted personnel, creating a system where the privatization of warfare served corporate shareholders rather than national security interests.</p>
+</div>
+</div>
+</div>
+
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What evidence proves that wars are prolonged for corporate profit?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<div itemprop="text">
+<p><strong>Documented proof of deliberate conflict prolongation:</strong> <em>The Profit Machine</em> includes internal Pentagon documents, earnings call transcripts, and procurement records showing how contractors engineer perpetual conflicts through cost overruns, strategic failures, and weapons systems designed for endless replacement cycles. The investigation also reveals trading algorithms programmed to automatically buy defense stocks when conflict indicators spike, creating perverse financial incentives for war escalation.</p>
+<p>Rodriguez's six-year investigation across twelve countries, supported by interviews with over 500 military whistleblowers, Congressional staffers, and former defense industry executives, documents the systematic transformation of warfare from national defense into Wall Street's most profitable product — a pattern of <a href="{{ site.baseurl }}/books/weaponized-economy">economic weaponization</a> that shapes global geopolitics.</p>
+</div>
+</div>
+</div>
+
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">How does Wall Street invest in war and military conflicts?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<div itemprop="text">
+<p><strong>The military-industrial stock portfolio:</strong> The investigation reveals exclusive trading data showing how institutional investors profit from warfare predictions, using intelligence to front-run defense contracts before conflicts are publicly announced. Stock market algorithms are programmed to automatically purchase defense sector equities when geopolitical tension indicators spike, creating a direct financial incentive structure that rewards conflict escalation.</p>
+<p>Rodriguez's financial forensics demonstrate how the same corporations that profit from destruction secure no-bid contracts to rebuild infrastructure afterward, ensuring both sides of every conflict generate returns — a mechanism of <a href="{{ site.baseurl }}/books/Rigged_Game">systemic economic manipulation</a> that concentrates wealth among defense industry shareholders while taxpayers absorb the costs.</p>
+</div>
+</div>
+</div>
+
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">How much do defense companies spend lobbying Congress for military contracts?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<div itemprop="text">
+<p><strong>The lobbying-to-legislation pipeline:</strong> <em>The Profit Machine</em> documents how defense contractors spend $285 million annually lobbying Congress, placing former executives in Pentagon leadership positions, and writing legislation that mandates purchasing their products. This revolving door between the defense industry and government creates a self-reinforcing system where military policy serves corporate profit rather than national security.</p>
+<p>The book traces how this lobbying investment generates returns exceeding 10,000%, making defense sector lobbying the most profitable corporate expenditure in American politics — a concentration of power also explored in Rodriguez's investigation of <a href="{{ site.baseurl }}/books/blackrock-empire">institutional financial control</a>.</p>
+</div>
+</div>
+</div>
+
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What is The Profit Machine book about and who is the author?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<div itemprop="text">
+<p><strong>An unprecedented military-industrial complex investigation:</strong> <em>The Profit Machine</em> by <a href="{{ site.baseurl }}/about">Michael Rodriguez</a> is a groundbreaking investigative book exposing how corporations, investment banks, and military contractors transformed warfare into the most lucrative business model in history. Drawing on six years of research, classified Pentagon contracts, leaked investment documents, and interviews with 500+ sources, the book reveals the financial mechanisms ensuring every conflict generates billions in corporate profits while taxpayers and soldiers pay the true cost.</p>
+<p>Rodriguez is an investigative journalist and economic analyst whose previous bestsellers include <em><a href="{{ site.baseurl }}/books/Bush_Machine">The Bush Machine</a></em>, <em><a href="{{ site.baseurl }}/books/Dark_Money_Empire">Dark Money Empire</a></em>, and <em><a href="{{ site.baseurl }}/books/Sam_Altman">The AI Emperor</a></em>.</p>
+</div>
+</div>
+</div>
+
+</div>
+
+<style>
+.faq-section{margin:30px 0}.faq-item{background:#f9f9fb;border:1px solid #e1e8ed;border-radius:8px;padding:20px 25px;margin-bottom:15px}.faq-item h3{color:#1a3c65;font-size:1.2rem;margin-top:0;margin-bottom:12px;line-height:1.4}.faq-item p{margin-bottom:1em;line-height:1.6;font-size:1rem}.faq-item p:last-child{margin-bottom:0}.faq-item a{color:#2a6496;text-decoration:none;border-bottom:1px dotted #2a6496}.faq-item a:hover{color:#1a3c65;border-bottom-style:solid}
+</style>
+
 ## Subscribe to Newsletter
 
 Stay informed about Rodriguez's latest investigations and upcoming books:
@@ -178,34 +249,50 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What makes this military-industrial complex investigation unique?",
+          "name": "How do defense contractors like Lockheed Martin and Raytheon profit from war?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The Profit Machine combines six years of research with unprecedented access to classified Pentagon contracts, leaked investment documents, and interviews with 500+ whistleblowers revealing how warfare became Wall Street's most profitable business model."
-          }
-        },
-        {
-          "@type": "Question", 
-          "name": "Does the book expose specific companies profiting from war?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, the investigation documents profit mechanisms at Lockheed Martin, Raytheon, Boeing, Halliburton, KBR, Blackwater, and other defense contractors, with detailed financial analysis of Afghanistan and Iraq war revenues exceeding $2.3 trillion."
+            "text": "The Profit Machine reveals how defense contractors engineer perpetual conflicts by designing weapons systems that require constant replacement, maintenance contracts that never expire, and strategic failures that guarantee expanded budgets. Through forensic analysis of over 50,000 pages of Pentagon procurement documents, Rodriguez documents how companies like Lockheed Martin, Raytheon, and Boeing inflate cost estimates by 400%, knowing projects will never be cancelled regardless of overruns. The Afghanistan war alone generated $2.3 trillion in contractor revenues."
           }
         },
         {
           "@type": "Question",
-          "name": "What evidence supports claims about deliberate conflict prolongation?",
+          "name": "How much money do private military contractors like Blackwater make compared to soldiers?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The book includes internal Pentagon documents, earnings call transcripts, and procurement records showing how contractors engineer perpetual conflicts through cost overruns, strategic failures, and weapons systems designed for endless replacement cycles."
+            "text": "Rodriguez exposes how outsourcing warfare to private military contractors like Blackwater (now Academi), DynCorp, and other firms costs taxpayers 10x more than deploying regular soldiers for identical duties. Banking data traces billions in unnecessary contractor payments, revealing a parallel military operating without oversight, accountability, or legal constraints governing national armies."
           }
         },
         {
           "@type": "Question",
-          "name": "How does the book address private military contractors?",
+          "name": "What evidence proves that wars are prolonged for corporate profit?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Rodriguez exposes how outsourcing to mercenaries like Blackwater costs taxpayers 10x more than regular soldiers while operating without oversight, with detailed banking records tracing billions in unnecessary contractor payments."
+            "text": "The Profit Machine includes internal Pentagon documents, earnings call transcripts, and procurement records showing how contractors engineer perpetual conflicts through cost overruns, strategic failures, and weapons systems designed for endless replacement cycles. The investigation also reveals trading algorithms programmed to automatically buy defense stocks when conflict indicators spike, creating perverse financial incentives for war escalation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does Wall Street invest in war and military conflicts?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The investigation reveals exclusive trading data showing how institutional investors profit from warfare predictions, using intelligence to front-run defense contracts before conflicts are publicly announced. Stock market algorithms are programmed to automatically purchase defense sector equities when geopolitical tension indicators spike, creating a direct financial incentive structure that rewards conflict escalation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much do defense companies spend lobbying Congress for military contracts?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Defense contractors spend $285 million annually lobbying Congress, placing former executives in Pentagon leadership positions, and writing legislation that mandates purchasing their products. This revolving door between the defense industry and government creates a self-reinforcing system where military policy serves corporate profit rather than national security. The lobbying investment generates returns exceeding 10,000%."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is The Profit Machine book about and who is the author?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Profit Machine by Michael Rodriguez is a groundbreaking investigative book exposing how corporations, investment banks, and military contractors transformed warfare into the most lucrative business model in history. Drawing on six years of research, classified Pentagon contracts, leaked investment documents, and interviews with 500+ sources, the book reveals the financial mechanisms ensuring every conflict generates billions in corporate profits while taxpayers and soldiers pay the true cost."
           }
         }
       ]
