@@ -90,3 +90,84 @@ Stay informed about Rodriguez's latest investigations, upcoming books, and publi
   <p>Join thousands of readers who receive exclusive analysis on financial crime, offshore banking, and the hidden networks that drain resources from democratic societies.</p>
   <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ site.url }}{{ site.baseurl }}/about#person",
+  "name": "Michael Rodriguez",
+  "jobTitle": "Economic Analyst and Investigative Journalist",
+  "description": "Renowned economic analyst and investigative journalist specializing in global financial markets, money laundering networks, offshore banking, and the hidden economic forces that shape our world.",
+  "url": "{{ site.url }}{{ site.baseurl }}/about",
+  "image": "{{ site.url }}{{ site.baseurl }}/assets/images/author-photo.webp",
+  "sameAs": [
+    "https://x.com/Youvideo1",
+    "https://www.facebook.com/MichaelRodriguezAuthor/",
+    "https://medium.com/@MichaelRodriguez_Books"
+  ],
+  "alumniOf": {
+    "@type": "Organization",
+    "name": "Georgetown University"
+  },
+  "knowsAbout": [
+    "Financial Crime",
+    "Money Laundering",
+    "Economic Analysis",
+    "Shadow Economy",
+    "Investigative Journalism",
+    "Offshore Banking",
+    "Global Financial Markets",
+    "Forensic Accounting"
+  ],
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Economic Analyst and Investigative Journalist",
+    "occupationLocation": {
+      "@type": "Country",
+      "name": "United States"
+    },
+    "skills": [
+      "Economic Theory",
+      "Forensic Accounting",
+      "Investigative Journalism",
+      "Financial Crime Analysis",
+      "Historical Analysis"
+    ]
+  },
+  "award": [
+    "Featured in The Wall Street Journal",
+    "Featured in The Financial Times",
+    "Featured in The Economist",
+    "Featured in Foreign Affairs",
+    "Featured in Wired"
+  ],
+  "workExample": [
+    {
+      "@type": "Book",
+      "name": "If You're So Smart, Why Aren't You Rich?",
+      "datePublished": "2025-01"
+    },
+    {
+      "@type": "Book",
+      "name": "The Disease Dealers",
+      "datePublished": "2025-01"
+    },
+    {
+      "@type": "Book",
+      "name": "The Profit Machine",
+      "datePublished": "2025-10"
+    },
+    {
+      "@type": "Book",
+      "name": "The Bush Machine",
+      "datePublished": "2025-01"
+    },
+    {
+      "@type": "Book",
+      "name": "The India Paradox",
+      "datePublished": "2025-01"
+    }
+  ]
+}
+</script>
