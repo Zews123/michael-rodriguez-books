@@ -141,6 +141,18 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Shadows_3D.webp" alt="Shadows of Power FAQ — Jeffrey Epstein and the Architecture of Impunity">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">February 21, 2026</span>
+      <h2>Jeffrey Epstein Power Network: How Wealth Buys Impunity FAQ</h2>
+      <p>Expert answers on how Jeffrey Epstein built an architecture of impunity. Discover how elite power networks shield predators from justice.</p>
+      <a href="{{ site.baseurl }}/blog/shadows-of-power-faq.html" class="read-more">Read More <span class="visually-hidden">about Shadows of Power FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/Rich_3D.webp" alt="Smart but Broke FAQ">
     </div>
     <div class="blog-card-content">
