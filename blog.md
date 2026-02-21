@@ -123,7 +123,11 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
   
   .blog-card-image {
     width: 100%;
-    height: 200px;
+    height: 280px;
+  }
+  
+  .blog-card-image img {
+    object-position: center 15%;
   }
   
   .blog-card-content {
