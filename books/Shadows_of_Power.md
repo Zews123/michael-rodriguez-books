@@ -1,5 +1,5 @@
 ---
-layout: dark
+layout: default
 title: "Shadows of Power | Michael Rodriguez"
 description: "Explosive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse."
 canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Shadows_of_Power/"

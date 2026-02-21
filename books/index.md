@@ -332,8 +332,8 @@ An examination of how nations increasingly use economic tools as weapons in glob
 
 ## Stay Connected
 
-<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
-  <h3 style="margin-top: 0; color: #1a3c65;">Get Exclusive Insights</h3>
+<div style="background-color: #1a1a1a; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #2a2a2a;">
+  <h3 style="margin-top: 0; color: #c9a227;">Get Exclusive Insights</h3>
   <p>Join thousands of readers who receive expert analysis on global economics, financial markets, and technological trends that mainstream media won't cover.</p>
   <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
 </div>
@@ -432,11 +432,11 @@ An examination of how nations increasingly use economic tools as weapons in glob
 <style>
 /* High contrast colors for better accessibility */
 :root {
-  --primary-color: #0f2c4c; /* Darker blue for better contrast */
-  --secondary-color: #d73527; /* Darker red for better contrast */
-  --text-color: #1a1a1a; /* Darker text */
-  --light-bg: #f8f9fa;
-  --border-color: #ddd;
+  --primary-color: #c9a227;
+  --secondary-color: #e8d48b;
+  --text-color: #e8e6e3;
+  --light-bg: #1a1a1a;
+  --border-color: #2a2a2a;
 }
 
 /* Improve button contrast */
@@ -527,7 +527,7 @@ footer .copyright {
 }
 
 .book-card p {
-  color: #2c2c2c;
+  color: #999;
   line-height: 1.5;
 }
 

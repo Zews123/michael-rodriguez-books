@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-62RSZYW4JV"></script>
@@ -7,27 +7,21 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-62RSZYW4JV');
 </script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <!-- Предзагрузка основного изображения -->
-    <link rel="preload" href="{{ site.baseurl }}/assets/images/author-photo.webp" as="image" fetchpriority="high">
-    
-    <!-- Оптимизированная загрузка шрифтов -->
+
+    <!-- Preconnect -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Open+Sans:wght@400;600;700&display=swap">
-    
-    <!-- Оптимизированная загрузка CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+    <!-- Font Awesome removed for performance — using inline SVG instead -->
+
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 {% seo title=false %}
-    
+
     <!-- Organization and WebSite Schema Markup -->
     <script type="application/ld+json">
     {
@@ -77,115 +71,337 @@
       ]
     }
     </script>
-    
+
     <style>
+      /* ===== DARK THEME — Investigative Nonfiction / True Crime ===== */
       :root {
-        --primary-color: #1a3c65;
-        --secondary-color: #e74c3c;
-        --text-color: #333;
-        --light-bg: #f8f9fa;
-        --border-color: #ddd;
+        --bg-primary: #0d0d0d;
+        --bg-secondary: #161616;
+        --bg-card: #1a1a1a;
+        --bg-card-hover: #222;
+        --accent: #c9a227;
+        --accent-dim: rgba(201, 162, 39, 0.15);
+        --accent-glow: rgba(201, 162, 39, 0.35);
+        --text-primary: #e8e6e3;
+        --text-secondary: #a0a0a0;
+        --text-muted: #999;
+        --border: #2a2a2a;
+        --border-accent: #c9a227;
+        --danger: #b83230;
+        --shadow-sm: 0 2px 8px rgba(0,0,0,0.4);
+        --shadow-md: 0 4px 20px rgba(0,0,0,0.5);
+        --shadow-lg: 0 8px 40px rgba(0,0,0,0.6);
+        --shadow-gold: 0 0 20px rgba(201,162,39,0.08);
       }
-      
+
+      *, *::before, *::after { box-sizing: border-box; }
+
       body {
-        font-family: 'Open Sans', sans-serif;
-        line-height: 1.6;
-        color: var(--text-color);
+        font-family: Georgia, "Times New Roman", serif;
+        line-height: 1.75;
+        color: var(--text-primary);
         margin: 0;
         padding: 0;
-        background-color: #fff;
+        background-color: var(--bg-primary);
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
       }
-      
+
       .container {
-        max-width: 1140px;
+        max-width: 860px;
         margin: 0 auto;
-        padding: 0 20px;
+        padding: 0 24px;
       }
-      
+
+      /* ===== HEADER ===== */
       header {
-        background-color: var(--primary-color);
-        color: white;
+        background: linear-gradient(180deg, #111 0%, #0d0d0d 100%);
+        border-bottom: 1px solid var(--border);
         padding: 1rem 0;
-        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        position: sticky;
+        top: 0;
+        z-index: 100;
+        backdrop-filter: blur(8px);
       }
-      
+
       .site-header {
         display: flex;
         justify-content: space-between;
         align-items: center;
+        max-width: 1140px;
+        margin: 0 auto;
+        padding: 0 24px;
       }
-      
+
       .site-title {
-        font-size: 1.5rem;
+        font-size: 1.3rem;
         font-weight: 700;
         margin: 0;
+        letter-spacing: 0.02em;
       }
-      
+
       .site-title a {
-        color: white;
+        color: var(--accent);
         text-decoration: none;
+        transition: opacity 0.2s;
       }
-      
+
+      .site-title a:hover { opacity: 0.8; }
+
       nav ul {
         display: flex;
         list-style: none;
         margin: 0;
         padding: 0;
+        gap: 1.5rem;
       }
-      
-      nav ul li {
-        margin-left: 1.5rem;
-      }
-      
+
       nav ul li a {
-        color: white;
+        color: var(--text-secondary);
         text-decoration: none;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        font-size: 0.9rem;
         font-weight: 600;
-        font-size: 1rem;
-        transition: color 0.3s;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        transition: color 0.2s;
+        padding: 4px 0;
+        border-bottom: 2px solid transparent;
       }
-      
+
       nav ul li a:hover {
-        color: rgba(255, 255, 255, 0.8);
+        color: var(--accent);
+        border-bottom-color: var(--accent);
       }
-      
+
+      /* ===== MAIN CONTENT ===== */
       main {
-        padding: 2rem 0;
+        padding: 3rem 0;
+        min-height: 60vh;
       }
-      
+
+      /* ===== TYPOGRAPHY ===== */
       h1, h2, h3, h4, h5, h6 {
-        font-family: 'Merriweather', serif;
-        color: var(--primary-color);
-        line-height: 1.3;
+        font-family: Georgia, "Times New Roman", serif;
+        color: var(--text-primary);
+        line-height: 1.25;
+        font-weight: 700;
       }
-      
+
       h1 {
-        font-size: 2.5rem;
+        font-size: 2.4rem;
         margin-top: 0;
-        border-bottom: 2px solid var(--secondary-color);
-        padding-bottom: 0.5rem;
-        margin-bottom: 1rem;
+        margin-bottom: 0.5rem;
+        border-bottom: none;
+        padding-bottom: 0;
+        background: linear-gradient(135deg, var(--accent) 0%, #e8d48b 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        letter-spacing: -0.01em;
       }
-      
+
       h2 {
-        font-size: 1.8rem;
-        margin-top: 2rem;
+        font-size: 1.6rem;
+        margin-top: 2.5rem;
+        margin-bottom: 1rem;
+        color: var(--accent);
+        padding-bottom: 0.4rem;
+        border-bottom: 1px solid var(--border);
       }
-      
+
+      h3 {
+        font-size: 1.25rem;
+        color: var(--text-primary);
+        margin-top: 1.5rem;
+      }
+
+      p {
+        margin-bottom: 1.4em;
+        font-size: 1.05rem;
+        color: var(--text-primary);
+      }
+
+      a {
+        color: var(--accent);
+        text-decoration: none;
+        transition: color 0.2s, border-color 0.2s;
+        border-bottom: 1px solid transparent;
+      }
+
+      a:hover {
+        color: #e8d48b;
+        border-bottom-color: var(--accent);
+      }
+
+      strong { color: #fff; }
+
+      em { color: var(--text-secondary); }
+
+      /* ===== BOOK COVER ===== */
+      .book-cover-container {
+        text-align: center;
+        margin: 2.5rem 0 !important;
+      }
+
+      .book-cover {
+        border-radius: 4px !important;
+        box-shadow:
+          0 0 0 1px rgba(201,162,39,0.15),
+          0 8px 30px rgba(0,0,0,0.6),
+          0 0 60px rgba(201,162,39,0.06) !important;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+
+      .book-cover:hover {
+        transform: translateY(-4px);
+        box-shadow:
+          0 0 0 1px rgba(201,162,39,0.25),
+          0 12px 40px rgba(0,0,0,0.7),
+          0 0 80px rgba(201,162,39,0.1) !important;
+      }
+
+      /* ===== PUBLICATION INFO ===== */
+      main > .container > p:first-of-type,
+      main > .container > p:nth-of-type(2),
+      main > .container > p:nth-of-type(3) {
+        color: var(--text-secondary);
+      }
+
+      /* ===== UNORDERED LISTS / KEY REVELATIONS ===== */
+      ul {
+        list-style: none;
+        padding: 0;
+      }
+
+      ul li {
+        position: relative;
+        padding: 1rem 1.2rem 1rem 1.6rem;
+        margin-bottom: 0.75rem;
+        background: var(--bg-card);
+        border-left: 3px solid var(--accent);
+        border-radius: 0 6px 6px 0;
+        box-shadow: var(--shadow-sm);
+        transition: background 0.2s, transform 0.2s;
+      }
+
+      ul li:hover {
+        background: var(--bg-card-hover);
+        transform: translateX(3px);
+      }
+
+      /* ===== WHAT YOU'LL DISCOVER — h3 emoji sections ===== */
+      h3 strong {
+        color: var(--accent);
+      }
+
+      /* ===== BLOCKQUOTE ===== */
+      blockquote {
+        border-left: 3px solid var(--accent);
+        padding: 1rem 1.5rem;
+        margin: 2rem 0;
+        background: var(--bg-card);
+        border-radius: 0 6px 6px 0;
+        color: var(--text-secondary);
+        font-style: italic;
+      }
+
+      /* ===== BUTTONS ===== */
+      .book-btn {
+        background: var(--accent) !important;
+        color: #0d0d0d !important;
+        padding: 12px 20px !important;
+        border-radius: 6px !important;
+        text-decoration: none !important;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif !important;
+        font-weight: 700 !important;
+        font-size: 0.95rem !important;
+        display: inline-block !important;
+        text-align: center !important;
+        min-width: 120px !important;
+        border: 0 !important;
+        transition: transform 0.2s, box-shadow 0.2s, opacity 0.2s !important;
+        letter-spacing: 0.02em !important;
+        border-bottom: none !important;
+      }
+
+      .book-btn:hover {
+        transform: translateY(-2px) !important;
+        box-shadow: 0 4px 15px rgba(201,162,39,0.3) !important;
+        opacity: 0.95 !important;
+        color: #0d0d0d !important;
+        border-bottom: none !important;
+      }
+
+      .book-btn-amazon { background: #ff9900 !important; }
+      .book-btn-apple { background: #fff !important; color: #000 !important; }
+      .book-btn-kobo { background: #bf2026 !important; color: #fff !important; }
+      .book-btn-bn { background: #336b50 !important; color: #fff !important; }
+
+      .book-buttons {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin: 1.5rem 0;
+      }
+
+      /* ===== NEWSLETTER / CTA BOX ===== */
+      div[style*="background-color: #f9f9fb"],
+      div[style*="background-color:#f9f9fb"] {
+        background: var(--bg-card) !important;
+        border: 1px solid var(--border) !important;
+        box-shadow: var(--shadow-md) !important;
+        color: var(--text-primary) !important;
+      }
+
+      div[style*="background-color: #f9f9fb"] h3,
+      div[style*="background-color:#f9f9fb"] h3 {
+        color: var(--accent) !important;
+      }
+
+      div[style*="background-color: #f9f9fb"] p,
+      div[style*="background-color:#f9f9fb"] p {
+        color: var(--text-secondary) !important;
+      }
+
+      div[style*="background:#1a3c65"],
+      a[style*="background:#1a3c65"] {
+        background: var(--accent) !important;
+        color: #0d0d0d !important;
+        border-bottom: none !important;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif !important;
+      }
+
+      /* ===== SOCIAL SHARE ===== */
+      .social-share a {
+        color: var(--text-muted) !important;
+        font-size: 1.5rem;
+        transition: color 0.2s, transform 0.2s;
+        border-bottom: none !important;
+      }
+
+      .social-share a:hover {
+        color: var(--accent) !important;
+        transform: scale(1.15);
+        border-bottom: none !important;
+      }
+
+      /* ===== HORIZONTAL RULES ===== */
+      hr {
+        border: none;
+        height: 1px;
+        background: linear-gradient(90deg, transparent, var(--accent), transparent);
+        margin: 3rem 0;
+        opacity: 0.4;
+      }
+
+      /* ===== IMAGE ===== */
       img {
         max-width: 100%;
         height: auto;
         display: block;
       }
-      
-      .book-cover {
-        float: right;
-        margin: 0 0 2rem 2rem;
-        width: 300px;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-        border-radius: 5px;
-      }
-      
+
       .author-image {
         border-radius: 50%;
         width: 150px;
@@ -193,177 +409,169 @@
         object-fit: cover;
         margin: 0 auto 1rem;
         display: block;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        box-shadow: 0 0 0 3px var(--accent), var(--shadow-md);
       }
-      
-      .book-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-        gap: 2rem;
-        margin-top: 2rem;
-      }
-      
-      .book-card {
-        border: 1px solid var(--border-color);
-        border-radius: 5px;
-        overflow: hidden;
-        transition: transform 0.3s, box-shadow 0.3s;
-      }
-      
-      .book-card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-      }
-      
-      .book-card img {
-        width: 100%;
-        height: 400px;
-        object-fit: cover;
-      }
-      
-      .book-card-content {
-        padding: 1.5rem;
-      }
-      
-      .book-card h3 {
-        margin-top: 0;
-        font-size: 1.3rem;
-      }
-      
-      .book-card p {
-        margin-bottom: 1rem;
-        font-size: 0.9rem;
-      }
-      
-      .btn {
-        display: inline-block;
-        background-color: var(--primary-color);
-        color: white;
-        padding: 0.5rem 1rem;
-        border-radius: 3px;
-        text-decoration: none;
-        font-weight: 600;
-        transition: background-color 0.3s;
-      }
-      
-      .btn:hover {
-        background-color: #0f2a4a;
-      }
-      
-      .btn-secondary {
-        background-color: var(--secondary-color);
-      }
-      
-      .btn-secondary:hover {
-        background-color: #c0392b;
-      }
-      
-      blockquote {
-        border-left: 4px solid var(--secondary-color);
-        padding-left: 1rem;
-        font-style: italic;
-        color: #555;
-      }
-      
+
+      /* ===== FOOTER ===== */
       footer {
-        background-color: var(--primary-color);
-        color: white;
-        padding: 2rem 0;
-        margin-top: 3rem;
+        background: var(--bg-secondary);
+        color: var(--text-secondary);
+        padding: 2.5rem 0;
+        margin-top: 4rem;
+        border-top: 1px solid var(--border);
       }
-      
+
       .footer-content {
         display: flex;
         justify-content: space-between;
         flex-wrap: wrap;
+        max-width: 1140px;
+        margin: 0 auto;
+        padding: 0 24px;
       }
-      
+
       .footer-column {
         flex: 1;
-        min-width: 250px;
+        min-width: 220px;
         margin-bottom: 1.5rem;
       }
-      
+
       .footer-column h3 {
-        color: white;
-        font-size: 1.2rem;
+        color: var(--accent);
+        font-size: 1rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
         margin-top: 0;
         margin-bottom: 1rem;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       }
-      
+
+      .footer-column p {
+        font-size: 0.9rem;
+        color: #bbb;
+      }
+
       .footer-column ul {
         list-style: none;
         padding: 0;
         margin: 0;
       }
-      
+
       .footer-column ul li {
-        margin-bottom: 0.5rem;
+        background: none;
+        border-left: none;
+        padding: 0;
+        margin-bottom: 0.6rem;
+        box-shadow: none;
+        border-radius: 0;
       }
-      
+
+      .footer-column ul li:hover {
+        background: none;
+        transform: none;
+      }
+
       .footer-column a {
-        color: rgba(255, 255, 255, 0.8);
+        color: var(--text-secondary);
         text-decoration: none;
-        transition: color 0.3s;
+        font-size: 0.9rem;
+        border-bottom: none;
+        transition: color 0.2s;
       }
-      
+
       .footer-column a:hover {
-        color: white;
+        color: var(--accent);
+        border-bottom: none;
       }
-      
+
       .copyright {
         text-align: center;
         margin-top: 2rem;
         padding-top: 1rem;
-        border-top: 1px solid rgba(255, 255, 255, 0.1);
-        font-size: 0.9rem;
+        border-top: 1px solid var(--border);
+        font-size: 0.85rem;
+        color: #bbb;
+        max-width: 1140px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 24px;
+        padding-right: 24px;
       }
-      
-      /* Social share icons styles */
-      .social-share a {
-        transition: transform 0.3s ease;
-      }
-      
-      .social-share a:hover {
-        transform: scale(1.2);
-      }
-      
-      /* Responsive adjustments */
+
+      /* ===== RESPONSIVE ===== */
       @media (max-width: 768px) {
         .site-header {
           flex-direction: column;
           text-align: center;
+          gap: 0.75rem;
         }
-        
+
         nav ul {
-          margin-top: 1rem;
           justify-content: center;
+          flex-wrap: wrap;
+          gap: 0.75rem;
         }
-        
-        nav ul li {
-          margin: 0 0.75rem;
-        }
-        
+
+        h1 { font-size: 1.8rem; }
+        h2 { font-size: 1.35rem; }
+
         .book-cover {
-          float: none;
-          margin: 0 auto 2rem;
-          width: 100%;
-          max-width: 300px;
+          float: none !important;
+          margin: 0 auto 2rem !important;
+          width: 100% !important;
+          max-width: 320px !important;
         }
-        
-        h1 {
-          font-size: 2rem;
+
+        .book-buttons {
+          flex-direction: column;
         }
-        
-        h2 {
-          font-size: 1.5rem;
+
+        .book-btn {
+          width: 100% !important;
+          margin-bottom: 4px !important;
         }
+
+        .container {
+          padding: 0 16px;
+        }
+
+        main { padding: 2rem 0; }
+      }
+
+      /* ===== NAV LIST OVERRIDE ===== */
+      nav ul li {
+        background: none;
+        border-left: none;
+        padding: 0;
+        margin-bottom: 0;
+        box-shadow: none;
+        border-radius: 0;
+      }
+
+      nav ul li:hover {
+        background: none;
+        transform: none;
+      }
+
+      /* ===== SCROLLBAR ===== */
+      ::-webkit-scrollbar { width: 8px; }
+      ::-webkit-scrollbar-track { background: var(--bg-primary); }
+      ::-webkit-scrollbar-thumb {
+        background: var(--border);
+        border-radius: 4px;
+      }
+      ::-webkit-scrollbar-thumb:hover { background: var(--accent); }
+
+      /* ===== SELECTION ===== */
+      ::selection {
+        background: var(--accent);
+        color: #0d0d0d;
       }
     </style>
   </head>
   <body>
     <header>
-      <div class="container site-header">
+      <div class="site-header">
         <div class="site-title"><a href="{{ "/" | relative_url }}">{{ site.title }}</a></div>
         <nav>
           <ul>
@@ -384,35 +592,34 @@
     </main>
 
     <footer>
-      <div class="container">
-        <div class="footer-content">
-          <div class="footer-column">
-            <h3>Michael Rodriguez</h3>
-            <p>Economic Analyst | Financial Market Expert | Author</p>
-            <p>Exploring the hidden forces behind global economics and financial markets.</p>
-          </div>
-          <div class="footer-column">
-            <h3>Books</h3>
-            <ul>
-              <li><a href="{{ "/books/chinese-real-estate-bubble" | relative_url }}">The Chinese Real Estate Bubble</a></li>
-              <li><a href="{{ "/books/trillion-dollar-shadow" | relative_url }}">The Trillion Dollar Shadow</a></li>
-              <li><a href="{{ "/books/weaponized-economy" | relative_url }}">Weaponized Economy</a></li>
-              <li><a href="{{ "/books/paypal-mafia" | relative_url }}">The PayPal Mafia</a></li>
-            </ul>
-          </div>
-          <div class="footer-column">
-            <h3>Connect</h3>
-            <ul>
-              <li><a href="mailto:marlonturner135@gmail.com">Email</a></li>
-              <li><a href="https://x.com/Youvideo1">Twitter</a></li>
-              <li><a href="https://www.facebook.com/MichaelRodriguezAuthor/">Facebook</a></li>
-              <li><a href="https://medium.com/@MichaelRodriguez_Books" target="_blank" rel="noopener noreferrer">Medium</a></li>
-            </ul>
-          </div>
+      <div class="footer-content">
+        <div class="footer-column">
+          <h3>Michael Rodriguez</h3>
+          <p>Economic Analyst | Financial Market Expert | Author</p>
+          <p>Exploring the hidden forces behind global economics and financial markets.</p>
         </div>
-        <div class="copyright">
-          &copy; 2025 Michael Rodriguez. All rights reserved. Published by Resource Economics Press.
+        <div class="footer-column">
+          <h3>Books</h3>
+          <ul>
+            <li><a href="{{ "/books/Shadows_of_Power" | relative_url }}">Shadows of Power</a></li>
+            <li><a href="{{ "/books/chinese-real-estate-bubble" | relative_url }}">The Chinese Real Estate Bubble</a></li>
+            <li><a href="{{ "/books/trillion-dollar-shadow" | relative_url }}">The Trillion Dollar Shadow</a></li>
+            <li><a href="{{ "/books/weaponized-economy" | relative_url }}">Weaponized Economy</a></li>
+            <li><a href="{{ "/books/paypal-mafia" | relative_url }}">The PayPal Mafia</a></li>
+          </ul>
         </div>
+        <div class="footer-column">
+          <h3>Connect</h3>
+          <ul>
+            <li><a href="mailto:marlonturner135@gmail.com">Email</a></li>
+            <li><a href="https://x.com/Youvideo1">Twitter</a></li>
+            <li><a href="https://www.facebook.com/MichaelRodriguezAuthor/">Facebook</a></li>
+            <li><a href="https://medium.com/@MichaelRodriguez_Books" target="_blank" rel="noopener noreferrer">Medium</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="copyright">
+        &copy; 2025 Michael Rodriguez. All rights reserved. Published by Resource Economics Press.
       </div>
     </footer>
   </body>

@@ -19,12 +19,12 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 .blog-card {
   display: flex;
-  border: 1px solid #ddd;
+  border: 1px solid #2a2a2a;
   border-radius: 8px;
   overflow: hidden;
   transition: transform 0.3s, box-shadow 0.3s;
   height: 320px;
-  background-color: #fff;
+  background-color: #1a1a1a;
 }
 
 .blog-card:hover {
@@ -59,7 +59,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
   margin-top: 0;
   margin-bottom: 1rem;
   font-size: 1.5rem;
-  color: #0f2c4c;
+  color: #c9a227;
   font-weight: 700;
 }
 
@@ -73,31 +73,31 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 .blog-date {
   font-size: 0.9rem;
-  color: #2c2c2c;
+  color: #999;
   margin-bottom: 0.5rem;
   font-weight: 500;
 }
 
 .read-more {
   display: inline-block;
-  background-color: #0f2c4c;
-  color: white;
+  background-color: #c9a227;
+  color: #0d0d0d;
   padding: 0.5rem 1rem;
   border-radius: 3px;
   text-decoration: none;
   font-weight: 600;
   transition: all 0.3s;
   align-self: flex-start;
-  border: 2px solid #0f2c4c;
+  border: 2px solid #c9a227;
 }
 
 .read-more:hover {
-  background-color: #d73527;
-  border-color: #d73527;
+  background-color: #c9a227;
+  border-color: #c9a227;
 }
 
 .read-more:focus {
-  outline: 3px solid #ffbf00;
+  outline: 3px solid #c9a227;
   outline-offset: 2px;
   box-shadow: 0 0 0 2px rgba(255, 191, 0, 0.3);
 }
@@ -527,16 +527,16 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 <style>
 /* High contrast colors for better accessibility */
 :root {
-  --primary-color: #0f2c4c; /* Darker blue for better contrast */
-  --secondary-color: #d73527; /* Darker red for better contrast */
-  --text-color: #1a1a1a; /* Darker text */
-  --light-bg: #f8f9fa;
-  --border-color: #ddd;
+  --primary-color: #c9a227;
+  --secondary-color: #e8d48b;
+  --text-color: #e8e6e3;
+  --light-bg: #1a1a1a;
+  --border-color: #2a2a2a;
 }
 
 /* Ensure footer text remains white */
 footer p {
-  color: white !important;
+  color: #0d0d0d !important;
 }
 
 footer .footer-column p {
@@ -544,7 +544,7 @@ footer .footer-column p {
 }
 
 footer .footer-column h3 {
-  color: white !important;
+  color: #0d0d0d !important;
 }
 
 footer .footer-column a {
@@ -552,7 +552,7 @@ footer .footer-column a {
 }
 
 footer .footer-column a:hover {
-  color: white !important;
+  color: #0d0d0d !important;
 }
 
 footer .copyright {
