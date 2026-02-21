@@ -17,8 +17,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <!-- Font Awesome removed for performance — using inline SVG instead -->
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 {% seo title=false %}
@@ -85,7 +84,7 @@
         --accent-glow: rgba(201, 162, 39, 0.35);
         --text-primary: #e8e6e3;
         --text-secondary: #a0a0a0;
-        --text-muted: #6a6a6a;
+        --text-muted: #999;
         --border: #2a2a2a;
         --border-accent: #c9a227;
         --danger: #b83230;
@@ -449,7 +448,7 @@
 
       .footer-column p {
         font-size: 0.9rem;
-        color: var(--text-muted);
+        color: #bbb;
       }
 
       .footer-column ul {
@@ -491,7 +490,7 @@
         padding-top: 1rem;
         border-top: 1px solid var(--border);
         font-size: 0.85rem;
-        color: var(--text-muted);
+        color: #bbb;
         max-width: 1140px;
         margin-left: auto;
         margin-right: auto;
