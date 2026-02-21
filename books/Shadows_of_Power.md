@@ -3,28 +3,41 @@ layout: default
 title: "Shadows of Power | Michael Rodriguez"
 description: "Explosive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse."
 canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Shadows_of_Power/"
-image: "/assets/images/Shadows_of_Power.webp"
+image: "https://zews123.github.io/michael-rodriguez-books/assets/images/Shadows_of_Power.webp"
 author: "Michael Rodriguez"
-book_title: "Shadows of Power: Jeffrey Epstein and the Architecture of Impunity"
-isbn_hardcover: "979-8233600456"
-isbn_ebook: "979-8224384341"
-publication_date: "January 2025"
-publisher: "Resource Economics Press"
-category: "true-crime"
-tags: ["jeffrey-epstein", "true-crime", "elite-corruption", "sex-trafficking", "justice-system", "power-networks", "investigative-nonfiction"]
-price_kindle: "$14.99"
-price_hardcover: "$19.99"
-pages: "280"
-language: "English"
+date_published: "2025-01-01"
+date_modified: "2026-02-21"
 ---
 
-<link rel="preload" href="{{ site.baseurl }}/assets/images/Shadows_of_Power.webp" as="image" fetchpriority="high">
+<link rel="preload" href="https://zews123.github.io/michael-rodriguez-books/assets/images/Shadows_of_Power.webp" as="image" fetchpriority="high">
 <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
 <link rel="preconnect" href="https://www.amazon.com">
+<link rel="dns-prefetch" href="https://www.amazon.com">
 
 <style>
 .book-btn{background:#1a3c65;color:#fff;padding:10px 16px;border-radius:6px;text-decoration:none;font-weight:700;display:inline-block;text-align:center;min-width:110px;border:0}.book-btn:hover{text-decoration:none;color:#fff;opacity:0.9}.book-btn-amazon{background:#ff9900}.book-btn-apple{background:#000}.book-btn-kobo{background:#1e90ff}.book-btn-bn{background:#2e8b57}.book-btn-smash{background:#ff6347}.book-buttons{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:15px}@media (max-width:768px){.book-buttons{flex-direction:column}.book-btn{width:100%;margin-bottom:5px}}
 </style>
+
+<!-- Open Graph -->
+<meta property="og:type" content="book">
+<meta property="og:title" content="Shadows of Power: Jeffrey Epstein and the Architecture of Impunity">
+<meta property="og:description" content="Explosive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse.">
+<meta property="og:image" content="https://zews123.github.io/michael-rodriguez-books/assets/images/Shadows_of_Power.webp">
+<meta property="og:image:width" content="400">
+<meta property="og:image:height" content="600">
+<meta property="og:url" content="https://zews123.github.io/michael-rodriguez-books/books/Shadows_of_Power/">
+<meta property="og:site_name" content="Michael Rodriguez Books">
+<meta property="book:author" content="Michael Rodriguez">
+<meta property="book:isbn" content="979-8224384341">
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Shadows of Power: Jeffrey Epstein and the Architecture of Impunity">
+<meta name="twitter:description" content="Explosive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse.">
+<meta name="twitter:image" content="https://zews123.github.io/michael-rodriguez-books/assets/images/Shadows_of_Power.webp">
+<meta name="twitter:image:alt" content="Shadows of Power by Michael Rodriguez — true crime book cover">
+<meta name="twitter:creator" content="@MRodriguezBooks">
+<meta name="twitter:site" content="@MRodriguezBooks">
 
 # Shadows of Power: Jeffrey Epstein and the Architecture of Impunity
 
@@ -38,7 +51,7 @@ language: "English"
 **ISBN: 979-8224384341 (eBook)**
 
 <div class="book-cover-container" style="text-align: center; margin: 30px 0;">
-<img src="{{ site.baseurl }}/assets/images/Shadows_of_Power.webp" alt="Shadows of Power: Jeffrey Epstein and the Architecture of Impunity by Michael Rodriguez" width="400" height="600" loading="lazy" decoding="async" class="book-cover" style="box-shadow: 0 4px 20px rgba(0,0,0,0.15); border-radius: 8px;">
+<img src="https://zews123.github.io/michael-rodriguez-books/assets/images/Shadows_of_Power.webp" alt="Shadows of Power by Michael Rodriguez — true crime investigative nonfiction book cover" width="400" height="600" loading="lazy" decoding="async" class="book-cover" style="box-shadow: 0 4px 20px rgba(0,0,0,0.15); border-radius: 8px;">
 </div>
 
 ## About the Book
@@ -145,13 +158,29 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": "WebPage",
+      "@id": "https://zews123.github.io/michael-rodriguez-books/books/Shadows_of_Power/#webpage",
+      "url": "https://zews123.github.io/michael-rodriguez-books/books/Shadows_of_Power/",
+      "name": "Shadows of Power | Michael Rodriguez",
+      "description": "Explosive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse.",
+      "datePublished": "2025-01-01",
+      "dateModified": "2026-02-21",
+      "inLanguage": "en",
+      "isPartOf": {
+        "@id": "https://zews123.github.io/michael-rodriguez-books/#website"
+      },
+      "about": {
+        "@id": "https://zews123.github.io/michael-rodriguez-books/books/Shadows_of_Power/#book"
+      }
+    },
+    {
       "@type": "Book",
-      "@id": "{{ page.url | absolute_url }}#book",
+      "@id": "https://zews123.github.io/michael-rodriguez-books/books/Shadows_of_Power/#book",
       "name": "Shadows of Power: Jeffrey Epstein and the Architecture of Impunity",
       "author": {
         "@type": "Person",
         "name": "Michael Rodriguez",
-        "@id": "{{ site.url }}/about#person"
+        "@id": "https://zews123.github.io/michael-rodriguez-books/about/#person"
       },
       "publisher": {
         "@type": "Organization",
@@ -160,12 +189,11 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
       "datePublished": "2025-01-01",
       "isbn": ["979-8233600456", "979-8224384341"],
       "bookFormat": ["Hardcover", "EBook"],
-      "numberOfPages": "280",
       "inLanguage": "en",
       "genre": ["True Crime", "Investigative Nonfiction", "Political Analysis"],
       "description": "Explosive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse.",
-      "image": "{{ '/assets/images/Shadows_of_Power.webp' | absolute_url }}",
-      "url": "{{ page.url | absolute_url }}",
+      "image": "https://zews123.github.io/michael-rodriguez-books/assets/images/Shadows_of_Power.webp",
+      "url": "https://zews123.github.io/michael-rodriguez-books/books/Shadows_of_Power/",
       "offers": [
         {
           "@type": "Offer",
@@ -178,7 +206,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
     },
     {
       "@type": "FAQPage",
-      "@id": "{{ page.url | absolute_url }}#faq",
+      "@id": "https://zews123.github.io/michael-rodriguez-books/books/Shadows_of_Power/#faq",
       "mainEntity": [
         {
           "@type": "Question",
