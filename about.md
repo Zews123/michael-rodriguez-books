@@ -21,6 +21,7 @@ After studying Economics and International Relations at Georgetown University, R
 
 Rodriguez is known for his meticulously researched books that reveal the hidden mechanisms behind global economic systems, financial crime networks, and elite power structures:
 
+- **[Shadows of Power: Jeffrey Epstein and the Architecture of Impunity]({{ site.baseurl }}/books/Shadows_of_Power) (2025)** - *The definitive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse. Two years of research into court documents, flight logs, sealed depositions, and survivor testimonies exposing how wealth buys silence and power erases accountability*
 - **[If You're So Smart, Why Aren't You Rich?: The Hidden System That Keeps Smart People Poor]({{ site.baseurl }}/books/If_You_re_So_Smart) (2025)** - *Why smart people struggle financially while the wealthy exploit intelligence. Fifteen-month investigation exposing how the economic system systematically converts intellectual capital into financial dependence through student debt, salary-based compensation, and wealth-building secrets kept hidden from high earners*
 - **[The Disease Dealers: Inside the Pharmaceutical Industry's Business of Making You Sick]({{ site.baseurl }}/books/Disease_Dealers) (2025)** - *How pharmaceutical giants create diseases, manipulate research & price-gouge patients for profit. Eighteen-month investigation exposing Big Pharma's billion-dollar deception from opioid crisis to invented illnesses*
 - **[The Profit Machine: How Corporations Turn War Into Wall Street's Biggest Payday]({{ site.baseurl }}/books/Profit_Machine) (2025)** - *How defense contractors, banks & corporations profit billions from wars while taxpayers pay. Six-year investigation exposing the military-industrial complex turning warfare into Wall Street's most lucrative business model*
@@ -143,6 +144,11 @@ Stay informed about Rodriguez's latest investigations, upcoming books, and publi
     "Featured in Wired"
   ],
   "workExample": [
+    {
+      "@type": "Book",
+      "name": "Shadows of Power",
+      "datePublished": "2025-01"
+    },
     {
       "@type": "Book",
       "name": "If You're So Smart, Why Aren't You Rich?",

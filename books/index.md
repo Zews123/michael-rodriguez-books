@@ -11,6 +11,15 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Shadows_of_Power.webp" alt="Shadows of Power: Jeffrey Epstein and the Architecture of Impunity by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Shadows of Power</h3>
+      <p>The definitive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse. Discover how wealth buys silence and power erases accountability.</p>
+      <a href="{{ site.baseurl }}/books/Shadows_of_Power" class="btn">Read More <span class="visually-hidden">about Shadows of Power by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Why_Aren't_You_Rich.webp" alt="If You're So Smart, Why Aren't You Rich book cover by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>If You're So Smart, Why Aren't You Rich?</h3>
@@ -343,6 +352,12 @@ An examination of how nations increasingly use economic tools as weapons in glob
     "url": "https://zews123.github.io/michael-rodriguez-books/"
   },
   "hasPart": [
+    {
+      "@type": "Book",
+      "name": "Shadows of Power",
+      "author": "Michael Rodriguez",
+      "description": "The definitive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse."
+    },
     {
       "@type": "Book",
       "name": "If You're So Smart, Why Aren't You Rich?",
