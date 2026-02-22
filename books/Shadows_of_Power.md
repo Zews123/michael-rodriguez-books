@@ -61,6 +61,10 @@ date_modified: "2026-02-21"
      class="book-cover" style="box-shadow: 0 4px 20px rgba(0,0,0,0.15); border-radius: 8px;">
 </div>
 
+<div style="background: linear-gradient(135deg, #1a3c65 0%, #0d253f 100%); padding: 20px 25px; border-radius: 10px; margin: 20px 0; border: 1px solid #c9a227; text-align: center;">
+  <a href="{{ site.baseurl }}/books/free-chapter-shadows-of-power" style="color: #c9a227; font-size: 1.2rem; font-weight: 700; text-decoration: none;">📖 Read First 2 Chapters FREE &rarr;</a>
+</div>
+
 ## About the Book
 
 A college dropout from Brooklyn. A billionaire's shadow. A private island with hidden cameras. A plea deal that defied the law. A death that defied logic. Only 13% of Americans believe the government is handling the Epstein case honestly — making it the single most corrosive force acting on public trust in the twenty-first century.

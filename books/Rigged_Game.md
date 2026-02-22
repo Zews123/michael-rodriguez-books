@@ -141,6 +141,10 @@ New York • London • Singapore*
 **ISBN:** 979-8231144044 (Hardcover)  
 **ISBN:** 979-8231940332 (eBook)
 
+<div style="background: linear-gradient(135deg, #1a3c65 0%, #0d253f 100%); padding: 20px 25px; border-radius: 10px; margin: 20px 0; border: 1px solid #c9a227; text-align: center;">
+  <a href="{{ site.baseurl }}/books/free-chapter-rigged-game" style="color: #c9a227; font-size: 1.2rem; font-weight: 700; text-decoration: none;">📖 Read Introduction & Chapter 1 FREE &rarr;</a>
+</div>
+
 ## About the Book
 
 Picture this: You wake up tomorrow morning to discover that ten men—just ten human beings—have accumulated more wealth than 3.8 billion people combined. Half the planet's entire population. Every construction worker in Bangladesh, every teacher in Brazil, every farmer in Nigeria—all of them together possess less than these ten individuals.

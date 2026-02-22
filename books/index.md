@@ -15,6 +15,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>Shadows of Power</h3>
       <p>The definitive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse. Discover how wealth buys silence and power erases accountability.</p>
+      <a href="{{ site.baseurl }}/books/free-chapter-shadows-of-power" class="btn" style="background: #2e8b57; margin-right: 8px;">Free Chapter</a>
       <a href="{{ site.baseurl }}/books/Shadows_of_Power" class="btn">Read More <span class="visually-hidden">about Shadows of Power by Michael Rodriguez</span></a>
     </div>
   </div>
@@ -87,6 +88,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>THE RIGGED GAME</h3>
       <p>Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth. Discover the $2 trillion secret they don't want you to know.</p>
+      <a href="{{ site.baseurl }}/books/free-chapter-rigged-game" class="btn" style="background: #2e8b57; margin-right: 8px;">Free Chapter</a>
       <a href="{{ site.baseurl }}/books/Rigged_Game" class="btn">Read More <span class="visually-hidden">about THE RIGGED GAME by Michael Rodriguez</span></a>
     </div>
   </div>
@@ -159,6 +161,7 @@ Dive into the complex world of global economics, financial markets, and power st
     <div class="book-card-content">
       <h3>Warren Buffett: How to Become THE RICHEST?</h3>
       <p>Discover the untold story of Warren Buffett's journey from childhood entrepreneur to the world's greatest investor, revealing the psychology behind his unprecedented success.</p>
+      <a href="{{ site.baseurl }}/books/free-chapter-warren-buffett" class="btn" style="background: #2e8b57; margin-right: 8px;">Free Chapter</a>
       <a href="{{ site.baseurl }}/books/Warren_Buffett" class="btn">Read More <span class="visually-hidden">about Warren Buffett How to Become THE RICHEST by Michael Rodriguez</span></a>
     </div>
   </div>

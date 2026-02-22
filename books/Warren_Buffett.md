@@ -12,6 +12,10 @@ canonical_url: "https://michaelrodriguezbooks.com/books/Warren_Buffett"
 
 *By Michael Rodriguez*
 
+<div style="background: linear-gradient(135deg, #1a3c65 0%, #0d253f 100%); padding: 20px 25px; border-radius: 10px; margin: 20px 0; border: 1px solid #c9a227; text-align: center;">
+  <a href="{{ site.baseurl }}/books/free-chapter-warren-buffett" style="color: #c9a227; font-size: 1.2rem; font-weight: 700; text-decoration: none;">📖 Read First 2 Chapters FREE &rarr;</a>
+</div>
+
 ## About the Book
 
 At 95, Warren Buffett announces his retirement, marking the end of the most remarkable investing career in history. From a childhood entrepreneur selling gum door-to-door to building the Berkshire Hathaway empire worth over $1 trillion, Buffett's journey represents the ultimate American success story.
