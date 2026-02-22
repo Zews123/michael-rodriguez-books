@@ -2,7 +2,7 @@
 layout: default
 title: "Dopamine Dealers: Fast Food Brain Manipulation Exposed"
 description: "Discover how McDonald's, KFC & Burger King use neuroscience to turn your brain into their ATM. Rodriguez exposes the addiction tactics of fast food giants."
-canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Dopamine_Dealers"
+canonical_url: "https://michaelrodriguezbooks.com/books/Dopamine_Dealers"
 ---
 
 # The Dopamine Dealers

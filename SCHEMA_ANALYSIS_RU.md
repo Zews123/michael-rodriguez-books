@@ -214,9 +214,9 @@
 4. Проверьте результаты
 
 **Страницы для проверки:**
-- https://zews123.github.io/michael-rodriguez-books/ (главная)
-- https://zews123.github.io/michael-rodriguez-books/about (о авторе)
-- https://zews123.github.io/michael-rodriguez-books/books/Profit_Machine (книга)
+- https://michaelrodriguezbooks.com/ (главная)
+- https://michaelrodriguezbooks.com/about (о авторе)
+- https://michaelrodriguezbooks.com/books/Profit_Machine (книга)
 
 ### Шаг 2: Schema.org Validator
 

@@ -2,7 +2,7 @@
 layout: default
 title: "Bilderberg Exposed: The Shadow Architects of Global Power"
 description: "Uncover 70 years of secret meetings that shaped world history. Rodriguez exposes how the Bilderberg Club influences global politics and economics."
-canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Bilderberg_Exposed"
+canonical_url: "https://michaelrodriguezbooks.com/books/Bilderberg_Exposed"
 ---
 
 # Bilderberg Exposed

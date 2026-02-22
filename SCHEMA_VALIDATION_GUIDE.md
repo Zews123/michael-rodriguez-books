@@ -24,7 +24,7 @@ This guide provides step-by-step instructions for validating the Schema Markup o
 
 ### How to Use:
 1. Go to https://search.google.com/test/rich-results
-2. Enter your page URL (e.g., `https://zews123.github.io/michael-rodriguez-books/about`)
+2. Enter your page URL (e.g., `https://michaelrodriguezbooks.com/about`)
 3. Click "TEST URL"
 4. Wait for results (usually 10-30 seconds)
 5. Review detected schema types and any errors
@@ -34,34 +34,34 @@ This guide provides step-by-step instructions for validating the Schema Markup o
 #### Priority 1: Key Pages
 ```
 ✅ Homepage
-https://zews123.github.io/michael-rodriguez-books/
+https://michaelrodriguezbooks.com/
 
 ✅ About Page (Person Schema)
-https://zews123.github.io/michael-rodriguez-books/about
+https://michaelrodriguezbooks.com/about
 
 ✅ Contact Page (ContactPage Schema)
-https://zews123.github.io/michael-rodriguez-books/contact
+https://michaelrodriguezbooks.com/contact
 ```
 
 #### Priority 2: Book Pages (Book Schema)
 ```
 ✅ The Profit Machine
-https://zews123.github.io/michael-rodriguez-books/books/Profit_Machine
+https://michaelrodriguezbooks.com/books/Profit_Machine
 
 ✅ The Bush Machine
-https://zews123.github.io/michael-rodriguez-books/books/Bush_Machine
+https://michaelrodriguezbooks.com/books/Bush_Machine
 
 ✅ The India Paradox
-https://zews123.github.io/michael-rodriguez-books/books/India_Paradox
+https://michaelrodriguezbooks.com/books/India_Paradox
 ```
 
 #### Priority 3: Blog Pages (FAQPage Schema)
 ```
 ✅ Oil Weapon FAQ
-https://zews123.github.io/michael-rodriguez-books/blog/oil-weapon-faq
+https://michaelrodriguezbooks.com/blog/oil-weapon-faq
 
 ✅ AI Emperor FAQ
-https://zews123.github.io/michael-rodriguez-books/blog/AI-Emperor-FAQ
+https://michaelrodriguezbooks.com/blog/AI-Emperor-FAQ
 ```
 
 ### Expected Results:
@@ -143,7 +143,7 @@ https://zews123.github.io/michael-rodriguez-books/blog/AI-Emperor-FAQ
 
 ### Setup (if not already done):
 1. Go to Google Search Console
-2. Add property: `https://zews123.github.io/michael-rodriguez-books/`
+2. Add property: `https://michaelrodriguezbooks.com/`
 3. Verify ownership (use HTML file verification method)
 4. Wait 24-48 hours for data collection
 
@@ -173,9 +173,9 @@ https://zews123.github.io/michael-rodriguez-books/blog/AI-Emperor-FAQ
 
 ### Setup:
 1. Sign in to Bing Webmaster Tools
-2. Add site: `https://zews123.github.io/michael-rodriguez-books/`
+2. Add site: `https://michaelrodriguezbooks.com/`
 3. Verify ownership
-4. Submit sitemap: `https://zews123.github.io/michael-rodriguez-books/sitemap.xml`
+4. Submit sitemap: `https://michaelrodriguezbooks.com/sitemap.xml`
 
 ### Check Schema:
 1. Go to "Site Scan" → "SEO"
@@ -327,7 +327,7 @@ def test_url(url):
 
 def main():
     """Main test function"""
-    base_url = "https://zews123.github.io/michael-rodriguez-books"
+    base_url = "https://michaelrodriguezbooks.com"
     
     test_urls = [
         f"{base_url}/",
@@ -378,7 +378,7 @@ python3 schema_validator.py
 ### Before Rich Results:
 ```
 Michael Rodriguez Books
-https://zews123.github.io/michael-rodriguez-books
+https://michaelrodriguezbooks.com
 Official website of Michael Rodriguez, economic analyst...
 ```
 
@@ -387,7 +387,7 @@ Official website of Michael Rodriguez, economic analyst...
 #### Homepage with FAQ:
 ```
 Michael Rodriguez Books
-https://zews123.github.io/michael-rodriguez-books
+https://michaelrodriguezbooks.com
 Official website of Michael Rodriguez...
 
 ▼ What books does Michael Rodriguez write about financial crime?
@@ -398,7 +398,7 @@ Official website of Michael Rodriguez...
 #### Book Page:
 ```
 The Profit Machine - Michael Rodriguez
-https://zews123.github.io/.../books/Profit_Machine
+https://michaelrodriguezbooks.com/books/Profit_Machine
 ⭐⭐⭐⭐⭐ · $4.99 · In stock
 How defense contractors profit billions from wars...
 

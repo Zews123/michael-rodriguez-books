@@ -2,7 +2,7 @@
 layout: default
 title: "Richest Poor Country: Venezuela's Oil Curse & Cold War"
 description: "Inside Venezuela's transformation from oil paradise to economic collapse - exploring the new Cold War battles in America's backyard."
-canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Richest_Poor_Country"
+canonical_url: "https://michaelrodriguezbooks.com/books/Richest_Poor_Country"
 image: "/assets/images/Richest_Poor_Country.webp"
 author: "Michael Rodriguez"
 book_title: "The Richest Poor Country: Venezuela's Oil Curse and the New Cold War in America's Backyard"

@@ -2,7 +2,7 @@
 layout: default
 title: "Michael Rodriguez Blog | Financial Crime Analysis & Economic Insights"
 description: "Expert analysis on money laundering, financial crime, shadow economy, AI power, and global corruption. Investigative insights from economic analyst Michael Rodriguez."
-canonical_url: "https://zews123.github.io/michael-rodriguez-books/blog"
+canonical_url: "https://michaelrodriguezbooks.com/blog"
 ---
 
 # Blog
@@ -440,17 +440,17 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
   "@type": "Blog",
   "name": "Michael Rodriguez Blog",
   "description": "Expert analysis on money laundering, financial crime, shadow economy, AI power, and global corruption. Investigative insights from economic analyst Michael Rodriguez.",
-  "url": "https://zews123.github.io/michael-rodriguez-books/blog",
+  "url": "https://michaelrodriguezbooks.com/blog",
   "author": {
     "@type": "Person",
     "name": "Michael Rodriguez",
     "jobTitle": "Economic Analyst and Investigative Author",
-    "url": "https://zews123.github.io/michael-rodriguez-books/"
+    "url": "https://michaelrodriguezbooks.com/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Resource Economics Press",
-    "url": "https://zews123.github.io/michael-rodriguez-books/"
+    "url": "https://michaelrodriguezbooks.com/"
   },
   "blogPost": [
     {

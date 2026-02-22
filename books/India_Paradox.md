@@ -2,7 +2,7 @@
 layout: default
 title: "India Paradox: Nuclear Power & Digital Dreams Analysis"
 description: "Inside India's transformation to global superpower - nuclear ambitions, tech revolution, and billion-person democracy shaping world order."
-canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/India_Paradox"
+canonical_url: "https://michaelrodriguezbooks.com/books/India_Paradox"
 image: "/assets/images/India_Paradox.webp"
 author: "Michael Rodriguez"
 book_title: "The India Paradox: Nuclear Power, Digital Dreams, and a Billion People's Quest for Global Dominance"

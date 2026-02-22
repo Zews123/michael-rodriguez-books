@@ -2,7 +2,7 @@
 layout: default
 title: "The AI Emperor: Sam Altman and the ChatGPT Revolution (Book)"
 description: "Expose Sam Altman's rise to AI supremacy. How ChatGPT revolutionized society and one man gained unprecedented control over humanity's future."
-canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Sam_Altman"
+canonical_url: "https://michaelrodriguezbooks.com/books/Sam_Altman"
 image: "/assets/images/Sam-Altman.webp"
 og_title: "The AI Emperor: Sam Altman & ChatGPT Revolution"
 og_description: "Discover how Sam Altman became the unelected emperor of AI and what it means for humanity's future."
@@ -35,12 +35,12 @@ twitter_card: "summary_large_image"
   "@graph": [
     {
       "@type": "Book",
-      "@id": "https://zews123.github.io/michael-rodriguez-books/books/Sam_Altman#book",
+      "@id": "https://michaelrodriguezbooks.com/books/Sam_Altman#book",
       "name": "The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us",
       "author": {
         "@type": "Person",
         "name": "Michael Rodriguez",
-        "url": "https://zews123.github.io/michael-rodriguez-books/about"
+        "url": "https://michaelrodriguezbooks.com/about"
       },
       "publisher": {
         "@type": "Organization",
@@ -51,8 +51,8 @@ twitter_card: "summary_large_image"
       "genre": "https://schema.org/NonFiction",
       "isbn": "979-8231694440",
       "inLanguage": "en",
-      "url": "https://zews123.github.io/michael-rodriguez-books/books/Sam_Altman",
-      "image": "https://zews123.github.io/michael-rodriguez-books/assets/images/Sam-Altman.webp",
+      "url": "https://michaelrodriguezbooks.com/books/Sam_Altman",
+      "image": "https://michaelrodriguezbooks.com/assets/images/Sam-Altman.webp",
       "description": "Expose Sam Altman's rise to AI supremacy. How ChatGPT revolutionized society and one man gained unprecedented control over humanity's future.",
       "offers": {
         "@type": "Offer",
@@ -68,9 +68,9 @@ twitter_card: "summary_large_image"
     },
     {
       "@type": "FAQPage",
-      "@id": "https://zews123.github.io/michael-rodriguez-books/books/Sam_Altman#faq",
+      "@id": "https://michaelrodriguezbooks.com/books/Sam_Altman#faq",
       "mainEntityOfPage": {
-        "@id": "https://zews123.github.io/michael-rodriguez-books/books/Sam_Altman#book"
+        "@id": "https://michaelrodriguezbooks.com/books/Sam_Altman#book"
       },
       "mainEntity": [
         {

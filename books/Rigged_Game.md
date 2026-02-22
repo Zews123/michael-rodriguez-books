@@ -2,7 +2,7 @@
 layout: default
 title: "THE RIGGED GAME: How the 1% Built a System to Keep You Poor"
 description: "Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth and keep you poor."
-canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Rigged_Game"
+canonical_url: "https://michaelrodriguezbooks.com/books/Rigged_Game"
 ---
 
 <!-- Preload критических ресурсов -->
@@ -33,12 +33,12 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Rigged_G
   "@graph": [
     {
       "@type": "Book",
-      "@id": "https://zews123.github.io/michael-rodriguez-books/books/Rigged_Game#book",
+      "@id": "https://michaelrodriguezbooks.com/books/Rigged_Game#book",
       "name": "THE RIGGED GAME: How the 1% Built a System to Keep You Poor",
       "author": {
         "@type": "Person",
         "name": "Michael Rodriguez",
-        "url": "https://zews123.github.io/michael-rodriguez-books/about"
+        "url": "https://michaelrodriguezbooks.com/about"
       },
       "datePublished": "2025-08-25",
       "description": "Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth and keep you poor",
@@ -50,8 +50,8 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Rigged_G
         "@type": "Organization",
         "name": "Resource Economics Press"
       },
-      "image": "https://zews123.github.io/michael-rodriguez-books/assets/images/Rigged-Game.webp",
-      "url": "https://zews123.github.io/michael-rodriguez-books/books/Rigged_Game",
+      "image": "https://michaelrodriguezbooks.com/assets/images/Rigged-Game.webp",
+      "url": "https://michaelrodriguezbooks.com/books/Rigged_Game",
       "offers": {
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
@@ -66,9 +66,9 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Rigged_G
     },
     {
       "@type": "FAQPage",
-      "@id": "https://zews123.github.io/michael-rodriguez-books/books/Rigged_Game#faq",
+      "@id": "https://michaelrodriguezbooks.com/books/Rigged_Game#faq",
       "mainEntityOfPage": {
-        "@id": "https://zews123.github.io/michael-rodriguez-books/books/Rigged_Game#book"
+        "@id": "https://michaelrodriguezbooks.com/books/Rigged_Game#book"
       },
       "mainEntity": [
         {
@@ -112,10 +112,10 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Rigged_G
 <!-- Open Graph -->
 <meta property="og:title" content="THE RIGGED GAME: How the 1% Built a System to Keep You Poor">
 <meta property="og:description" content="Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth and keep you poor.">
-<meta property="og:image" content="https://zews123.github.io/michael-rodriguez-books/assets/images/Rigged-Game.webp">
+<meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/Rigged-Game.webp">
 <meta property="og:image:width" content="800">
 <meta property="og:image:height" content="1200">
-<meta property="og:url" content="https://zews123.github.io/michael-rodriguez-books/books/Rigged_Game">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Rigged_Game">
 <meta property="og:type" content="book">
 <meta property="book:author" content="Michael Rodriguez">
 <meta property="book:isbn" content="979-8231144044">
@@ -125,7 +125,7 @@ canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Rigged_G
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="THE RIGGED GAME: How the 1% Built a System to Keep You Poor">
 <meta name="twitter:description" content="Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth and keep you poor.">
-<meta name="twitter:image" content="https://zews123.github.io/michael-rodriguez-books/assets/images/Rigged-Game.webp">
+<meta name="twitter:image" content="https://michaelrodriguezbooks.com/assets/images/Rigged-Game.webp">
 <meta name="twitter:site" content="@MRodriguezBooks">
 
 <img src="{{ site.baseurl }}/assets/images/Rigged-Game.webp" alt="THE RIGGED GAME Book Cover" class="book-cover" width="300" height="450" loading="lazy" decoding="async">

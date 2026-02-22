@@ -2,7 +2,7 @@
 layout: default
 title: "Michael Rodriguez | Financial Crime & Money Laundering Books"
 description: "Investigative books on money laundering, financial crime, and shadow economy by Michael Rodriguez. Expert analysis of global corruption, AI power, and economic manipulation."
-canonical_url: "https://zews123.github.io/michael-rodriguez-books/"
+canonical_url: "https://michaelrodriguezbooks.com/"
 og_title: "Michael Rodriguez | Financial Crime & Money Laundering Books"
 og_description: "Expert books on money laundering, financial crime, shadow economy. Investigate global corruption, AI power structures, and economic manipulation."
 og_type: "website"

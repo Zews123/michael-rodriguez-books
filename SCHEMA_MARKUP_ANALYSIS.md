@@ -2,7 +2,7 @@
 ## Michael Rodriguez Books Website
 
 **Analysis Date:** November 22, 2025  
-**Website:** https://zews123.github.io/michael-rodriguez-books/  
+**Website:** https://michaelrodriguezbooks.com/  
 **Question:** "У меня работает Schema Markup?" (Is my Schema Markup working?)
 
 ---
@@ -111,12 +111,12 @@
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "@id": "https://zews123.github.io/michael-rodriguez-books/about#person",
+  "@id": "https://michaelrodriguezbooks.com/about#person",
   "name": "Michael Rodriguez",
   "jobTitle": "Economic Analyst and Investigative Journalist",
   "description": "Renowned economic analyst and investigative journalist specializing in global financial markets, money laundering networks, and hidden economic forces.",
-  "url": "https://zews123.github.io/michael-rodriguez-books/about",
-  "image": "https://zews123.github.io/michael-rodriguez-books/assets/images/author-photo.webp",
+  "url": "https://michaelrodriguezbooks.com/about",
+  "image": "https://michaelrodriguezbooks.com/assets/images/author-photo.webp",
   "sameAs": [
     "https://x.com/Youvideo1",
     "https://www.facebook.com/MichaelRodriguezAuthor/",
@@ -150,7 +150,7 @@
   "@type": "ContactPage",
   "name": "Contact Michael Rodriguez",
   "description": "Contact page for Michael Rodriguez",
-  "url": "https://zews123.github.io/michael-rodriguez-books/contact"
+  "url": "https://michaelrodriguezbooks.com/contact"
 }
 ```
 
@@ -169,8 +169,8 @@
   "@type": "Organization",
   "name": "Michael Rodriguez Books",
   "description": "Official website of Michael Rodriguez, economic analyst and author",
-  "url": "https://zews123.github.io/michael-rodriguez-books/",
-  "logo": "https://zews123.github.io/michael-rodriguez-books/assets/images/author-photo.webp",
+  "url": "https://michaelrodriguezbooks.com/",
+  "logo": "https://michaelrodriguezbooks.com/assets/images/author-photo.webp",
   "sameAs": [
     "https://x.com/Youvideo1",
     "https://www.facebook.com/MichaelRodriguezAuthor/",
@@ -179,7 +179,7 @@
   "founder": {
     "@type": "Person",
     "name": "Michael Rodriguez",
-    "@id": "https://zews123.github.io/michael-rodriguez-books/about#person"
+    "@id": "https://michaelrodriguezbooks.com/about#person"
   }
 }
 ```

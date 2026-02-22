@@ -10,4 +10,4 @@ Allow: /books/
 Allow: /assets/images/
 
 # Ссылка на карту сайта для поисковых систем
-Sitemap: https://zews123.github.io/michael-rodriguez-books/sitemap.xml
+Sitemap: https://michaelrodriguezbooks.com/sitemap.xml

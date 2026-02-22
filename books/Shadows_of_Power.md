@@ -2,14 +2,14 @@
 layout: default
 title: "Shadows of Power | Michael Rodriguez"
 description: "Explosive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse."
-canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Shadows_of_Power/"
-image: "https://zews123.github.io/michael-rodriguez-books/assets/images/Shadows_of_Power.webp"
+canonical_url: "https://michaelrodriguezbooks.com/books/Shadows_of_Power/"
+image: "https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power.webp"
 author: "Michael Rodriguez"
 date_published: "2025-01-01"
 date_modified: "2026-02-21"
 ---
 
-<link rel="preload" href="https://zews123.github.io/michael-rodriguez-books/assets/images/Shadows_of_Power.webp" as="image" fetchpriority="high">
+<link rel="preload" href="https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power.webp" as="image" fetchpriority="high">
 <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
 <link rel="preconnect" href="https://www.amazon.com">
 <link rel="dns-prefetch" href="https://www.amazon.com">
@@ -22,10 +22,10 @@ date_modified: "2026-02-21"
 <meta property="og:type" content="book">
 <meta property="og:title" content="Shadows of Power: Jeffrey Epstein and the Architecture of Impunity">
 <meta property="og:description" content="Explosive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse.">
-<meta property="og:image" content="https://zews123.github.io/michael-rodriguez-books/assets/images/Shadows_of_Power.webp">
+<meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power.webp">
 <meta property="og:image:width" content="400">
 <meta property="og:image:height" content="600">
-<meta property="og:url" content="https://zews123.github.io/michael-rodriguez-books/books/Shadows_of_Power/">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Shadows_of_Power/">
 <meta property="og:site_name" content="Michael Rodriguez Books">
 <meta property="book:author" content="Michael Rodriguez">
 <meta property="book:isbn" content="979-8224384341">
@@ -34,7 +34,7 @@ date_modified: "2026-02-21"
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Shadows of Power: Jeffrey Epstein and the Architecture of Impunity">
 <meta name="twitter:description" content="Explosive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse.">
-<meta name="twitter:image" content="https://zews123.github.io/michael-rodriguez-books/assets/images/Shadows_of_Power.webp">
+<meta name="twitter:image" content="https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power.webp">
 <meta name="twitter:image:alt" content="Shadows of Power by Michael Rodriguez — true crime book cover">
 <meta name="twitter:creator" content="@MRodriguezBooks">
 <meta name="twitter:site" content="@MRodriguezBooks">
@@ -51,9 +51,9 @@ date_modified: "2026-02-21"
 **ISBN: 979-8224384341 (eBook)**
 
 <div class="book-cover-container" style="text-align: center; margin: 30px 0;">
-<img src="https://zews123.github.io/michael-rodriguez-books/assets/images/Shadows_of_Power.webp"
-     srcset="https://zews123.github.io/michael-rodriguez-books/assets/images/Shadows_of_Power.webp 400w,
-             https://zews123.github.io/michael-rodriguez-books/assets/images/Shadows_of_Power.webp 800w"
+<img src="https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power.webp"
+     srcset="https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power.webp 400w,
+             https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power.webp 800w"
      sizes="(max-width: 600px) 400px, 560px"
      alt="Shadows of Power by Michael Rodriguez — true crime investigative nonfiction book cover"
      width="400" height="600"
@@ -166,28 +166,28 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://zews123.github.io/michael-rodriguez-books/books/Shadows_of_Power/#webpage",
-      "url": "https://zews123.github.io/michael-rodriguez-books/books/Shadows_of_Power/",
+      "@id": "https://michaelrodriguezbooks.com/books/Shadows_of_Power/#webpage",
+      "url": "https://michaelrodriguezbooks.com/books/Shadows_of_Power/",
       "name": "Shadows of Power | Michael Rodriguez",
       "description": "Explosive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse.",
       "datePublished": "2025-01-01",
       "dateModified": "2026-02-21",
       "inLanguage": "en",
       "isPartOf": {
-        "@id": "https://zews123.github.io/michael-rodriguez-books/#website"
+        "@id": "https://michaelrodriguezbooks.com/#website"
       },
       "about": {
-        "@id": "https://zews123.github.io/michael-rodriguez-books/books/Shadows_of_Power/#book"
+        "@id": "https://michaelrodriguezbooks.com/books/Shadows_of_Power/#book"
       }
     },
     {
       "@type": "Book",
-      "@id": "https://zews123.github.io/michael-rodriguez-books/books/Shadows_of_Power/#book",
+      "@id": "https://michaelrodriguezbooks.com/books/Shadows_of_Power/#book",
       "name": "Shadows of Power: Jeffrey Epstein and the Architecture of Impunity",
       "author": {
         "@type": "Person",
         "name": "Michael Rodriguez",
-        "@id": "https://zews123.github.io/michael-rodriguez-books/about/#person"
+        "@id": "https://michaelrodriguezbooks.com/about/#person"
       },
       "publisher": {
         "@type": "Organization",
@@ -199,8 +199,8 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
       "inLanguage": "en",
       "genre": ["True Crime", "Investigative Nonfiction", "Political Analysis"],
       "description": "Explosive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse.",
-      "image": "https://zews123.github.io/michael-rodriguez-books/assets/images/Shadows_of_Power.webp",
-      "url": "https://zews123.github.io/michael-rodriguez-books/books/Shadows_of_Power/",
+      "image": "https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power.webp",
+      "url": "https://michaelrodriguezbooks.com/books/Shadows_of_Power/",
       "offers": [
         {
           "@type": "Offer",
@@ -213,7 +213,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
     },
     {
       "@type": "FAQPage",
-      "@id": "https://zews123.github.io/michael-rodriguez-books/books/Shadows_of_Power/#faq",
+      "@id": "https://michaelrodriguezbooks.com/books/Shadows_of_Power/#faq",
       "mainEntity": [
         {
           "@type": "Question",

@@ -2,7 +2,7 @@
 layout: default
 title: "Bush Machine: Oil, Espionage & American Power Analysis"
 description: "Inside Bush dynasty's hidden empire - four generations of oil money, CIA connections, and political power shaping American history and global policy."
-canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Bush_Machine"
+canonical_url: "https://michaelrodriguezbooks.com/books/Bush_Machine"
 image: "/assets/images/Bush_Machine.webp"
 author: "Michael Rodriguez"
 book_title: "The Bush Machine: Four Generations of Oil, Espionage, and American Power"

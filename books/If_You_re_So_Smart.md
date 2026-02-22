@@ -2,7 +2,7 @@
 layout: default
 title: "If You're So Smart, Why Aren't You Rich? Book"
 description: "Why smart people struggle financially while the wealthy exploit intelligence. Michael Rodriguez exposes the rigged system."
-canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/If_You_re_So_Smart"
+canonical_url: "https://michaelrodriguezbooks.com/books/If_You_re_So_Smart"
 image: "/assets/images/Why_Aren't_You_Rich.webp"
 author: "Michael Rodriguez"
 book_title: "If You're So Smart, Why Aren't You Rich?: The Hidden System That Keeps Smart People Poor"

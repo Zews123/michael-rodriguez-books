@@ -2,7 +2,7 @@
 layout: default
 title: "Michael Rodriguez Books | Financial Crime & Money Laundering Analysis"
 description: "Complete collection of investigative books by Michael Rodriguez on financial crime, money laundering, shadow economy, AI power, and global corruption networks."
-canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/"
+canonical_url: "https://michaelrodriguezbooks.com/books/"
 ---
 
 # Books by Michael Rodriguez
@@ -349,7 +349,7 @@ An examination of how nations increasingly use economic tools as weapons in glob
     "@type": "Person",
     "name": "Michael Rodriguez",
     "jobTitle": "Economic Analyst and Investigative Author",
-    "url": "https://zews123.github.io/michael-rodriguez-books/"
+    "url": "https://michaelrodriguezbooks.com/"
   },
   "hasPart": [
     {

@@ -2,7 +2,7 @@
 layout: default
 title: "Dark Money Empire: Secret Laundering Networks Exposed"
 description: "Uncover how presidents, oligarchs, Nazis and rock stars launder billions through secret offshore networks. Rodriguez exposes the $32 trillion shadow economy."
-canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Dark_Money_Empire"
+canonical_url: "https://michaelrodriguezbooks.com/books/Dark_Money_Empire"
 ---
 
 # Dark Money Empire

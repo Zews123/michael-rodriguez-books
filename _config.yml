@@ -4,8 +4,8 @@ description: >-
   insightful books on global economics, financial markets, and technological disruption.
 lang: en
 theme: jekyll-theme-cayman
-url: "https://zews123.github.io"
-baseurl: "/michael-rodriguez-books"
+url: "https://michaelrodriguezbooks.com"
+baseurl: ""
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

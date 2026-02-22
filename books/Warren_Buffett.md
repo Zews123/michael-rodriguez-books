@@ -2,7 +2,7 @@
 layout: default
 title: "Warren Buffett: How to Become THE RICHEST? - Investment Legend"
 description: "Discover Warren Buffett's journey from childhood entrepreneur to world's greatest investor. Rodriguez reveals secrets behind Berkshire Hathaway empire."
-canonical_url: "https://zews123.github.io/michael-rodriguez-books/books/Warren_Buffett"
+canonical_url: "https://michaelrodriguezbooks.com/books/Warren_Buffett"
 ---
 
 # Warren Buffett
