@@ -522,6 +522,104 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
       "description": "Get clear answers about dark money, offshore banking, and money laundering.",
       "datePublished": "2025-07-16",
       "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Jeffrey Epstein Power Network: How Wealth Buys Impunity FAQ",
+      "description": "Expert answers on how Jeffrey Epstein built an architecture of impunity. Discover how elite power networks shield predators from justice.",
+      "datePublished": "2026-02-21",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Medici Banking FAQ: 7 Questions About Elite Power Networks",
+      "description": "Discover how the Medici banking dynasty created 500-year power networks that still control European Central Bank policy, Vatican finances, and Swiss banking.",
+      "datePublished": "2025-08-15",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Fast Food Brain FAQ: 7 Essential Questions About Dopamine Addiction",
+      "description": "Expert answers about fast food dopamine addiction, McDonald's brain manipulation, and food psychology.",
+      "datePublished": "2025-08-01",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Bilderberg Group FAQ: 12 Most Asked Questions Answered",
+      "description": "Get honest answers to the most common Bilderberg Group questions. Separating facts from conspiracy theories with expert research.",
+      "datePublished": "2025-06-18",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Warren Buffett FAQ 2025: Top Questions About The Oracle's Succession",
+      "description": "Essential answers to the 12 most burning questions about Warren Buffett's historic retirement, Greg Abel's transition, and Berkshire's record $325 billion cash position.",
+      "datePublished": "2025-05-30",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "CBDC Unveiled: How Digital Currencies Will Transform Money—And Your Freedom",
+      "description": "Discover the hidden risks of Central Bank Digital Currencies, their impact on privacy, and how they could fundamentally change the relationship between citizens and the state.",
+      "datePublished": "2025-05-14",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "How the IMF Manipulates Countries: Financial Control in the Modern Era",
+      "description": "Expose how the IMF uses debt traps, structural adjustment, and monetary control to manipulate sovereign nations while serving powerful global interests.",
+      "datePublished": "2025-05-07",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "The BlackRock Empire: The Hidden Power Controlling Global Finance",
+      "description": "Discover how BlackRock quietly became the world's most powerful financial institution, controlling $10 trillion in assets.",
+      "datePublished": "2025-04-21",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "George Soros: The Controversial Figure Behind Global Finance and Politics",
+      "description": "Explore the complex legacy of George Soros—from his famous currency speculation to his vast philanthropic network.",
+      "datePublished": "2025-04-15",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "US-China Trade War: Tariff Escalation in 2025",
+      "description": "Analyze the latest developments in the ongoing economic conflict between the world's two largest economies.",
+      "datePublished": "2025-04-11",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Silver Empire: The Critical Metal Powering Our Modern World",
+      "description": "Explore how silver has become an essential component in renewable energy, electronics, and medical technology.",
+      "datePublished": "2025-04-10",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "The Weaponized Economy: How Financial Systems Have Become the New Battlefield",
+      "description": "Explore how economic sanctions, financial warfare, and monetary control have replaced traditional military might as the preferred tools of global conflict.",
+      "datePublished": "2025-03-18",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "The Chinese Real Estate Bubble: A Ticking Time Bomb for the Global Economy",
+      "description": "China's $52 trillion property market represents the world's largest asset bubble. Rodriguez reveals how millions of empty apartments threaten a global financial crisis.",
+      "datePublished": "2025-04-10",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "The Trillion Dollar Shadow: How Passive Investing Is Reshaping Capitalism",
+      "description": "Uncover how index funds and ETFs have created a new form of shadow ownership that concentrates unprecedented power in the hands of a few giant asset managers.",
+      "datePublished": "2025-04-09",
+      "author": "Michael Rodriguez"
     }
   ]
 }

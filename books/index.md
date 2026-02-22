@@ -423,6 +423,90 @@ An examination of how nations increasingly use economic tools as weapons in glob
       "name": "Dark Money Empire", 
       "author": "Michael Rodriguez",
       "description": "Uncover how presidents, oligarchs, Nazis and rock stars launder billions through secret offshore networks."
+    },
+    {
+      "@type": "Book",
+      "name": "Secrets of the Medici",
+      "author": "Michael Rodriguez",
+      "description": "Expose how Renaissance banking dynasties created the blueprint for modern elite control. Discover 500+ years of hidden power networks operating through Vatican banks and European institutions."
+    },
+    {
+      "@type": "Book",
+      "name": "The Dopamine Dealers",
+      "author": "Michael Rodriguez",
+      "description": "Discover how McDonald's, KFC & Burger King use neuroscience to turn your brain into their ATM. Expose the sophisticated manipulation tactics behind fast food addiction."
+    },
+    {
+      "@type": "Book",
+      "name": "Bilderberg Exposed",
+      "author": "Michael Rodriguez",
+      "description": "Uncover 70 years of secret meetings that shaped world history. Discover how the Bilderberg Club influences global politics, economics, and the future of humanity."
+    },
+    {
+      "@type": "Book",
+      "name": "Passport Power",
+      "author": "Michael Rodriguez",
+      "description": "Discover how your travel document shapes global opportunities, economic freedom, and life chances. From ancient passes to digital citizenship revolution."
+    },
+    {
+      "@type": "Book",
+      "name": "Warren Buffett: How to Become THE RICHEST?",
+      "author": "Michael Rodriguez",
+      "description": "Discover the untold story of Warren Buffett's journey from childhood entrepreneur to the world's greatest investor, revealing the psychology behind his unprecedented success."
+    },
+    {
+      "@type": "Book",
+      "name": "Digital Dollar Dystopia",
+      "author": "Michael Rodriguez",
+      "description": "Explore how Central Bank Digital Currencies threaten personal liberty, enable financial surveillance, and could create an unprecedented system of control."
+    },
+    {
+      "@type": "Book",
+      "name": "How the IMF Manipulates Countries",
+      "author": "Michael Rodriguez",
+      "description": "Uncover how the IMF uses debt, structural adjustment, and currency manipulation to control nations' economies and serve powerful interests."
+    },
+    {
+      "@type": "Book",
+      "name": "The BlackRock Empire",
+      "author": "Michael Rodriguez",
+      "description": "Uncover how BlackRock became the world's most powerful financial institution, controlling trillions in assets and shaping global markets from behind the scenes."
+    },
+    {
+      "@type": "Book",
+      "name": "George Soros: The Man the World Hates",
+      "author": "Michael Rodriguez",
+      "description": "Uncover how one man shaped global markets, influenced politics across continents, and became the most controversial financier of our time."
+    },
+    {
+      "@type": "Book",
+      "name": "The Chinese Real Estate Bubble",
+      "author": "Michael Rodriguez",
+      "description": "A comprehensive analysis of China's precarious real estate market and how its potential collapse threatens the global economy."
+    },
+    {
+      "@type": "Book",
+      "name": "The PayPal Mafia",
+      "author": "Michael Rodriguez",
+      "description": "Uncover how PayPal's founding team transformed into the most influential network in tech history, reshaping global politics and finance."
+    },
+    {
+      "@type": "Book",
+      "name": "Weaponized Economy",
+      "author": "Michael Rodriguez",
+      "description": "Explore the fascinating history of economic warfare from Napoleon to modern US-China tensions and how nations weaponize trade."
+    },
+    {
+      "@type": "Book",
+      "name": "Silver Empire",
+      "author": "Michael Rodriguez",
+      "description": "An extraordinary exploration of silver's crucial role in human history and modern technology. Rodriguez reveals how this overlooked metal has shaped economies for centuries."
+    },
+    {
+      "@type": "Book",
+      "name": "The Trillion Dollar Shadow",
+      "author": "Michael Rodriguez",
+      "description": "The untold story of how John Bogle's revolutionary index fund concept transformed into Vanguard Group, a financial giant managing over $10 trillion in assets."
     }
   ]
 }
