@@ -135,7 +135,7 @@ The Federal Reserve alone injected over $4 trillion into financial markets betwe
   <p style="color: #999; font-size: 0.95rem; margin-bottom: 20px;">Subscribe to get exclusive updates on new investigations and special offers.</p>
   <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
   <div style="margin-top: 20px;">
-    <a href="https://www.amazon.com/dp/B0DH6RWCGP" class="btn" style="background: #ff9900; color: #000; font-weight: 700; padding: 14px 28px; font-size: 1.1rem; border-radius: 8px; text-decoration: none; display: inline-block;">Buy Full Book on Amazon</a>
+    <a href="https://www.amazon.com/dp/B0FNTGG6BZ" class="btn" style="background: #ff9900; color: #000; font-weight: 700; padding: 14px 28px; font-size: 1.1rem; border-radius: 8px; text-decoration: none; display: inline-block;">Buy Full Book on Amazon</a>
   </div>
 </div>
 
