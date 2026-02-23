@@ -145,6 +145,18 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Shadows_3D.webp" alt="The Architecture of Impunity — How Epstein Escaped Justice for 30 Years">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">February 23, 2026</span>
+      <h2>The Architecture of Impunity: How Epstein Escaped Justice for 30 Years</h2>
+      <p>From a $475 million Ponzi scheme to Little Saint James — a deep investigation into the financial fraud, institutional failures, and elite networks that shielded Jeffrey Epstein for three decades.</p>
+      <a href="{{ site.baseurl }}/blog/epstein-architecture-of-impunity.html" class="read-more">Read More <span class="visually-hidden">about Architecture of Impunity</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/Shadows_3D.webp" alt="Shadows of Power FAQ — Jeffrey Epstein and the Architecture of Impunity">
     </div>
     <div class="blog-card-content">
@@ -453,6 +465,13 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
     "url": "https://michaelrodriguezbooks.com/"
   },
   "blogPost": [
+    {
+      "@type": "BlogPosting",
+      "headline": "The Architecture of Impunity: How Epstein Escaped Justice for 30 Years",
+      "description": "From a $475 million Ponzi scheme to Little Saint James — a deep investigation into the financial fraud, institutional failures, and elite networks that shielded Jeffrey Epstein.",
+      "datePublished": "2026-02-23",
+      "author": "Michael Rodriguez"
+    },
     {
       "@type": "BlogPosting",
       "headline": "Smart but Broke? Why Intelligence Doesn't Equal Wealth FAQ",
