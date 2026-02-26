@@ -6,7 +6,7 @@ canonical_url: "https://michaelrodriguezbooks.com/"
 og_title: "Michael Rodriguez | Financial Crime & Money Laundering Books"
 og_description: "Expert books on money laundering, financial crime, shadow economy. Investigate global corruption, AI power structures, and economic manipulation."
 og_type: "website"
-image: "/assets/images/author-photo.webp"
+image: "https://michaelrodriguezbooks.com/assets/images/author-photo.webp"
 twitter_card: "summary_large_image"
 ---
 

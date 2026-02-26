@@ -3,7 +3,7 @@ layout: default
 title: "Disease Dealers: Big Pharma's Profit Over Health"
 description: "How pharmaceutical giants create diseases, manipulate research & price-gouge patients for profit. Inside Big Pharma's billion-dollar deception."
 canonical_url: "https://michaelrodriguezbooks.com/books/Disease_Dealers"
-image: "/assets/images/Disease_Dealers.webp"
+image: "https://michaelrodriguezbooks.com/assets/images/Disease_Dealers.webp"
 author: "Michael Rodriguez"
 book_title: "The Disease Dealers: Inside the Pharmaceutical Industry's Business of Making You Sick"
 isbn_hardcover: "979-8231847839"

@@ -3,6 +3,7 @@ layout: default
 title: "Michael Rodriguez Books | Financial Crime & Money Laundering Analysis"
 description: "Complete collection of investigative books by Michael Rodriguez on financial crime, money laundering, shadow economy, AI power, and global corruption networks."
 canonical_url: "https://michaelrodriguezbooks.com/books/"
+image: "https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power.webp"
 ---
 
 # Books by Michael Rodriguez

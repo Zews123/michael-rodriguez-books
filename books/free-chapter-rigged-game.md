@@ -3,6 +3,7 @@ layout: default
 title: "Free Chapter — The Rigged Game by Michael Rodriguez"
 description: "Read the Introduction and first chapter of The Rigged Game free. Discover how the 1% built a system to keep you poor — with names, dates, and dollar amounts."
 canonical_url: "https://michaelrodriguezbooks.com/books/free-chapter-rigged-game"
+image: "https://michaelrodriguezbooks.com/assets/images/Rigged-Game.webp"
 ---
 
 # The Rigged Game — Free Preview

@@ -3,6 +3,7 @@ layout: default
 title: "The Laundromat: Money-Washing Machine Exposed"
 description: "Discover how presidents, billionaires, and drug lords built the world's biggest money-washing machine. Rodriguez reveals the $32 trillion shadow economy."
 canonical_url: "https://michaelrodriguezbooks.com/books/The_Laundromat"
+image: "https://michaelrodriguezbooks.com/assets/images/THE_LAUNDROMAT.webp"
 ---
 
 # The Laundromat
