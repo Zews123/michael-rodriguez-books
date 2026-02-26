@@ -3,7 +3,7 @@ layout: default
 title: "India Paradox: Nuclear Power & Digital Dreams Analysis"
 description: "Inside India's transformation to global superpower - nuclear ambitions, tech revolution, and billion-person democracy shaping world order."
 canonical_url: "https://michaelrodriguezbooks.com/books/India_Paradox"
-image: "/assets/images/India_Paradox.webp"
+image: "https://michaelrodriguezbooks.com/assets/images/India_Paradox.webp"
 author: "Michael Rodriguez"
 book_title: "The India Paradox: Nuclear Power, Digital Dreams, and a Billion People's Quest for Global Dominance"
 isbn_hardcover: "979-8232172633"

@@ -3,6 +3,7 @@ layout: default
 title: "How the IMF Manipulates Countries: Market Control"
 description: "Discover how the IMF uses debt, structural adjustment, and currency manipulation to control nations' economies and serve powerful interests."
 canonical_url: "https://michaelrodriguezbooks.com/books/imf-manipulates"
+image: "https://michaelrodriguezbooks.com/assets/images/How%20the%20IMF%20Manipulates%20Nations%20by%20Michael%20Rodrigez.webp"
 ---
 
 # How the IMF Manipulates Countries?
