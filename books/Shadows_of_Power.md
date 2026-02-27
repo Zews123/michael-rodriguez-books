@@ -2,7 +2,7 @@
 layout: default
 title: "Shadows of Power | Michael Rodriguez"
 description: "Explosive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse."
-canonical_url: "https://michaelrodriguezbooks.com/books/Shadows_of_Power/"
+canonical_url: "https://michaelrodriguezbooks.com/books/Shadows_of_Power"
 image: "https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power.webp"
 author: "Michael Rodriguez"
 date_published: "2025-01-01"
@@ -25,7 +25,7 @@ date_modified: "2026-02-21"
 <meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power.webp">
 <meta property="og:image:width" content="400">
 <meta property="og:image:height" content="600">
-<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Shadows_of_Power/">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Shadows_of_Power">
 <meta property="og:site_name" content="Michael Rodriguez Books">
 <meta property="book:author" content="Michael Rodriguez">
 <meta property="book:isbn" content="979-8224384341">
@@ -171,7 +171,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
     {
       "@type": "WebPage",
       "@id": "https://michaelrodriguezbooks.com/books/Shadows_of_Power/#webpage",
-      "url": "https://michaelrodriguezbooks.com/books/Shadows_of_Power/",
+      "url": "https://michaelrodriguezbooks.com/books/Shadows_of_Power",
       "name": "Shadows of Power | Michael Rodriguez",
       "description": "Explosive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse.",
       "datePublished": "2025-01-01",
@@ -204,7 +204,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
       "genre": ["True Crime", "Investigative Nonfiction", "Political Analysis"],
       "description": "Explosive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse.",
       "image": "https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power.webp",
-      "url": "https://michaelrodriguezbooks.com/books/Shadows_of_Power/",
+      "url": "https://michaelrodriguezbooks.com/books/Shadows_of_Power",
       "offers": [
         {
           "@type": "Offer",
