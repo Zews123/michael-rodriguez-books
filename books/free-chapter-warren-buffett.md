@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Free Chapter — Warren Buffett: How to Become THE RICHEST? by Michael Rodriguez"
+title: "Free Chapter — Warren Buffett: How to Become THE RICHEST?"
 description: "Read the Introduction and first two chapters of Warren Buffett biography free. Discover the untold origins of the world's greatest investor."
 canonical_url: "https://michaelrodriguezbooks.com/books/free-chapter-warren-buffett"
 image: "https://michaelrodriguezbooks.com/assets/images/Warren_Buffett.webp"

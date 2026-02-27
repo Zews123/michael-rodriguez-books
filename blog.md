@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Michael Rodriguez Blog | Financial Crime Analysis & Economic Insights"
+title: "Michael Rodriguez Blog | Financial Crime Analysis"
 description: "Expert analysis on money laundering, financial crime, shadow economy, AI power, and global corruption. Investigative insights from economic analyst Michael Rodriguez."
 canonical_url: "https://michaelrodriguezbooks.com/blog"
 ---
