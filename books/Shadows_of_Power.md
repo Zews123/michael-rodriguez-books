@@ -126,8 +126,8 @@ Rodriguez's previous works include *Dark Money Empire*, *Bilderberg Exposed*, *T
 <div class="book-buttons">
 <a href="https://www.amazon.com/dp/B0GNZ42KLK" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-amazon">🛒 Amazon</a>
 <a href="https://books.apple.com/us/book/shadows-of-power-jeffrey-epstein-and/id6759299780" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-apple">🍎 Apple Books</a>
-<a href="https://www.amazon.com/dp/B0GNZ42KLK" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-kobo">📚 Kobo</a>
-<a href="https://books.apple.com/us/book/shadows-of-power-jeffrey-epstein-and/id6759299780" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-bn">🏬 Barnes & Noble</a>
+<a href="https://www.kobo.com/us/en/ebook/shadows-of-power-jeffrey-epstein-and-the-architecture-of-impunity?sId=87103d62-96cb-4226-bb5f-1b1244f280ab&ssId=TZcg3EvBc_kuR7QW87WqP&cPos=5" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-kobo">📚 Kobo</a>
+<a href="https://www.barnesandnoble.com/w/shadows-of-power-michael-rodriguez/1149498937?ean=9798233600456" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-bn">🏬 Barnes & Noble</a>
 </div>
 
 ## Libraries & Digital Collections
