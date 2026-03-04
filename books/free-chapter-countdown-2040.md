@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Free Chapter — Countdown to Collapse by Michael Rodriguez"
-description: "Read the Introduction of Countdown to Collapse: The 2040 Crisis free. Subscribe to get the full Part 1 as EPUB."
+description: "Read the Introduction of Countdown to Collapse: The 2040 Crisis free. Subscribe to get Chapter 1 as EPUB."
 canonical_url: "https://michaelrodriguezbooks.com/books/free-chapter-countdown-2040"
 image: "https://michaelrodriguezbooks.com/assets/images/Countdown_2040.webp"
 ---
 
 # Countdown to Collapse — Free Preview
 
-**Read the full Introduction below.** Seventeen MIT scientists. One computer model. A fifty-year countdown that the world ignored.
+**Read the full Introduction below.** Seventeen MIT scientists. One computer model. A fifty-year countdown that the world ignored. Subscribe below to get Chapter 1 free.
 
 <img src="{{ site.baseurl }}/assets/images/Countdown_2040.webp" alt="Countdown to Collapse: The 2040 Crisis by Michael Rodriguez" style="width: 220px; height: auto; float: right; margin: 0 0 20px 20px; border-radius: 8px;">
 
@@ -59,9 +59,9 @@ The seventeen scientists at MIT were sending a warning. In 1972. Over fifty year
 ---
 
 <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 35px; border-radius: 12px; margin: 40px 0; border: 2px solid #c9a227; text-align: center;">
-  <h2 style="color: #c9a227; margin-top: 0;">📖 Want to read Part 1? Get it free.</h2>
-  <p style="color: #e8e6e3; font-size: 1.1rem; margin-bottom: 5px;"><strong>Part 1: Empires Don't Send Warnings</strong> — three chapters on how the mightiest civilizations in history collapsed, from the Bronze Age to Rome. What their downfall reveals about our own fragile moment.</p>
-  <p style="color: #999; font-size: 0.95rem; margin-bottom: 20px;">Enter your email below — receive the full Part 1 as EPUB instantly.</p>
+  <h2 style="color: #c9a227; margin-top: 0;">📖 Want to read Chapter 1? Get it free.</h2>
+  <p style="color: #e8e6e3; font-size: 1.1rem; margin-bottom: 5px;"><strong>Chapter 1: The Graveyard of Greatness</strong> — how the mightiest civilizations in history collapsed, from the Bronze Age to Rome. What their downfall reveals about our own fragile moment.</p>
+  <p style="color: #999; font-size: 0.95rem; margin-bottom: 20px;">Enter your email below — receive Chapter 1 as EPUB instantly.</p>
 
   <div id="lead-form">
     <form id="part1-form" style="display:inline-flex;gap:10px;flex-wrap:wrap;justify-content:center;">
@@ -69,14 +69,14 @@ The seventeen scientists at MIT were sending a warning. In 1972. Over fifty year
         style="padding:12px 18px;border-radius:6px;border:1px solid #555;background:#111;color:#fff;font-size:1rem;width:260px;">
       <button type="submit" id="lead-btn"
         style="background:#c9a227;color:#000;font-weight:700;padding:12px 24px;border-radius:6px;border:none;font-size:1rem;cursor:pointer;">
-        Send me Part 1
+        Send me Chapter 1
       </button>
     </form>
     <p id="lead-error" style="color:#ff6347;margin-top:10px;display:none;"></p>
   </div>
 
   <div id="lead-success" style="display:none;">
-    <p style="color:#4ade80;font-size:1.2rem;font-weight:700;margin-bottom:15px;">✅ You're in! Download your free Part 1:</p>
+    <p style="color:#4ade80;font-size:1.2rem;font-weight:700;margin-bottom:15px;">✅ You're in! Download your free Chapter 1:</p>
     <a href="{{ site.baseurl }}/assets/downloads/Part1_Countdown_to_Collapse.epub"
        style="background:#4ade80;color:#000;font-weight:700;padding:14px 28px;font-size:1.1rem;border-radius:8px;text-decoration:none;display:inline-block;"
        download>📥 Download EPUB</a>
@@ -98,7 +98,7 @@ document.getElementById('part1-form').addEventListener('submit', function(e) {
   btn.disabled = true;
   btn.textContent = 'Sending...';
   errEl.style.display = 'none';
-  fetch('https://api.convertkit.com/v3/forms/8033202/subscribe', {
+  fetch('https://api.convertkit.com/v3/tags/16990751/subscribe', {
     method: 'POST',
     headers: {'Content-Type': 'application/json'},
     body: JSON.stringify({api_key: 'PboITVh5dkI7c25JFX2Qsw', email: email})
@@ -106,25 +106,20 @@ document.getElementById('part1-form').addEventListener('submit', function(e) {
   .then(function(r) { return r.json(); })
   .then(function(data) {
     if (data.subscription) {
-      fetch('https://api.convertkit.com/v3/tags/16990751/subscribe', {
-        method: 'POST',
-        headers: {'Content-Type': 'application/json'},
-        body: JSON.stringify({api_key: 'PboITVh5dkI7c25JFX2Qsw', email: email})
-      });
       document.getElementById('lead-form').style.display = 'none';
       document.getElementById('lead-success').style.display = 'block';
     } else {
       errEl.textContent = 'Something went wrong. Please try again.';
       errEl.style.display = 'block';
       btn.disabled = false;
-      btn.textContent = 'Send me Part 1';
+      btn.textContent = 'Send me Chapter 1';
     }
   })
   .catch(function() {
     errEl.textContent = 'Network error. Please try again.';
     errEl.style.display = 'block';
     btn.disabled = false;
-    btn.textContent = 'Send me Part 1';
+    btn.textContent = 'Send me Chapter 1';
   });
 });
 </script>
