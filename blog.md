@@ -145,6 +145,30 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Countdown_2040_3D_1.webp" alt="The 2040 Collapse: 5 Signs the World3 Model Was Right">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">March 4, 2026</span>
+      <h2>The 2040 Collapse: 5 Signs the World3 Model Was Right</h2>
+      <p>Five real-world crises — China's demographic cliff, water wars, the fertilizer crisis, energy transition paradox, and the debt supercycle — match the 1972 World3 model predictions with eerie precision.</p>
+      <a href="{{ site.baseurl }}/blog/2040-collapse-world3-evidence.html" class="read-more">Read More <span class="visually-hidden">about 2040 Collapse Evidence</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Countdown_2040_3D_2.webp" alt="Will Civilization Collapse by 2040? The World3 Model FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">March 4, 2026</span>
+      <h2>Will Civilization Collapse by 2040? The World3 Model FAQ</h2>
+      <p>Expert answers to the most asked questions about the Club of Rome's World3 model, Gaya Herrington's 2021 KPMG validation study, and the 2040 collapse prediction backed by fifty years of data.</p>
+      <a href="{{ site.baseurl }}/blog/countdown-2040-faq.html" class="read-more">Read More <span class="visually-hidden">about World3 Model FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/social/Shadows_3D.webp" alt="The Architecture of Impunity — How Epstein Escaped Justice for 30 Years">
     </div>
     <div class="blog-card-content">
@@ -465,6 +489,20 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
     "url": "https://michaelrodriguezbooks.com/"
   },
   "blogPost": [
+    {
+      "@type": "BlogPosting",
+      "headline": "The 2040 Collapse: 5 Signs the World3 Model Was Right",
+      "description": "Five real-world crises that match the World3 model predictions: China demographics, water wars, fertilizer crisis, energy limits, and debt.",
+      "datePublished": "2026-03-04",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Will Civilization Collapse by 2040? The World3 Model FAQ",
+      "description": "Expert FAQ on the Club of Rome World3 model, Gaya Herrington 2021 study, and the 2040 collapse prediction backed by 50 years of data.",
+      "datePublished": "2026-03-04",
+      "author": "Michael Rodriguez"
+    },
     {
       "@type": "BlogPosting",
       "headline": "The Architecture of Impunity: How Epstein Escaped Justice for 30 Years",

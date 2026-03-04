@@ -12,6 +12,16 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Countdown_2040.webp" alt="Countdown to Collapse: The 2040 Crisis by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Countdown to Collapse</h3>
+      <p>A 1972 computer model predicted civilizational decline by 2040. Fifty years of data prove it right. Michael Rodriguez examines the World3 model, Gaya Herrington's KPMG validation, and three possible futures.</p>
+      <a href="{{ site.baseurl }}/books/free-chapter-countdown-2040" class="btn" style="background: #2e8b57; margin-right: 8px;">Free Chapter</a>
+      <a href="{{ site.baseurl }}/books/Countdown_2040" class="btn">Read More <span class="visually-hidden">about Countdown to Collapse by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Shadows_of_Power.webp" alt="Shadows of Power: Jeffrey Epstein and the Architecture of Impunity by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Shadows of Power</h3>
@@ -356,6 +366,14 @@ An examination of how nations increasingly use economic tools as weapons in glob
     "url": "https://michaelrodriguezbooks.com/"
   },
   "hasPart": [
+    {
+      "@type": "Book",
+      "name": "Countdown to Collapse: The 2040 Crisis",
+      "author": "Michael Rodriguez",
+      "description": "A 1972 computer model predicted civilizational decline by 2040. Fifty years of data prove it right. Examine the evidence, the scenarios, and what you can still do.",
+      "isbn": "9798233347986",
+      "datePublished": "2026-03-04"
+    },
     {
       "@type": "Book",
       "name": "Shadows of Power",
