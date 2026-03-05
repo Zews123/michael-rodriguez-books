@@ -13,10 +13,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Preconnect & Fonts -->
+    <!-- Preconnect & Fonts (non-render-blocking) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=DM+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&display=swap" as="style">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@300;400&family=Playfair+Display:ital,wght@0,400;1,400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=DM+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@300;400&display=swap" rel="stylesheet"></noscript>
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 {% seo title=false %}
@@ -108,7 +111,7 @@
         -moz-osx-font-smoothing: grayscale;
       }
 
-      /* Noise grain overlay */
+      /* Noise grain overlay — GPU-accelerated */
       body::before {
         content: '';
         position: fixed;
@@ -118,6 +121,8 @@
         opacity: 0.03;
         background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
         background-size: 256px;
+        contain: strict;
+        will-change: auto;
       }
 
       /* ── NAV ── */
@@ -1111,89 +1116,61 @@
 
       document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
 
-      // ── Particle System — gold dust (reduced count for content pages) ──
-      (function() {
+      // ── Particle System — deferred for performance ──
+      function initParticles() {
         const canvas = document.getElementById('particles');
+        if (!canvas) return;
         const ctx = canvas.getContext('2d');
-        let w, h, particles = [];
-        const COUNT = Math.min(40, Math.floor(window.innerWidth / 20));
+        let w, h, pts = [];
+        const COUNT = Math.min(30, Math.floor(window.innerWidth / 25));
 
-        function resize() {
-          w = canvas.width = window.innerWidth;
-          h = canvas.height = window.innerHeight;
-        }
+        function resize() { w = canvas.width = window.innerWidth; h = canvas.height = window.innerHeight; }
 
-        function Particle() {
-          this.reset();
-        }
-
-        Particle.prototype.reset = function() {
-          this.x = Math.random() * w;
-          this.y = Math.random() * h;
-          this.size = Math.random() * 1.2 + 0.3;
-          this.speedX = (Math.random() - 0.5) * 0.3;
-          this.speedY = (Math.random() - 0.5) * 0.2 - 0.1;
-          this.opacity = Math.random() * 0.5 + 0.15;
-          this.fadeDir = Math.random() > 0.5 ? 0.003 : -0.003;
+        function Pt() { this.reset(); }
+        Pt.prototype.reset = function() {
+          this.x = Math.random() * w; this.y = Math.random() * h;
+          this.s = Math.random() * 1.2 + 0.3;
+          this.vx = (Math.random() - 0.5) * 0.3; this.vy = (Math.random() - 0.5) * 0.2 - 0.1;
+          this.o = Math.random() * 0.5 + 0.15; this.fd = Math.random() > 0.5 ? 0.003 : -0.003;
         };
-
-        Particle.prototype.update = function() {
-          this.x += this.speedX;
-          this.y += this.speedY;
-          this.opacity += this.fadeDir;
-          if (this.opacity <= 0.08 || this.opacity >= 0.55) this.fadeDir *= -1;
+        Pt.prototype.update = function() {
+          this.x += this.vx; this.y += this.vy; this.o += this.fd;
+          if (this.o <= 0.08 || this.o >= 0.55) this.fd *= -1;
           if (this.x < -10 || this.x > w + 10 || this.y < -10 || this.y > h + 10) this.reset();
         };
-
-        Particle.prototype.draw = function() {
-          ctx.beginPath();
-          ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
-          ctx.fillStyle = 'rgba(201, 162, 39, ' + this.opacity + ')';
-          ctx.fill();
+        Pt.prototype.draw = function() {
+          ctx.beginPath(); ctx.arc(this.x, this.y, this.s, 0, 6.283);
+          ctx.fillStyle = 'rgba(201,162,39,' + this.o + ')'; ctx.fill();
         };
 
-        function init() {
-          resize();
-          particles = [];
-          for (let i = 0; i < COUNT; i++) particles.push(new Particle());
-        }
-
-        let animId;
+        let animId, frame = 0;
         function animate() {
           ctx.clearRect(0, 0, w, h);
-          particles.forEach(p => { p.update(); p.draw(); });
-
-          for (let i = 0; i < particles.length; i++) {
-            for (let j = i + 1; j < particles.length; j++) {
-              const dx = particles[i].x - particles[j].x;
-              const dy = particles[i].y - particles[j].y;
-              const dist = Math.sqrt(dx * dx + dy * dy);
-              if (dist < 120) {
-                ctx.beginPath();
-                ctx.moveTo(particles[i].x, particles[i].y);
-                ctx.lineTo(particles[j].x, particles[j].y);
-                ctx.strokeStyle = 'rgba(201, 162, 39, ' + (0.08 * (1 - dist / 120)) + ')';
-                ctx.lineWidth = 0.5;
-                ctx.stroke();
+          for (let i = 0; i < pts.length; i++) { pts[i].update(); pts[i].draw(); }
+          if (++frame % 3 === 0) {
+            ctx.beginPath();
+            for (let i = 0; i < pts.length; i++) {
+              for (let j = i + 1; j < pts.length; j++) {
+                const dx = pts[i].x - pts[j].x, dy = pts[i].y - pts[j].y;
+                if (Math.abs(dx) < 120 && Math.abs(dy) < 120) {
+                  const d = Math.sqrt(dx * dx + dy * dy);
+                  if (d < 120) { ctx.moveTo(pts[i].x, pts[i].y); ctx.lineTo(pts[j].x, pts[j].y); }
+                }
               }
             }
+            ctx.strokeStyle = 'rgba(201,162,39,0.06)'; ctx.lineWidth = 0.5; ctx.stroke();
           }
-
           animId = requestAnimationFrame(animate);
         }
 
         document.addEventListener('visibilitychange', () => {
-          if (document.hidden) {
-            cancelAnimationFrame(animId);
-          } else {
-            animate();
-          }
+          document.hidden ? cancelAnimationFrame(animId) : animate();
         });
-
-        window.addEventListener('resize', () => { resize(); }, { passive: true });
-        init();
-        animate();
-      })();
+        window.addEventListener('resize', resize, { passive: true });
+        resize(); for (let i = 0; i < COUNT; i++) pts.push(new Pt()); animate();
+      }
+      if ('requestIdleCallback' in window) { requestIdleCallback(initParticles); }
+      else { setTimeout(initParticles, 1500); }
     </script>
   </body>
 </html>
