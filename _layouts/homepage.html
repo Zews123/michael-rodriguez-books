@@ -1135,22 +1135,22 @@
 
   <!-- ═══ MOBILE MENU OVERLAY ═══ -->
   <div class="mobile-menu" id="mobileMenu" role="dialog" aria-label="Navigation menu">
-    <a href="#books" onclick="closeMobile()">Books</a>
-    <a href="#about" onclick="closeMobile()">About</a>
-    <a href="#newsletter" onclick="closeMobile()">Newsletter</a>
-    <a href="{{ site.baseurl }}/blog">Blog</a>
-    <a href="{{ site.baseurl }}/contact">Contact</a>
+    <a href="{{ "/" | relative_url }}" onclick="closeMobile()">Home</a>
+    <a href="{{ "/books" | relative_url }}" onclick="closeMobile()">Books</a>
+    <a href="{{ "/blog" | relative_url }}" onclick="closeMobile()">Blog</a>
+    <a href="{{ "/about" | relative_url }}" onclick="closeMobile()">About</a>
+    <a href="{{ "/contact" | relative_url }}" onclick="closeMobile()">Contact</a>
   </div>
 
   <!-- ═══ NAVIGATION ═══ -->
   <nav class="nav" id="nav" role="navigation" aria-label="Main navigation">
-    <a href="#" class="nav-logo" aria-label="Michael Rodriguez - Home">Michael Rodriguez <span>// Author</span></a>
+    <a href="{{ "/" | relative_url }}" class="nav-logo" aria-label="Michael Rodriguez - Home">Michael Rodriguez <span>// Author</span></a>
     <ul class="nav-links">
-      <li><a href="#books">Books</a></li>
-      <li><a href="#about">About</a></li>
-      <li><a href="#newsletter">Newsletter</a></li>
-      <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
-      <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+      <li><a href="{{ "/" | relative_url }}">Home</a></li>
+      <li><a href="{{ "/books" | relative_url }}">Books</a></li>
+      <li><a href="{{ "/blog" | relative_url }}">Blog</a></li>
+      <li><a href="{{ "/about" | relative_url }}">About</a></li>
+      <li><a href="{{ "/contact" | relative_url }}">Contact</a></li>
     </ul>
     <button class="nav-toggle" id="navToggle" aria-label="Toggle menu" aria-expanded="false">
       <span></span><span></span><span></span>
