@@ -24,8 +24,8 @@ date: 2026-03-14
 
 ---
 
-# INTRODUCTION
-## The Room Where It Happens
+## INTRODUCTION
+### The Room Where It Happens
 
 June 6, 2024. A Thursday. The kind of warm Madrid evening where tourists drink Tempranillo on the Gran Vía and argue about whether to visit the Prado or the Reina Sofía. Three kilometers south, at the Hotel Eurostars Suites Mirasierra, something else entirely was happening.
 
