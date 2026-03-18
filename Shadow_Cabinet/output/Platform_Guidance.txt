@@ -1,0 +1,664 @@
+================================================================================
+PLATFORM-SPECIFIC PUBLISHING GUIDANCE
+================================================================================
+"The Shadow Cabinet: Conspiracy, Power, and the Architecture of Hidden Control"
+by Michael Rodriguez
+================================================================================
+
+This document provides step-by-step, platform-specific guidance for publishing
+and distributing the book across all major retail and library channels.
+
+================================================================================
+1. DRAFT2DIGITAL (D2D) — PRIMARY WIDE DISTRIBUTION
+================================================================================
+
+D2D Website: https://www.draft2digital.com
+
+WHY D2D AS PRIMARY DISTRIBUTOR:
+- Single dashboard to manage Apple Books, Kobo, Barnes & Noble, libraries,
+  and 15+ additional retailers
+- No exclusivity requirements
+- Free formatting tools (D2D Book Formatter)
+- Universal Book Links (Books2Read) included free
+- Payment aggregation across all channels
+- Print distribution via D2D Print (beta/expanding)
+
+STEP-BY-STEP UPLOAD PROCESS:
+
+  Step 1: Create Account
+  - Sign up at draft2digital.com
+  - Complete tax information (W-9 for US authors)
+  - Set up payment method (PayPal or direct deposit)
+
+  Step 2: Start New Title
+  - Click "My Books" → "Add New Book"
+  - Select "eBook" as format
+
+  Step 3: Enter Metadata
+  - Title: The Shadow Cabinet: Conspiracy, Power, and the Architecture
+    of Hidden Control
+  - Author: Michael Rodriguez
+  - Series: (leave blank unless part of a series)
+  - Description: Use the full book description from Publishing_Package.txt
+    (2,000-character limit for some retailers; prepare a short version too)
+  - BISAC Categories (select up to 3):
+    * POL042000 — Political Science / Political Ideologies / Conspiracy Theories
+    * HIS037000 — History / Modern / 21st Century
+    * SOC026000 — Social Science / Sociology / General
+  - Keywords: Enter 7 keywords/phrases (see Publishing_Package.txt)
+  - Language: English
+  - Publisher: [Your imprint name or leave as author name]
+  - Publication Date: Set to your target launch date
+
+  Step 4: Upload Manuscript
+  - Accepted formats: .docx (preferred), .epub, .odt
+  - Upload the final, proofread manuscript
+  - Use D2D's free formatter to generate front/back matter
+    (title page, copyright page, table of contents, About the Author)
+  - OR upload a pre-formatted .epub if you have one
+
+  Step 5: Upload Cover
+  - Requirements: JPEG or PNG
+  - Minimum 1600 x 2400 pixels (recommended: 2560 x 3840)
+  - RGB color mode
+  - File size under 10 MB
+  - Must include title, author name, and be legible as a thumbnail
+
+  Step 6: Set Pricing
+  - Base price: $9.99 USD
+  - D2D will auto-convert to local currencies for international stores
+  - You can manually adjust per-territory pricing if desired
+  - Royalty rate: Varies by retailer (typically 60-70% of list price)
+
+  Step 7: Select Distribution Channels
+  - CHECK ALL that apply:
+    ✓ Apple Books
+    ✓ Barnes & Noble / Nook
+    ✓ Kobo
+    ✓ Tolino (German market)
+    ✓ Scribd
+    ✓ Vivlio
+    ✓ Palace Marketplace (libraries)
+    ✓ Hoopla (libraries)
+    ✓ Baker & Taylor (libraries)
+    ✓ Bibliotheca (libraries)
+    ✓ BorrowBox (libraries — UK/Australia)
+  - SKIP Amazon (handle KDP separately for better control)
+
+  Step 8: Review and Publish
+  - Preview the formatted eBook in D2D's online viewer
+  - Check all metadata is correct
+  - Click "Publish"
+  - Books typically go live within 1-3 business days per retailer
+
+PRE-ORDER SETUP VIA D2D:
+  - D2D supports pre-orders on Apple Books, Kobo, and B&N
+  - Set pre-order 2-4 weeks before launch date
+  - Upload a placeholder manuscript (can be partial)
+  - Final manuscript must be uploaded at least 72 hours before release
+  - Pre-orders accumulate and count toward first-day sales rankings
+  - Apple Books is especially strong for pre-orders — set these early
+
+FORMATTING REQUIREMENTS:
+  - Use heading styles (Heading 1, Heading 2) for chapter titles
+  - Include a linked table of contents
+  - Page breaks before each new chapter
+  - Do not use headers/footers (irrelevant for eBooks)
+  - Avoid manual line spacing; use paragraph styles
+  - Images must be embedded, not linked
+  - Footnotes/endnotes: Use Word's built-in footnote tool
+    (D2D converts these to pop-up notes automatically)
+
+
+================================================================================
+2. AMAZON KDP — DIRECT PUBLISHING
+================================================================================
+
+KDP Website: https://kdp.amazon.com
+
+KDP vs. D2D FOR AMAZON:
+  - ALWAYS publish directly on KDP for Amazon — do NOT use D2D for Amazon
+  - Reasons:
+    * Higher royalty (70% on KDP vs. ~60% through D2D's Amazon channel)
+    * Faster publishing (24-72 hours vs. up to 2 weeks via aggregator)
+    * Access to KDP Select / Kindle Unlimited (only available direct)
+    * A+ Content and Amazon ads only available to direct KDP publishers
+    * Better real-time sales reporting
+    * Price matching and promotion control
+
+KDP SELECT / KINDLE UNLIMITED — DECISION FRAMEWORK:
+
+  WHAT IT IS:
+  - 90-day exclusive enrollment in Kindle Unlimited (KU)
+  - eBook must be exclusive to Amazon (no Apple, Kobo, B&N, etc.)
+  - Readers with KU subscription can read for free; you earn per page read
+  - Auto-renews every 90 days unless you opt out
+
+  PROS FOR THIS GENRE (Political Nonfiction / Conspiracy Analysis):
+  + KU readers consume nonfiction heavily — high page-read potential
+  + Visibility boost in Amazon's algorithm during enrollment
+  + Kindle Countdown Deals and Free Book promotions available
+  + Good for building initial readership and reviews
+  + Per-page-read income can exceed per-sale income for long books
+
+  CONS FOR THIS GENRE:
+  - Loses all non-Amazon distribution (Apple, Kobo, libraries)
+  - This topic has a global audience — exclusivity limits reach
+  - Library distribution is impossible during enrollment
+  - You cannot sell direct from your website
+  - 90-day lock-in periods
+
+  RECOMMENDATION FOR "THE SHADOW CABINET":
+  → START WIDE (skip KDP Select at launch)
+  - This book's subject matter appeals to a global, privacy-conscious
+    audience — many of whom deliberately avoid Amazon
+  - Library distribution is valuable for credibility and discoverability
+  - Apple Books and Kobo are strong for nonfiction internationally
+  - If sales plateau after 6 months, consider a 90-day KDP Select test
+  - You can always go exclusive later; going wide after exclusive
+    means rebuilding from zero on other platforms
+
+STEP-BY-STEP KDP UPLOAD:
+
+  Step 1: Create KDP Account
+  - Go to kdp.amazon.com and sign in with Amazon account
+  - Complete tax interview (IRS W-9 or W-8BEN)
+  - Set up bank account for royalty payments
+
+  Step 2: Create New Title — Kindle eBook
+  - Click "Create" → "Kindle eBook"
+  - Language: English
+  - Title: The Shadow Cabinet
+  - Subtitle: Conspiracy, Power, and the Architecture of Hidden Control
+  - Author: Michael Rodriguez
+  - Description: Use HTML formatting for bold, italic, bullet points
+    (Amazon allows basic HTML in descriptions — use it for readability)
+  - Keywords: Enter 7 keyword phrases (max 50 characters each)
+    * conspiracy theories political power
+    * shadow government deep state
+    * hidden power structures history
+    * political manipulation democracy
+    * secret societies influence
+    * intelligence agencies covert operations
+    * power architecture global politics
+  - Categories: Select 2 BISAC categories (can add more via Author Central)
+
+  Step 3: Upload Manuscript
+  - Accepted: .epub (preferred), .docx, .kpf (Kindle Create output)
+  - Use Kindle Previewer 3 to check formatting before uploading
+  - Download: https://www.amazon.com/Kindle-Previewer/b?node=21381691011
+
+  Step 4: Upload Cover
+  - JPEG or TIFF only
+  - Ideal: 2560 x 1600 pixels (1.6:1 ratio)
+  - Minimum: 1000 x 625 pixels
+  - Maximum file size: 50 MB
+  - RGB color mode, 300 DPI for best quality
+
+  Step 5: Pricing
+  - Select 70% royalty plan (available for $2.99-$9.99)
+  - Set US price: $9.99
+  - Check "Automatically set my price based on the selected marketplaces"
+    OR manually set international prices
+  - Delivery cost: ~$0.06 per MB deducted from royalty (70% plan only)
+
+  Step 6: Review and Publish
+  - Do NOT enroll in KDP Select (keep wide distribution)
+  - Review all details
+  - Click "Publish Your Kindle eBook"
+  - Book goes live in 24-72 hours
+
+A+ CONTENT RECOMMENDATIONS:
+  A+ Content (formerly Enhanced Brand Content) adds rich media to your
+  Amazon product page. Available after your book is live.
+
+  - Access via: Author Central → Marketing → A+ Content
+  - Create a "Brand Story" module with:
+    * Author photo and bio
+    * Other books in your catalog
+    * Your website/newsletter link
+  - Create content modules:
+    * Module 1: "What You'll Discover" — 3-column layout with key topics
+      (e.g., Shadow Networks, Power Architecture, Democratic Implications)
+    * Module 2: "Who This Book Is For" — target reader descriptions
+    * Module 3: Testimonial/review quotes (once available)
+    * Module 4: Comparison chart (if you have multiple books)
+  - Use high-quality images with text overlays
+  - A+ Content increases conversion rate by 3-10% on average
+
+AMAZON AUTHOR CENTRAL:
+  - URL: https://author.amazon.com
+  - Set up BEFORE or immediately after book goes live
+  - Add:
+    * Professional author photo
+    * Author biography (up to 2,000 characters)
+    * Blog feed (link your blog/website RSS)
+    * Video (book trailer if available)
+    * Events (book signings, speaking engagements)
+  - Claim all editions of your book (eBook, paperback, hardcover)
+  - You can add up to 10 categories per book through Author Central
+    (beyond the 2 allowed during KDP upload)
+  - Monitor your Author Rank and Sales Rank via Author Central dashboard
+
+
+================================================================================
+3. APPLE BOOKS — VIA D2D
+================================================================================
+
+DISTRIBUTION METHOD: Through Draft2Digital (see Section 1)
+  - Apple Books does accept direct uploads via iTunes Connect /
+    Apple Books for Authors, but D2D is simpler for most indie authors
+  - If you want direct access later: https://authors.apple.com
+
+APPLE BOOKS-SPECIFIC METADATA TIPS:
+
+  Description:
+  - Apple Books displays longer descriptions well — use the full version
+  - Formatting is limited but line breaks are preserved
+  - Front-load the most compelling hook in the first 2 sentences
+
+  Categories:
+  - Apple uses its own category system (mapped from BISAC by D2D)
+  - Verify your book appears in the correct Apple category after going live
+  - Strong categories for this book on Apple:
+    * Nonfiction → Politics & Current Events
+    * Nonfiction → Social Science
+
+  Pricing:
+  - Apple takes a 30% commission (you receive 70% via D2D minus D2D's cut)
+  - Net to author via D2D: approximately 60% of list price
+  - Apple supports agency pricing — your set price is the retail price
+  - Price at $9.99 to match Amazon
+
+  Pre-Orders on Apple:
+  - Apple Books is the BEST platform for pre-orders
+  - Apple counts all pre-order sales on the release date
+  - This can catapult a book into Apple's charts on launch day
+  - Set pre-order at least 2-3 weeks before launch
+  - Promote the Apple Books pre-order link to Apple-device users
+
+  Apple Books Features to Leverage:
+  - "Want to Read" — encourage readers to add your book pre-launch
+  - Apple editorial features — well-designed covers and strong metadata
+    increase chances of editorial selection
+  - Apple Books is strong internationally (UK, Canada, Australia, EU)
+
+
+================================================================================
+4. KOBO — VIA D2D
+================================================================================
+
+DISTRIBUTION METHOD: Through Draft2Digital
+  - Direct option: Kobo Writing Life (https://www.kobo.com/writinglife)
+  - D2D is recommended unless you want Kobo-specific promotions
+
+KOBO PLUS CONSIDERATIONS:
+
+  What is Kobo Plus?
+  - Kobo's subscription reading service (similar to Kindle Unlimited)
+  - Available in select markets (Canada, Netherlands, Belgium, etc.)
+  - Two tiers: Kobo Plus Read (eBooks) and Kobo Plus Listen (audiobooks)
+
+  Should You Enroll?
+  - YES — Kobo Plus does NOT require exclusivity
+  - You can be in Kobo Plus AND sell on Amazon, Apple, B&N simultaneously
+  - Enrollment is available through both D2D and Kobo Writing Life
+  - Revenue is based on a per-page-read model from a shared fund
+  - Downside: May cannibalize some full-price sales on Kobo
+  - Upside: Increased discoverability and additional revenue stream
+
+  RECOMMENDATION: Enroll in Kobo Plus via D2D
+  - It's free to join, no exclusivity penalty
+  - Particularly valuable for reaching Canadian and European readers
+  - Political nonfiction performs well on Kobo in international markets
+
+KOBO-SPECIFIC TIPS:
+  - Kobo's audience skews toward serious readers — nonfiction does well
+  - Kobo has strong library partnerships (OverDrive integration)
+  - Kobo promotions are available to D2D-distributed authors
+  - Ensure your EPUB is clean — Kobo is strict about formatting errors
+
+
+================================================================================
+5. BARNES & NOBLE — VIA D2D OR BN PRESS
+================================================================================
+
+DISTRIBUTION OPTIONS:
+
+  Option A: Via D2D (Recommended)
+  - Simpler management — everything in one dashboard
+  - D2D handles formatting conversion for Nook
+  - Slightly lower royalty than direct
+
+  Option B: BN Press Direct
+  - URL: https://press.barnesandnoble.com
+  - Higher royalty rate (65% for $2.99-$9.99 vs. ~60% via D2D)
+  - Direct access to B&N promotional tools
+  - B&N-specific sales reporting
+  - More work to manage a separate platform
+
+  RECOMMENDATION: Use D2D unless B&N becomes a significant revenue channel
+  - Start with D2D for simplicity
+  - If B&N sales exceed 15-20% of total revenue, consider switching to direct
+
+NOOK-SPECIFIC CONSIDERATIONS:
+  - Nook market share is small but loyal — dedicated Nook readers buy often
+  - B&N's online store features "Nook Daily Find" promotions
+  - Cover quality matters — B&N's website displays covers prominently
+  - B&N has physical bookstore integration for print editions
+  - B&N allows longer book descriptions than Amazon — use the space
+  - Categories are BISAC-based — your D2D categories will map correctly
+
+
+================================================================================
+6. PRINT-ON-DEMAND (POD)
+================================================================================
+
+THREE MAJOR POD OPTIONS:
+
+┌─────────────────┬──────────────────┬──────────────────┬──────────────────┐
+│ Feature         │ KDP Print        │ IngramSpark      │ D2D Print        │
+├─────────────────┼──────────────────┼──────────────────┼──────────────────┤
+│ Setup Cost      │ Free             │ Free (was $49)   │ Free             │
+│ Distribution    │ Amazon only      │ 40,000+ retailers│ Expanding        │
+│                 │                  │ & libraries      │                  │
+│ Expanded Dist.  │ Yes (free)       │ Built-in         │ Via partners     │
+│ Bookstore       │ Rarely stocked   │ Industry standard│ Limited          │
+│ Availability    │                  │ for bookstores   │                  │
+│ Royalty         │ 60% fixed        │ You set discount │ ~50-60%          │
+│ Hardcover       │ Yes (case laminate│ Yes (multiple   │ Not yet          │
+│                 │ or cloth)        │ options)         │                  │
+│ Print Quality   │ Good             │ Excellent        │ Good             │
+│ Proof Copies    │ At cost          │ At cost          │ At cost          │
+│ Returns         │ Non-returnable   │ Returnable option│ Non-returnable   │
+│ Speed to Market │ 3-5 days         │ 5-10 days        │ 5-7 days         │
+└─────────────────┴──────────────────┴──────────────────┴──────────────────┘
+
+RECOMMENDED STRATEGY:
+  1. KDP Print — for Amazon paperback and hardcover sales
+  2. IngramSpark — for bookstore, library, and non-Amazon retail distribution
+  3. Use the SAME ISBN for both platforms (they'll recognize it and avoid
+     creating duplicate listings — see ISBN section below)
+
+TRIM SIZE RECOMMENDATIONS:
+  - Paperback: 6" x 9" (most common for nonfiction trade paperback)
+  - Hardcover: 6" x 9" (standard nonfiction hardcover)
+  - Why 6x9: Professional appearance, comfortable to hold, cost-effective
+    printing, standard shelf size for bookstores
+  - Alternative: 5.5" x 8.5" (slightly smaller, slightly cheaper to print)
+
+PAPER TYPE:
+  - Cream/Creme paper (not white) — industry standard for nonfiction prose
+  - White paper — only for books with color images or heavy graphics
+  - Paper weight: 60# (KDP standard) or 55# (IngramSpark standard)
+  - Recommendation: Cream paper, standard weight → professional nonfiction look
+
+COVER SPECIFICATIONS:
+  Paperback Cover:
+  - Full wrap (front + spine + back) as single PDF
+  - Spine width calculated by: (page count × 0.0025") for cream paper
+  - KDP and IngramSpark both provide cover calculators/templates
+  - Bleed: 0.125" on all sides
+  - Resolution: 300 DPI minimum
+  - Color space: CMYK
+  - Barcode: KDP adds automatically; IngramSpark — add your own or let them
+  - Matte or glossy laminate finish (matte is more popular for serious
+    nonfiction — choose matte)
+
+  Hardcover Cover:
+  - Case laminate (printed cover wrapped around boards) — most common
+  - Dust jacket option available on IngramSpark
+  - KDP hardcover: case laminate only, no dust jacket
+  - Recommendation: Case laminate for both KDP and IngramSpark — simpler,
+    more durable, no jacket to lose
+
+INTERIOR FORMATTING:
+  - Upload as PDF (preferred for print) or .docx
+  - Margins: Minimum 0.5" on all sides (0.75" recommended for gutter/spine)
+  - Font: 11pt or 12pt serif (Garamond, Palatino, or Georgia)
+  - Line spacing: 1.15 to 1.3
+  - Chapter title pages: Start on right-hand (recto) page
+  - Page numbers: Bottom center or bottom outside corner
+  - Headers/footers: Book title on left page, chapter title on right page
+  - Front matter order: Half title, title page, copyright, dedication,
+    table of contents, introduction
+  - Back matter order: Acknowledgments, notes/references, bibliography,
+    about the author
+
+ISBN CONSIDERATIONS:
+
+  Option A: Free KDP ISBN
+  - Amazon provides a free ISBN for KDP Print editions
+  - Imprint listed as "Independently Published"
+  - CANNOT be used on any other platform (Amazon-only)
+  - Fine if you only want to sell print on Amazon
+
+  Option B: Purchase Your Own ISBN (RECOMMENDED)
+  - Buy from Bowker (US): https://www.myidentifiers.com
+  - Single ISBN: $125 | Pack of 10: $295 | Pack of 100: $575
+  - Your imprint name appears as publisher
+  - Use across ALL platforms (KDP, IngramSpark, D2D Print)
+  - Required if you want IngramSpark distribution
+  - More professional appearance
+
+  ISBN ALLOCATION FOR THIS BOOK:
+  - You need separate ISBNs for each format:
+    * eBook (EPUB): 1 ISBN (optional — most eBook stores don't require it)
+    * Paperback: 1 ISBN
+    * Hardcover: 1 ISBN
+    * Audiobook: 1 ISBN (if produced later)
+  - RECOMMENDATION: Buy a 10-pack from Bowker ($295)
+    Assign ISBNs to paperback and hardcover immediately
+    Keep remaining ISBNs for future formats and future books
+
+  ASIN NOTE:
+  - Amazon assigns its own ASIN for the Kindle eBook
+  - You do NOT need an ISBN for the Kindle edition
+  - KDP Print requires an ISBN (use your own or Amazon's free one)
+
+
+================================================================================
+7. MARKETING LAUNCH CHECKLIST
+================================================================================
+
+PRE-LAUNCH: 4 WEEKS BEFORE RELEASE
+──────────────────────────────────────
+□ Finalize manuscript — complete all editing and proofreading
+□ Finalize cover design — all formats (eBook, paperback, hardcover)
+□ Write book description (short version: 150 words; long version: 500 words)
+□ Prepare author bio (short: 50 words; long: 200 words)
+□ Set up or update author website with book page
+□ Create "coming soon" landing page with email signup
+□ Order proof copies (paperback and hardcover) for final review
+□ Set up pre-orders on Apple Books and Kobo via D2D
+□ Prepare social media announcement graphics (see SEOSocial_Agent output)
+
+PRE-LAUNCH: 2 WEEKS BEFORE RELEASE
+──────────────────────────────────────
+□ Upload eBook to KDP — set publication date for launch day
+□ Upload paperback and hardcover to KDP Print
+□ Upload to IngramSpark (if using)
+□ Upload to D2D with all distribution channels selected
+□ Confirm all pre-orders are live and links are working
+□ Create Books2Read universal link (free via D2D)
+□ Set up Amazon Author Central profile
+□ Email your existing mailing list — "Book coming in 2 weeks"
+□ Send advance review copies (ARCs) to:
+  - Book bloggers in political nonfiction / conspiracy analysis space
+  - Podcast hosts who cover similar topics
+  - Journalists covering power, politics, and media
+  - Goodreads reviewers in relevant groups
+□ Request early reviews — aim for 10-20 reviews by launch day
+□ Schedule social media posts for launch week
+□ Prepare launch day email to mailing list
+□ Set up Amazon Ads campaign (start on launch day — see below)
+□ Create Goodreads author profile and add book listing
+□ Reach out to newsletter swap partners (BookFunnel, StoryOrigin)
+
+LAUNCH DAY
+──────────────────────────────────────
+□ Verify all editions are live on all platforms:
+  - Amazon (Kindle, paperback, hardcover)
+  - Apple Books
+  - Kobo
+  - Barnes & Noble
+  - Library channels
+□ Send launch day email to mailing list
+  - Include direct purchase links for ALL platforms
+  - Ask for reviews — provide specific instructions
+  - Share a compelling excerpt or key insight from the book
+□ Post on all social media channels
+  - Twitter/X: Thread with key insights from each chapter
+  - LinkedIn: Professional post about the book's research
+  - Instagram: Cover reveal / behind-the-scenes
+  - Facebook: Post in relevant groups (political books, nonfiction readers)
+  - Reddit: Share in relevant subreddits (with community rules in mind)
+□ Activate Amazon Ads campaign
+  - Start with Sponsored Products — automatic targeting
+  - Budget: $10-20/day for the first week
+  - Bid: $0.50-$0.75 per click for nonfiction
+□ Submit to BookBub for a Featured Deal (long shot but high reward)
+□ Reach out to podcast hosts for interview opportunities
+□ Monitor sales dashboard hourly on launch day (then relax)
+□ Respond to any early reviews or reader feedback publicly
+
+POST-LAUNCH: FIRST 30 DAYS
+──────────────────────────────────────
+Week 1:
+□ Monitor and adjust Amazon Ads (pause low-performers, increase winners)
+□ Follow up with ARC recipients who haven't reviewed yet
+□ Share reader reviews and testimonials on social media
+□ Submit to book review sites:
+  - Kirkus Indie (paid: ~$425, but prestigious)
+  - BookLife by Publishers Weekly (free submission)
+  - IndieReader
+  - Foreword Reviews
+□ Engage with readers who post about the book online
+
+Week 2:
+□ Evaluate sales data — which platforms are performing?
+□ Consider a limited-time price promotion ($4.99 or $5.99)
+□ Pitch guest blog posts to political/media commentary sites
+□ Start planning podcast tour (book 3-5 podcast interviews)
+□ Create quote graphics from the book for social media
+
+Week 3:
+□ Analyze Amazon Ads performance — refine keyword targeting
+□ Consider Amazon KDP countdown deal (if enrolled) or price pulse
+□ Begin pitching to newsletters in the nonfiction / political space
+□ Engage in relevant online discussions (reference book naturally)
+□ Update book description based on any review quotes
+
+Week 4:
+□ Compile first-month sales report across all platforms
+□ Evaluate: Is wide distribution working, or should you test KDP Select?
+□ Plan next marketing phase (sustained promotion vs. next book)
+□ Set up an evergreen Amazon Ads campaign ($5/day ongoing)
+□ Begin thinking about audiobook production (ACX, Findaway Voices)
+□ Consider foreign rights / translation opportunities
+□ Start collecting testimonials for A+ Content and website
+
+
+================================================================================
+8. PRICING STRATEGY
+================================================================================
+
+EBOOK PRICING: $9.99
+──────────────────────────────────────
+  Why $9.99:
+  - Maximum price for Amazon's 70% royalty tier ($2.99-$9.99)
+  - Standard price point for serious nonfiction (signals quality/depth)
+  - Below the $12.99-$14.99 range of Big Five publishers → competitive
+  - Above the $0.99-$4.99 range that signals "light" or "impulse" content
+  - Sweet spot where readers expect substantive, well-researched work
+
+  Royalty Breakdown at $9.99:
+  - Amazon KDP (70%): $6.99 per sale (minus ~$0.06 delivery cost)
+  - Apple Books via D2D: ~$5.99 per sale
+  - Kobo via D2D: ~$5.99 per sale
+  - B&N via D2D: ~$5.99 per sale
+
+PAPERBACK PRICING: $17.99
+──────────────────────────────────────
+  Why $17.99:
+  - Competitive with trade paperback nonfiction ($16.99-$19.99 range)
+  - Enough margin above print cost for reasonable royalty
+  - Estimated print cost (6x9, ~350 pages, cream): ~$5.50-$6.00
+  - KDP Print royalty at $17.99: approximately $4.80-$5.20 per sale
+  - Feels like a "deal" compared to $19.99 (psychological pricing)
+
+  If the book exceeds 400 pages:
+  - Print cost increases — consider pricing at $18.99 or $19.99
+  - Use KDP's royalty calculator to ensure at least $4.00 net per sale
+
+HARDCOVER PRICING: $27.99
+──────────────────────────────────────
+  Why $27.99:
+  - Standard range for nonfiction hardcovers ($25.99-$32.99)
+  - Signals prestige and collectibility
+  - Estimated print cost (6x9, ~350 pages, case laminate): ~$10-$12
+  - KDP Print hardcover royalty at $27.99: approximately $4.80-$5.60
+  - IngramSpark hardcover: Higher margin possible with 40% trade discount
+
+  Note: Hardcover is a prestige format — sales volume will be lower
+  than eBook and paperback, but it legitimizes the title and appeals
+  to libraries, gift buyers, and collectors.
+
+LAUNCH PROMOTION PRICING:
+──────────────────────────────────────
+  Strategy: Launch at full price, then run targeted promotions
+
+  Launch Day through Week 1:
+  - eBook: $9.99 (full price — capture early buyers at maximum royalty)
+  - Do NOT discount at launch — you want maximum revenue from your
+    most excited audience (mailing list, followers, pre-order converters)
+
+  Week 2-3 (First Promotion):
+  - Consider a 48-72 hour eBook price drop to $4.99 or $5.99
+  - Announce via email list and social media
+  - Time this with any BookBub or newsletter features
+  - Goal: Spike sales volume → improve Amazon ranking → organic discovery
+
+  Week 4+:
+  - Return to $9.99
+  - Run periodic 48-hour sales ($6.99) every 4-6 weeks
+  - Time sales with relevant news events or cultural moments
+    related to the book's themes (political events, revelations, etc.)
+  - Never go below $3.99 for nonfiction — protects perceived value
+
+  Holiday Pricing:
+  - Black Friday / Cyber Monday: $4.99 eBook, bundle with other titles
+  - End of year: $6.99 "Best Books" promotion
+  - Pair discounts with "gift this book" messaging for hardcover
+
+  KDP COUNTDOWN DEAL (if enrolled in KDP Select):
+  - Available once per 90-day enrollment period
+  - Gradually steps price back up (e.g., $2.99 → $4.99 → $6.99 → $9.99)
+  - You keep 70% royalty even at reduced prices (unique to Countdown Deals)
+  - Can be very effective for visibility spikes
+
+  PRICE MATCHING WARNING:
+  - Amazon will price-match if your book is cheaper elsewhere
+  - Keep prices consistent across ALL platforms
+  - If running a D2D promotion, also adjust KDP price simultaneously
+  - Amazon may drop your price to $0.00 if a free version is found
+    anywhere online — monitor this
+
+
+================================================================================
+SUMMARY: PLATFORM PRIORITY ORDER
+================================================================================
+
+  1. Amazon KDP (Kindle eBook)     — Largest market, highest priority
+  2. Amazon KDP Print (Paperback)  — Second largest revenue stream
+  3. Draft2Digital (Wide eBook)     — Apple, Kobo, B&N, libraries
+  4. IngramSpark (Wide Print)      — Bookstore and library print distribution
+  5. Amazon KDP Print (Hardcover)  — Prestige format
+  6. Audiobook (ACX/Findaway)      — Phase 2, after launch stabilizes
+
+  Total estimated setup time: 2-3 days for all platforms
+  Time to all editions live: 5-10 business days after submission
+
+================================================================================
+END OF PLATFORM GUIDANCE
+================================================================================

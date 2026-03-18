@@ -1,0 +1,15 @@
+{
+  "servers": {
+    "gemini": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--python",
+        "3.12",
+        "--with",
+        "gemini-webapi-mcp[watermark] @ git+https://github.com/AndyShaman/gemini-webapi-mcp.git",
+        "gemini-webapi-mcp"
+      ]
+    }
+  }
+}

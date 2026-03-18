@@ -1,0 +1,109 @@
+PUBLISHING PACKAGE
+==================
+Book: Tencent: The Silent Empire
+Author: Michael Rodriguez
+Date: February 2026
+
+========================================
+BOOK DESCRIPTION — LONG VERSION (D2D / Amazon)
+========================================
+
+What if the most powerful company in the world was one you'd never heard of?
+
+Tencent Holdings doesn't make headlines in the West. It doesn't plaster its logo on your phone. But it profits from almost every game you play, every song you stream, and every message you send. From League of Legends and Fortnite to Spotify and Reddit, from Tesla's cap table to the digital wallets of 1.3 billion Chinese citizens — Tencent's invisible fingerprints are everywhere.
+
+In Tencent: The Silent Empire, investigative author Michael Rodriguez pulls back the curtain on the $900 billion Chinese tech giant that quietly became the world's largest gaming company, built the most-used messaging app on Earth, and assembled an investment portfolio spanning 800+ companies across 40 countries. From its copycat origins cloning an Israeli chat program in a Shenzhen apartment to the $8.6 billion acquisition of Supercell and the Red Envelope fintech blitz that rewrote the rules of mobile payments overnight — this is the definitive account of how Tencent rose, evolved, and embedded itself into the infrastructure of modern life.
+
+But the story doesn't stop at corporate triumph. Rodriguez investigates the darker dimensions of Tencent's power: WeChat's role in state surveillance, the censorship algorithms that scan billions of messages daily, the "golden shares" that give Beijing a seat at the table, and the brutal 2021 regulatory crackdown that wiped $500 billion from the company's value. With the US-China tech cold war escalating and governments worldwide questioning Chinese tech investment, Tencent: The Silent Empire asks the question that matters most — what happens when a company becomes too big for any government to control, and too embedded for any user to escape?
+
+SEO Keywords: Tencent, Tencent Holdings, Chinese tech companies, WeChat, Pony Ma, Ma Huateng, Chinese gaming industry, tech surveillance, Riot Games Tencent, Epic Games Tencent, super app, WeChat Pay, Chinese Big Tech, Tencent investment portfolio, US China tech war
+
+========================================
+BOOK DESCRIPTION — SHORT VERSION (max 350 chars)
+========================================
+
+The untold story of Tencent — the $900B Chinese tech giant behind League of Legends, Fortnite, WeChat, and 800+ global investments. How a copycat startup became an invisible empire that shapes gaming, fintech, and surveillance worldwide.
+
+========================================
+KEYWORDS (7-10 for discoverability)
+========================================
+
+1. Tencent
+2. WeChat
+3. Chinese tech companies
+4. Pony Ma biography
+5. gaming industry business
+6. tech surveillance China
+7. super app
+8. Chinese Big Tech
+9. Tencent investments
+10. US China technology war
+
+========================================
+CATEGORIES (BISAC / Amazon)
+========================================
+
+Primary:
+- BUS070030 — BUSINESS & ECONOMICS / Industries / Computers & Information Technology
+- BUS070120 — BUSINESS & ECONOMICS / Industries / Media & Communications
+
+Secondary:
+- POL065000 — POLITICAL SCIENCE / Globalization
+- COM060000 — COMPUTERS / Internet / General
+- BUS036060 — BUSINESS & ECONOMICS / International / General
+
+========================================
+AUTHOR BIO
+========================================
+
+Michael Rodriguez is an investigative author and researcher specializing in the intersection of technology, finance, and global power. His work examines how corporations and governments shape the digital world — from Wall Street's shadow banking systems to Silicon Valley's surveillance capitalism. A former financial analyst turned full-time writer, Rodriguez brings a data-driven, narrative-first approach to complex subjects that corporate PR departments would prefer stayed hidden. He is the author of multiple bestselling nonfiction titles exploring the hidden forces behind global markets and technology platforms. Rodriguez splits his time between New York, London, and Singapore.
+
+Website: https://michaelrodriguezbooks.com/
+
+========================================
+TAGLINES
+========================================
+
+1. "The most powerful company you've never heard of."
+2. "You used Tencent today. You just didn't know it."
+3. "From copycat to invisible empire — the untold Tencent story."
+
+========================================
+SUBTITLE
+========================================
+
+How a Copycat Startup Quietly Took Over the World
+
+========================================
+METADATA
+========================================
+
+Title: Tencent: The Silent Empire
+Subtitle: How a Copycat Startup Quietly Took Over the World
+Author: Michael Rodriguez
+Language: English
+Publication Date: March 2026
+Publisher: Michael Rodriguez Publishing
+Pages: ~250 (estimated)
+Word Count: 30,000+
+
+ISBN eBook: [TO BE ASSIGNED BY USER]
+ISBN Paperback: [TO BE ASSIGNED BY USER]
+ISBN Hardcover: [TO BE ASSIGNED BY USER]
+
+Price (suggested):
+- eBook: $9.99
+- Paperback: $17.99
+- Hardcover: $29.99
+
+Territory: Worldwide
+DRM: No DRM recommended
+
+========================================
+STORE LINKS (to be provided by user)
+========================================
+
+Amazon: [PENDING]
+Apple Books: [PENDING]
+Kobo: [PENDING]
+Barnes & Noble: [PENDING]

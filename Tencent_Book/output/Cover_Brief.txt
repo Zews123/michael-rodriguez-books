@@ -1,0 +1,45 @@
+COVER DESIGN BRIEF
+==================
+
+Book: Tencent: The Silent Empire
+Author: Michael Rodriguez
+Genre: Investigative Nonfiction / Business / Technology
+
+4 COVER CONCEPTS GENERATED:
+
+CONCEPT 1 — "Penguin Shadow" (Cover_1_Penguin_Shadow.png)
+Visual: Dark navy blue background with a glowing teal penguin silhouette 
+casting a massive shadow over a world map. Dramatic bottom-up lighting.
+Mood: Ominous, powerful, cinematic.
+Color palette: Navy blue, electric teal, gold accents.
+
+CONCEPT 2 — "Network Web" (Cover_2_Network_Web.png)
+Visual: A massive web of glowing red/orange connection lines spreading 
+across a black background from a central point, forming a network graph.
+Mood: Techy, thriller, interconnected.
+Color palette: Black, red-orange, white.
+
+CONCEPT 3 — "Duality" (Cover_3_Duality.png)
+Visual: Split design — left half: bright modern Shenzhen skyline in 
+teal/blue tones. Right half: dark surveillance cameras and digital code 
+in red/black. Sharp diagonal divide.
+Mood: Contrast, tension, dual nature.
+Color palette: Teal/blue vs red/black.
+
+CONCEPT 4 — "Circuit Character" (Cover_4_Circuit_Character.png)
+Visual: Minimalist black background with a single Chinese character 
+made of glowing green digital dots like a circuit board pattern.
+Mood: Clean, minimal, tech-forward, mysterious.
+Color palette: Black, green, white.
+
+TYPOGRAPHY (all concepts):
+- Title: "TENCENT" — bold sans-serif, white, upper portion
+- Subtitle: "THE SILENT EMPIRE" — thinner sans-serif, accent color
+- Author: "MICHAEL RODRIGUEZ" — clean sans-serif, white, bottom
+
+PRINT SPECIFICATIONS:
+- Resolution: 300 DPI minimum for print
+- Dimensions: 6" x 9" (standard trade paperback)
+- File format: PNG (high resolution)
+- Bleed: 0.125" on all sides for print
+- Spine: TBD based on final page count

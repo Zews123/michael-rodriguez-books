@@ -1,0 +1,148 @@
+PLATFORM ASSESSMENT & PUBLISHING GUIDE
+======================================
+Book: Tencent: The Silent Empire
+Author: Michael Rodriguez
+
+========================================
+1. AMAZON KDP (Kindle Direct Publishing)
+========================================
+
+STEP-BY-STEP:
+
+1) Log in to kdp.amazon.com
+2) Click "Create New Title" → eBook or Paperback
+
+KINDLE eBOOK:
+- Upload Final_Book.docx (95KB, D2D-compatible)
+- Title: Tencent: The Silent Empire
+- Subtitle: How a Copycat Startup Quietly Took Over the World
+- Author: Michael Rodriguez
+- Copy/paste Long Description from Publishing_Package.txt
+- Enter 7 keywords (from Publishing_Package.txt)
+- Select categories:
+  → Computers & Technology > Business Technology
+  → Business & Money > Industries > Computers & Information Technology
+- Pricing: $9.99 (70% royalty tier, enrolled in KDP Select optional)
+- DRM: Not recommended
+- Publication territory: All territories
+
+PAPERBACK:
+- Upload same .docx for interior
+- Cover: Upload Cover as PDF (2560x1600 for ebook, 6x9" with spine for paperback)
+  → Amazon will provide a cover template with exact spine width based on page count
+  → Minimum 300 DPI for print cover
+- Paper type: White or cream
+- Trim size: 6" x 9" (most popular for nonfiction)
+- Bleed: No bleed (no images extending to edge)
+- Pricing: $17.99 (minimum price set by Amazon based on page count)
+
+HARDCOVER:
+- Same interior as paperback
+- Cover: Case laminate
+- Pricing: $29.99
+
+NOTES FOR AMAZON:
+- A+ Content: Add comparison tables, author photo, pull quotes
+- Enable "Look Inside" feature
+- Book description supports basic HTML formatting (<b>, <i>, <br>, <ul>)
+- After publishing, set up Amazon Author Central profile
+
+========================================
+2. DRAFT2DIGITAL (D2D)
+========================================
+
+STEP-BY-STEP:
+
+1) Log in to draft2digital.com
+2) Click "Add New Book"
+3) Upload Final_Book.docx
+   → D2D will auto-convert to EPUB with formatting preserved
+   → YAML front matter will be used for title/author/rights
+4) Enter metadata from Publishing_Package.txt:
+   - Title, Subtitle, Author, Description (Long + Short)
+   - Keywords and Categories
+   - Author Bio
+5) Upload Cover image (minimum 1600x2400 pixels, JPEG or PNG)
+6) Set pricing: $9.99
+7) Select distribution channels:
+   → Apple Books ✅
+   → Kobo ✅
+   → Barnes & Noble ✅
+   → OverDrive (libraries) ✅
+   → Scribd ✅
+   → Tolino ✅
+   → Vivlio ✅
+
+D2D UNIVERSAL BOOK LINK:
+- D2D provides a universal link that routes to all stores
+- Use this for marketing across all platforms
+
+NOTES FOR D2D:
+- D2D handles EPUB conversion — no manual EPUB needed
+- The .docx with YAML front matter and clean heading hierarchy is optimized for D2D
+- Verify Table of Contents auto-generation after upload
+- D2D also offers free ISBN assignment if needed
+- Print-on-Demand also available via D2D Print
+
+========================================
+3. COVER SPECIFICATIONS BY PLATFORM
+========================================
+
+KINDLE eBOOK:
+- Minimum: 625 x 1000 px
+- Ideal: 2560 x 1600 px (1.6:1 ratio)
+- Format: JPEG or TIFF
+- Max file size: 50MB
+- RGB color space
+
+D2D eBOOK:
+- Minimum: 1600 x 2400 px
+- Format: JPEG or PNG
+- RGB color space
+
+AMAZON PAPERBACK (6x9"):
+- Full cover wrap: front + spine + back
+- Use Amazon's Cover Calculator for exact spine width
+- Minimum 300 DPI
+- PDF format with bleed (0.125" on each side)
+- Trim: 6.125" x 9.25" (with bleed)
+
+HARDCOVER:
+- Same as paperback with hardcover template
+- Case laminate specifications from Amazon
+
+GENERATED COVERS IN THIS PACKAGE:
+- Cover_1_Penguin_Shadow.png — Corporate minimalist (Penguin/Economist style)
+- Cover_2_Network_Web.png — Data visualization style (red/orange on black)
+- Cover_3_Duality.png — Split design (skyline vs surveillance)
+- Cover_4_Circuit_Character.png — Tech-art style (digital character)
+
+→ These are concept covers. For final publishing:
+  - Upscale to minimum 2560x1600 (ebook) / 300 DPI (print)
+  - A professional designer should create the final print-ready cover with spine
+  - Use Cover_Brief.txt as the design brief for a professional designer
+
+========================================
+4. TIMELINE RECOMMENDATION
+========================================
+
+Day 1: Upload to Amazon KDP (eBook + Paperback)
+Day 1: Upload to D2D (for Apple Books, Kobo, B&N, etc.)
+Day 2-3: Amazon review period (usually 24-72 hours)
+Day 3-5: D2D distribution propagation to stores
+Day 5-7: Verify all store listings are live
+Day 7: Collect all store links for Publishing_Package.txt
+Day 7+: Begin promotional activities (Stage 3 Social Package)
+
+========================================
+5. PRE-FLIGHT CHECKLIST
+========================================
+
+[✅] Final_Book.docx — validated, 30,077 words
+[✅] Cover concepts — 4 generated
+[✅] Publishing_Package.txt — descriptions, keywords, categories, bio
+[  ] Professional cover finalized (user action)
+[  ] ISBN numbers assigned (user action or via D2D)
+[  ] Amazon KDP upload (user action)
+[  ] D2D upload (user action)
+[  ] Store links collected (user action → provide for Stage 2)
