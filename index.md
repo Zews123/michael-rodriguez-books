@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: "Michael Rodriguez | Financial Crime Expert & Money Laundering Books"
-description: "Investigative books on money laundering, financial crime, and the $32 trillion shadow economy by Michael Rodriguez. 28+ books exposing corruption, offshore banking, and elite power structures."
+description: "28+ investigative books on money laundering, financial crime, and the shadow economy by Michael Rodriguez. Exposing corruption and elite power."
 canonical_url: "https://michaelrodriguezbooks.com/"
 og_title: "Michael Rodriguez | Financial Crime Expert & Investigative Author"
 og_description: "28+ investigative books exposing money laundering, financial crime, and the $32 trillion shadow economy. Expert analysis of global corruption and elite power structures."
