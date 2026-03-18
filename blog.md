@@ -145,7 +145,19 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet.webp" alt="The Shadow Cabinet FAQ: Secret Power Networks Explained">
+      <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet_3D_2.webp" alt="Bilderberg, CFR, Trilateral Commission: The Declassified Record">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">March 18, 2026</span>
+      <h2>Bilderberg, CFR, and Trilateral Commission: The Declassified Record</h2>
+      <p>What 70 years of declassified documents, congressional testimony, and primary sources reveal about the world's most powerful elite coordination networks. Not conspiracy theory — verified evidence.</p>
+      <a href="{{ site.baseurl }}/blog/shadow-cabinet-bilderberg-cfr-evidence.html" class="read-more">Read More <span class="visually-hidden">about Bilderberg CFR Evidence</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet_3D_1.webp" alt="The Shadow Cabinet FAQ: Secret Power Networks Explained">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">March 14, 2026</span>
