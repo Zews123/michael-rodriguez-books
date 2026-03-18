@@ -12,6 +12,16 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet.webp" alt="The Shadow Cabinet: Conspiracy, Power, and the Architecture of Hidden Control by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The Shadow Cabinet</h3>
+      <p>Bilderberg, CFR, MK-Ultra, COINTELPRO, Operation Gladio — the first fact-verified investigation of secret power networks. Every claim tested against declassified documents and congressional testimony.</p>
+      <a href="{{ site.baseurl }}/books/free-chapter-shadow-cabinet" class="btn" style="background: #2e8b57; margin-right: 8px;">Free Chapter</a>
+      <a href="{{ site.baseurl }}/books/Shadow_Cabinet" class="btn">Read More <span class="visually-hidden">about The Shadow Cabinet by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Countdown_2040.webp" alt="Countdown to Collapse: The 2040 Crisis by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Countdown to Collapse</h3>

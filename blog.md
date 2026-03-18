@@ -145,6 +145,18 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet.webp" alt="The Shadow Cabinet FAQ: Secret Power Networks Explained">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">March 14, 2026</span>
+      <h2>The Shadow Cabinet: Your Questions Answered</h2>
+      <p>Bilderberg, CFR, MK-Ultra, Operation Gladio — answers to the most common questions about secret power networks and verified conspiracies. What the declassified documents reveal.</p>
+      <a href="{{ site.baseurl }}/blog/shadow-cabinet-faq.html" class="read-more">Read More <span class="visually-hidden">about Shadow Cabinet FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/Countdown_2040_3D_1.webp" alt="The 2040 Collapse: 5 Signs the World3 Model Was Right">
     </div>
     <div class="blog-card-content">

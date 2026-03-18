@@ -27,6 +27,15 @@ twitter_card: "summary_large_image"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet.webp" alt="The Shadow Cabinet: Conspiracy, Power, and the Architecture of Hidden Control by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The Shadow Cabinet</h3>
+      <p>Bilderberg, CFR, MK-Ultra, COINTELPRO, Operation Gladio — the first fact-verified investigation of secret power networks. Every claim tested against declassified documents, congressional testimony, and primary sources.</p>
+      <a href="{{ site.baseurl }}/books/Shadow_Cabinet" class="btn">Read More <span class="visually-hidden">about The Shadow Cabinet by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Countdown_2040.webp" alt="Countdown to Collapse: The 2040 Crisis by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>Countdown to Collapse</h3>
