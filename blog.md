@@ -145,6 +145,30 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Architect_of_Power_Blog_2.webp" alt="Kissinger's Realpolitik: The Architecture of Cold War Diplomacy">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">March 26, 2026</span>
+      <h2>Kissinger's Realpolitik: The Architecture of Cold War Diplomacy</h2>
+      <p>How Henry Kissinger's philosophy of realpolitik shaped the Cold War, opened China, and left a trail of civilian casualties across three continents. Primary sources and declassified documents.</p>
+      <a href="{{ site.baseurl }}/blog/architect-of-power-kissinger-realpolitik.html" class="read-more">Read More <span class="visually-hidden">about Kissinger Realpolitik</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Architect_of_Power_Blog_1.webp" alt="Kissinger FAQ: The Architect of Power Explained">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">March 26, 2026</span>
+      <h2>Architect of Power: Your Questions Answered</h2>
+      <p>Realpolitik, Vietnam, Chile coup, China opening — answers to the most asked questions about Henry Kissinger's legacy and the price of world order.</p>
+      <a href="{{ site.baseurl }}/blog/architect-of-power-kissinger-faq.html" class="read-more">Read More <span class="visually-hidden">about Architect of Power FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet_3D_2.webp" alt="Bilderberg, CFR, Trilateral Commission: The Declassified Record">
     </div>
     <div class="blog-card-content">

@@ -1,10 +1,10 @@
 ---
 layout: homepage
 title: "Michael Rodriguez | Financial Crime Expert & Money Laundering Books"
-description: "28+ investigative books on money laundering, financial crime, and the shadow economy by Michael Rodriguez. Exposing corruption and elite power."
+description: "29+ investigative books on money laundering, financial crime, and the shadow economy by Michael Rodriguez. Exposing corruption and elite power."
 canonical_url: "https://michaelrodriguezbooks.com/"
 og_title: "Michael Rodriguez | Financial Crime Expert & Investigative Author"
-og_description: "28+ investigative books exposing money laundering, financial crime, and the $32 trillion shadow economy. Expert analysis of global corruption and elite power structures."
+og_description: "29+ investigative books exposing money laundering, financial crime, and the $32 trillion shadow economy. Expert analysis of global corruption and elite power structures."
 og_type: "website"
 image: "https://michaelrodriguezbooks.com/assets/images/author-photo.webp"
 twitter_card: "summary_large_image"
@@ -26,6 +26,15 @@ twitter_card: "summary_large_image"
 
 ## Latest Books
 <div class="book-grid">
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Architect_of_Power.webp" alt="Architect of Power: Henry Kissinger and the Price of World Order by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>Architect of Power</h3>
+      <p>Henry Kissinger: refugee, strategist, Nobel laureate, accused war criminal. The definitive investigation into how one man shaped the world order — and the devastating price humanity paid for his vision.</p>
+      <a href="{{ site.baseurl }}/books/Architect_of_Power" class="btn">Read More <span class="visually-hidden">about Architect of Power by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
   <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet.webp" alt="The Shadow Cabinet: Conspiracy, Power, and the Architecture of Hidden Control by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">

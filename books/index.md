@@ -12,6 +12,16 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Architect_of_Power.webp" alt="Architect of Power: Henry Kissinger and the Price of World Order by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Architect of Power</h3>
+      <p>Henry Kissinger: refugee, strategist, Nobel laureate, accused war criminal. The definitive investigation into how one man shaped the world order — and the devastating price humanity paid.</p>
+      <a href="{{ site.baseurl }}/books/free-chapter-architect-of-power" class="btn" style="background: #2e8b57; margin-right: 8px;">Free Chapter</a>
+      <a href="{{ site.baseurl }}/books/Architect_of_Power" class="btn">Read More <span class="visually-hidden">about Architect of Power by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet.webp" alt="The Shadow Cabinet: Conspiracy, Power, and the Architecture of Hidden Control by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Shadow Cabinet</h3>
