@@ -145,6 +145,30 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Persian_Grudge_Blog_2.webp" alt="The 1953 CIA Coup in Iran: How Operation Ajax Created America's Greatest Enemy">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 3, 2026</span>
+      <h2>The 1953 CIA Coup in Iran: How Operation Ajax Created America's Greatest Enemy</h2>
+      <p>How a bankrupt Australian prospector, a British oil empire, and a CIA officer named Kermit Roosevelt toppled Iran's only democratic government — and set in motion seventy years of conflict.</p>
+      <a href="{{ site.baseurl }}/blog/persian-grudge-cia-coup-iran-history.html" class="read-more">Read More <span class="visually-hidden">about CIA Coup Iran History</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Persian_Grudge_Blog_1.webp" alt="The Persian Grudge FAQ: Iran-America Conflict Explained">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 3, 2026</span>
+      <h2>The Persian Grudge: Your Questions Answered</h2>
+      <p>Why do Iran and America hate each other? Did the CIA really overthrow Iran's democracy? What was the hostage crisis about? Seven essential questions answered with verified facts.</p>
+      <a href="{{ site.baseurl }}/blog/persian-grudge-faq.html" class="read-more">Read More <span class="visually-hidden">about Persian Grudge FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/Architect_of_Power_Blog_2.webp" alt="Kissinger's Realpolitik: The Architecture of Cold War Diplomacy">
     </div>
     <div class="blog-card-content">
@@ -537,6 +561,20 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
     "url": "https://michaelrodriguezbooks.com/"
   },
   "blogPost": [
+    {
+      "@type": "BlogPosting",
+      "headline": "The 1953 CIA Coup in Iran: How Operation Ajax Created America's Greatest Enemy",
+      "description": "How a bankrupt Australian prospector, a British oil empire, and a CIA officer named Kermit Roosevelt toppled Iran's only democratic government.",
+      "datePublished": "2026-04-03",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "The Persian Grudge: Your Questions Answered",
+      "description": "Why do Iran and America hate each other? Seven essential questions answered with declassified documents and verified facts.",
+      "datePublished": "2026-04-03",
+      "author": "Michael Rodriguez"
+    },
     {
       "@type": "BlogPosting",
       "headline": "The 2040 Collapse: 5 Signs the World3 Model Was Right",

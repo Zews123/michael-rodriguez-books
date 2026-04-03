@@ -27,6 +27,15 @@ twitter_card: "summary_large_image"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Persian_Grudge.webp" alt="The Persian Grudge: How Iran and America Became Mortal Enemies by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>The Persian Grudge</h3>
+      <p>1953 CIA coup to 2024 nuclear standoff — the full history of how Iran and America became mortal enemies. Declassified documents, verified facts, and the chain of decisions that turned allies into adversaries.</p>
+      <a href="{{ site.baseurl }}/books/Persian_Grudge" class="btn">Read More <span class="visually-hidden">about The Persian Grudge by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Architect_of_Power.webp" alt="Architect of Power: Henry Kissinger and the Price of World Order by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>Architect of Power</h3>

@@ -12,6 +12,16 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Persian_Grudge.webp" alt="The Persian Grudge: How Iran and America Became Mortal Enemies by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>The Persian Grudge</h3>
+      <p>1953 CIA coup to 2024 nuclear standoff — the full history of how Iran and America became mortal enemies. Declassified documents, verified facts, and the chain of decisions that turned allies into adversaries.</p>
+      <a href="{{ site.baseurl }}/books/free-chapter-persian-grudge" class="btn" style="background: #2e8b57; margin-right: 8px;">Free Chapter</a>
+      <a href="{{ site.baseurl }}/books/Persian_Grudge" class="btn">Read More <span class="visually-hidden">about The Persian Grudge by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Architect_of_Power.webp" alt="Architect of Power: Henry Kissinger and the Price of World Order by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Architect of Power</h3>
@@ -386,6 +396,14 @@ An examination of how nations increasingly use economic tools as weapons in glob
     "url": "https://michaelrodriguezbooks.com/"
   },
   "hasPart": [
+    {
+      "@type": "Book",
+      "name": "The Persian Grudge: How Iran and America Became Mortal Enemies",
+      "author": "Michael Rodriguez",
+      "description": "1953 CIA coup to 2024 nuclear standoff — the full history of how Iran and America became mortal enemies. Declassified documents and verified facts.",
+      "isbn": "9798233056147",
+      "datePublished": "2026-04-03"
+    },
     {
       "@type": "Book",
       "name": "Countdown to Collapse: The 2040 Crisis",
