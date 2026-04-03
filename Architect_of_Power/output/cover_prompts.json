@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "1 Chess Master",
+    "filename": "Cover_1_Chess_Master.png",
+    "prompt": "Create a professional book cover for a nonfiction political biography. Portrait orientation, vertical book cover format, aspect ratio 2:3. Design: A dramatic overhead view of a chess board where the pieces are tiny silhouettes of world leaders and diplomats. One hand \u2014 old, weathered, wearing a signet ring \u2014 reaches from the shadows to move a piece. The board is lit by a single overhead lamp casting harsh shadows. Color palette: deep navy blue, burnished gold, black. Cinematic lighting, film noir atmosphere. Typography: Title \"ARCHITECT OF POWER\" in bold gold serif font across the top third, large and commanding. Subtitle \"Henry Kissinger and the Price of World Order\" in smaller white serif beneath. Author name \"MICHAEL RODRIGUEZ\" in white caps at the bottom. Premium nonfiction book cover."
+  },
+  {
+    "id": 2,
+    "name": "2 Shadow",
+    "filename": "Cover_2_Shadow.png",
+    "prompt": "Create a professional book cover for a nonfiction political biography. Portrait orientation, vertical book cover format, aspect ratio 2:3. Design: A dramatic photograph-style image of a long shadow of a man in a suit cast across the floor of a grand marble government corridor. The corridor stretches into the distance with tall columns. The shadow is sharply defined while the corridor fades into mist. American and world flags barely visible in the background haze. Color palette: muted grays, deep charcoal, with one accent of deep red (a flag or carpet strip). Moody, atmospheric, slightly ominous. Typography: Title \"ARCHITECT OF POWER\" in large white bold serif font across the upper portion. Subtitle \"Henry Kissinger and the Price of World Order\" in smaller light gray text. Author name \"MICHAEL RODRIGUEZ\" in white at the bottom. Premium nonfiction book cover."
+  },
+  {
+    "id": 3,
+    "name": "3 Globe",
+    "filename": "Cover_3_Globe.png",
+    "prompt": "Create a professional book cover for a nonfiction political biography. Portrait orientation, vertical book cover format, aspect ratio 2:3. Design: A glass globe or world sphere sitting on a polished desk, with half the globe illuminated in warm golden light (representing diplomacy, order, civilization) and the other half in deep red-black shadow (representing war, coups, civilian cost). The globe has hairline cracks running through it. The desk surface reflects the globe faintly. Behind: a dark leather chair and the suggestion of a wood-paneled office. Color palette: gold, deep red, black, mahogany. Elegant and foreboding simultaneously. Typography: Title \"ARCHITECT OF POWER\" in bold gold serif at the top. Subtitle \"Henry Kissinger and the Price of World Order\" in white below. Author name \"MICHAEL RODRIGUEZ\" in gold at the bottom. Premium nonfiction book cover."
+  },
+  {
+    "id": 4,
+    "name": "4 Files",
+    "filename": "Cover_4_Files.png",
+    "prompt": "Create a professional book cover for a nonfiction political biography. Portrait orientation, vertical book cover format, aspect ratio 2:3. Design: An overhead view of a dark wooden desk covered with declassified documents, some with \"TOP SECRET\" stamps and heavy black redaction bars. A pair of wire-rimmed glasses sits on top of one document. A fountain pen rests beside them. One document corner is slightly curled. The desk is lit by a single desk lamp from above-right, creating dramatic shadows. Some text on the documents is visible but blurred except for key words: \"CAMBODIA,\" \"CHILE,\" \"DETENTE.\" Color palette: dark walnut, cream paper, black ink, red stamps. Atmospheric, investigative, documentary. Typography: Title \"ARCHITECT OF POWER\" in bold white serif across the top third. Subtitle \"Henry Kissinger and the Price of World Order\" in smaller off-white. Author name \"MICHAEL RODRIGUEZ\" in white at the bottom. Premium nonfiction book cover."
+  }
+]

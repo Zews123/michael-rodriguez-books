@@ -1,0 +1,570 @@
+================================================================================
+PLATFORM DISTRIBUTION GUIDANCE
+================================================================================
+
+Title:    THE PERSIAN GRUDGE — How Iran and America Became Mortal Enemies
+Author:   Michael Rodriguez
+Genre:    Political History / Geopolitics
+Format:   Ebook (primary), Paperback, Hardcover
+
+Last updated: 2025
+
+================================================================================
+1. DRAFT2DIGITAL (D2D) — PRIMARY DISTRIBUTOR
+================================================================================
+
+D2D serves as the wide-distribution backbone, pushing to Apple Books, Kobo,
+Barnes & Noble, libraries (OverDrive, BorrowBox), Scribd, Vivlio, and others
+from a single dashboard.
+
+FILE FORMAT REQUIREMENTS
+------------------------
+- Upload a clean .DOCX file (Microsoft Word or LibreOffice export).
+- Page size: US Letter or 6×9 — D2D reformats automatically, but consistent
+  source formatting prevents conversion artifacts.
+- Use Word's built-in Heading styles (Heading 1 for part titles, Heading 2 for
+  chapter titles). D2D uses these to generate the Table of Contents.
+- Embed fonts only if using non-standard typefaces; otherwise let D2D's
+  converter handle typography.
+- Images: insert inline at 300 DPI, RGB color mode. Keep total file size under
+  50 MB. Compress images with TinyPNG or similar before inserting.
+- Do NOT include headers, footers, or page numbers — ereaders handle these.
+- Front matter order: title page → copyright page → dedication → epigraph →
+  table of contents → author's note / preface.
+- Back matter order: acknowledgments → endnotes/bibliography → about the
+  author → also by Michael Rodriguez → call-to-action (mailing list link).
+- Insert D2D's "Universal Book Link" placeholder in back matter so each
+  retailer shows the correct purchase link for the reader's platform.
+
+METADATA ENTRY TIPS
+--------------------
+- Title: THE PERSIAN GRUDGE
+- Subtitle: How Iran and America Became Mortal Enemies
+  (Enter subtitle in the dedicated subtitle field, not appended to title.)
+- Author name: Michael Rodriguez
+- Series: Leave blank unless part of a planned series.
+- Description: Write two versions —
+    • Short (150 words): punchy hook + premise + stakes. Optimized for search.
+    • Long (500–800 words): full blurb with HTML formatting (<b>, <i>, <br>).
+  D2D allows HTML in descriptions. Use bold for pull-quotes and italics for
+  praise/endorsements.
+- BISAC categories (select up to 5):
+    1. POLITICAL SCIENCE / International Relations / General
+    2. HISTORY / Middle East / Iran
+    3. POLITICAL SCIENCE / American Government / General
+    4. HISTORY / United States / 21st Century
+    5. POLITICAL SCIENCE / Geopolitics
+- Language: English
+- Publication date: Set to your planned launch date (or pre-order date).
+- ISBN: D2D provides free ISBNs, or purchase your own through Bowker
+  (recommended for professional branding — the publisher name appears as yours
+  rather than "Draft2Digital").
+
+DISTRIBUTION CHANNELS — ENABLE / DISABLE
+------------------------------------------
+  ENABLE:
+  ✓ Apple Books
+  ✓ Kobo
+  ✓ Barnes & Noble (Nook)
+  ✓ OverDrive (libraries)
+  ✓ Scribd
+  ✓ Vivlio
+  ✓ Palace Marketplace
+  ✓ BorrowBox
+  ✓ Hoopla
+
+  DISABLE (if publishing direct):
+  ✗ Amazon Kindle — publish directly via KDP for better royalties (70% vs.
+    D2D's 60% pass-through) and access to KDP-specific tools (A+ Content,
+    Countdown Deals, advertising).
+
+  Note: Never list the same book on the same retailer through both D2D and
+  direct upload. This creates duplicate listings and violates terms of service.
+
+PRICING STRATEGY ACROSS CURRENCIES
+------------------------------------
+Set a USD anchor price and let D2D auto-convert, then manually adjust key
+markets for psychological pricing:
+
+  USD:  $9.99  (ebook)  |  $18.99 (paperback)  |  $28.99 (hardcover)
+  GBP:  £7.99           |  £14.99              |  £22.99
+  EUR:  €8.99           |  €16.99              |  €25.99
+  CAD:  $12.99          |  $24.99              |  $37.99
+  AUD:  $14.99          |  $27.99              |  $42.99
+
+- Price the ebook at $9.99 to qualify for 70% royalty on Amazon while
+  signaling "serious nonfiction" (not a $0.99 impulse buy).
+- If running a launch promotion, temporarily drop to $4.99 or $2.99 — never
+  $0.99 for political nonfiction (damages perceived authority).
+
+PRE-ORDER SETUP GUIDANCE
+--------------------------
+1. Upload a placeholder DOCX (even a title page only) to secure the listing
+   at least 3–4 weeks before launch. D2D allows up to 12 months of pre-order.
+2. Set the pre-order price $1–2 lower than launch price ($7.99 vs. $9.99) to
+   incentivize early buyers. On Apple Books, all pre-order sales count toward
+   Day 1 rankings — this is a major advantage.
+3. Upload the final manuscript at least 72 hours before the release date to
+   allow processing time across all channels.
+4. Promote the pre-order link using D2D's Universal Book Link (books2read.com)
+   — it auto-detects the reader's preferred retailer.
+5. Coordinate pre-order announcements with your email list, social media, and
+   any podcast/media appearances.
+
+
+================================================================================
+2. AMAZON KDP — DIRECT PUBLISHING
+================================================================================
+
+KDP SELECT CONSIDERATIONS: EXCLUSIVITY VS. WIDE DISTRIBUTION
+--------------------------------------------------------------
+KDP Select requires 90-day EXCLUSIVE enrollment in Amazon's ecosystem (no
+sales on Apple, Kobo, B&N, etc.).
+
+  RECOMMENDATION: DO NOT enroll in KDP Select for this title.
+
+  Rationale:
+  - Political history readers skew older and more diverse in their reading
+    platforms — many use Apple Books, Kobo, or library apps.
+  - Wide distribution maximizes discoverability across multiple ecosystems.
+  - Kindle Unlimited (included with KDP Select) pays per page read at roughly
+    $0.004–0.005/page — far less than a $9.99 sale at 70% royalty.
+  - KDP Select's main benefit (KU visibility, free promotions) favors genre
+    fiction more than serious nonfiction.
+
+  Exception: If after 6 months of wide distribution sales are heavily
+  concentrated on Amazon (>85%), consider a 90-day KDP Select experiment to
+  test KU performance. You can always un-enroll and return to wide afterward.
+
+A+ CONTENT RECOMMENDATIONS
+----------------------------
+A+ Content (formerly Enhanced Brand Content) is free for KDP authors and
+appears below the book description on the Amazon product page. Use it to:
+
+  1. "From the Author" module:
+     - Author photo + 200-word personal statement connecting you to the topic.
+     - Example: "I spent three years interviewing diplomats, intelligence
+       officers, and scholars on both sides of this conflict..."
+
+  2. Comparison table module:
+     - Compare THE PERSIAN GRUDGE to related titles readers might know,
+       highlighting what makes yours unique (narrative approach, new sources,
+       contemporary relevance).
+
+  3. Image + text module:
+     - Use a timeline graphic (1953 coup → hostage crisis → nuclear deal →
+       Soleimani → present) as a visual hook.
+     - Include a map of the Middle East with key locations referenced in the
+       book.
+
+  4. Editorial review quotes:
+     - Pull early reviews, endorsements, or blurbs and display them
+       prominently with reviewer attribution.
+
+  Note: A+ Content is only available on Amazon.com (US), Amazon.co.uk, and a
+  few other Amazon marketplaces. Prepare content for at least US and UK.
+
+CATEGORY SELECTION STRATEGY
+-----------------------------
+Amazon allows 3 categories at upload, but you can request up to 10 total by
+contacting KDP Support after publication.
+
+  Primary categories (select at upload):
+  1. Kindle Store > Kindle eBooks > History > Middle East > Iran
+  2. Kindle Store > Kindle eBooks > Politics & Social Sciences >
+     Politics & Government > International & World Politics > Middle Eastern
+  3. Kindle Store > Kindle eBooks > Politics & Social Sciences >
+     Politics & Government > Specific Topics > Political Freedom
+
+  Additional categories (request via KDP Support after publishing):
+  4. Books > History > Middle East > Iran
+  5. Books > Politics & Social Sciences > Politics & Government >
+     International & World Politics > Diplomacy
+  6. Books > History > Americas > United States > 21st Century
+
+  Why this matters: Smaller categories are easier to rank in. A top-10
+  position in "History > Middle East > Iran" is far more achievable than
+  "History" overall, and the orange "Best Seller" tag carries the same weight
+  regardless of category size.
+
+KINDLE COUNTDOWN DEALS STRATEGY
+---------------------------------
+Available only if NOT enrolled in KDP Select? No — Countdown Deals are a KDP
+Select feature. Since we recommend wide distribution, this tool is unavailable.
+
+  Alternative promotion strategies on KDP without Select:
+  - Temporary price drop to $4.99 for 5–7 days, coordinated with email blasts
+    and social media.
+  - Amazon Advertising (Sponsored Products campaigns) — target competitor
+    titles and relevant keywords. Budget: $10–20/day during launch month.
+  - Time price promotions to coincide with relevant news events (Iran nuclear
+    talks, diplomatic incidents, anniversary dates of key events in the book).
+
+PAPERBACK / HARDCOVER THROUGH KDP PRINT
+-----------------------------------------
+  Paperback:
+  - Trim size: 6" × 9" (standard for nonfiction, good shelf presence).
+  - Paper: white paper (better for books with images/maps) or cream paper
+    (easier on the eyes for text-heavy reads). Recommendation: cream.
+  - Cover finish: matte (signals literary/serious nonfiction).
+  - Upload a print-ready PDF interior and a cover PDF using Amazon's cover
+    template (includes barcode placement and spine width calculation).
+  - Price: $18.99 (printing cost for ~350 pages at 6×9 cream is roughly
+    $5.50, leaving ~$6.15 royalty at 60% after printing costs).
+
+  Hardcover:
+  - Available on KDP as case laminate (printed cover glued to boards).
+  - Trim size: 6" × 9"
+  - Price: $28.99 (printing cost is higher, ~$10–12, but hardcovers signal
+    prestige and make excellent gifts).
+  - Consider launching hardcover simultaneously with ebook, then adding
+    paperback 3–6 months later at a lower price point.
+
+  Expanded Distribution: Enable this in KDP Print settings to make the
+  paperback available to bookstores and libraries through Ingram's network.
+  Note: Royalties are lower (40% list minus printing cost), but it extends
+  reach significantly.
+
+
+================================================================================
+3. APPLE BOOKS — VIA D2D OR DIRECT
+================================================================================
+
+APPLE BOOKS-SPECIFIC METADATA
+-------------------------------
+- Apple Books uses its own category taxonomy. When publishing via D2D, the
+  BISAC codes you selected are automatically mapped to Apple's categories.
+- If publishing direct via Apple Books for Authors (formerly iTunes Connect):
+    • Category 1: Nonfiction > Politics & Current Events > International
+    • Category 2: Nonfiction > History
+- Apple Books supports rich HTML descriptions. Use formatting liberally:
+  bold key phrases, add line breaks, include a "What you'll learn" section.
+- Apple allows a "sample" of up to 20% of the book. Ensure Part 1 contains
+  a strong hook — Apple readers frequently browse samples before buying.
+- Add editorial reviews/blurbs if available — Apple prominently displays these.
+
+PRE-ORDER ADVANTAGES ON APPLE
+-------------------------------
+Apple Books is the BEST platform for pre-orders because:
+
+  1. All pre-order sales are credited to release day. If 200 people pre-order
+     over 4 weeks, Apple counts all 200 as Day 1 sales — dramatically boosting
+     your chart position on launch day.
+  2. Apple allows pre-orders up to 12 months in advance.
+  3. Apple features pre-orders in editorial collections and "Coming Soon" lists
+     — free visibility before the book even launches.
+
+  Action plan:
+  - Set up the Apple pre-order (via D2D or direct) at least 4 weeks before
+    launch.
+  - Price the pre-order at $7.99 (vs. $9.99 launch price).
+  - Drive as many pre-orders as possible to Apple specifically — share the
+    direct Apple Books link with your audience segments who use Apple devices.
+  - After launch, raise the price to $9.99.
+
+
+================================================================================
+4. KOBO — VIA D2D
+================================================================================
+
+KOBO PLUS ELIGIBILITY
+-----------------------
+Kobo Plus is Kobo's subscription reading service (similar to Kindle Unlimited).
+When distributing via D2D, you can opt your title into Kobo Plus.
+
+  RECOMMENDATION: Opt IN to Kobo Plus.
+
+  Rationale:
+  - Unlike KDP Select, Kobo Plus does NOT require exclusivity. You can be in
+    Kobo Plus and sell on every other platform simultaneously.
+  - Kobo Plus pays a per-read share from a monthly pool. The payout per borrow
+    is typically lower than a full-price sale, but it provides incremental
+    revenue and discoverability with no downside.
+  - Kobo has a strong international presence (Canada, Australia, Netherlands,
+    Japan, Belgium) — political nonfiction readers in these markets often
+    discover books through Kobo Plus.
+
+  To enable: In your D2D dashboard, look for the Kobo Plus toggle on your
+  book's distribution settings page. Check the box. That's it.
+
+PROMOTIONAL OPPORTUNITIES
+---------------------------
+- Kobo runs regular promotional events (Daily Deals, genre-specific sales).
+  These are typically managed through D2D's promotions tab or by Kobo's
+  merchandising team selecting titles from the D2D catalog.
+- To increase chances of being selected:
+    • Ensure cover art is high quality and genre-appropriate.
+    • Keep your description polished and keyword-rich.
+    • Participate in D2D promotional events, which often feed into Kobo's
+      merchandising pipeline.
+- Kobo Writing Life (direct dashboard) offers more granular promotional tools.
+  Consider creating a direct Kobo account in parallel with D2D distribution
+  for access to these tools — but only if you disable Kobo distribution
+  through D2D to avoid duplicate listings.
+
+
+================================================================================
+5. BARNES & NOBLE — VIA D2D
+================================================================================
+
+NOOK PRESS CONSIDERATIONS
+---------------------------
+- D2D distributes to Barnes & Noble's Nook platform automatically. There is
+  no need to create a separate Nook Press account unless you want direct
+  control over B&N-specific promotions.
+- B&N's ebook market share is small (~5–7%) but still worth serving. Their
+  customer base skews toward readers who also buy physical books.
+- Ensure your book description is clean and well-formatted — B&N's rendering
+  engine handles HTML differently from other platforms. Test the listing after
+  it goes live and contact D2D support if formatting looks off.
+- B&N offers a "Free Friday" promotion for selected titles. While not suitable
+  for a $9.99 political history, be aware of their "Nook Daily Find" deals at
+  $1.99–$4.99 — D2D can submit your title for consideration.
+- Physical bookstore placement: B&N stores stock print books through Ingram.
+  Enabling KDP Print's Expanded Distribution or using IngramSpark gives your
+  paperback/hardcover a chance of appearing in B&N's physical stores (though
+  placement is never guaranteed without a traditional publisher or distributor
+  relationship).
+
+
+================================================================================
+6. LAUNCH STRATEGY
+================================================================================
+
+WEEK 1-4 TIMELINE
+-------------------
+
+  WEEK 1 (Pre-launch: T-28 to T-21 days)
+  ----------------------------------------
+  □ Finalize manuscript — complete final proofread, format DOCX for D2D.
+  □ Upload to D2D as a pre-order (placeholder file is fine).
+  □ Upload to KDP as a pre-order (ebook + paperback + hardcover).
+  □ Set pre-order price: $7.99 ebook / $18.99 paperback / $28.99 hardcover.
+  □ Set up A+ Content on Amazon (draft all modules).
+  □ Send ARC (Advance Reader Copy) to 20–30 target reviewers:
+      - Book bloggers covering politics/history/geopolitics.
+      - Journalists or academics in Middle Eastern studies.
+      - Podcasters with relevant audiences.
+      - Goodreads reviewers active in political nonfiction.
+  □ Post "cover reveal" on social media (coordinate with Stage 3 assets).
+  □ Email list announcement: "Pre-order now available" with links.
+
+  WEEK 2 (Pre-launch: T-20 to T-14 days)
+  ----------------------------------------
+  □ Upload final manuscript to D2D and KDP (replace placeholder files).
+  □ Begin Amazon Advertising campaigns (Sponsored Products):
+      - Campaign 1: Target competitor book ASINs (similar Iran/US books).
+      - Campaign 2: Target keywords ("iran history," "us iran relations,"
+        "middle east politics," "persian gulf conflict").
+      - Budget: $15/day, bid: $0.50–0.75 per click.
+  □ Share pre-order excerpts on social media (quote graphics from Stage 3).
+  □ Contact podcast hosts for launch-week interview slots.
+  □ Follow up with ARC recipients — remind them to post reviews on launch day.
+
+  WEEK 3 (Launch week: T-7 to T-0)
+  ----------------------------------
+  □ Final check: verify all listings are live and correctly formatted on every
+    platform (Amazon, Apple, Kobo, B&N).
+  □ Launch day email blast to full mailing list.
+  □ Social media blitz (coordinated posts across platforms, using Stage 3
+    graphics, video trailers, and quote cards).
+  □ Request friends/family/colleagues post honest reviews on Amazon and
+    Goodreads on Day 1 (aim for 10+ reviews by end of Day 1).
+  □ Raise ebook price from $7.99 to $9.99 on Day 1 (pre-order discount ends).
+  □ Publish A+ Content on Amazon (if not already live).
+  □ Engage actively on social media — respond to comments, share reader posts,
+    participate in relevant conversations about US-Iran relations.
+
+  WEEK 4 (Post-launch: T+1 to T+7 days)
+  ----------------------------------------
+  □ Monitor sales data daily across all platforms.
+  □ Adjust Amazon Advertising bids and keywords based on first-week data.
+  □ Send follow-up email to anyone who opened but didn't click on launch email.
+  □ Submit the book for editorial review sites with longer lead times:
+      - Kirkus Indie (paid, ~$425, 7–9 week turnaround).
+      - BlueInk Review (paid, ~$395).
+      - BookLife by Publishers Weekly (free, 8–10 weeks).
+  □ Begin planning first price promotion (2–3 weeks post-launch).
+  □ Reach out to newsletter services for future promotions:
+      - BookBub (submit for Featured Deal — long shot but highest ROI).
+      - Written Word Media.
+      - FreeBooksy/BargainBooksy.
+      - Robin Reads.
+
+REVIEW SOLICITATION APPROACH
+------------------------------
+Reviews are the single most important social proof for book sales. Strategy:
+
+  1. ARC Distribution (pre-launch):
+     - Use BookFunnel or StoryOrigin to distribute ARCs with built-in follow-up
+       reminders asking for reviews.
+     - Target 30 ARC recipients to realistically get 10–15 launch-day reviews.
+
+  2. Amazon review requests (post-launch):
+     - Include a gentle call-to-action at the end of the book: "If you found
+       this book valuable, a brief honest review on Amazon helps other readers
+       discover it."
+     - Never incentivize reviews (violates Amazon TOS).
+     - Ask your email list to leave reviews — but emphasize "honest" to stay
+       compliant.
+
+  3. Goodreads:
+     - Create a Goodreads Author Profile if you don't have one.
+     - List the book on Goodreads well before launch (it may already appear
+       from Amazon/D2D metadata).
+     - Run a Goodreads Giveaway (ebook giveaway is ~$119) to generate buzz
+       and "to-read" shelving.
+
+  4. Editorial reviews:
+     - Even one Kirkus or PW review provides lifetime marketing material and
+       credibility with bookstores and libraries.
+
+PRICE PROMOTION SEQUENCE
+--------------------------
+  Launch day:       $9.99 (full price — maximize revenue from launch-day buzz)
+  Week 3–4:         $4.99 (first promotion — coordinate with BookBub/newsletter
+                     submissions, social media push, Amazon ad budget increase)
+  Week 6–8:         $9.99 (return to full price)
+  Month 3:          $2.99 (deep discount for 3–5 days, timed to a relevant news
+                     event — e.g., anniversary of a key US-Iran incident,
+                     nuclear talks, election cycle)
+  Month 6+:         Rotate between $9.99 and $6.99 quarterly, testing which
+                     price point maximizes revenue (not just units sold).
+
+  Never permanently reduce below $4.99 for political nonfiction — it signals
+  "remainder bin" to serious readers.
+
+SOCIAL MEDIA COORDINATION WITH STAGE 3 DELIVERABLES
+------------------------------------------------------
+Stage 3 deliverables (graphics, video, social assets) should be deployed in
+a coordinated cadence:
+
+  Pre-launch (Weeks 1–2):
+  - Cover reveal graphic (Instagram, X/Twitter, Facebook, LinkedIn)
+  - "Coming soon" countdown graphics (1/week, then 1/day in final 3 days)
+  - Author video: "Why I wrote this book" (60–90 seconds, for Instagram Reels,
+    TikTok, YouTube Shorts)
+  - Quote cards: 3–4 provocative passages from the book as shareable graphics
+
+  Launch week (Week 3):
+  - Launch announcement graphic with purchase links
+  - Book trailer video (if produced) — share on all platforms
+  - Daily quote cards (one per day for 7 days)
+  - Behind-the-scenes content: research process, key discoveries, deleted
+    chapters
+  - Instagram/Facebook Stories: poll questions about US-Iran relations to
+    drive engagement
+
+  Post-launch (Week 4+):
+  - Reader testimonial graphics (as reviews come in)
+  - "Did you know?" fact graphics drawn from the book's content
+  - Podcast appearance announcements with audiogram clips
+  - Repurpose book content into Twitter/X threads (e.g., "The 7 moments that
+    defined US-Iran hostility — a thread 🧵")
+
+
+================================================================================
+7. KEYWORDS & CATEGORIES OPTIMIZATION
+================================================================================
+
+AMAZON CATEGORY HACK
+----------------------
+Amazon allows 7 keywords (actually keyword phrases, up to 50 characters each)
+at upload. These keywords serve double duty: they help readers find your book
+via search AND they can place your book in additional browse categories that
+aren't available in KDP's standard category selector.
+
+  Recommended keyword phrases:
+  1. iran america history cold war middle east
+  2. us iran relations hostage crisis 1979
+  3. persian gulf geopolitics nuclear deal
+  4. iranian revolution shah cia coup 1953
+  5. soleimani assassination trump iran policy
+  6. middle east conflict diplomacy foreign policy
+  7. tehran washington political history nonfiction
+
+  Category-triggering keywords:
+  Some keyword phrases automatically place your book in specific categories.
+  Research current triggers using Publisher Rocket or by checking Amazon's
+  category strings. Examples that historically trigger useful categories:
+
+  - "foreign policy" → may trigger: Books > Politics > International >
+    Diplomacy
+  - "cold war history" → may trigger: Books > History > Military > Cold War
+  - "middle east politics" → may trigger: Books > Politics > International >
+    Middle Eastern
+
+  Important: Amazon's category-triggering keywords change periodically. Use
+  Publisher Rocket ($199 one-time) or manually research by browsing Amazon
+  category pages and noting the URL structure to identify exact category paths.
+
+  After publication, request additional categories by emailing KDP Support at
+  kdp-support@amazon.com:
+  Subject: "Category addition request for ASIN [your ASIN]"
+  Body: "Please add my book to the following categories: [list exact category
+  browse paths]"
+  Amazon typically approves 8–10 total categories.
+
+SEASONAL RELEVANCE — GEOPOLITICAL EVENT HOOKS
+-----------------------------------------------
+Political nonfiction enjoys demand spikes tied to news events. Plan marketing
+pushes around predictable dates and be ready to capitalize on breaking news:
+
+  Predictable annual hooks:
+  - November 4: Anniversary of the 1979 Iran hostage crisis.
+  - January 3: Anniversary of the Soleimani assassination (2020).
+  - March 20: Nowruz (Persian New Year) — cultural relevance hook.
+  - August 19: Anniversary of the 1953 CIA coup in Iran.
+  - September: UN General Assembly — Iran-related diplomacy often dominates
+    headlines.
+  - US election cycles: Iran policy is a recurring campaign issue.
+
+  Breaking news hooks:
+  - Nuclear negotiations progress or collapse.
+  - Military incidents in the Persian Gulf or Strait of Hormuz.
+  - Sanctions announcements or diplomatic overtures.
+  - Protests or political upheaval in Iran.
+  - Hostage or prisoner exchange events.
+
+  Action plan for news hooks:
+  1. Monitor Reuters, AP, and Al Jazeera for Iran-related breaking news.
+  2. Within 24 hours of a major event, post social media content linking the
+     news to your book's analysis (e.g., "I wrote about exactly this scenario
+     in Chapter 12 of THE PERSIAN GRUDGE — here's what history tells us will
+     happen next").
+  3. Run a 48-hour price promotion ($4.99) timed to the news cycle.
+  4. Boost Amazon Advertising spend by 3× for 72 hours targeting news-related
+     keywords.
+  5. Pitch op-eds or commentary pieces to media outlets, referencing your book.
+
+  Keyword updates:
+  - Revisit your Amazon keywords quarterly. If a new term enters public
+    discourse (e.g., a specific treaty name, military operation, or political
+    figure), swap it into your keyword list.
+  - D2D keywords can also be updated at any time through the dashboard.
+
+
+================================================================================
+QUICK REFERENCE CHECKLIST
+================================================================================
+
+  □ D2D account created, book uploaded as pre-order
+  □ KDP account created, ebook + print editions uploaded
+  □ Amazon disabled in D2D distribution channels
+  □ A+ Content prepared and published on Amazon
+  □ Kobo Plus opted in via D2D
+  □ Apple Books pre-order live (via D2D)
+  □ 7 keyword phrases entered in KDP
+  □ 3+ Amazon categories selected; additional categories requested
+  □ ARC copies sent to 20–30 reviewers
+  □ Amazon Advertising campaigns launched
+  □ Email list notified of pre-order
+  □ Social media launch calendar populated with Stage 3 assets
+  □ Price promotion schedule planned for months 1–6
+  □ News event calendar marked with seasonal hooks
+  □ Goodreads Author Profile created and book listed
+  □ BookBub Featured Deal submitted (submit early — long waitlist)
+
+================================================================================
+END OF PLATFORM DISTRIBUTION GUIDANCE
+================================================================================

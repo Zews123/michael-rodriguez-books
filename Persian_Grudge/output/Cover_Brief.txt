@@ -1,0 +1,283 @@
+COVER DESIGN BRIEF
+===================
+Title:    THE PERSIAN GRUDGE
+Subtitle: How Iran and America Became Mortal Enemies
+Author:   Michael Rodriguez
+Genre:    Political History / Geopolitics / Nonfiction
+Trim:     6 x 9 in (standard nonfiction)
+Retailer: Amazon Kindle + print (must read at thumbnail)
+
+Competitor references:
+  - Stephen Kinzer, "All the Shah's Men" (sepia photograph cover)
+  - David Crist, "The Twilight War" (dark military silhouette)
+  - Trita Parsi, "Losing an Enemy" (clean white diplomatic look)
+  - Kim Ghattas, "Black Wave" (bold red-and-black type)
+
+Our covers must feel more urgent, more contemporary, and more
+visually striking than any of the above at thumbnail scale.
+
+========================================================================
+CONCEPT 1 — SYMBOLIC / MINIMALIST
+"The Knotted Flags"
+========================================================================
+
+VISUAL ELEMENT:
+Two narrow vertical ribbons of fabric — one the stars-and-stripes of
+the American flag, one the green-white-red of the Iranian flag — tied
+together in a single, impossibly tight knot at the center of the cover.
+The knot should look stressed, fraying at the edges, as though the
+fabrics are about to tear. Below the knot, a few loose threads hang
+down. The ribbons extend to the top and bottom edges of the cover,
+giving a sense of tension pulling in opposite directions.
+
+The background is a deep, matte charcoal-black — almost slate — with a
+very subtle texture (linen or brushed concrete) so it doesn't feel
+digitally flat.
+
+COLOR PALETTE:
+  - Background: charcoal black (#1C1C1E)
+  - American ribbon: accurate flag colors (Old Glory Red #BF0A30,
+    Old Glory Blue #002868, white)
+  - Iranian ribbon: accurate flag colors (green #239F40, white,
+    red #DA0000)
+  - Title text: warm off-white (#F5F0E8)
+  - Subtitle text: muted gold (#C9A96E)
+  - Author name: same muted gold, smaller weight
+
+TYPOGRAPHY:
+  - Title "THE PERSIAN GRUDGE" in a condensed, all-caps serif with
+    sharp terminals — think Didot Bold Condensed or Playfair Display
+    Black. Large enough to fill the width of the cover. Kerning tight.
+    Positioned in the upper third, above the knot.
+  - Subtitle in a clean sans-serif (Neue Haas Grotesk or Helvetica Now
+    Text Light), small caps, letterspaced +80, centered below the knot.
+  - Author name at the bottom in the same sans-serif, regular weight.
+
+THUMBNAIL TEST:
+At thumbnail, the viewer sees: a dark rectangle, two colored streaks
+meeting in a visible knot, and large white title text. The contrast
+is immediate. The knot reads as conflict even at 80 px tall.
+
+DESIGNER NOTES:
+No photographs. No maps. No people. The entire emotional weight is
+carried by the knot metaphor. This cover says: these two nations are
+bound together by a grudge neither can untie. Consider a spot-UV or
+foil treatment on the knot for the print edition.
+
+
+========================================================================
+CONCEPT 2 — PHOTOGRAPHIC / DOCUMENTARY
+"The Burning Embassy"
+========================================================================
+
+VISUAL ELEMENT:
+A full-bleed, high-contrast black-and-white photograph fills the
+entire cover. The image evokes the 1979 US Embassy takeover in Tehran:
+a crowd of protesters surging toward a compound wall, fists raised,
+banners overhead. The photograph should feel archival — slightly
+grainy, with crushed blacks and blown-out highlights, as though pulled
+from a wire-service negative.
+
+Over the top half of the photograph, a bold translucent wash of deep
+blood-red (#8B0000 at roughly 60% opacity) bleeds downward like a
+gradient, fading into the untouched black-and-white image below. The
+title sits within this red zone.
+
+At the very bottom of the cover, a thin horizontal strip (approx.
+0.5 in) shows a contrasting modern color photograph — a tight crop of
+the Iranian and American flags side by side on a negotiating table, or
+two diplomats' hands almost touching across a table. This strip is in
+full, saturated color, creating a jarring time-jump from 1979 to the
+present.
+
+COLOR PALETTE:
+  - Photograph: true black-and-white, high contrast
+  - Overlay gradient: deep blood-red (#8B0000) to transparent
+  - Bottom strip: full color, desaturated just 10%
+  - Title text: pure white (#FFFFFF)
+  - Subtitle text: light warm gray (#D4CDC3)
+  - Author name: white
+
+TYPOGRAPHY:
+  - Title in a bold slab serif — Rockwell Extra Bold or Sentinel Black.
+    All caps. Stacked on two lines: "THE PERSIAN" / "GRUDGE" with
+    "GRUDGE" significantly larger (150% scale) to create visual weight
+    at the bottom of the title block.
+  - Subtitle in a light sans-serif (Proxima Nova Light), sentence case,
+    italicized, positioned just below the title.
+  - Author name at the bottom, inside or just above the color strip,
+    in small caps sans-serif.
+
+THUMBNAIL TEST:
+At thumbnail, the viewer sees: a dramatic dark image with a red wash,
+large white slab-serif text, and a thin line of color at the bottom
+that creates intrigue. The red-over-black-and-white reads as
+"historical conflict" instantly.
+
+DESIGNER NOTES:
+Use royalty-free or public-domain archival imagery. If exact 1979
+embassy photos pose rights issues, use a stylistically similar crowd
+scene or composite. The grainy, analog quality is essential — this must
+not look like a stock photo. Consider adding a barely visible datestamp
+"1979" in the lower-left corner of the B&W section in a monospaced
+typeface (Courier) as a subtle documentary detail.
+
+
+========================================================================
+CONCEPT 3 — TYPOGRAPHIC / BOLD
+"The Cracked Title"
+========================================================================
+
+VISUAL ELEMENT:
+The cover is almost entirely typography. The title "THE PERSIAN GRUDGE"
+dominates 70% of the cover area, set in an extremely heavy, ultra-bold
+condensed sans-serif (Impact, Bebas Neue Black, or custom hand-lettered
+block letters). The letters are packed edge-to-edge with almost no
+margins — they should feel like they are pressing against the cover
+boundaries, claustrophobic and aggressive.
+
+A single dramatic crack runs vertically through the center of the word
+"GRUDGE," splitting the letters G-R-U | D-G-E. The crack is irregular,
+jagged — like fractured concrete or broken stone. Through the crack, a
+sliver of a photograph is visible: a strip of the Iranian landscape
+(desert, mountains, or the Azadi Tower silhouette at sunset in warm
+amber tones). This crack-and-glimpse effect is the only visual imagery
+on the cover.
+
+The background behind the letters is a flat, saturated navy blue
+(#0A1628) — dark enough to feel serious, blue enough to feel political.
+
+COLOR PALETTE:
+  - Background: deep navy (#0A1628)
+  - Title text: stark white (#FFFFFF) or very pale ice-blue (#E8EDF2)
+  - Crack interior: warm amber/ochre photograph (#D4890F tones)
+  - Subtitle text: amber gold (#D4890F)
+  - Author name: white, 40% opacity
+
+TYPOGRAPHY:
+  - Title: ultra-bold condensed sans-serif, all caps. "THE PERSIAN" on
+    line one, "GRUDGE" on line two, with "GRUDGE" at least 180% the
+    size of "THE PERSIAN." The letters in "GRUDGE" should touch or
+    nearly touch each other and the cover edges.
+  - Subtitle centered below, in a refined serif (Garamond Premier or
+    Cormorant Garamond) at a much smaller size — the contrast between
+    the brutal title font and the elegant subtitle font is intentional.
+    Sentence case, italicized.
+  - Author name at the very bottom, sans-serif, small caps, letterspaced.
+  - Optional: a one-line endorsement blurb at the very top in small
+    italic serif, e.g., "A gripping history of the world's most
+    dangerous rivalry."
+
+THUMBNAIL TEST:
+At thumbnail, the viewer sees: a dark blue field, enormous white block
+letters, and a golden crack splitting the word. It reads as powerful,
+confrontational, and high-stakes. The typography alone sells the book.
+
+DESIGNER NOTES:
+This concept lives or dies on the typography. Commission custom
+lettering if budget allows. The crack must feel organic, not like a
+Photoshop filter — hand-draw it or use displacement mapping on a real
+concrete-crack texture. The amber landscape visible through the crack
+should be subtle, not overpowering — it's a whisper of place inside
+a shout of conflict.
+
+
+========================================================================
+CONCEPT 4 — SPLIT / CONTRAST
+"Two Capitals"
+========================================================================
+
+VISUAL ELEMENT:
+The cover is divided vertically into two exact halves by a thin,
+razor-sharp line (1-2 px, metallic gold or white).
+
+LEFT HALF — TEHRAN:
+A moody, desaturated photograph of Tehran's skyline with the Milad
+Tower (or Azadi Tower) visible. Color-graded in cool tones: teal,
+slate blue, muted green. The sky is overcast or shows a sunset filtered
+through smog. Overlaid with a very faint, ghostly watermark of Persian
+calligraphy (a line from Hafez or Ferdowsi) at low opacity. The mood
+is ancient, brooding, proud.
+
+RIGHT HALF — WASHINGTON:
+A similarly moody photograph of the Washington, D.C. skyline — the
+Capitol dome or the Lincoln Memorial. Color-graded in warm tones:
+amber, warm gray, desaturated gold. The sky mirrors the Tehran side
+in composition (same cloud line, same horizon height) but differs in
+color temperature. Overlaid with a faint watermark of the US
+Constitution's "We the People" preamble at the same low opacity.
+
+The two halves should be photographed or composed to feel like mirror
+images — same scale, same horizon line, same level of detail — so the
+viewer's eye immediately registers the comparison.
+
+The title is centered across both halves, bridging the dividing line.
+This is critical: the title literally spans the divide.
+
+COLOR PALETTE:
+  - Left half (Tehran): teal-blue-green tones (#1A3A4A, #2E5A5A, #4A7A6A)
+  - Right half (D.C.): amber-gold-warm tones (#5A4A2E, #8A7A5A, #C4A46A)
+  - Dividing line: metallic gold (#C9A96E) or crisp white
+  - Title text: white (#FFFFFF) with a subtle drop shadow for legibility
+    over the photographic backgrounds
+  - Subtitle text: metallic gold (#C9A96E)
+  - Author name: white, bottom center
+
+TYPOGRAPHY:
+  - Title in a strong, elegant serif — Freight Display Bold or
+    Tiempos Headline Bold. All caps, generously letterspaced (+60).
+    Centered vertically in the upper third, spanning both halves.
+    "THE PERSIAN GRUDGE" on one line if it fits; otherwise stacked
+    as "THE PERSIAN" / "GRUDGE."
+  - Subtitle in a refined sans-serif (Neue Haas Grotesk Light), small
+    caps, centered below the title.
+  - Author name at the bottom, serif, regular weight.
+  - Optional: "TEHRAN" in tiny letterspaced caps at the bottom of the
+    left half, "WASHINGTON" in the same style at the bottom of the
+    right half — as subtle geographic labels.
+
+THUMBNAIL TEST:
+At thumbnail, the viewer sees: a cover cleanly split into a cool blue
+half and a warm gold half, divided by a visible line, with white text
+bridging both. The split composition is unique among competitor covers
+and immediately communicates duality, opposition, and two-sided
+storytelling.
+
+DESIGNER NOTES:
+The mirror-image composition is everything. Spend time finding or
+shooting photographs of both skylines at the same angle, same focal
+length, same time of day. If exact matches aren't possible, use
+artistic composites. The ghostly calligraphy / Constitution watermarks
+should be visible only on close inspection — they reward the reader
+who picks up the physical book. For the print edition, consider a
+soft-touch matte laminate with spot-gloss on the dividing line and
+title text.
+
+
+========================================================================
+GENERAL NOTES FOR ALL CONCEPTS
+========================================================================
+
+SPINE TEXT:
+  All concepts should include spine design: title in the same typeface
+  as the cover, author name below, publisher logo at the bottom. Spine
+  background should match the dominant cover color.
+
+BACK COVER:
+  Brief synopsis (150 words), 2-3 endorsement blurbs, barcode area,
+  publisher info. Background color and typography consistent with the
+  front cover concept chosen.
+
+EBOOK OPTIMIZATION:
+  All concepts must be tested at 80 x 120 px (Amazon thumbnail) to
+  ensure title legibility and visual impact. Avoid fine details that
+  disappear at small sizes.
+
+FILE DELIVERY:
+  - Print-ready PDF at 300 DPI, CMYK, with 0.125 in bleed
+  - Ebook cover as RGB JPEG/PNG, 2560 x 1600 px (Amazon KDP spec)
+  - Social media assets: square (1080 x 1080) and story (1080 x 1920)
+
+========================================================================
+END OF BRIEF
+========================================================================

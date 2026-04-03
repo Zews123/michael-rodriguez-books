@@ -720,6 +720,7 @@ Requirements:
 7. Length: 50-4,000 characters
 8. DO NOT mention word count or page count
 9. DO NOT invent claims not in the book
+10. PLAIN TEXT ONLY — no HTML tags (<b>, <i>, <br>, etc.). The text must be ready to copy-paste directly into D2D/Amazon without any formatting cleanup.
 ```
 
 ### Book Description (Short)

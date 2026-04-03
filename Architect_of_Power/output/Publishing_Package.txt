@@ -1,0 +1,84 @@
+# Publishing Package — Architect of Power
+
+## Book Metadata
+
+**Title:** Architect of Power
+**Subtitle:** Henry Kissinger and the Price of World Order
+**Author:** Michael Rodriguez
+**Word Count:** 45,975
+**Language:** English
+**Publication Date:** 2026
+
+---
+
+## Book Description (Long) — Draft2Digital / Amazon
+
+Henry Kissinger fled Nazi Germany as a fifteen-year-old Jewish refugee. Forty years later, he controlled the foreign policy of the world's most powerful nation. Between those two moments lies the most consequential — and controversial — career in modern diplomatic history.
+
+*Architect of Power* traces Kissinger's complete arc: from the streets of Fürth to the corridors of the White House, from secret midnight flights to Beijing to the burning of La Moneda Palace in Santiago. This is the story of the man who opened China, negotiated the Vietnam peace, reshaped the Middle East through shuttle diplomacy, and left a trail of civilian casualties from Cambodia to Argentina that still haunts the historical record.
+
+Written after Kissinger's death at age 100 in November 2023, this book is the first accessible retrospective of his entire century. Neither hagiography nor prosecution, *Architect of Power* presents the full picture — the strategic brilliance and the moral wreckage, the Nobel Peace Prize and the war crimes accusations, the refugee who feared powerlessness and spent a lifetime accumulating power. The world Kissinger built is still standing. Whether the price was worth it is a question only you can answer.
+
+---
+
+## Book Description (Short) — 350 characters max
+
+The definitive story of Henry Kissinger — refugee, strategist, Nobel laureate, accused war criminal. From Nazi Germany to the White House, *Architect of Power* reveals how one man shaped the world order we live in today, and the devastating price humanity paid for his vision.
+
+---
+
+## SEO Keywords (7-10)
+
+1. Henry Kissinger biography
+2. Kissinger foreign policy
+3. Realpolitik
+4. Cold War diplomacy
+5. world order
+6. Vietnam War negotiations
+7. Kissinger China opening
+8. power politics
+9. architect of power
+10. Kissinger legacy
+
+---
+
+## BISAC Categories
+
+1. BIOGRAPHY & AUTOBIOGRAPHY / Political (BIO010000)
+2. HISTORY / United States / 20th Century (HIS036060)
+3. POLITICAL SCIENCE / International Relations / Diplomacy & Trade (POL011010)
+
+---
+
+## Author Bio (150 words)
+
+Michael Rodriguez is a nonfiction author and investigative researcher specializing in the hidden mechanics of power — the people, systems, and decisions that shape the modern world. His books combine deep archival research with narrative storytelling, making complex geopolitical topics accessible to general readers without sacrificing depth or nuance. Rodriguez's work has examined topics ranging from global financial systems to Cold War diplomacy, always with an emphasis on the human cost of political decisions. He writes for readers who want to understand not just what happened, but why it happened and what it means today. When not researching his next book, Rodriguez follows international affairs with the intensity of someone who believes understanding history is the first step toward not repeating its worst chapters. His previous works include titles on shadow banking, geopolitical strategy, and the intersection of technology and power.
+
+---
+
+## Taglines (Marketing)
+
+1. "The refugee who reshaped the world — and the price we all paid."
+2. "Nobel laureate. War architect. The most consequential diplomat of the twentieth century."
+3. "He opened China, ended Vietnam, and left a trail of blood across three continents."
+
+---
+
+## ISBN Placeholders
+- **eBook ISBN:** [To be assigned by D2D]
+- **Paperback ISBN:** [To be assigned by D2D]
+- **Hardcover ISBN:** [User to provide if using separate publisher]
+
+---
+
+## Pricing Recommendations
+- **eBook:** $4.99 (entry point for new readers; competitive with Hitchens at $11.99)
+- **Paperback:** $16.99 (in line with similar length nonfiction)
+- **Hardcover:** $24.99 (if applicable)
+
+---
+
+## Target Audience
+- Primary: Adults 25-55, interested in history, geopolitics, biography
+- Secondary: Political science students, policy professionals, business strategists
+- Comp readers: Walter Isaacson, Robert Caro, Malcolm Gladwell, Ben Macintyre audience

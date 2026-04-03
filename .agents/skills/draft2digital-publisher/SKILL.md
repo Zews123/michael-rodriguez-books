@@ -1,3 +1,8 @@
+---
+name: draft2digital-publisher
+description: Professional Digital Publishing Engineer skill. Use this skill to convert Full_Book.md into a clean, professionally styled, Draft2Digital-ready Word document (Final_Book.docx).
+---
+
 # SKILL: Draft2Digital Book Publisher
 **Role:** Professional Digital Publishing Engineer  
 **Mission:** Convert `Full_Book.md` into a clean, professionally styled, Draft2Digital-ready Word document.  
@@ -147,6 +152,7 @@ lang: "en"
 > For Russian-language books use `lang: "ru"`.  
 > Do not add any other fields — keep it minimal.  
 > Pandoc maps these to Word's Title, Subtitle, and Author styles automatically.
+> ⚠️ **Always use the CURRENT calendar year** in `rights`, copyright page, and `First edition`. Do NOT copy the year from the book's content — use today's year.
 
 ### 2b. COPYRIGHT PAGE (visible to readers)
 
@@ -471,6 +477,15 @@ checks.append(("About the Author present", about_present))
 checks.append(("Garamond font set", default_font == "Garamond"))
 checks.append(("Page breaks >= 3 (title/copyright/about)", page_breaks >= 3))
 checks.append(("No external links in body", len(links_found) == 0))
+
+# Check section order: INTRODUCTION must come before Part 1
+heading_order = [p.text for p in doc.paragraphs if p.style.name.startswith("Heading")]
+intro_pos = next((i for i, h in enumerate(heading_order) if h == "INTRODUCTION"), -1)
+part1_pos = next((i for i, h in enumerate(heading_order) if h.startswith("Part 1")), -1)
+if intro_pos >= 0 and part1_pos >= 0:
+    checks.append(("INTRODUCTION before Part 1", intro_pos < part1_pos))
+else:
+    checks.append(("INTRODUCTION before Part 1", False))
 
 all_pass = True
 for name, passed in checks:

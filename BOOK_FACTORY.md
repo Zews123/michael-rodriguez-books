@@ -21,9 +21,9 @@ You coordinate, hand off, verify, and move forward.
 Paste this prompt into a new chat. Then provide:
 
 ```
-VIDEO_URL     = {{YouTube or video link}}
-BOOK_TITLE    = {{Proposed title or "auto-generate"}}
-BOOK_FOLDER   = /Users/zews/Book/{{ProjectName}}/
+VIDEO_URL     = {{https://youtu.be/XygrSn_qn7s?si=piAaU4IgPugiOqDD}} "Как ИРАН стал ЗАКЛЯТЫМ врагом США?"
+BOOK_TITLE    = {{"auto-generate" проанализируй о чем видео и предложи Best Sellers не большой тайт и сабтайтл мспользуй /tot, что бы аккуратно смотрелись на обложке книги с использованием главных кдючей для SEO"}}
+BOOK_FOLDER   = /Users/zews/Book/{{ProjectName}}/ сам создай и назови.
 ```
 
 Everything else is handled automatically.

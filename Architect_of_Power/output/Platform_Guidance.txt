@@ -1,0 +1,77 @@
+# Platform Guidance — Architect of Power
+
+## Publishing Platforms
+
+### 1. Draft2Digital (D2D) — Primary Distributor
+**URL:** https://draft2digital.com
+
+**Step-by-step:**
+1. Log in → "Add New Book"
+2. Upload `Final_Book.docx`
+3. Fill in metadata from `Publishing_Package.txt`:
+   - Title: Architect of Power
+   - Subtitle: Henry Kissinger and the Price of World Order
+   - Author: Michael Rodriguez
+   - Description: Long description from Publishing_Package.txt
+   - Keywords: All 10 from Publishing_Package.txt
+   - Categories: Select BISAC codes from Publishing_Package.txt
+4. Upload cover image (selected by user from 4 concepts)
+5. Set pricing: eBook $4.99, Paperback $16.99
+6. D2D distributes to: Apple Books, Kobo, Barnes & Noble, and 30+ retailers
+7. Review proof → Publish
+
+**D2D Cover Specs:**
+- Format: JPG or PNG
+- Size: 1600 × 2400 pixels recommended (portrait, 2:3 ratio)
+- DPI: 72 minimum, 300 recommended
+- Max file size: 10MB
+
+### 2. Amazon KDP — Direct Upload
+**URL:** https://kdp.amazon.com
+
+**Step-by-step:**
+1. Log in → "Create New Title" → Kindle eBook
+2. Fill in metadata (same as D2D)
+3. Upload `Final_Book.docx` as manuscript
+4. Upload cover image
+5. Set pricing: $4.99 (70% royalty at this price point)
+6. For paperback: "Create Paperback" → upload interior + cover
+7. Review → Publish
+
+**KDP Cover Specs:**
+- eBook: 2560 × 1600 pixels minimum; JPG or TIFF
+- Paperback: full wrap template from KDP calculator (spine width depends on page count)
+- DPI: 300 for print
+- Color mode: RGB for eBook, CMYK for print
+
+### 3. Pricing Strategy
+| Format | Price | Royalty Rate | Est. Royalty |
+|--------|-------|-------------|-------------|
+| eBook (KDP) | $4.99 | 70% | $3.49 |
+| eBook (D2D) | $4.99 | ~60% after retailer | ~$3.00 |
+| Paperback (KDP) | $16.99 | 60% minus printing | ~$4.50 |
+| Hardcover (KDP) | $24.99 | 60% minus printing | ~$6.00 |
+
+### 4. Manuscript Formatting Notes
+- ✅ Garamond font throughout
+- ✅ Page breaks between front matter sections
+- ✅ Heading hierarchy: H1 (Parts) → H2 (Chapters) → H3 (Sections)
+- ✅ No external links in body text
+- ✅ No images (cover is separate upload)
+- ✅ Clean .docx file (no macros, no protection)
+- ✅ Word count: 46,118 (~180 pages in paperback)
+
+### 5. After Upload Checklist
+- [ ] Preview eBook on Kindle Previewer (free tool from Amazon)
+- [ ] Check all chapter headings appear in TOC
+- [ ] Verify no formatting artifacts
+- [ ] Confirm copyright page is on separate page
+- [ ] Confirm About the Author is on separate page
+- [ ] Test buy link works after publishing
+
+### 6. Marketing Timing
+- Week 1: Upload to D2D + KDP; order proof copies
+- Week 2: Publish eBook + paperback; activate pre-order if desired
+- Week 3: Social media campaign (Stage 3 materials)
+- Week 4: Blog post + Medium article; outreach to Kissinger-related communities
+- Ongoing: Monitor reviews; respond to reader questions

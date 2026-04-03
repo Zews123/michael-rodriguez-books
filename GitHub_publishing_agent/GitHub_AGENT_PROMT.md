@@ -477,10 +477,11 @@ Find the `<div class="featured-book reveal">` block and replace it entirely:
 - `featured-book-desc` → 2–3 sentence description
 - `btn-primary` link → new book page URL
 
-### 2. "Investigations & Exposés" grid → rotate books
+### 2. "Investigations & Exposés" grid → add NEW book card
 
-- Take the **previous Featured book** and add it as the **FIRST** `<a class="book-card reveal">` entry in the `<div class="books-grid">` section
-- **Remove the LAST card** from the grid (to keep the grid at 8 cards, maintaining 2 rows × 4 columns)
+- Add the **NEW book** as the **FIRST** `<a class="book-card reveal">` entry in the `<div class="books-grid">` section (the new book must appear in BOTH the Featured block AND the grid)
+- The previous Featured book stays as the second card (it was already first in the grid)
+- **Remove the LAST card** from the grid (to keep the grid at ~9–10 cards max)
 
 ### 3. Hero visual section → update first book cover
 
@@ -497,8 +498,8 @@ Find `<link rel="preload" ... as="image">` near the top of `homepage.html` and c
 
 ```
 NEW BOOK → Featured Investigation (replaces previous)
-PREVIOUS FEATURED → First card in Investigations grid
-LAST CARD in grid → Removed (keeps grid at 8)
+NEW BOOK → ALSO first card in Investigations grid
+LAST CARD in grid → Removed (keeps grid at ~9–10)
 Hero covers: [NEW, prev_1st, prev_3rd, prev_4th]
 Preload: NEW book cover
 ```
