@@ -7,7 +7,7 @@ image: "https://michaelrodriguezbooks.com/assets/images/Persian_Grudge.webp"
 date: 2026-04-03
 ---
 
-<link rel="preload" href="https://michaelrodriguezbooks.com/assets/images/Persian_Grudge.webp" as="image">
+<link rel="preload" href="{{ site.baseurl }}/assets/images/Persian_Grudge_sm.webp" as="image" type="image/webp">
 
 <!-- Open Graph -->
 <meta property="og:type" content="book">
@@ -20,7 +20,7 @@ date: 2026-04-03
 
 **Read the full Introduction below.** From a Hellfire missile on a Baghdad highway to a champagne toast in the Shah's palace — the full story of how Iran and America became mortal enemies. Subscribe below to get Chapter 1 free.
 
-<img src="{{ site.baseurl }}/assets/images/Persian_Grudge.webp" alt="The Persian Grudge by Michael Rodriguez" style="width: 220px; height: auto; float: right; margin: 0 0 20px 20px; border-radius: 8px;">
+<img src="{{ site.baseurl }}/assets/images/Persian_Grudge_sm.webp" alt="The Persian Grudge by Michael Rodriguez" width="220" height="330" style="float: right; margin: 0 0 20px 20px; border-radius: 8px;" fetchpriority="high">
 
 ---
 
