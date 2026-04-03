@@ -36,7 +36,7 @@ date_modified: "{{YYYY-MM-DD}}"
 layout: default
 title: "{{POST_TITLE}}"
 description: "{{SEO_DESCRIPTION}}"
-canonical_url: "https://michaelrodriguezbooks.com/blog/{{slug}}/"
+canonical_url: "https://michaelrodriguezbooks.com/blog/{{slug}}.html"
 image: "https://michaelrodriguezbooks.com/assets/images/{{filename}}.webp"
 date: {{YYYY-MM-DD}}
 ---
@@ -241,7 +241,7 @@ SEO BLOCK                    | CHECK
 -----------------------------|------------------------------------------
 Title length                 | ≤ 58 characters (count exactly)
 Description length           | ≤ 150 characters (count exactly)
-Canonical URL                | Absolute https:// URL, correct slug
+Canonical URL                | Absolute https:// URL, correct slug. **Blog posts (.html files) must end with `.html`; book pages (.md) use trailing slash `/`**
 og:image                     | Absolute https:// URL (not site.baseurl)
 og:image dimensions          | width=400 height=600 present
 Twitter Card type            | summary_large_image

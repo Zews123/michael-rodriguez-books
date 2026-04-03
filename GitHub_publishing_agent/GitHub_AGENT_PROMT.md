@@ -238,7 +238,7 @@ Use the most recent blog post in `blog/` as structural reference.
 layout: default
 title: "{{FAQ_TITLE}}"                          # Question-format title, max 58 chars
 description: "{{FAQ_DESCRIPTION}}"             # max 150 characters
-canonical_url: "https://michaelrodriguezbooks.com/blog/{{book-slug}}-faq/"
+canonical_url: "https://michaelrodriguezbooks.com/blog/{{book-slug}}-faq.html"
 image: "https://michaelrodriguezbooks.com/assets/images/{{filename}}.webp"
 date: {{YYYY-MM-DD}}                              # REQUIRED for Jekyll sorting
 ---
@@ -387,7 +387,7 @@ layout: default
 title: "{{ANALYTICAL_TITLE}}"                   # Descriptive, keyword-rich, max 58 chars
 description: "{{ANALYTICAL_DESCRIPTION}}"       # max 150 characters
 image: "https://michaelrodriguezbooks.com/assets/images/{{filename}}.webp"
-canonical_url: "https://michaelrodriguezbooks.com/blog/{{analytical-slug}}/"
+canonical_url: "https://michaelrodriguezbooks.com/blog/{{analytical-slug}}.html"
 date: {{YYYY-MM-DD}}
 ---
 ```
