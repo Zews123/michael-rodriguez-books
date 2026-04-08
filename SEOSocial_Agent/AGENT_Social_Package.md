@@ -4,9 +4,9 @@
 
 User provides only:
 - Book folder path (e.g. `/Users/zews/Book/Writers_Agent/Shadows_of_Power/`)
-- Book page URL on the site (e.g. `https://michaelrodriguezbooks.com/books/{{book-slug}}/`)
+- Book page URL on the site (e.g. `https://michaelrodriguezbooks.com/books/{{book-slug}}`)
 - Amazon direct link (e.g. `https://www.amazon.com/dp/B0GNZ42KLK`)
-- Free Chapter page URL (e.g. `https://michaelrodriguezbooks.com/books/free-chapter-{{book-slug}}/`)
+- Free Chapter page URL (e.g. `https://michaelrodriguezbooks.com/books/free-chapter-{{book-slug}}`)
 
 Everything else — extract automatically from existing files.
 
@@ -621,7 +621,7 @@ Before delivering to user, verify:
 - [ ] medium_article_{{slug}}.md saved to {{Book_Folder}}/output/social/ (separate file for import)
 - [ ] linkedin_article_{{slug}}.md saved to {{Book_Folder}}/output/social/ (separate file for import)
 - [ ] All Amazon links use direct format: `https://www.amazon.com/dp/{{ASIN}}`
-- [ ] All Free Chapter links use: `https://michaelrodriguezbooks.com/books/free-chapter-{{book-slug}}/`
+- [ ] All Free Chapter links use: `https://michaelrodriguezbooks.com/books/free-chapter-{{book-slug}}`
 
 ---
 

@@ -14,7 +14,7 @@
 layout: default
 title: "{{BOOK_TITLE}} | Michael Rodriguez"
 description: "{{SEO_DESCRIPTION}}"
-canonical_url: "https://michaelrodriguezbooks.com/books/{{book-slug}}/"
+canonical_url: "https://michaelrodriguezbooks.com/books/{{book-slug}}"
 image: "https://michaelrodriguezbooks.com/assets/images/{{filename}}.webp"
 author: "Michael Rodriguez"
 date: {{YYYY-MM-DD}}
@@ -30,7 +30,7 @@ date_modified: "{{YYYY-MM-DD}}"
 layout: default
 title: "{{POST_TITLE}}"
 description: "{{SEO_DESCRIPTION}}"
-canonical_url: "https://michaelrodriguezbooks.com/blog/{{slug}}/"
+canonical_url: "https://michaelrodriguezbooks.com/blog/{{slug}}.html"
 image: "https://michaelrodriguezbooks.com/assets/images/{{filename}}.webp"
 date: {{YYYY-MM-DD}}
 ---
@@ -89,7 +89,7 @@ Place immediately after `<style>` block, before any content:
 <meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/{{filename}}.webp">
 <meta property="og:image:width" content="400">
 <meta property="og:image:height" content="600">
-<meta property="og:url" content="https://michaelrodriguezbooks.com/books/{{book-slug}}/">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/{{book-slug}}">
 <meta property="og:site_name" content="Michael Rodriguez Books">
 <meta property="book:author" content="Michael Rodriguez">
 <meta property="book:isbn" content="{{ISBN_EBOOK}}">
@@ -120,7 +120,7 @@ Place at the bottom of the page, before `</body>`:
     {
       "@type": "WebPage",
       "@id": "https://michaelrodriguezbooks.com/books/{{book-slug}}/#webpage",
-      "url": "https://michaelrodriguezbooks.com/books/{{book-slug}}/",
+      "url": "https://michaelrodriguezbooks.com/books/{{book-slug}}",
       "name": "{{BOOK_TITLE}} | Michael Rodriguez",
       "description": "{{SEO_DESCRIPTION}}",
       "datePublished": "{{YYYY-MM-DD}}",
@@ -153,7 +153,7 @@ Place at the bottom of the page, before `</body>`:
       "genre": ["{{GENRE_1}}", "{{GENRE_2}}", "{{GENRE_3}}"],
       "description": "{{SEO_DESCRIPTION}}",
       "image": "https://michaelrodriguezbooks.com/assets/images/{{filename}}.webp",
-      "url": "https://michaelrodriguezbooks.com/books/{{book-slug}}/",
+      "url": "https://michaelrodriguezbooks.com/books/{{book-slug}}",
       "offers": [
         {
           "@type": "Offer",

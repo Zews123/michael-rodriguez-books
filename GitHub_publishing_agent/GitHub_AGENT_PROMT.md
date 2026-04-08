@@ -87,7 +87,7 @@ Use the reference template from Stage 1. Replace all content with extracted data
 layout: default
 title: "{{BOOK_TITLE}} | Michael Rodriguez"     # STRICT: max 58 characters
 description: "{{SHORT_DESCRIPTION}}"            # max 150 characters
-canonical_url: "https://michaelrodriguezbooks.com/books/{{book-slug}}/"
+canonical_url: "https://michaelrodriguezbooks.com/books/{{book-slug}}"
 image: "https://michaelrodriguezbooks.com/assets/images/{{filename}}.webp"
 date: {{YYYY-MM-DD}}                              # REQUIRED for Jekyll sorting and Schema
 ---
@@ -116,7 +116,7 @@ date: {{YYYY-MM-DD}}                              # REQUIRED for Jekyll sorting 
 <meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/{{filename}}.webp">
 <meta property="og:image:width" content="400">
 <meta property="og:image:height" content="600">
-<meta property="og:url" content="https://michaelrodriguezbooks.com/books/{{book-slug}}/">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/{{book-slug}}">
 <meta property="og:site_name" content="Michael Rodriguez Books">
 <meta property="book:author" content="Michael Rodriguez">
 <meta property="book:isbn" content="{{ISBN_EBOOK}}">
@@ -529,8 +529,8 @@ git push origin main
 ```
 
 Wait for GitHub Pages rebuild (1–2 min), then verify:
-- Book page live: `https://michaelrodriguezbooks.com/books/{{book-slug}}/`
-- Free Chapter page live: `https://michaelrodriguezbooks.com/books/free-chapter-{{book-slug}}/`
+- Book page live: `https://michaelrodriguezbooks.com/books/{{book-slug}}`
+- Free Chapter page live: `https://michaelrodriguezbooks.com/books/free-chapter-{{book-slug}}`
 - FAQ blog post live: `https://michaelrodriguezbooks.com/blog/{{book-slug}}-faq/`
 - Analytical article live: `https://michaelrodriguezbooks.com/blog/{{analytical-slug}}/`
 - Cards appear first on index pages

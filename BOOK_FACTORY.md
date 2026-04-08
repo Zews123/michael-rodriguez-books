@@ -21,7 +21,7 @@ You coordinate, hand off, verify, and move forward.
 Paste this prompt into a new chat. Then provide:
 
 ```
-VIDEO_URL     = {{https://youtu.be/XygrSn_qn7s?si=piAaU4IgPugiOqDD}} "Как ИРАН стал ЗАКЛЯТЫМ врагом США?"
+VIDEO_URL     = {{https://youtu.be/YPkG5xC9f88?si=aYx2JHBr3HAHYCPY}} "Почему САМЫЕ УЖАСНЫЕ Люди Добиваются УСПЕХА?"
 BOOK_TITLE    = {{"auto-generate" проанализируй о чем видео и предложи Best Sellers не большой тайт и сабтайтл мспользуй /tot, что бы аккуратно смотрелись на обложке книги с использованием главных кдючей для SEO"}}
 BOOK_FOLDER   = /Users/zews/Book/{{ProjectName}}/ сам создай и назови.
 ```
@@ -45,7 +45,7 @@ Agent: /Users/zews/Book/Writers_Agent/AGENT_PROMPT.md
 STAGE 2 — PUBLISHING AGENT  
 Publish to GitHub website (docx → D2D file + book page + blog post)
 Agent: /Users/zews/Book/GitHub_publishing_agent/GitHub_AGENT_PROMT.md
-Skills: /Users/zews/Book/SKILL.md
+Skills: /Users/zews/Book/.agents/skills/draft2digital-publisher/SKILL.md
         /Users/zews/Book/SEO_SKILL.md
   │
   ▼  [Review & Approve]
@@ -83,7 +83,7 @@ FINISH — Full delivery report
    - `/source/OUTLINE.md` — Book outline
    - `/output/Part_1.md` through `Part_4.md`
    - `/output/Full_Book.md`
-   - `/output/Final_Book.docx` (via SKILL.md) `/Users/zews/Book/SKILL.md`
+   - `/output/Final_Book.docx` (via SKILL.md) `/Users/zews/Book/.agents/skills/draft2digital-publisher/SKILL.md`
    - `/output/Cover_1_*.png` through `Cover_4_*.png`
    - `/output/Cover_Brief.txt`
    - `/output/Publishing_Package.txt`
@@ -128,7 +128,7 @@ Do NOT proceed until user confirms.
 
 **Agent file:** `/Users/zews/Book/GitHub_publishing_agent/GitHub_AGENT_PROMT.md`**Skills:**
 
-- `/Users/zews/Book/SKILL.md` — D2D Word export
+- `/Users/zews/Book/.agents/skills/draft2digital-publisher/SKILL.md` — D2D Word export
 - `/Users/zews/Book/SEO_SKILL.md` — SEO optimization
 - `/Users/zews/Book/KIT_LEAD_MAGNET_SKILL.md` — Free chapter lead magnet + Kit API
 
@@ -149,8 +149,8 @@ Follow `GitHub_AGENT_PROMT.md` fully. Additionally apply all skills:
 
 Deliver:
 
-- Book page live: `https://michaelrodriguezbooks.com/books/{{slug}}/`
-- Free chapter lead magnet live: `https://michaelrodriguezbooks.com/books/free-chapter-{{slug}}/`
+- Book page live: `https://michaelrodriguezbooks.com/books/{{slug}}`
+- Free chapter lead magnet live: `https://michaelrodriguezbooks.com/books/free-chapter-{{slug}}`
 - Blog post live: `https://michaelrodriguezbooks.com/blog/{{slug}}-faq/`
 - Cards updated in `index.md`, `books/index.md`, `blog.md`
 - `about.md` updated
@@ -299,7 +299,7 @@ Every new book gets its own folder:
 ├── SEOSocial_Agent/
 │   └── AGENT_Social_Package.md  ← Stage 3 agent
 │
-├── SKILL.md                     ← D2D Word export skill
+├── .agents/skills/draft2digital-publisher/SKILL.md  ← D2D Word export skill
 ├── SEO_SKILL.md                 ← SEO optimization skill
 ├── KIT_LEAD_MAGNET_SKILL.md     ← Free chapter lead magnet + Kit API skill
 │
