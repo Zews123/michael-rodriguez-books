@@ -2,7 +2,7 @@
 layout: default
 title: "Dark Advantage | Michael Rodriguez"
 description: "Why narcissists, manipulators, and psychopaths win — the psychology of dark leadership and how ethical people can fight back."
-canonical_url: "https://michaelrodriguezbooks.com/books/Dark_Advantage/"
+canonical_url: "https://michaelrodriguezbooks.com/books/Dark_Advantage"
 image: "https://michaelrodriguezbooks.com/assets/images/Dark_Advantage.webp"
 author: "Michael Rodriguez"
 date: 2026-04-08
@@ -26,7 +26,7 @@ date_modified: "2026-04-08"
 <meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/Dark_Advantage.webp">
 <meta property="og:image:width" content="400">
 <meta property="og:image:height" content="600">
-<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Dark_Advantage/">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Dark_Advantage">
 <meta property="og:site_name" content="Michael Rodriguez Books">
 <meta property="book:author" content="Michael Rodriguez">
 <meta property="book:isbn" content="9798233580215">
@@ -165,7 +165,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
     {
       "@type": "WebPage",
       "@id": "https://michaelrodriguezbooks.com/books/Dark_Advantage/#webpage",
-      "url": "https://michaelrodriguezbooks.com/books/Dark_Advantage/",
+      "url": "https://michaelrodriguezbooks.com/books/Dark_Advantage",
       "name": "Dark Advantage | Michael Rodriguez",
       "description": "Why narcissists, manipulators, and psychopaths win — the psychology of dark leadership and how ethical people can fight back.",
       "datePublished": "2026-04-08",
@@ -198,7 +198,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
       "genre": ["Business Psychology", "Leadership", "Organizational Behavior"],
       "description": "Why narcissists, manipulators, and psychopaths win — the psychology of dark leadership and how ethical people can fight back.",
       "image": "https://michaelrodriguezbooks.com/assets/images/Dark_Advantage.webp",
-      "url": "https://michaelrodriguezbooks.com/books/Dark_Advantage/",
+      "url": "https://michaelrodriguezbooks.com/books/Dark_Advantage",
       "offers": [
         {
           "@type": "Offer",

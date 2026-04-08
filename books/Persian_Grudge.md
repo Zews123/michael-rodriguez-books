@@ -2,7 +2,7 @@
 layout: default
 title: "The Persian Grudge | Michael Rodriguez"
 description: "1953 CIA coup to 2024 nuclear standoff — the full history of how Iran and America became mortal enemies. Declassified documents and verified facts."
-canonical_url: "https://michaelrodriguezbooks.com/books/Persian_Grudge/"
+canonical_url: "https://michaelrodriguezbooks.com/books/Persian_Grudge"
 image: "https://michaelrodriguezbooks.com/assets/images/Persian_Grudge.webp"
 author: "Michael Rodriguez"
 date: 2026-04-03
@@ -26,7 +26,7 @@ date_modified: "2026-04-03"
 <meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/Persian_Grudge.webp">
 <meta property="og:image:width" content="400">
 <meta property="og:image:height" content="600">
-<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Persian_Grudge/">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Persian_Grudge">
 <meta property="og:site_name" content="Michael Rodriguez Books">
 <meta property="book:author" content="Michael Rodriguez">
 <meta property="book:isbn" content="9798233056147">
@@ -169,7 +169,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
     {
       "@type": "WebPage",
       "@id": "https://michaelrodriguezbooks.com/books/Persian_Grudge/#webpage",
-      "url": "https://michaelrodriguezbooks.com/books/Persian_Grudge/",
+      "url": "https://michaelrodriguezbooks.com/books/Persian_Grudge",
       "name": "The Persian Grudge | Michael Rodriguez",
       "description": "1953 CIA coup to 2024 nuclear standoff — the full history of how Iran and America became mortal enemies. Declassified documents and verified facts.",
       "datePublished": "2026-04-03",
@@ -202,7 +202,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
       "genre": ["Political History", "Geopolitics", "International Relations"],
       "description": "1953 CIA coup to 2024 nuclear standoff — the full history of how Iran and America became mortal enemies. Declassified documents and verified facts.",
       "image": "https://michaelrodriguezbooks.com/assets/images/Persian_Grudge.webp",
-      "url": "https://michaelrodriguezbooks.com/books/Persian_Grudge/",
+      "url": "https://michaelrodriguezbooks.com/books/Persian_Grudge",
       "offers": [
         {
           "@type": "Offer",
