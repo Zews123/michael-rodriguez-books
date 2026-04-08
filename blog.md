@@ -145,6 +145,30 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Dark_Advantage_Blog_2.webp" alt="The Dark Triad in Corporate America: Why Psychopaths Run Your Company">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 8, 2026</span>
+      <h2>The Dark Triad in Corporate America: Why Psychopaths Run Your Company</h2>
+      <p>From Stanford MBA classrooms to Fortune 500 boardrooms — how narcissism, Machiavellianism, and psychopathy became the ultimate career accelerators in modern capitalism.</p>
+      <a href="{{ site.baseurl }}/blog/dark-advantage-dark-triad-corporate-psychology.html" class="read-more">Read More <span class="visually-hidden">about Dark Triad Corporate Psychology</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Dark_Advantage_Blog_1.webp" alt="Dark Advantage FAQ: Dark Triad Personalities and Corporate Power">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 8, 2026</span>
+      <h2>Dark Advantage: Your Questions Answered</h2>
+      <p>What is the Dark Triad? Why do psychopaths rise to CEO? Can ethical leaders compete? Seven essential questions about dark personality traits in corporate power answered with research.</p>
+      <a href="{{ site.baseurl }}/blog/dark-advantage-faq.html" class="read-more">Read More <span class="visually-hidden">about Dark Advantage FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/Persian_Grudge_Blog_2.webp" alt="The 1953 CIA Coup in Iran: How Operation Ajax Created America's Greatest Enemy">
     </div>
     <div class="blog-card-content">
@@ -561,6 +585,20 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
     "url": "https://michaelrodriguezbooks.com/"
   },
   "blogPost": [
+    {
+      "@type": "BlogPosting",
+      "headline": "The Dark Triad in Corporate America: Why Psychopaths Run Your Company",
+      "description": "How narcissism, Machiavellianism, and psychopathy became the ultimate career accelerators in modern capitalism.",
+      "datePublished": "2026-04-08",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Dark Advantage: Your Questions Answered",
+      "description": "Seven essential questions about dark personality traits in corporate power answered with research and documented evidence.",
+      "datePublished": "2026-04-08",
+      "author": "Michael Rodriguez"
+    },
     {
       "@type": "BlogPosting",
       "headline": "The 1953 CIA Coup in Iran: How Operation Ajax Created America's Greatest Enemy",

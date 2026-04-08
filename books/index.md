@@ -12,6 +12,16 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Dark_Advantage.webp" alt="Dark Advantage: Why Narcissists, Manipulators, and Psychopaths Win at Power by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h3>Dark Advantage</h3>
+      <p>Why narcissists, manipulators, and psychopaths consistently outperform ethical leaders. A field manual for recognizing dark personalities, decoding their strategies, and building power without losing your soul.</p>
+      <a href="{{ site.baseurl }}/books/free-chapter-dark-advantage" class="btn" style="background: #2e8b57; margin-right: 8px;">Free Chapter</a>
+      <a href="{{ site.baseurl }}/books/Dark_Advantage" class="btn">Read More <span class="visually-hidden">about Dark Advantage by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Persian_Grudge.webp" alt="The Persian Grudge: How Iran and America Became Mortal Enemies by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Persian Grudge</h3>

@@ -1,10 +1,10 @@
 ---
 layout: homepage
 title: "Michael Rodriguez | Financial Crime Expert & Money Laundering Books"
-description: "29+ investigative books on money laundering, financial crime, and the shadow economy by Michael Rodriguez. Exposing corruption and elite power."
+description: "30+ investigative books on money laundering, financial crime, and the shadow economy by Michael Rodriguez. Exposing corruption and elite power."
 canonical_url: "https://michaelrodriguezbooks.com/"
 og_title: "Michael Rodriguez | Financial Crime Expert & Investigative Author"
-og_description: "29+ investigative books exposing money laundering, financial crime, and the $32 trillion shadow economy. Expert analysis of global corruption and elite power structures."
+og_description: "30+ investigative books exposing money laundering, financial crime, and the $32 trillion shadow economy. Expert analysis of global corruption and elite power structures."
 og_type: "website"
 image: "https://michaelrodriguezbooks.com/assets/images/author-photo.webp"
 twitter_card: "summary_large_image"
@@ -26,6 +26,15 @@ twitter_card: "summary_large_image"
 
 ## Latest Books
 <div class="book-grid">
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Dark_Advantage.webp" alt="Dark Advantage: Why Narcissists, Manipulators, and Psychopaths Win at Power by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>Dark Advantage</h3>
+      <p>Why narcissists, manipulators, and psychopaths consistently outperform ethical leaders. A field manual for recognizing dark personalities, decoding their strategies, and building power without losing your soul.</p>
+      <a href="{{ site.baseurl }}/books/Dark_Advantage" class="btn">Read More <span class="visually-hidden">about Dark Advantage by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
   <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Persian_Grudge.webp" alt="The Persian Grudge: How Iran and America Became Mortal Enemies by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
