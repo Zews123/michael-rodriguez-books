@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Shadow Cabinet | Michael Rodriguez"
+title: "The Shadow Cabinet: Bilderberg and Secret Power"
 description: "Bilderberg, CFR, MK-Ultra, COINTELPRO — the first fact-verified investigation of secret power networks. What the declassified documents reveal."
 canonical_url: "https://michaelrodriguezbooks.com/books/Shadow_Cabinet"
 image: "https://michaelrodriguezbooks.com/assets/images/Shadow_Cabinet.webp"

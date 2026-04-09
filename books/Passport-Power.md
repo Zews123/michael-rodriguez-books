@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Passport Power: Travel Document & Global Economics Guide"
+title: "Passport Power: How Travel Documents Shape Lives"
 description: "Discover how your passport shapes global opportunities, economic freedom, and life chances. Rodriguez reveals the hidden power behind travel documents."
 canonical_url: "https://michaelrodriguezbooks.com/books/Passport-Power"
 image: "https://michaelrodriguezbooks.com/assets/images/Passport_Power.webp"

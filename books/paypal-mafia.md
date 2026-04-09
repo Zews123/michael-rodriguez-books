@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The PayPal Mafia: Silicon Valley's Secret Power Brokers"
+title: "The PayPal Mafia: Silicon Valley's Power Network"
 description: "Uncover how PayPal's founding team became tech's most influential network, creating Tesla, SpaceX, LinkedIn, and reshaping global politics."
 canonical_url: "https://michaelrodriguezbooks.com/books/paypal-mafia.html"
 image: "https://michaelrodriguezbooks.com/assets/images/Pay_Pall_Mafia.webp"

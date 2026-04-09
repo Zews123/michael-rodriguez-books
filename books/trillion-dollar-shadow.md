@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Trillion Dollar Shadow: Vanguard's New Financial Order"
+title: "Trillion Dollar Shadow: Vanguard's Secret Power"
 description: "Discover how John Bogle’s index fund strategy built Vanguard into a trillion-dollar giant, reshaping global investing and transforming market dynamics."
 canonical_url: "https://michaelrodriguezbooks.com/books/trillion-dollar-shadow"
 image: "https://michaelrodriguezbooks.com/assets/images/Trillion_Dollar_Shadow.webp"
