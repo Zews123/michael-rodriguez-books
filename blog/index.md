@@ -1,0 +1,861 @@
+---
+layout: default
+title: "Michael Rodriguez Blog | Financial Crime Analysis"
+description: "Expert analysis on money laundering, financial crime, shadow economy, AI power, and global corruption. Investigative insights from economic analyst Michael Rodriguez."
+canonical_url: "https://michaelrodriguezbooks.com/blog/"
+---
+
+# Blog
+
+Welcome to the official blog of Michael Rodriguez. Here you'll find updates about new books, behind-the-scenes content, and thoughtful articles on literature, history, and modern society.
+
+<style>
+.blog-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.blog-card {
+  display: flex;
+  border: 1px solid #2a2a2a;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.3s, box-shadow 0.3s;
+  height: 320px;
+  background-color: #1a1a1a;
+}
+
+.blog-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.blog-card-image {
+  width: 30%;
+  overflow: hidden;
+}
+
+.blog-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.blog-card:hover .blog-card-image img {
+  transform: scale(1.05);
+}
+
+.blog-card-content {
+  width: 70%;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.blog-card-content h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  color: #c9a227;
+  font-weight: 700;
+}
+
+.blog-card-content p {
+  flex-grow: 1;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #1a1a1a;
+}
+
+.blog-date {
+  font-size: 0.9rem;
+  color: #999;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
+
+.read-more {
+  display: inline-block;
+  background-color: #c9a227;
+  color: #0d0d0d;
+  padding: 0.5rem 1rem;
+  border-radius: 3px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s;
+  align-self: flex-start;
+  border: 2px solid #c9a227;
+}
+
+.read-more:hover {
+  background-color: #c9a227;
+  border-color: #c9a227;
+}
+
+.read-more:focus {
+  outline: 3px solid #c9a227;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 2px rgba(255, 191, 0, 0.3);
+}
+
+/* Screen reader only text */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (max-width: 768px) {
+  .blog-card {
+    flex-direction: column;
+    height: auto;
+  }
+  
+  .blog-card-image {
+    width: 100%;
+    height: 280px;
+  }
+  
+  .blog-card-image img {
+    object-position: center 15%;
+  }
+  
+  .blog-card-content {
+    width: 100%;
+  }
+  
+  .read-more {
+    min-height: 44px;
+    min-width: 44px;
+    padding: 12px 24px;
+    font-size: 1rem;
+  }
+}
+</style>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Dark_Advantage_Blog_2.webp" alt="The Dark Triad in Corporate America: Why Psychopaths Run Your Company">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 8, 2026</span>
+      <h2>The Dark Triad in Corporate America: Why Psychopaths Run Your Company</h2>
+      <p>From Stanford MBA classrooms to Fortune 500 boardrooms — how narcissism, Machiavellianism, and psychopathy became the ultimate career accelerators in modern capitalism.</p>
+      <a href="{{ site.baseurl }}/blog/dark-advantage-dark-triad-corporate-psychology.html" class="read-more">Read More <span class="visually-hidden">about Dark Triad Corporate Psychology</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Dark_Advantage_Blog_1.webp" alt="Dark Advantage FAQ: Dark Triad Personalities and Corporate Power">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 8, 2026</span>
+      <h2>Dark Advantage: Your Questions Answered</h2>
+      <p>What is the Dark Triad? Why do psychopaths rise to CEO? Can ethical leaders compete? Seven essential questions about dark personality traits in corporate power answered with research.</p>
+      <a href="{{ site.baseurl }}/blog/dark-advantage-faq.html" class="read-more">Read More <span class="visually-hidden">about Dark Advantage FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Persian_Grudge_Blog_2.webp" alt="The 1953 CIA Coup in Iran: How Operation Ajax Created America's Greatest Enemy">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 3, 2026</span>
+      <h2>The 1953 CIA Coup in Iran: How Operation Ajax Created America's Greatest Enemy</h2>
+      <p>How a bankrupt Australian prospector, a British oil empire, and a CIA officer named Kermit Roosevelt toppled Iran's only democratic government — and set in motion seventy years of conflict.</p>
+      <a href="{{ site.baseurl }}/blog/persian-grudge-cia-coup-iran-history.html" class="read-more">Read More <span class="visually-hidden">about CIA Coup Iran History</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Persian_Grudge_Blog_1.webp" alt="The Persian Grudge FAQ: Iran-America Conflict Explained">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 3, 2026</span>
+      <h2>The Persian Grudge: Your Questions Answered</h2>
+      <p>Why do Iran and America hate each other? Did the CIA really overthrow Iran's democracy? What was the hostage crisis about? Seven essential questions answered with verified facts.</p>
+      <a href="{{ site.baseurl }}/blog/persian-grudge-faq.html" class="read-more">Read More <span class="visually-hidden">about Persian Grudge FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Architect_of_Power_Blog_2.webp" alt="Kissinger's Realpolitik: The Architecture of Cold War Diplomacy">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">March 26, 2026</span>
+      <h2>Kissinger's Realpolitik: The Architecture of Cold War Diplomacy</h2>
+      <p>How Henry Kissinger's philosophy of realpolitik shaped the Cold War, opened China, and left a trail of civilian casualties across three continents. Primary sources and declassified documents.</p>
+      <a href="{{ site.baseurl }}/blog/architect-of-power-kissinger-realpolitik.html" class="read-more">Read More <span class="visually-hidden">about Kissinger Realpolitik</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Architect_of_Power_Blog_1.webp" alt="Kissinger FAQ: The Architect of Power Explained">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">March 26, 2026</span>
+      <h2>Architect of Power: Your Questions Answered</h2>
+      <p>Realpolitik, Vietnam, Chile coup, China opening — answers to the most asked questions about Henry Kissinger's legacy and the price of world order.</p>
+      <a href="{{ site.baseurl }}/blog/architect-of-power-kissinger-faq.html" class="read-more">Read More <span class="visually-hidden">about Architect of Power FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet_3D_2.webp" alt="Bilderberg, CFR, Trilateral Commission: The Declassified Record">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">March 18, 2026</span>
+      <h2>Bilderberg, CFR, and Trilateral Commission: The Declassified Record</h2>
+      <p>What 70 years of declassified documents, congressional testimony, and primary sources reveal about the world's most powerful elite coordination networks. Not conspiracy theory — verified evidence.</p>
+      <a href="{{ site.baseurl }}/blog/shadow-cabinet-bilderberg-cfr-evidence.html" class="read-more">Read More <span class="visually-hidden">about Bilderberg CFR Evidence</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet_3D_1.webp" alt="The Shadow Cabinet FAQ: Secret Power Networks Explained">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">March 14, 2026</span>
+      <h2>The Shadow Cabinet: Your Questions Answered</h2>
+      <p>Bilderberg, CFR, MK-Ultra, Operation Gladio — answers to the most common questions about secret power networks and verified conspiracies. What the declassified documents reveal.</p>
+      <a href="{{ site.baseurl }}/blog/shadow-cabinet-faq.html" class="read-more">Read More <span class="visually-hidden">about Shadow Cabinet FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Countdown_2040_3D_1.webp" alt="The 2040 Collapse: 5 Signs the World3 Model Was Right">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">March 4, 2026</span>
+      <h2>The 2040 Collapse: 5 Signs the World3 Model Was Right</h2>
+      <p>Five real-world crises — China's demographic cliff, water wars, the fertilizer crisis, energy transition paradox, and the debt supercycle — match the 1972 World3 model predictions with eerie precision.</p>
+      <a href="{{ site.baseurl }}/blog/2040-collapse-world3-evidence.html" class="read-more">Read More <span class="visually-hidden">about 2040 Collapse Evidence</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Countdown_2040_3D_2.webp" alt="Will Civilization Collapse by 2040? The World3 Model FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">March 4, 2026</span>
+      <h2>Will Civilization Collapse by 2040? The World3 Model FAQ</h2>
+      <p>Expert answers to the most asked questions about the Club of Rome's World3 model, Gaya Herrington's 2021 KPMG validation study, and the 2040 collapse prediction backed by fifty years of data.</p>
+      <a href="{{ site.baseurl }}/blog/countdown-2040-faq.html" class="read-more">Read More <span class="visually-hidden">about World3 Model FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Shadows_3D.webp" alt="The Architecture of Impunity — How Epstein Escaped Justice for 30 Years">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">February 23, 2026</span>
+      <h2>The Architecture of Impunity: How Epstein Escaped Justice for 30 Years</h2>
+      <p>From a $475 million Ponzi scheme to Little Saint James — a deep investigation into the financial fraud, institutional failures, and elite networks that shielded Jeffrey Epstein for three decades.</p>
+      <a href="{{ site.baseurl }}/blog/epstein-architecture-of-impunity.html" class="read-more">Read More <span class="visually-hidden">about Architecture of Impunity</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Shadows_3D.webp" alt="Shadows of Power FAQ — Jeffrey Epstein and the Architecture of Impunity">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">February 21, 2026</span>
+      <h2>Jeffrey Epstein Power Network: How Wealth Buys Impunity FAQ</h2>
+      <p>Expert answers on how Jeffrey Epstein built an architecture of impunity. Discover how elite power networks shield predators from justice.</p>
+      <a href="{{ site.baseurl }}/blog/shadows-of-power-faq.html" class="read-more">Read More <span class="visually-hidden">about Shadows of Power FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Rich_3D.webp" alt="Smart but Broke FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">November 1, 2025</span>
+      <h2>Smart but Broke? Why Intelligence Doesn't Equal Wealth FAQ</h2>
+      <p>Expert answers to why intelligent people struggle financially. Discover the 7 intelligence traps keeping smart minds poor and broke.</p>
+      <a href="{{ site.baseurl }}/blog/smart-rich-faq.html" class="read-more">Read More <span class="visually-hidden">about Smart but Broke FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Bush_3D.webp" alt="Bush Machine FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">October 4, 2025</span>
+      <h2>Bush Machine FAQ: Oil, CIA & Dynasty's Hidden Power Network</h2>
+      <p>How Prescott Bush's Nazi ties didn't end his dynasty. Expert answers on CIA control, $39B war profits, and the shadow network ruling America for 100 years.</p>
+      <a href="{{ site.baseurl }}/blog/bush-machine-faq.html" class="read-more">Read More <span class="visually-hidden">about Bush Machine FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/India_3D.webp" alt="India Paradox FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">September 26, 2025</span>
+      <h2>India Paradox FAQ: Nuclear Power, Digital Dreams, and Democracy's Superpower Rise</h2>
+      <p>How India landed on the Moon for $74M while 400M lack toilets. Expert answers about nuclear ambitions, China rivalry, and democratic innovation reshaping global power.</p>
+      <a href="{{ site.baseurl }}/blog/india-paradox-faq.html" class="read-more">Read More <span class="visually-hidden">about India Paradox FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Venezuela_3D.webp" alt="Venezuela's Oil Curse FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">September 20, 2025</span>
+      <h2>Venezuela's Oil Curse FAQ: How the Richest Poor Country Became America's Biggest Threat</h2>
+      <p>Discover how Venezuela transformed from oil paradise to narco-state. Expert answers about the $15M bounty, China's $67B gambit, and the new Cold War in America's backyard.</p>
+      <a href="{{ site.baseurl }}/blog/venezuela-oil-curse-faq.html" class="read-more">Read More <span class="visually-hidden">about Venezuela's Oil Curse FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Oil_Weapon_3D.webp" alt="The Oil Weapon FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">September 12, 2025</span>
+      <h2>The Oil Weapon FAQ: How Energy Became the Ultimate Economic Weapon</h2>
+      <p>Discover how energy warfare evolved from Rockefeller's monopoly to Ukrainian drones. Expert answers to the most asked questions about energy geopolitics, the democratization of energy warfare, and how technology is reshaping global power structures.</p>
+      <a href="{{ site.baseurl }}/blog/oil-weapon-faq.html" class="read-more">Read More <span class="visually-hidden">about The Oil Weapon FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Bilderberg_Forum_Inside.webp" alt="Inside Bilderberg Forum">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">August 31, 2025</span>
+      <h2>Inside Bilderberg Forum: What Really Happens Behind Doors</h2>
+      <p>Exclusive insights into the Bilderberg Forum's secret discussions. Discover what topics 150 global elites debate annually and how these conversations shape global policy through sophisticated coordination mechanisms.</p>
+      <a href="{{ site.baseurl }}/blog/inside-bilderberg-forum.html" class="read-more">Read More <span class="visually-hidden">about Inside Bilderberg Forum</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Rigged-Game-3D.webp" alt="The Rigged Game FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">August 29, 2025</span>
+      <h2>The Rigged Game FAQ: How the 1% Built a System to Keep You Poor</h2>
+      <p>Discover how the economic game is rigged against you. Expert answers to the most asked questions about wealth concentration, Dutch financial innovations from 1602, the $2 trillion secret, and viable alternatives to the rigged system that keeps ordinary people poor.</p>
+      <a href="{{ site.baseurl }}/blog/rigged-game-faq.html" class="read-more">Read More <span class="visually-hidden">about The Rigged Game FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Sam-Altman-3DCover.webp" alt="AI Emperor FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">August 22, 2025</span>
+      <h2>AI Emperor FAQ: 7 Questions About Sam Altman's ChatGPT Revolution</h2>
+      <p>How Sam Altman became AI's unelected emperor through the ChatGPT revolution. Expert answers to the most asked questions about AI power concentration, the November 2023 OpenAI coup, economic disruption, and what concentrated AI control means for humanity's future.</p>
+      <a href="{{ site.baseurl }}/blog/AI-Emperor-FAQ.html" class="read-more">Read More <span class="visually-hidden">about AI Emperor FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Medici.webp" alt="Medici Banking Secrets FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">August 15, 2025</span>
+      <h2>Medici Banking FAQ: 7 Questions About Elite Power Networks</h2>
+      <p>Discover how the Medici banking dynasty created 500-year power networks that still control European Central Bank policy, Vatican finances, and Swiss banking through ancient bloodline connections. Expert answers to the most searched questions about Renaissance banking dynasties and modern elite control.</p>
+      <a href="{{ site.baseurl }}/blog/Medici-Secrets-FAQ.html" class="read-more">Read More <span class="visually-hidden">about Medici Banking Secrets FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/The Dopamine Dealers-3D.webp" alt="Fast Food Brain FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">August 1, 2025</span>
+      <h2>Fast Food Brain FAQ: 7 Essential Questions About Dopamine Addiction</h2>
+      <p>Expert answers about fast food dopamine addiction, McDonald's brain manipulation, and food psychology. Learn how to protect yourself from these tactics and understand the neuroscience behind food cravings.</p>
+      <a href="{{ site.baseurl }}/blog/Fast-Food-Brain-FAQ.html" class="read-more">Read More <span class="visually-hidden">about Fast Food Brain FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-grid">
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/The Laundromat-3D.webp" alt="Money Laundering FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">July 25, 2025</span>
+      <h2>Money Laundering FAQ: 12 Essential Questions Answered</h2>
+      <p>Expert answers to top money laundering questions. Learn how the $32 trillion shadow economy works and affects your financial security. Discover the truth behind Nazi gold, cryptocurrency schemes, and modern financial crime networks.</p>
+      <a href="{{ site.baseurl }}/blog/Money-Laundering-FAQ.html" class="read-more">Read More <span class="visually-hidden">about Money Laundering FAQ</span></a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Dark_Money_Empire-Blog.webp" alt="Dark Money FAQ">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">July 16, 2025</span>
+      <h2>Dark Money FAQ: 12 Essential Questions About Secret Wealth Networks</h2>
+      <p>Get clear answers about dark money, offshore banking, and money laundering. Expert insights into the $32 trillion shadow economy affecting your life.</p>
+      <a href="{{ site.baseurl }}/blog/Dark-Money-FAQ.html" class="read-more">Read More <span class="visually-hidden">about Dark Money FAQ</span></a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Bilderberg_Exposed-Rodriguez.webp" alt="Bilderberg Group FAQ 2025">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">June 18, 2025</span>
+      <h2>Bilderberg Group FAQ: 12 Most Asked Questions Answered</h2>
+      <p>Get honest answers to the most common Bilderberg Group questions. Separating facts from conspiracy theories with expert research based on seven decades of previously classified documents.</p>
+      <a href="{{ site.baseurl }}/blog/Bilderberg-Group-FAQ.html" class="read-more">Read More <span class="visually-hidden">about Bilderberg Group FAQ</span></a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/Warren-Baffet-Blog.webp" alt="Warren Buffett FAQ 2025">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">May 30, 2025</span>
+      <h2>Warren Buffett FAQ 2025: Top Questions About The Oracle's Succession</h2>
+      <p>Essential answers to the 12 most burning questions about Warren Buffett's historic retirement, Greg Abel's transition, and what Berkshire's record $325 billion cash position really means for investors.</p>
+      <a href="{{ site.baseurl }}/blog/warren-buffett-faq-2025.html" class="read-more">Read More <span class="visually-hidden">about Warren Buffett FAQ 2025</span></a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/CBDC.webp" alt="CBDC Unveiled">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">May 14, 2025</span>
+      <h2>CBDC Unveiled: How Digital Currencies Will Transform Money—And Your Freedom</h2>
+      <p>Discover the hidden risks of Central Bank Digital Currencies, their impact on privacy, and how they could fundamentally change the relationship between citizens and the state. This analysis reveals the troubling potential of programmable money.</p>
+      <a href="{{ site.baseurl }}/blog/CBDC-Unveiled.html" class="read-more">Read More <span class="visually-hidden">about CBDC Unveiled</span></a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/How the IMF Manipulates Countries.png" alt="How the IMF Manipulates Countries">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">May 7, 2025</span>
+      <h2>How the IMF Manipulates Countries: Financial Control in the Modern Era</h2>
+      <p>Expose how the IMF uses debt traps, structural adjustment, and monetary control to manipulate sovereign nations while serving powerful global interests. Rodriguez reveals the mechanisms that keep developing countries dependent on external financial aid.</p>
+      <a href="{{ site.baseurl }}/blog/imf-manipulates-countries.html" class="read-more">Read More <span class="visually-hidden">about How the IMF Manipulates Countries</span></a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/BlackRock_Empire_Post.webp" alt="The BlackRock Empire">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 21, 2025</span>
+      <h2>The BlackRock Empire: The Hidden Power Controlling Global Finance</h2>
+      <p>Discover how BlackRock quietly became the world's most powerful financial institution, controlling $10 trillion in assets while shaping global markets, housing prices, and even government policy.</p>
+      <a href="{{ site.baseurl }}/blog/blackrock-empire.html" class="read-more">Read More <span class="visually-hidden">about The BlackRock Empire</span></a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/George-Soros_Blog.png" alt="George Soros">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 15, 2025</span>
+      <h2>George Soros: The Controversial Figure Behind Global Finance and Politics</h2>
+      <p>Explore the complex legacy of George Soros—from his famous currency speculation to his vast philanthropic network and why he has become such a polarizing global figure.</p>
+      <a href="{{ site.baseurl }}/blog/george-soros-blog.html" class="read-more">Read More <span class="visually-hidden">about George Soros analysis</span></a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/3.png" alt="US-China Trade War">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 11, 2025</span>
+      <h2>US-China Trade War: Tariff Escalation in 2025</h2>
+      <p>Analyze the latest developments in the ongoing economic conflict between the world's two largest economies. Rodriguez breaks down how recent tariff escalations impact global supply chains, inflation, and geopolitical stability.</p>
+      <a href="{{ site.baseurl }}/blog/us-china-trade-war.html" class="read-more">Read More <span class="visually-hidden">about US-China Trade War</span></a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/silver-empire-3D-Small.png" alt="Silver Empire">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 10, 2025</span>
+      <h2>Silver Empire: The Critical Metal Powering Our Modern World</h2>
+      <p>Explore how silver has become an essential component in renewable energy, electronics, and medical technology. Rodriguez reveals why silver shortages could threaten the global push toward sustainability and technological advancement.</p>
+      <a href="{{ site.baseurl }}/blog/silver-empire.html" class="read-more">Read More <span class="visually-hidden">about Silver Empire analysis</span></a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" alt="The Weaponized Economy">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">March 18, 2025</span>
+      <h2>The Weaponized Economy: How Financial Systems Have Become the New Battlefield</h2>
+      <p>Explore how economic sanctions, financial warfare, and monetary control have replaced traditional military might as the preferred tools of global conflict. Rodriguez exposes the transformation of international finance into a weapon system.</p>
+      <a href="{{ site.baseurl }}/blog/weaponized-economy.html" class="read-more">Read More <span class="visually-hidden">about The Weaponized Economy</span></a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/the-chinese-real-estate-bubble-3D.png" alt="The Chinese Real Estate Bubble">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 10, 2025</span>
+      <h2>The Chinese Real Estate Bubble: A Ticking Time Bomb for the Global Economy</h2>
+      <p>China's $52 trillion property market represents the world's largest asset bubble. Rodriguez reveals how millions of empty apartments, ghost cities, and unsustainable debt levels threaten to trigger a global financial crisis.</p>
+      <a href="{{ site.baseurl }}/blog/china-property-crisis-global-threat.html" class="read-more">Read More <span class="visually-hidden">about The Chinese Real Estate Bubble</span></a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/social/trillion-dollar-shadow-3D.png" alt="The Trillion Dollar Shadow">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 9, 2025</span>
+      <h2>The Trillion Dollar Shadow: How Passive Investing Is Reshaping Capitalism</h2>
+      <p>Uncover how index funds and ETFs have created a new form of "shadow ownership" that concentrates unprecedented power in the hands of a few giant asset managers, fundamentally altering how markets work.</p>
+      <a href="{{ site.baseurl }}/blog/the-trillion-dollar-shadow-how-vanguard-quietly-revolutionized-global-finance.html" class="read-more">Read More <span class="visually-hidden">about The Trillion Dollar Shadow</span></a>
+    </div>
+  </div>
+</div>
+
+<!-- Enhanced Blog Schema for SEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "Michael Rodriguez Blog",
+  "description": "Expert analysis on money laundering, financial crime, shadow economy, AI power, and global corruption. Investigative insights from economic analyst Michael Rodriguez.",
+  "url": "https://michaelrodriguezbooks.com/blog",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Rodriguez",
+    "jobTitle": "Economic Analyst and Investigative Author",
+    "url": "https://michaelrodriguezbooks.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Resource Economics Press",
+    "url": "https://michaelrodriguezbooks.com/"
+  },
+  "blogPost": [
+    {
+      "@type": "BlogPosting",
+      "headline": "The Dark Triad in Corporate America: Why Psychopaths Run Your Company",
+      "description": "How narcissism, Machiavellianism, and psychopathy became the ultimate career accelerators in modern capitalism.",
+      "datePublished": "2026-04-08",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Dark Advantage: Your Questions Answered",
+      "description": "Seven essential questions about dark personality traits in corporate power answered with research and documented evidence.",
+      "datePublished": "2026-04-08",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "The 1953 CIA Coup in Iran: How Operation Ajax Created America's Greatest Enemy",
+      "description": "How a bankrupt Australian prospector, a British oil empire, and a CIA officer named Kermit Roosevelt toppled Iran's only democratic government.",
+      "datePublished": "2026-04-03",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "The Persian Grudge: Your Questions Answered",
+      "description": "Why do Iran and America hate each other? Seven essential questions answered with declassified documents and verified facts.",
+      "datePublished": "2026-04-03",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "The 2040 Collapse: 5 Signs the World3 Model Was Right",
+      "description": "Five real-world crises that match the World3 model predictions: China demographics, water wars, fertilizer crisis, energy limits, and debt.",
+      "datePublished": "2026-03-04",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Will Civilization Collapse by 2040? The World3 Model FAQ",
+      "description": "Expert FAQ on the Club of Rome World3 model, Gaya Herrington 2021 study, and the 2040 collapse prediction backed by 50 years of data.",
+      "datePublished": "2026-03-04",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "The Architecture of Impunity: How Epstein Escaped Justice for 30 Years",
+      "description": "From a $475 million Ponzi scheme to Little Saint James — a deep investigation into the financial fraud, institutional failures, and elite networks that shielded Jeffrey Epstein.",
+      "datePublished": "2026-02-23",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Smart but Broke? Why Intelligence Doesn't Equal Wealth FAQ",
+      "description": "Expert answers to why intelligent people struggle financially. Discover the 7 intelligence traps keeping smart minds poor and broke.",
+      "datePublished": "2025-11-01",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Bush Machine FAQ: Oil, CIA & Dynasty's Hidden Power Network",
+      "description": "How Prescott Bush's Nazi ties didn't end his dynasty. Expert answers on CIA control, $39B war profits, and the shadow network ruling America for 100 years.",
+      "datePublished": "2025-10-04",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "India Paradox FAQ: Nuclear Power, Digital Dreams, and Democracy's Superpower Rise",
+      "description": "How India landed on the Moon for $74M while 400M lack toilets. Expert answers about nuclear ambitions, China rivalry, and democratic innovation reshaping global power.",
+      "datePublished": "2025-09-26",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Venezuela's Oil Curse FAQ: How the Richest Poor Country Became America's Biggest Threat",
+      "description": "Discover how Venezuela transformed from oil paradise to narco-state. Expert answers about the $15M bounty, China's $67B gambit, and the new Cold War in America's backyard.",
+      "datePublished": "2025-09-20",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "The Oil Weapon FAQ: How Energy Became the Ultimate Economic Weapon",
+      "description": "Discover how energy warfare evolved from Rockefeller's monopoly to Ukrainian drones. Expert answers to the most asked questions about energy geopolitics.",
+      "datePublished": "2025-09-12",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Inside Bilderberg Forum: What Really Happens Behind Doors",
+      "description": "Exclusive insights into the Bilderberg Forum's secret discussions. Discover what topics 150 global elites debate annually and how these conversations shape global policy.",
+      "datePublished": "2025-08-31",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "The Rigged Game FAQ: How the 1% Built a System to Keep You Poor",
+      "description": "Discover how the economic game is rigged against you. Expert answers to the most asked questions about wealth concentration and financial control.",
+      "datePublished": "2025-08-29",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "AI Emperor FAQ: 7 Questions About Sam Altman's ChatGPT Revolution",
+      "description": "How Sam Altman became AI's unelected emperor through the ChatGPT revolution.",
+      "datePublished": "2025-08-22",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting", 
+      "headline": "Money Laundering FAQ: 12 Essential Questions Answered",
+      "description": "Expert answers to top money laundering questions. Learn how the $32 trillion shadow economy works.",
+      "datePublished": "2025-07-25",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Dark Money FAQ: 12 Essential Questions About Secret Wealth Networks",
+      "description": "Get clear answers about dark money, offshore banking, and money laundering.",
+      "datePublished": "2025-07-16",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Jeffrey Epstein Power Network: How Wealth Buys Impunity FAQ",
+      "description": "Expert answers on how Jeffrey Epstein built an architecture of impunity. Discover how elite power networks shield predators from justice.",
+      "datePublished": "2026-02-21",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Medici Banking FAQ: 7 Questions About Elite Power Networks",
+      "description": "Discover how the Medici banking dynasty created 500-year power networks that still control European Central Bank policy, Vatican finances, and Swiss banking.",
+      "datePublished": "2025-08-15",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Fast Food Brain FAQ: 7 Essential Questions About Dopamine Addiction",
+      "description": "Expert answers about fast food dopamine addiction, McDonald's brain manipulation, and food psychology.",
+      "datePublished": "2025-08-01",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Bilderberg Group FAQ: 12 Most Asked Questions Answered",
+      "description": "Get honest answers to the most common Bilderberg Group questions. Separating facts from conspiracy theories with expert research.",
+      "datePublished": "2025-06-18",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Warren Buffett FAQ 2025: Top Questions About The Oracle's Succession",
+      "description": "Essential answers to the 12 most burning questions about Warren Buffett's historic retirement, Greg Abel's transition, and Berkshire's record $325 billion cash position.",
+      "datePublished": "2025-05-30",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "CBDC Unveiled: How Digital Currencies Will Transform Money—And Your Freedom",
+      "description": "Discover the hidden risks of Central Bank Digital Currencies, their impact on privacy, and how they could fundamentally change the relationship between citizens and the state.",
+      "datePublished": "2025-05-14",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "How the IMF Manipulates Countries: Financial Control in the Modern Era",
+      "description": "Expose how the IMF uses debt traps, structural adjustment, and monetary control to manipulate sovereign nations while serving powerful global interests.",
+      "datePublished": "2025-05-07",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "The BlackRock Empire: The Hidden Power Controlling Global Finance",
+      "description": "Discover how BlackRock quietly became the world's most powerful financial institution, controlling $10 trillion in assets.",
+      "datePublished": "2025-04-21",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "George Soros: The Controversial Figure Behind Global Finance and Politics",
+      "description": "Explore the complex legacy of George Soros—from his famous currency speculation to his vast philanthropic network.",
+      "datePublished": "2025-04-15",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "US-China Trade War: Tariff Escalation in 2025",
+      "description": "Analyze the latest developments in the ongoing economic conflict between the world's two largest economies.",
+      "datePublished": "2025-04-11",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Silver Empire: The Critical Metal Powering Our Modern World",
+      "description": "Explore how silver has become an essential component in renewable energy, electronics, and medical technology.",
+      "datePublished": "2025-04-10",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "The Weaponized Economy: How Financial Systems Have Become the New Battlefield",
+      "description": "Explore how economic sanctions, financial warfare, and monetary control have replaced traditional military might as the preferred tools of global conflict.",
+      "datePublished": "2025-03-18",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "The Chinese Real Estate Bubble: A Ticking Time Bomb for the Global Economy",
+      "description": "China's $52 trillion property market represents the world's largest asset bubble. Rodriguez reveals how millions of empty apartments threaten a global financial crisis.",
+      "datePublished": "2025-04-10",
+      "author": "Michael Rodriguez"
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "The Trillion Dollar Shadow: How Passive Investing Is Reshaping Capitalism",
+      "description": "Uncover how index funds and ETFs have created a new form of shadow ownership that concentrates unprecedented power in the hands of a few giant asset managers.",
+      "datePublished": "2025-04-09",
+      "author": "Michael Rodriguez"
+    }
+  ]
+}
+</script>
+
+<!-- Enhanced CSS for high contrast and accessibility -->
+<style>
+/* High contrast colors for better accessibility */
+:root {
+  --primary-color: #c9a227;
+  --secondary-color: #e8d48b;
+  --text-color: #e8e6e3;
+  --light-bg: #1a1a1a;
+  --border-color: #2a2a2a;
+}
+
+/* Ensure footer text remains white */
+footer p {
+  color: #0d0d0d !important;
+}
+
+footer .footer-column p {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+footer .footer-column h3 {
+  color: #0d0d0d !important;
+}
+
+footer .footer-column a {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+footer .footer-column a:hover {
+  color: #0d0d0d !important;
+}
+
+footer .copyright {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+/* Improve main content readability */
+h1 {
+  color: var(--primary-color);
+  font-weight: 700;
+}
+
+/* Focus indicators for all interactive elements */
+*:focus {
+  outline: 2px solid #ffbf00;
+  outline-offset: 2px;
+}
+
+/* Remove focus outline for mouse users but keep for keyboard users */
+.js-focus-visible *:focus:not(.focus-visible) {
+  outline: none;
+}
+</style>

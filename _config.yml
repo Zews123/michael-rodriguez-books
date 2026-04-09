@@ -20,11 +20,18 @@ social:
     - https://www.facebook.com/MichaelRodriguezAuthor/
 # Отключаем добавление названия сайта к заголовкам страниц
 title_separator: ""
+# Author (used by jekyll-seo-tag for BlogPosting author field)
+author:
+  name: Michael Rodriguez
+  url: https://michaelrodriguezbooks.com/about
 # Настройки для sitemap
 sitemap:
   filename: sitemap.xml
   exclude:
     - "/404.html"
     - "/assets/css/style.scss"
-# Google Analytics (добавьте свой ID позже)
-# google_analytics: UA-XXXXXXXXX-X
+    - "/index_backup.html"
+    - "/index_backup.md"
+    - "/google6237e93d77328939.html"
+    - "/pinterest-accf3.html"
+    - "/assets/images/social/trillion.html"

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Shadows of Power | Michael Rodriguez"
-description: "Explosive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse."
+title: "Shadows of Power: How Epstein Escaped Justice"
+description: "147 connections. 30 years of cover-ups. Declassified documents expose how Epstein's network of wealth and power shielded a predator. Free chapter inside."
 canonical_url: "https://michaelrodriguezbooks.com/books/Shadows_of_Power"
 image: "https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power.webp"
 author: "Michael Rodriguez"
