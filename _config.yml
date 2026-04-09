@@ -24,14 +24,10 @@ title_separator: ""
 author:
   name: Michael Rodriguez
   url: https://michaelrodriguezbooks.com/about
-# Настройки для sitemap
-sitemap:
-  filename: sitemap.xml
-  exclude:
-    - "/404.html"
-    - "/assets/css/style.scss"
-    - "/index_backup.html"
-    - "/index_backup.md"
-    - "/google6237e93d77328939.html"
-    - "/pinterest-accf3.html"
-    - "/assets/images/social/trillion.html"
+# Exclude junk from sitemap and build
+exclude:
+  - "index_backup.html"
+  - "index_backup.md"
+  - "google6237e93d77328939.html"
+  - "pinterest-accf3.html"
+  - "assets/images/social/trillion.html"

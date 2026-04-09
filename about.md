@@ -85,7 +85,7 @@ Rodriguez believes that understanding the mechanics of financial crime is essent
 
 For media inquiries, speaking engagements, or research collaboration opportunities, please contact:
 
-**Email:** [marlonturner135@gmail.com](mailto:marlonturner135@gmail.com)
+**Email:** [author@michaelrodriguezbooks.com](mailto:author@michaelrodriguezbooks.com)
 
 ## Newsletter
 

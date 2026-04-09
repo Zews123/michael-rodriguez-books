@@ -24,22 +24,22 @@ Thank you for your interest in Michael Rodriguez's work. Please use the informat
 
 
 **For Media Inquiries:**  
-[media@michaelrodriguezbooks.com](mailto:marlonturner135@gmail.com)
+[media@michaelrodriguezbooks.com](mailto:author@michaelrodriguezbooks.com)
 
 **For Speaking Engagements:**  
-[speaking@michaelrodriguezbooks.com](mailto:marlonturner135@gmail.com)
+[speaking@michaelrodriguezbooks.com](mailto:author@michaelrodriguezbooks.com)
 
 **Literary Agent:**  
 Jane Smith  
 Global Literary Agency  
-[agent@globalliterary.com](mailto:marlonturner135@gmail.com)
+[agent@globalliterary.com](mailto:author@michaelrodriguezbooks.com)
 
 ## Book Orders and Customer Service
 
 For questions regarding book orders, please contact the retailer where you purchased the book.
 
 For bulk orders and special sales, please contact:  
-[sales@resourceeconomicspress.com](mailto:marlonturner135@gmail.com)
+[sales@resourceeconomicspress.com](mailto:author@michaelrodriguezbooks.com)
 
 ## Social Media
 
@@ -79,18 +79,18 @@ Stay informed about Michael's latest research, upcoming books, and public appear
     "@type": "Person",
     "name": "Michael Rodriguez",
     "@id": "{{ site.url }}{{ site.baseurl }}/about#person",
-    "email": "marlonturner135@gmail.com",
+    "email": "author@michaelrodriguezbooks.com",
     "contactPoint": [
       {
         "@type": "ContactPoint",
         "contactType": "Media Inquiries",
-        "email": "marlonturner135@gmail.com",
+        "email": "author@michaelrodriguezbooks.com",
         "availableLanguage": ["English"]
       },
       {
         "@type": "ContactPoint",
         "contactType": "Speaking Engagements",
-        "email": "marlonturner135@gmail.com",
+        "email": "author@michaelrodriguezbooks.com",
         "availableLanguage": ["English"]
       }
     ]
