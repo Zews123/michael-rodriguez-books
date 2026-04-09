@@ -85,13 +85,15 @@ Use the reference template from Stage 1. Replace all content with extracted data
 ```yaml
 ---
 layout: default
-title: "{{BOOK_TITLE}} | Michael Rodriguez"     # STRICT: max 58 characters
-description: "{{SHORT_DESCRIPTION}}"            # max 150 characters
+title: "{{BOOK_TITLE}}"     # STRICT: max 60 characters, with hook, NO author name
+description: "{{SHORT_DESCRIPTION}}"            # max 155 characters
 canonical_url: "https://michaelrodriguezbooks.com/books/{{book-slug}}"
 image: "https://michaelrodriguezbooks.com/assets/images/{{filename}}.webp"
 date: {{YYYY-MM-DD}}                              # REQUIRED for Jekyll sorting and Schema
 ---
 ```
+
+> **Title rules:** Max 60 characters. Must contain a hook (numbers, question, or intrigue). Do NOT include "| Michael Rodriguez" — the author name is handled by jekyll-seo-tag and schema. Pattern: "Book Name: Hook Phrase" (e.g., "BlackRock Empire: The $10T Financial Giant").
 
 ### Performance block:
 ```html
@@ -154,6 +156,8 @@ ISBN: {{ISBN_EBOOK}} (eBook)
 **3. Key Revelations** — 4–6 punchy insights from book content
 
 **4. About the Author** — from `Publishing_Package.txt` author bio
+
+> ⚠️ **NEVER include** fake endorsement quotes (e.g., "Praise from The Wall Street Journal") or "Featured In" press claims. Only include verifiable, real endorsements. Author bio should focus on expertise, book count, and methodology — not fabricated press mentions.
 
 **5. Get Your Copy Today**
 - Amazon, Apple Books, Kobo, Barnes & Noble buttons (user-provided links)
@@ -236,7 +240,7 @@ Use the most recent blog post in `blog/` as structural reference.
 ```yaml
 ---
 layout: default
-title: "{{FAQ_TITLE}}"                          # Question-format title, max 58 chars
+title: "{{FAQ_TITLE}}"                          # Question-format title, max 60 chars
 description: "{{FAQ_DESCRIPTION}}"             # max 150 characters
 canonical_url: "https://michaelrodriguezbooks.com/blog/{{book-slug}}-faq.html"
 image: "https://michaelrodriguezbooks.com/assets/images/{{filename}}.webp"
@@ -384,8 +388,8 @@ This is a **long-form analytical article** (2500–3500 words) that dives deep i
 ```yaml
 ---
 layout: default
-title: "{{ANALYTICAL_TITLE}}"                   # Descriptive, keyword-rich, max 58 chars
-description: "{{ANALYTICAL_DESCRIPTION}}"       # max 150 characters
+title: "{{ANALYTICAL_TITLE}}"                   # Descriptive, keyword-rich, max 60 chars
+description: "{{ANALYTICAL_DESCRIPTION}}"       # max 155 characters
 image: "https://michaelrodriguezbooks.com/assets/images/{{filename}}.webp"
 canonical_url: "https://michaelrodriguezbooks.com/blog/{{analytical-slug}}.html"
 date: {{YYYY-MM-DD}}
@@ -541,7 +545,7 @@ Wait for GitHub Pages rebuild (1–2 min), then verify:
 ## STAGE 8 — VALIDATION CHECKLIST
 
 **Book page:**
-- [ ] Title ≤ 58 characters (counted exactly)
+- [ ] Title ≤ 60 characters (counted exactly)
 - [ ] Description ≤ 150 characters (counted exactly)
 - [ ] `date:` field present in YAML front matter
 - [ ] og:image is absolute https:// URL

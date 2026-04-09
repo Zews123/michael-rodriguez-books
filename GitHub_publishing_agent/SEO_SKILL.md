@@ -12,7 +12,7 @@
 ```yaml
 ---
 layout: default
-title: "{{BOOK_TITLE}} | Michael Rodriguez"
+title: "{{BOOK_TITLE}}"
 description: "{{SEO_DESCRIPTION}}"
 canonical_url: "https://michaelrodriguezbooks.com/books/{{book-slug}}"
 image: "https://michaelrodriguezbooks.com/assets/images/{{filename}}.webp"
@@ -39,18 +39,20 @@ date: {{YYYY-MM-DD}}
 > ⚠️ The `date:` field is **REQUIRED** for all pages. Jekyll uses it for sorting, and it feeds into Schema `datePublished`. Without it, blog posts may appear in wrong order and Schema will be incomplete.
 
 **Strict rules:**
-- `title` — max **58 characters** total (count every character including spaces and `| Michael Rodriguez`)
-- `description` — max **150 characters** (count exactly before saving)
+- `title` — max **60 characters** (the book title with a hook — no author name)
+- `title` must contain a **hook**: numbers (e.g., "$10T", "120 Years"), question, intrigue, or power words. Pattern: "Book Name: Hook Phrase"
+- Do NOT include author name in title — it's already in the page's author meta tag
+- `description` — max **155 characters** (count exactly before saving)
 - `image` — must be **absolute URL** (starts with `https://`), not `{{ site.baseurl }}/...`
 - Do NOT add: `price_kindle`, `pages`, `tags`, `category`, `isbn_*` — Jekyll ignores them in SEO
 - `date_modified` — update every time the page is edited
 
 **Auto-check title length (run before saving):**
 ```python
-title = "{{BOOK_TITLE}} | Michael Rodriguez"
+title = "{{BOOK_TITLE}}"
 desc = "{{SEO_DESCRIPTION}}"
-assert len(title) <= 58, f"TITLE TOO LONG: {len(title)} chars — trim it"
-assert len(desc) <= 150, f"DESCRIPTION TOO LONG: {len(desc)} chars — trim it"
+assert len(title) <= 60, f"TITLE TOO LONG: {len(title)} chars — trim it"
+assert len(desc) <= 155, f"DESCRIPTION TOO LONG: {len(desc)} chars — trim it"
 print(f"✅ Title: {len(title)} chars | Description: {len(desc)} chars")
 ```
 
@@ -121,7 +123,7 @@ Place at the bottom of the page, before `</body>`:
       "@type": "WebPage",
       "@id": "https://michaelrodriguezbooks.com/books/{{book-slug}}/#webpage",
       "url": "https://michaelrodriguezbooks.com/books/{{book-slug}}",
-      "name": "{{BOOK_TITLE}} | Michael Rodriguez",
+      "name": "{{BOOK_TITLE}}",
       "description": "{{SEO_DESCRIPTION}}",
       "datePublished": "{{YYYY-MM-DD}}",
       "dateModified": "{{YYYY-MM-DD}}",
@@ -233,8 +235,8 @@ Place at the bottom of the page, before `</body>`:
 ```
 SEO BLOCK                    | CHECK
 -----------------------------|------------------------------------------
-Title length                 | ≤ 58 characters (count exactly)
-Description length           | ≤ 150 characters (count exactly)
+Title length                 | ≤ 60 characters (count exactly)
+Description length           | ≤ 160 characters (count exactly)
 Canonical URL                | Absolute https:// URL, correct slug
 og:image                     | Absolute https:// URL (not site.baseurl)
 og:image dimensions          | width=400 height=600 present
@@ -366,3 +368,21 @@ Insert on every book page BEFORE "About the Book" section:
 ```
 
 > This banner links to the Free Chapter lead magnet page where visitors can read preview chapters and subscribe via Kit form.
+
+---
+
+## BLOCK 12 — CONTENT INTEGRITY RULES
+
+**NEVER include in any page:**
+- Fake press endorsement quotes (e.g., "— *The Wall Street Journal*", "— *Bloomberg*")
+- "Featured In" claims for publications where the author has not been featured
+- Fabricated awards or recognitions
+- Unverifiable media appearances
+
+**Author bio should include:**
+- "Author of 30+ investigative books" (verifiable)
+- Areas of expertise (financial crime, geopolitics, etc.)
+- Research methodology (primary sources, declassified documents, court records)
+- Contact: author@michaelrodriguezbooks.com (NOT gmail)
+
+Google's E-E-A-T guidelines penalize unverifiable authority claims. Keep bios factual and humble.
