@@ -37,17 +37,6 @@ For American readers, understanding the mechanisms of trade wars is particularly
 
 This book will help you understand the true nature of economic warfare and its consequences for the global economy, international relations, and your own financial future.
 
-## Praise for Weaponized Economy
-
-"A masterful analysis of how economics and geopolitics intersect... essential reading for anyone trying to understand today's complex international relations."
-— *The Financial Times*
-
-"Rodriguez combines historical insight with economic expertise to create a fascinating narrative about the evolution of economic warfare."
-— *Foreign Policy Magazine*
-
-"A timely reminder that trade wars are rarely won and often spiral into unintended consequences."
-— *The Economist*
-
 ## About the Author
 
 Michael Rodriguez is a renowned economic analyst and investigative journalist specializing in the geopolitics of trade, economic warfare, and international power dynamics. With over fifteen years of experience researching global economic systems and their political implications, Rodriguez brings a unique perspective to understanding how nations weaponize trade and economic policy to achieve strategic objectives.

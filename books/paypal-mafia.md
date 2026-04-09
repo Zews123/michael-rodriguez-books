@@ -49,17 +49,6 @@ Understanding this network is essential for anyone who wants to comprehend the f
 - **Jared Birchall**: Head of Elon Musk's family office and manager of cryptocurrency investments
 - **Steve Chen, Chad Hurley, Jawed Karim**: Co-founders of YouTube
 
-## Praise for The PayPal Mafia
-
-"A masterful exploration of Silicon Valley's most influential network. Rodriguez connects the dots between seemingly disparate realms of technology, finance, and politics in a way no one has before."
-— *Wired*
-
-"Essential reading for understanding the libertarian ideology that drives much of today's tech industry. The PayPal Mafia has reshaped our world more than most people realize."
-— *The New York Times*
-
-"A fascinating look at how personal connections and shared ideologies can create unprecedented concentrations of power in the digital age."
-— *Harvard Business Review*
-
 ## About the Author
 
 Michael Rodriguez is a renowned economic analyst and investigative journalist specializing in the intersection of technology, finance, and political power. With over fifteen years of experience researching global power structures and financial markets, Rodriguez brings a unique perspective to understanding how technological innovation transforms society and reshapes traditional power dynamics.

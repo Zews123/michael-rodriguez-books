@@ -116,7 +116,7 @@ A systematic toolkit for evaluating any claim about hidden power: primary source
 
 **Michael Rodriguez** is an investigative journalist and economic analyst specializing in global power structures, political history, and the hidden mechanisms that shape modern society. With over fifteen years of research experience spanning financial crime, intelligence history, elite networks, and geopolitical analysis, Rodriguez brings rigorous primary-source methodology to questions that mainstream journalism too often leaves unexplored.
 
-His work has been featured in The Wall Street Journal, The Financial Times, Foreign Affairs, and The Economist. He is the author of multiple investigative works including *Shadows of Power*, *Countdown to Collapse*, *The Disease Dealers*, and *The Profit Machine*.
+He is the author of over 30 investigative works including *Shadows of Power*, *Countdown to Collapse*, *The Disease Dealers*, and *The Profit Machine*.
 
 For *The Shadow Cabinet*, Rodriguez spent years tracing the documented record through declassified CIA files, congressional hearing transcripts, FOIA releases, and on-the-record admissions — delivering the first single-volume investigation that covers all major transnational power networks and verified covert operations.
 

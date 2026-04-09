@@ -45,17 +45,6 @@ Understanding the power and reach of Vanguard is essential for anyone interested
 - Despite his revolutionary approach to finance, Bogle himself became concerned about the concentration of power his creation helped establish
 - Index investing has grown from less than 1% of assets in 1980 to over 45% by 2025, fundamentally changing how capital is allocated
 
-## Praise for The Trillion Dollar Shadow
-
-"A fascinating exploration of how good intentions can create unintended consequences in finance. Rodriguez has produced the definitive work on the rise of index funds and their impact on global markets."
-— *The Wall Street Journal*
-
-"Essential reading for anyone who wants to understand the hidden forces shaping today's economy. Rodriguez pulls back the curtain on one of the most powerful yet least understood entities in finance."
-— *The Financial Times*
-
-"Brilliantly researched and compellingly written. This book will change how you think about modern capitalism."
-— *Bloomberg*
-
 ## About the Author
 
 Michael Rodriguez is a renowned economic analyst and researcher specializing in global financial markets and their impact on the world economy. With extensive experience studying international economic systems, Rodriguez offers a unique perspective on the inner workings of financial institutions and their influence on global markets.

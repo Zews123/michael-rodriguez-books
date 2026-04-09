@@ -195,7 +195,7 @@ This isn't just analysis—it's a roadmap for understanding the most important e
 
 Rodriguez's investigative methodology combines traditional journalism with deep historical analysis, utilizing insider sources, financial documents, court records, and leaked materials to reveal how concentrated economic power operates across centuries. For *The Rigged Game*, he conducted extensive research into historical archives, interviewed former investment bankers, examined derivative trading floors, and analyzed cooperative enterprises worldwide.
 
-His investigations have been featured in major financial publications worldwide, and his analysis of wealth concentration continues to influence policy debates about inequality, financial regulation, and alternative economic systems.
+His analysis of wealth concentration contributes to ongoing policy debates about inequality, financial regulation, and alternative economic systems.
 
 ## Get Your Copy Today
 

@@ -15,7 +15,7 @@ Michael Rodriguez is a renowned economic analyst and investigative journalist sp
 
 Rodriguez combines economic theory, forensic accounting, historical analysis, and investigative journalism to uncover connections between financial institutions, criminal networks, technological innovation, and broader social and political trends. His interdisciplinary approach allows him to identify patterns that others miss, making his analyses particularly valuable in today's complex global economy where illicit finance increasingly undermines democratic institutions.
 
-After studying Economics and International Relations at Georgetown University, Rodriguez worked as a financial analyst before dedicating himself to full-time research and writing, specializing in financial crime investigation and offshore banking systems. He has been featured in publications including The Wall Street Journal, The Financial Times, The Economist, Foreign Affairs, and Wired.
+After studying Economics and International Relations at Georgetown University, Rodriguez worked as a financial analyst before dedicating himself to full-time research and writing, specializing in financial crime investigation and offshore banking systems.
 
 ## Publications
 
@@ -142,11 +142,7 @@ Stay informed about Rodriguez's latest investigations, upcoming books, and publi
     ]
   },
   "award": [
-    "Featured in The Wall Street Journal",
-    "Featured in The Financial Times",
-    "Featured in The Economist",
-    "Featured in Foreign Affairs",
-    "Featured in Wired"
+    "Author of 30+ investigative books"
   ],
   "workExample": [
     {
