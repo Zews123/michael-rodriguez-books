@@ -1,4 +1,5 @@
 ---
+permalink: /books/Sam_Altman
 layout: default
 title: "The AI Emperor: Sam Altman's Rise to Power"
 description: "Expose Sam Altman's rise to AI supremacy. How ChatGPT revolutionized society and one man gained unprecedented control over humanity's future."

@@ -1,4 +1,5 @@
 ---
+permalink: /books/free-chapter-warren-buffett
 layout: default
 title: "Free Chapter — Warren Buffett: How to Become THE RICHEST?"
 description: "Read the Introduction and first two chapters of Warren Buffett biography free. Discover the untold origins of the world's greatest investor."

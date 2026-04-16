@@ -1,4 +1,5 @@
 ---
+permalink: /books/Passport-Power
 layout: default
 title: "Passport Power: How Travel Documents Shape Lives"
 description: "Discover how your passport shapes global opportunities, economic freedom, and life chances. Rodriguez reveals the hidden power behind travel documents."

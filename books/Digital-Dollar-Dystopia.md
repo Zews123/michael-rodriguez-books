@@ -1,4 +1,5 @@
 ---
+permalink: /books/Digital-Dollar-Dystopia
 layout: default
 title: "Digital Dollar Dystopia: How CBDCs End Financial Freedom"
 description: "Explore how Central Bank Digital Currencies threaten personal liberty, enable financial surveillance, and create unprecedented control systems"

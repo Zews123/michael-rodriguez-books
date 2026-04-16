@@ -1,4 +1,5 @@
 ---
+permalink: /books/Profit_Machine
 layout: default
 title: "Profit Machine: War to Wall Street Payday Analysis"
 description: "How defense contractors, banks & corporations profit billions from wars while taxpayers pay. Exposing the military-industrial complex."

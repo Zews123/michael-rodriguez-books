@@ -1,4 +1,5 @@
 ---
+permalink: /books/imf-manipulates
 layout: default
 title: "How the IMF Manipulates Countries: Market Control"
 description: "Discover how the IMF uses debt, structural adjustment, and currency manipulation to control nations' economies and serve powerful interests."

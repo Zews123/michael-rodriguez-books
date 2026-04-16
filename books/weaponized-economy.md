@@ -1,4 +1,5 @@
 ---
+permalink: /books/weaponized-economy
 layout: default
 title: "Weaponized Economy: How Trade Becomes Warfare"
 description: "From Napoleon to modern US-China tensions, discover how nations use trade as a weapon. Rodriguez reveals economic warfare's impact on global politics."

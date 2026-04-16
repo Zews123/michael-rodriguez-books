@@ -1,4 +1,5 @@
 ---
+permalink: /books/Bush_Machine
 layout: default
 title: "Bush Machine: Oil, Espionage & American Power Analysis"
 description: "Inside Bush dynasty's hidden empire - four generations of oil money, CIA connections, and political power shaping American history and global policy."

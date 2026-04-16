@@ -1,4 +1,5 @@
 ---
+permalink: /books/Countdown_2040
 layout: default
 title: "Countdown 2040: The Model That Predicted Collapse"
 description: "A 1972 computer model predicted civilizational decline by 2040. Fifty years of data prove it right. Examine the evidence."

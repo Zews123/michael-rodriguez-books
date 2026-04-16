@@ -1,4 +1,5 @@
 ---
+permalink: /books/Secrets_Medici
 layout: default
 title: "Secrets Medici: Dark Aristocracy Behind Global Power"
 description: "Expose 500+ years of Medici family secrets. How Renaissance banking dynasties control modern power through Vatican networks and elite bloodlines."

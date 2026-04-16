@@ -1,8 +1,9 @@
 ---
+permalink: /books/chinese-real-estate-bubble
 layout: default
 title: "China's Real Estate Bubble: A Global Economic Threat"
 description: "Analysis of China's property market crisis and how its collapse threatens the global economy. Essential for investors and economists"
-canonical_url: "https://michaelrodriguezbooks.com/books/chinese-real-estate-bubble.html"
+canonical_url: "https://michaelrodriguezbooks.com/books/chinese-real-estate-bubble"
 image: "https://michaelrodriguezbooks.com/assets/images/THE_CHINESE_REAL_ESTATE_BUBBLE%20print.webp"
 ---
 

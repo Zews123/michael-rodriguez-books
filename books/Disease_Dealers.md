@@ -1,4 +1,5 @@
 ---
+permalink: /books/Disease_Dealers
 layout: default
 title: "Disease Dealers: Big Pharma's Profit Over Health"
 description: "How pharmaceutical giants create diseases, manipulate research & price-gouge patients for profit. Inside Big Pharma's billion-dollar deception."

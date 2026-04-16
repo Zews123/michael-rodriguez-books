@@ -1,4 +1,5 @@
 ---
+permalink: /books/If_You_re_So_Smart
 layout: default
 title: "If You're So Smart, Why Aren't You Rich?"
 description: "Why smart people struggle financially while the wealthy exploit intelligence. Michael Rodriguez exposes the rigged system."

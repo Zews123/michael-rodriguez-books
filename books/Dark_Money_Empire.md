@@ -1,4 +1,5 @@
 ---
+permalink: /books/Dark_Money_Empire
 layout: default
 title: "Dark Money Empire: Secret Laundering Networks Exposed"
 description: "Uncover how presidents, oligarchs, Nazis and rock stars launder billions through secret offshore networks. Rodriguez exposes the $32 trillion shadow economy."

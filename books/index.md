@@ -1,4 +1,5 @@
 ---
+permalink: /books/
 layout: default
 title: "Michael Rodriguez Books | Financial Crime Analysis"
 description: "Complete collection of investigative books by Michael Rodriguez on financial crime, money laundering, shadow economy, AI power, and global corruption networks."

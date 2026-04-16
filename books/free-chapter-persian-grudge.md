@@ -1,4 +1,5 @@
 ---
+permalink: /books/free-chapter-persian-grudge
 layout: default
 title: "Free Chapter — The Persian Grudge by Michael Rodriguez"
 description: "Read the Introduction of The Persian Grudge free. Subscribe to get Chapter 1 as EPUB."

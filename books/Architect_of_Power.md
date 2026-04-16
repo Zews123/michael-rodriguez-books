@@ -1,4 +1,5 @@
 ---
+permalink: /books/Architect_of_Power
 layout: default
 title: "Architect of Power: Kissinger's Wars and World Order"
 description: "Henry Kissinger: refugee, strategist, Nobel laureate, accused war criminal. How one man shaped the world order we live in today."

@@ -1,4 +1,5 @@
 ---
+permalink: /books/India_Paradox
 layout: default
 title: "India Paradox: Nuclear Power Meets Digital Dreams"
 description: "Inside India's transformation to global superpower - nuclear ambitions, tech revolution, and billion-person democracy shaping world order."

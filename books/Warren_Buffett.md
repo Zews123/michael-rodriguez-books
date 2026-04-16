@@ -1,4 +1,5 @@
 ---
+permalink: /books/Warren_Buffett
 layout: default
 title: "Warren Buffett: Secrets Behind the $130B Fortune"
 description: "Discover Warren Buffett's journey from childhood entrepreneur to world's greatest investor. Rodriguez reveals secrets behind Berkshire Hathaway empire."

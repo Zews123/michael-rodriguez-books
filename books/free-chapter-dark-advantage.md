@@ -1,4 +1,5 @@
 ---
+permalink: /books/free-chapter-dark-advantage
 layout: default
 title: "Free Chapter — Dark Advantage by Michael Rodriguez"
 description: "Read the Introduction of Dark Advantage free. Subscribe to get Chapter 1 as EPUB."

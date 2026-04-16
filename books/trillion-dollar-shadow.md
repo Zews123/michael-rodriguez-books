@@ -1,4 +1,5 @@
 ---
+permalink: /books/trillion-dollar-shadow
 layout: default
 title: "Trillion Dollar Shadow: Vanguard's Secret Power"
 description: "Discover how John Bogle’s index fund strategy built Vanguard into a trillion-dollar giant, reshaping global investing and transforming market dynamics."

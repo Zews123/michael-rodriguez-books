@@ -1,4 +1,5 @@
 ---
+permalink: /books/Dopamine_Dealers
 layout: default
 title: "Dopamine Dealers: How Fast Food Hijacks Your Brain"
 description: "Discover how McDonald's, KFC & Burger King use neuroscience to turn your brain into their ATM. Rodriguez exposes the addiction tactics of fast food giants."

@@ -1,4 +1,5 @@
 ---
+permalink: /books/Oil_Weapon
 layout: default
 title: "The Oil Weapon: 150 Years of Energy Geopolitics"
 description: "Explosive investigation into 150 years of energy geopolitics - from Rockefeller's empire to Ukrainian drones targeting Russian refineries."

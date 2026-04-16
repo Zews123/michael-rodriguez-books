@@ -1,4 +1,5 @@
 ---
+permalink: /books/Shadow_Cabinet
 layout: default
 title: "The Shadow Cabinet: Bilderberg and Secret Power"
 description: "Bilderberg, CFR, MK-Ultra, COINTELPRO — the first fact-verified investigation of secret power networks. What the declassified documents reveal."

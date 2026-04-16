@@ -1,4 +1,5 @@
 ---
+permalink: /books/blackrock-empire
 layout: default
 title: "BlackRock Empire: The $10T Financial Giant"
 description: "Uncover how BlackRock became the world's most powerful financial institution, controlling trillions in assets and shaping global markets from behind the scenes."

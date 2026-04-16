@@ -1,4 +1,5 @@
 ---
+permalink: /books/Dark_Advantage
 layout: default
 title: "Dark Advantage: Why Psychopaths Win at Work"
 description: "Why narcissists, manipulators, and psychopaths win — the psychology of dark leadership and how ethical people can fight back."
