@@ -1,9 +1,9 @@
 ---
-permalink: /books/Profit_Machine
+permalink: /books/Profit_Machine/
 layout: default
 title: "Profit Machine: War to Wall Street Payday Analysis"
 description: "How defense contractors, banks & corporations profit billions from wars while taxpayers pay. Exposing the military-industrial complex."
-canonical_url: "https://michaelrodriguezbooks.com/books/Profit_Machine"
+canonical_url: "https://michaelrodriguezbooks.com/books/Profit_Machine/"
 image: "https://michaelrodriguezbooks.com/assets/images/Profit_Machine.webp"
 author: "Michael Rodriguez"
 book_title: "The Profit Machine: How Corporations Turn War Into Wall Street's Biggest Payday"

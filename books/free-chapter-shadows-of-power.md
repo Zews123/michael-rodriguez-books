@@ -1,9 +1,9 @@
 ---
-permalink: /books/free-chapter-shadows-of-power
+permalink: /books/free-chapter-shadows-of-power/
 layout: default
 title: "Free Chapter — Shadows of Power by Michael Rodriguez"
 description: "Read the first two chapters of Shadows of Power free. Discover how Jeffrey Epstein built his network of power and impunity. By Michael Rodriguez."
-canonical_url: "https://michaelrodriguezbooks.com/books/free-chapter-shadows-of-power"
+canonical_url: "https://michaelrodriguezbooks.com/books/free-chapter-shadows-of-power/"
 image: "https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power.webp"
 ---
 

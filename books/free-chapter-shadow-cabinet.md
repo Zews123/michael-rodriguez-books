@@ -1,9 +1,9 @@
 ---
-permalink: /books/free-chapter-shadow-cabinet
+permalink: /books/free-chapter-shadow-cabinet/
 layout: default
 title: "Free Chapter — The Shadow Cabinet by Michael Rodriguez"
 description: "Read the Introduction of The Shadow Cabinet free. Subscribe to get Chapter 1 as EPUB."
-canonical_url: "https://michaelrodriguezbooks.com/books/free-chapter-shadow-cabinet"
+canonical_url: "https://michaelrodriguezbooks.com/books/free-chapter-shadow-cabinet/"
 image: "https://michaelrodriguezbooks.com/assets/images/Shadow_Cabinet.webp"
 date: 2026-03-14
 ---

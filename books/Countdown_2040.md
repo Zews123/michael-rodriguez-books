@@ -1,9 +1,9 @@
 ---
-permalink: /books/Countdown_2040
+permalink: /books/Countdown_2040/
 layout: default
 title: "Countdown 2040: The Model That Predicted Collapse"
 description: "A 1972 computer model predicted civilizational decline by 2040. Fifty years of data prove it right. Examine the evidence."
-canonical_url: "https://michaelrodriguezbooks.com/books/Countdown_2040"
+canonical_url: "https://michaelrodriguezbooks.com/books/Countdown_2040/"
 image: "https://michaelrodriguezbooks.com/assets/images/Countdown_2040.webp"
 author: "Michael Rodriguez"
 date_published: "2026-03-04"

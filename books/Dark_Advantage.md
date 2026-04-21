@@ -1,9 +1,9 @@
 ---
-permalink: /books/Dark_Advantage
+permalink: /books/Dark_Advantage/
 layout: default
 title: "Dark Advantage: Why Psychopaths Win at Work"
 description: "Why narcissists, manipulators, and psychopaths win — the psychology of dark leadership and how ethical people can fight back."
-canonical_url: "https://michaelrodriguezbooks.com/books/Dark_Advantage"
+canonical_url: "https://michaelrodriguezbooks.com/books/Dark_Advantage/"
 image: "https://michaelrodriguezbooks.com/assets/images/Dark_Advantage.webp"
 author: "Michael Rodriguez"
 date: 2026-04-08

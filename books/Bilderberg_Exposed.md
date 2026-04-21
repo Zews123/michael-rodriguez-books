@@ -1,9 +1,9 @@
 ---
-permalink: /books/Bilderberg_Exposed
+permalink: /books/Bilderberg_Exposed/
 layout: default
 title: "Bilderberg Exposed: The Shadow Architects of Global Power"
 description: "Uncover 70 years of secret meetings that shaped world history. Rodriguez exposes how the Bilderberg Club influences global politics and economics."
-canonical_url: "https://michaelrodriguezbooks.com/books/Bilderberg_Exposed"
+canonical_url: "https://michaelrodriguezbooks.com/books/Bilderberg_Exposed/"
 image: "https://michaelrodriguezbooks.com/assets/images/Bilderberg_Exposed.webp"
 ---
 
