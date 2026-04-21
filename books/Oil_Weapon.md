@@ -1,9 +1,9 @@
 ---
-permalink: /books/Oil_Weapon
+permalink: /books/Oil_Weapon/
 layout: default
 title: "The Oil Weapon: 150 Years of Energy Geopolitics"
 description: "Explosive investigation into 150 years of energy geopolitics - from Rockefeller's empire to Ukrainian drones targeting Russian refineries."
-canonical_url: "https://michaelrodriguezbooks.com/books/Oil_Weapon"
+canonical_url: "https://michaelrodriguezbooks.com/books/Oil_Weapon/"
 image: "https://michaelrodriguezbooks.com/assets/images/Oil_Weapon_Book.webp"
 author: "Michael Rodriguez"
 book_title: "The Oil Weapon: How Black Gold Destroys Empires and Controls Nations"

@@ -1,9 +1,9 @@
 ---
-permalink: /books/george-soros
+permalink: /books/george-soros/
 layout: default
 title: "George Soros: The Man the World Loves to Hate"
 description: "Uncover how George Soros shaped global markets, influenced politics, and became both vilified and admired worldwide in this definitive analysis."
-canonical_url: "https://michaelrodriguezbooks.com/books/george-soros"
+canonical_url: "https://michaelrodriguezbooks.com/books/george-soros/"
 image: "https://michaelrodriguezbooks.com/assets/images/George-Soros-Book-Cover.webp"
 ---
 

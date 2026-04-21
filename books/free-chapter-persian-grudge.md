@@ -1,9 +1,9 @@
 ---
-permalink: /books/free-chapter-persian-grudge
+permalink: /books/free-chapter-persian-grudge/
 layout: default
 title: "Free Chapter — The Persian Grudge by Michael Rodriguez"
 description: "Read the Introduction of The Persian Grudge free. Subscribe to get Chapter 1 as EPUB."
-canonical_url: "https://michaelrodriguezbooks.com/books/free-chapter-persian-grudge"
+canonical_url: "https://michaelrodriguezbooks.com/books/free-chapter-persian-grudge/"
 image: "https://michaelrodriguezbooks.com/assets/images/Persian_Grudge.webp"
 date: 2026-04-03
 ---

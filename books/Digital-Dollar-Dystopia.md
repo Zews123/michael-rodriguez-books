@@ -1,9 +1,9 @@
 ---
-permalink: /books/Digital-Dollar-Dystopia
+permalink: /books/Digital-Dollar-Dystopia/
 layout: default
 title: "Digital Dollar Dystopia: How CBDCs End Financial Freedom"
 description: "Explore how Central Bank Digital Currencies threaten personal liberty, enable financial surveillance, and create unprecedented control systems"
-canonical_url: "https://michaelrodriguezbooks.com/books/Digital-Dollar-Dystopia"
+canonical_url: "https://michaelrodriguezbooks.com/books/Digital-Dollar-Dystopia/"
 image: "https://michaelrodriguezbooks.com/assets/images/Digital_Dollar_Dystopia.webp"
 ---
 

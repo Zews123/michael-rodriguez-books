@@ -1,9 +1,9 @@
 ---
-permalink: /books/Persian_Grudge
+permalink: /books/Persian_Grudge/
 layout: default
 title: "The Persian Grudge: 120 Years of Iran vs America"
 description: "1953 CIA coup to 2024 nuclear standoff — the full history of how Iran and America became mortal enemies. Declassified documents and verified facts."
-canonical_url: "https://michaelrodriguezbooks.com/books/Persian_Grudge"
+canonical_url: "https://michaelrodriguezbooks.com/books/Persian_Grudge/"
 image: "https://michaelrodriguezbooks.com/assets/images/Persian_Grudge.webp"
 author: "Michael Rodriguez"
 date: 2026-04-03

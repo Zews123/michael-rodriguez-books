@@ -1,9 +1,9 @@
 ---
-permalink: /books/Rigged_Game
+permalink: /books/Rigged_Game/
 layout: default
 title: "The Rigged Game: How the 1% Keep You Poor"
 description: "Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth and keep you poor."
-canonical_url: "https://michaelrodriguezbooks.com/books/Rigged_Game"
+canonical_url: "https://michaelrodriguezbooks.com/books/Rigged_Game/"
 image: "https://michaelrodriguezbooks.com/assets/images/Rigged-Game.webp"
 ---
 

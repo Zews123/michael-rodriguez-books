@@ -1,9 +1,9 @@
 ---
-permalink: /books/free-chapter-architect-of-power
+permalink: /books/free-chapter-architect-of-power/
 layout: default
 title: "Free Chapter — Architect of Power by Michael Rodriguez"
 description: "Read the Introduction of Architect of Power free. Subscribe to get Chapter 1 as EPUB."
-canonical_url: "https://michaelrodriguezbooks.com/books/free-chapter-architect-of-power"
+canonical_url: "https://michaelrodriguezbooks.com/books/free-chapter-architect-of-power/"
 image: "https://michaelrodriguezbooks.com/assets/images/Architect_of_Power.webp"
 date: 2026-03-26
 ---

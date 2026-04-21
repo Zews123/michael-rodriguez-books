@@ -1,9 +1,9 @@
 ---
-permalink: /books/Shadows_of_Power
+permalink: /books/Shadows_of_Power/
 layout: default
 title: "Shadows of Power: How Epstein Escaped Justice"
 description: "147 connections. 30 years of cover-ups. Declassified documents expose how Epstein's network of wealth and power shielded a predator. Free chapter inside."
-canonical_url: "https://michaelrodriguezbooks.com/books/Shadows_of_Power"
+canonical_url: "https://michaelrodriguezbooks.com/books/Shadows_of_Power/"
 image: "https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power.webp"
 author: "Michael Rodriguez"
 date_published: "2025-01-01"

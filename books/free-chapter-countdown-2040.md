@@ -1,9 +1,9 @@
 ---
-permalink: /books/free-chapter-countdown-2040
+permalink: /books/free-chapter-countdown-2040/
 layout: default
 title: "Free Chapter — Countdown to Collapse by Michael Rodriguez"
 description: "Read the Introduction of Countdown to Collapse: The 2040 Crisis free. Subscribe to get Chapter 1 as EPUB."
-canonical_url: "https://michaelrodriguezbooks.com/books/free-chapter-countdown-2040"
+canonical_url: "https://michaelrodriguezbooks.com/books/free-chapter-countdown-2040/"
 image: "https://michaelrodriguezbooks.com/assets/images/Countdown_2040.webp"
 ---
 

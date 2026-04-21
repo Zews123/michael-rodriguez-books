@@ -1,9 +1,9 @@
 ---
-permalink: /books/free-chapter-dark-advantage
+permalink: /books/free-chapter-dark-advantage/
 layout: default
 title: "Free Chapter — Dark Advantage by Michael Rodriguez"
 description: "Read the Introduction of Dark Advantage free. Subscribe to get Chapter 1 as EPUB."
-canonical_url: "https://michaelrodriguezbooks.com/books/free-chapter-dark-advantage"
+canonical_url: "https://michaelrodriguezbooks.com/books/free-chapter-dark-advantage/"
 image: "https://michaelrodriguezbooks.com/assets/images/Dark_Advantage.webp"
 date: 2026-04-08
 ---

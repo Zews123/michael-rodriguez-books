@@ -1,9 +1,9 @@
 ---
-permalink: /books/Secrets_Medici
+permalink: /books/Secrets_Medici/
 layout: default
 title: "Secrets Medici: Dark Aristocracy Behind Global Power"
 description: "Expose 500+ years of Medici family secrets. How Renaissance banking dynasties control modern power through Vatican networks and elite bloodlines."
-canonical_url: "https://michaelrodriguezbooks.com/books/Secrets_Medici"
+canonical_url: "https://michaelrodriguezbooks.com/books/Secrets_Medici/"
 image: "https://michaelrodriguezbooks.com/assets/images/Secrets_Medici.webp"
 ---
 

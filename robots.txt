@@ -9,5 +9,8 @@ Allow: /blog/
 Allow: /books/
 Allow: /assets/images/
 
+# Блокируем .html-дубли книжных страниц (canonical указывает на URL без .html)
+Disallow: /books/*.html
+
 # Ссылка на карту сайта для поисковых систем
 Sitemap: https://michaelrodriguezbooks.com/sitemap.xml
