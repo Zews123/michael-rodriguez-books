@@ -2,7 +2,7 @@
 permalink: /books/free-chapter-holy-money/
 layout: default
 title: "Free Chapter — Holy Money by Michael Rodriguez"
-description: "Read the Introduction of Holy Money free — God's Banker, Blackfriars Bridge, and the Vatican's hidden financial empire. Subscribe to get Chapter 1 as EPUB."
+description: "Read the Introduction of Holy Money free — God's Banker, Blackfriars Bridge, the Vatican's hidden empire. Get Chapter 1 as EPUB."
 canonical_url: "https://michaelrodriguezbooks.com/books/free-chapter-holy-money"
 image: "https://michaelrodriguezbooks.com/assets/images/Holy_Money.webp"
 date: 2026-04-25
