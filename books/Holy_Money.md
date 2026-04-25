@@ -1,9 +1,9 @@
 ---
-permalink: /books/Holy_Money
+permalink: /books/Holy_Money/
 layout: default
 title: "Holy Money: The Vatican's Hidden Empire of Greed"
 description: "Two centuries of Vatican financial scandal — from the Rothschild rescue to the Becciu trial. The definitive investigation into the world's most secretive bank."
-canonical_url: "https://michaelrodriguezbooks.com/books/Holy_Money"
+canonical_url: "https://michaelrodriguezbooks.com/books/Holy_Money/"
 image: "https://michaelrodriguezbooks.com/assets/images/Holy_Money.webp"
 author: "Michael Rodriguez"
 date: 2026-04-25
