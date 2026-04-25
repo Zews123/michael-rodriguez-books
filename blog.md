@@ -145,6 +145,30 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Holy_Money_Blog_2.webp" alt="Vatican Bank Money Laundering: Two Centuries of Financial Crime">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 25, 2026</span>
+      <h2>Vatican Bank Money Laundering: Two Centuries of Financial Crime</h2>
+      <p>From Rothschild rescue loans to IOR shell companies — how the Catholic Church built and weaponized the world's most secretive financial system. The Sindona-Marcinkus-Calvi triangle explained.</p>
+      <a href="{{ site.baseurl }}/blog/holy-money-vatican-financial-crimes.html" class="read-more">Read More <span class="visually-hidden">about Vatican Bank Financial Crimes</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Holy_Money_Blog_1.webp" alt="Vatican Bank Scandal FAQ: Holy Money Explained">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 25, 2026</span>
+      <h2>Vatican Bank Scandal: Your Questions Answered</h2>
+      <p>Why does the Vatican have a bank? Who killed God's Banker? IOR money laundering, Mafia connections, and the Becciu trial — expert answers from the investigation into Holy Money.</p>
+      <a href="{{ site.baseurl }}/blog/holy-money-faq.html" class="read-more">Read More <span class="visually-hidden">about Holy Money Vatican Bank FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
       <img src="{{ site.baseurl }}/assets/images/Dark_Advantage_Blog_2.webp" alt="The Dark Triad in Corporate America: Why Psychopaths Run Your Company">
     </div>
     <div class="blog-card-content">

@@ -27,6 +27,15 @@ twitter_card: "summary_large_image"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Holy_Money.webp" alt="Holy Money: The Vatican's Hidden Empire of Greed by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>Holy Money</h3>
+      <p>Two centuries of Vatican financial scandal — from Napoleon's invasion to the Becciu conviction. The definitive investigation into the world's most secretive bank and the empire of greed it enabled.</p>
+      <a href="{{ site.baseurl }}/books/Holy_Money" class="btn">Read More <span class="visually-hidden">about Holy Money by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Dark_Advantage.webp" alt="Dark Advantage: Why Narcissists, Manipulators, and Psychopaths Win at Power by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>Dark Advantage</h3>
