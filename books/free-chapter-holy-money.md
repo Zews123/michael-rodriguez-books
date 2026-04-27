@@ -19,7 +19,7 @@ date: 2026-04-25
 
 # Holy Money — Free Preview
 
-**Read the full Introduction below.** A body under a London bridge. Bricks in his pockets. $15,000 in cash. The Vatican Bank claims it knows nothing. Subscribe below to get the Introduction + Chapter 1 free as EPUB.
+**Read the full Introduction below.** A body under a London bridge. Bricks in his pockets. £15,000 in cash. The Vatican Bank claims it knows nothing. Subscribe below to get the Introduction + Chapter 1 free as EPUB.
 
 <img src="{{ site.baseurl }}/assets/images/Holy_Money.webp" alt="Holy Money by Michael Rodriguez" width="220" height="340" style="float: right; margin: 0 0 20px 20px; border-radius: 8px;" fetchpriority="high">
 
