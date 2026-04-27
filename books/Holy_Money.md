@@ -18,6 +18,7 @@ date_modified: "2026-04-25"
 
 <style>
 .book-btn{background:#1a3c65;color:#fff;padding:10px 16px;border-radius:6px;text-decoration:none;font-weight:700;display:inline-block;text-align:center;min-width:110px;border:0}.book-btn:hover{text-decoration:none;color:#fff;opacity:0.9}.book-btn-amazon{background:#ff9900}.book-btn-apple{background:#000}.book-btn-kobo{background:#1e90ff}.book-btn-bn{background:#2e8b57}.book-btn-smash{background:#ff6347}.book-buttons{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:15px}@media (max-width:768px){.book-buttons{flex-direction:column}.book-btn{width:100%;margin-bottom:5px}}
+.factcheck-table{width:100%;border-collapse:collapse;margin:20px 0;font-size:0.92rem}.factcheck-table th{background:#1a3c65;color:#fff;padding:10px 12px;text-align:left}.factcheck-table td{padding:9px 12px;border-bottom:1px solid #ddd;vertical-align:top}.factcheck-table tr:nth-child(even){background:#f7f7fb}.factcheck-table tr:hover{background:#eef2f8}
 </style>
 
 <!-- Open Graph -->
@@ -69,7 +70,7 @@ date_modified: "2026-04-25"
 
 ## About the Book
 
-On the morning of June 18, 1982, a postal worker crossing Blackfriars Bridge in London spotted something hanging from the scaffolding beneath the arch. A man — middle-aged, well-dressed — swung in the river breeze with twelve pounds of bricks stuffed into his trouser pockets and $15,000 in cash distributed across his suit. His name was Roberto Calvi. He was chairman of Italy's largest private bank. The Vatican Bank was his biggest client.
+On the morning of June 18, 1982, a postal worker crossing Blackfriars Bridge in London spotted something hanging from the scaffolding beneath the arch. A man — middle-aged, well-dressed — swung in the river breeze with twelve pounds of bricks stuffed into his trouser pockets and £15,000 in cash distributed across his suit. His name was Roberto Calvi. He was chairman of Italy's largest private bank. The Vatican Bank was his biggest client.
 
 *Holy Money: The Vatican's Hidden Empire of Greed* is the definitive account of how the Catholic Church built, weaponized, and — perhaps — is finally reforming the most secretive financial institution in the Western world.
 
@@ -84,7 +85,7 @@ This is not a conspiracy theory. This is the documented record.
 ## What You'll Discover
 
 ### ⛪ The Body Under the Bridge
-Roberto Calvi — God's Banker — found hanging beneath Blackfriars Bridge with twelve pounds of bricks and $15,000 in three currencies. No rope residue on his hands. A forged passport in his pocket. Five people eventually charged with his murder in Italy. All acquitted for lack of evidence. The investigation that followed exposed the Vatican's deepest financial secrets.
+Roberto Calvi — God's Banker — found hanging beneath Blackfriars Bridge with twelve pounds of bricks and £15,000 in three currencies. No rust or paint residue on his shoes consistent with the scaffolding. A forged passport in his pocket. Five people eventually charged with his murder in Italy. All acquitted for lack of evidence. The investigation that followed exposed the Vatican's deepest financial secrets.
 
 ### 🏦 The Rothschild Rescue
 How Napoleon's 1798 invasion bankrupted the papacy — and forced the most anti-Semitic institution in Europe to borrow its survival from the most famous Jewish banking dynasty in history. The arrangement that introduced the Vatican to modern finance and planted the seeds of its financial empire.
@@ -96,7 +97,7 @@ Bernardino Nogara — an obscure Italian mining engineer — transformed Mussoli
 Michele Sindona laundered money for the Sicilian Mafia before becoming the Vatican's trusted financial advisor. Archbishop Paul Marcinkus, the hulking Chicagoan, ran the Vatican Bank for twenty years while wanted by Italian prosecutors. Roberto Calvi built a network of Bahamas shell companies that connected the Vatican, the secret Masonic lodge P2, and organized crime — until the entire machine collapsed in a $1.3 billion disaster.
 
 ### ⚖️ The Price of Silence
-The global clergy abuse crisis cost the Catholic Church over $4 billion in settlements — funded by the same secrecy culture that enabled the financial crimes. In 2023, Cardinal Angelo Becciu became the first Vatican cardinal in the modern era to be convicted of embezzlement, sentenced to 5½ years. Pope Francis's ambitious reform agenda — audits, account closures, a historic criminal trial — confronts an institution structurally resistant to change.
+The global clergy abuse crisis cost the Catholic Church over $4 billion in settlements — funded by the same secrecy culture that enabled the financial crimes. In December 2023, Cardinal Angelo Becciu became the first Vatican cardinal in history to be tried and convicted by a Vatican civil court, sentenced to 5 years and 6 months in prison for embezzlement. Pope Francis's ambitious reform agenda — audits, account closures, a historic criminal trial — confronts an institution structurally resistant to change.
 
 ### 🔮 The Algorithm of Silence
 Today's Vatican Bank is substantially more compliant than it was in the Marcinkus era. MONEYVAL assessments show real progress. But structural contradictions remain: sovereign immunity, opacity, a culture of institutional self-preservation. And new threats — cryptocurrency, digital finance, decentralized shadow banking — may offer exactly the kind of plausible deniability that the old system relied on.
@@ -109,11 +110,81 @@ Today's Vatican Bank is substantially more compliant than it was in the Marcinku
 
 - Archbishop Paul Marcinkus ran the Vatican Bank for twenty-two years while Italian magistrates sought him for questioning in the Banco Ambrosiano collapse — Italy's largest bank failure, costing $1.3 billion and implicating the IOR as a major shareholder in Calvi's fraudulent network. He retired to Arizona under diplomatic immunity and died in 2006 without ever testifying.
 
-- Forensic analysis of Roberto Calvi's 2002 reinvestigation found no orange paint residue or rust on his hands — inconsistent with self-hanging from scaffolding poles. Investigators concluded the physics of the scene ruled out suicide. The case remains officially unsolved.
+- Forensic analysis of Roberto Calvi's 2002 reinvestigation found no rust or paint residue on his shoes consistent with the scaffolding poles — ruling out self-hanging. Investigators concluded the physics of the scene ruled out suicide. The case remains officially unsolved.
 
 - Bernardino Nogara negotiated a single condition before taking over Vatican finances in 1929: he would operate free of any religious constraints on investment. The Vatican agreed. Within two decades, the Church held significant stakes in Italian real estate, insurance, chemicals, and textiles — an empire built on the $92 million settlement that Mussolini paid to end the Roman Question.
 
 - The global clergy abuse crisis cost dioceses worldwide over $4 billion in settlements between 1950 and 2020 — a financial catastrophe funded not by insurance alone, but by the sale of church properties, school closures, and the liquidation of endowments built over generations by ordinary parishioners.
+
+## Fact-Check: Key Claims Verified
+
+*Holy Money* is investigative nonfiction. Every central claim is drawn from court records, tribunal verdicts, declassified intelligence documents, and official financial assessments. The table below provides an independent verification of the book's major factual assertions.
+
+<table class="factcheck-table">
+  <thead>
+    <tr>
+      <th>Claim</th>
+      <th>Status</th>
+      <th>Verified Source</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Roberto Calvi found hanging beneath Blackfriars Bridge on <strong>June 18, 1982</strong></td>
+      <td>✅ Confirmed</td>
+      <td>City of London Police; Italian prosecutor filings; BBC archive</td>
+    </tr>
+    <tr>
+      <td>Calvi's pockets contained bricks and <strong>£15,000 in mixed currencies</strong></td>
+      <td>✅ Confirmed</td>
+      <td>Forensic Access Ltd. reinvestigation (Prof. Angela Gallop); NBC News (2005)</td>
+    </tr>
+    <tr>
+      <td>Calvi carried a <strong>forged passport</strong> at time of death</td>
+      <td>✅ Confirmed</td>
+      <td>Metropolitan Police discovery; Crime &amp; Investigation UK; Italian court records</td>
+    </tr>
+    <tr>
+      <td>Forensic reinvestigation found <strong>no rust or paint</strong> on Calvi's shoes consistent with the scaffolding poles</td>
+      <td>✅ Confirmed</td>
+      <td>Forensic Access Ltd.; expert testimony, Rome trial (2005–2007)</td>
+    </tr>
+    <tr>
+      <td><strong>Five defendants</strong> tried for Calvi's murder in Rome (2005–2007); all acquitted</td>
+      <td>✅ Confirmed</td>
+      <td>Rome tribunal verdict, 2007; Compact Histories; Murder Map</td>
+    </tr>
+    <tr>
+      <td>Cardinal Angelo Becciu convicted <strong>December 16, 2023</strong> — first cardinal tried and convicted by a Vatican civil court in history</td>
+      <td>✅ Confirmed</td>
+      <td>Vatican City State tribunal; Catholic News Service; America Magazine</td>
+    </tr>
+    <tr>
+      <td>Becciu sentenced to <strong>5 years and 6 months</strong> in prison for embezzlement and aggravated fraud</td>
+      <td>✅ Confirmed</td>
+      <td>Vatican City State court verdict; Angelus News; Catholic Review</td>
+    </tr>
+    <tr>
+      <td>Becciu trial: <strong>86 sessions, 69 witnesses, 600+ hours</strong> of testimony</td>
+      <td>✅ Confirmed</td>
+      <td>Vatican tribunal official record; America Magazine; Diocese of Scranton</td>
+    </tr>
+    <tr>
+      <td>Vatican investment in London Chelsea property lost up to <strong>$200 million</strong></td>
+      <td>✅ Confirmed</td>
+      <td>Vatican tribunal findings, December 2023; CBS News</td>
+    </tr>
+    <tr>
+      <td>Vatican tribunal ordered confiscation of <strong>~$181 million</strong> and <strong>$218 million in damages</strong> from convicted defendants</td>
+      <td>✅ Confirmed</td>
+      <td>Catholic News Service; Diocese of Scranton report</td>
+    </tr>
+  </tbody>
+</table>
+
+<div style="background:#f0f4f8;border-left:4px solid #1a3c65;padding:14px 18px;border-radius:0 6px 6px 0;margin:16px 0;font-size:0.9rem;">
+  <strong>2026 Update — Becciu Retrial Ordered:</strong> In March 2026, a Vatican appeals court ordered a retrial of Cardinal Becciu on procedural grounds, while keeping the original sentence in place pending new proceedings. The December 2023 conviction remains a historic precedent — the first time a sitting cardinal has been found guilty of financial crimes by a Vatican civil court. <em>(Source: AFP / GMA News, March 2026)</em>
+</div>
 
 ## About the Author
 
@@ -215,6 +286,62 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
       ]
     },
     {
+      "@type": "ClaimReview",
+      "@id": "https://michaelrodriguezbooks.com/books/Holy_Money/#claimreview-becciu",
+      "url": "https://michaelrodriguezbooks.com/books/Holy_Money/",
+      "claimReviewed": "Cardinal Angelo Becciu was the first Vatican cardinal convicted by a Vatican civil court on criminal charges",
+      "itemReviewed": {
+        "@type": "Claim",
+        "author": {
+          "@type": "Organization",
+          "name": "Vatican City State Tribunal"
+        },
+        "datePublished": "2023-12-16",
+        "appearance": {
+          "@type": "OpinionNewsArticle",
+          "url": "https://michaelrodriguezbooks.com/books/Holy_Money/"
+        }
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Michael Rodriguez",
+        "@id": "https://michaelrodriguezbooks.com/about/#person"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "1",
+        "alternateName": "TRUE"
+      }
+    },
+    {
+      "@type": "ClaimReview",
+      "@id": "https://michaelrodriguezbooks.com/books/Holy_Money/#claimreview-calvi",
+      "url": "https://michaelrodriguezbooks.com/books/Holy_Money/",
+      "claimReviewed": "Roberto Calvi was found hanging beneath Blackfriars Bridge on June 18, 1982 with bricks in his pockets and a forged passport",
+      "itemReviewed": {
+        "@type": "Claim",
+        "author": {
+          "@type": "Organization",
+          "name": "City of London Police"
+        },
+        "datePublished": "1982-06-18"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Michael Rodriguez",
+        "@id": "https://michaelrodriguezbooks.com/about/#person"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "1",
+        "alternateName": "TRUE"
+      }
+    },
+    {
       "@type": "FAQPage",
       "@id": "https://michaelrodriguezbooks.com/books/Holy_Money/#faq",
       "mainEntity": [
@@ -231,7 +358,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
           "name": "Who was Roberto Calvi and why is he important?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Roberto Calvi was chairman of Italy's largest private bank, Banco Ambrosiano, and the Vatican Bank's most important external partner. Known as 'God's Banker,' he was found hanging beneath Blackfriars Bridge in London in 1982, with twelve pounds of bricks and $15,000 in cash in his pockets. His death exposed connections between the Vatican, the P2 Masonic lodge, and the Sicilian Mafia. Five people were charged with his murder in Italy but all were acquitted in 2007."
+            "text": "Roberto Calvi was chairman of Italy's largest private bank, Banco Ambrosiano, and the Vatican Bank's most important external partner. Known as 'God's Banker,' he was found hanging beneath Blackfriars Bridge in London on June 18, 1982, with bricks and £15,000 in mixed currencies in his pockets. His death exposed connections between the Vatican, the P2 Masonic lodge, and the Sicilian Mafia. Five people were charged with his murder in Italy but all were acquitted in 2007."
           }
         },
         {
@@ -248,6 +375,14 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Yes. Every major claim is sourced from court records, declassified CIA and Counter Intelligence Corps documents, Vatican financial reports, MONEYVAL assessments, and investigative journalism from The New York Times, The Guardian, and Italian newspapers. The book cites specific cases, dates, dollar figures, and tribunal findings throughout."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was Cardinal Becciu really the first cardinal convicted by a Vatican court?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. On December 16, 2023, the Vatican City State tribunal convicted Cardinal Angelo Becciu of embezzlement and aggravated fraud, sentencing him to 5 years and 6 months in prison. This was the first time in history that a cardinal has been tried and convicted by a Vatican civil court on criminal charges. In March 2026, a Vatican appeals court ordered a retrial on procedural grounds, while keeping the sentence in place pending new proceedings."
           }
         }
       ]
