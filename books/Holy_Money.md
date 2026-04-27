@@ -18,7 +18,7 @@ date_modified: "2026-04-25"
 
 <style>
 .book-btn{background:#1a3c65;color:#fff;padding:10px 16px;border-radius:6px;text-decoration:none;font-weight:700;display:inline-block;text-align:center;min-width:110px;border:0}.book-btn:hover{text-decoration:none;color:#fff;opacity:0.9}.book-btn-amazon{background:#ff9900}.book-btn-apple{background:#000}.book-btn-kobo{background:#1e90ff}.book-btn-bn{background:#2e8b57}.book-btn-smash{background:#ff6347}.book-buttons{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:15px}@media (max-width:768px){.book-buttons{flex-direction:column}.book-btn{width:100%;margin-bottom:5px}}
-.factcheck-table{width:100%;border-collapse:collapse;margin:20px 0;font-size:0.92rem}.factcheck-table th{background:#1a3c65;color:#fff;padding:10px 12px;text-align:left}.factcheck-table td{padding:9px 12px;border-bottom:1px solid #ddd;vertical-align:top}.factcheck-table tr:nth-child(even){background:#f7f7fb}.factcheck-table tr:hover{background:#eef2f8}
+.factcheck-table{width:100%;border-collapse:collapse;margin:20px 0;font-size:0.92rem;color:inherit}.factcheck-table th{background:#1a3c65;color:#e8d48b;padding:10px 12px;text-align:left;font-size:0.85rem;letter-spacing:0.04em;text-transform:uppercase}.factcheck-table td{padding:9px 12px;border-bottom:1px solid #2a2a3a;vertical-align:top}.factcheck-table tr:nth-child(even) td{background:rgba(255,255,255,0.03)}.factcheck-table tr:hover td{background:rgba(201,162,39,0.06)}
 </style>
 
 <!-- Open Graph -->
@@ -182,7 +182,7 @@ Today's Vatican Bank is substantially more compliant than it was in the Marcinku
   </tbody>
 </table>
 
-<div style="background:#f0f4f8;border-left:4px solid #1a3c65;padding:14px 18px;border-radius:0 6px 6px 0;margin:16px 0;font-size:0.9rem;">
+<div style="background:rgba(26,60,101,0.25);border:1px solid #1a3c65;border-left:4px solid #c9a227;padding:14px 18px;border-radius:0 6px 6px 0;margin:16px 0;font-size:0.9rem;color:inherit;">
   <strong>2026 Update — Becciu Retrial Ordered:</strong> In March 2026, a Vatican appeals court ordered a retrial of Cardinal Becciu on procedural grounds, while keeping the original sentence in place pending new proceedings. The December 2023 conviction remains a historic precedent — the first time a sitting cardinal has been found guilty of financial crimes by a Vatican civil court. <em>(Source: AFP / GMA News, March 2026)</em>
 </div>
 
