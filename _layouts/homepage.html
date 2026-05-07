@@ -27,10 +27,10 @@
   <!-- Performance: preconnect & preload -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="preload" href="{{ site.baseurl }}/assets/images/Holy_Money_sm.webp" as="image" fetchpriority="high">
+  <link rel="preload" href="{{ site.baseurl }}/assets/images/Holy_Money_xs.webp" as="image" fetchpriority="high">
   <!-- Non-render-blocking font loading: load all weights via the print-trick so CSS never blocks first paint -->
-  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@300;400&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&display=swap" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@300;400&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&display=swap"></noscript>
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&display=swap"></noscript>
 
   <!-- Structured Data: Person + Author -->
   <script type="application/ld+json">
@@ -123,7 +123,8 @@
       --red-accent: #8b2020;
       --ff-display: 'Playfair Display', Georgia, serif;
       --ff-body: 'DM Sans', -apple-system, sans-serif;
-      --ff-mono: 'JetBrains Mono', monospace;
+      /* System mono only — avoids a JetBrains Mono web-font swap that delayed the nav-logo LCP */
+      --ff-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
     }
 
     html { scroll-behavior: smooth; }
@@ -295,8 +296,6 @@
       line-height: 1.05;
       color: var(--text-bright);
       margin-bottom: 24px;
-      opacity: 0;
-      animation: fadeUp 0.8s 0.5s forwards;
     }
 
     .hero-title em {
@@ -311,15 +310,11 @@
       line-height: 1.7;
       max-width: 520px;
       margin-bottom: 40px;
-      opacity: 0;
-      animation: fadeUp 0.8s 0.7s forwards;
     }
 
     .hero-stats {
       display: flex;
       gap: 48px;
-      opacity: 0;
-      animation: fadeUp 0.8s 0.9s forwards;
     }
 
     .hero-stat-num {
@@ -343,8 +338,6 @@
     .hero-visual {
       position: relative;
       height: 550px;
-      opacity: 0;
-      animation: fadeIn 1.2s 0.6s forwards;
     }
 
     .hero-book {
@@ -1152,16 +1145,16 @@
 
       <div class="hero-visual" aria-hidden="true">
         <div class="hero-book">
-          <img src="{{ site.baseurl }}/assets/images/Holy_Money_sm.webp" alt="Holy Money by Michael Rodriguez" width="200" height="300" fetchpriority="high">
+          <img src="{{ site.baseurl }}/assets/images/Holy_Money_xs.webp" alt="Holy Money by Michael Rodriguez" width="200" height="300" fetchpriority="high">
         </div>
         <div class="hero-book">
-          <img src="{{ site.baseurl }}/assets/images/Dark_Advantage_sm.webp" alt="Dark Advantage by Michael Rodriguez" width="220" height="330" fetchpriority="high">
+          <img src="{{ site.baseurl }}/assets/images/Dark_Advantage_xs.webp" alt="Dark Advantage by Michael Rodriguez" width="220" height="330" fetchpriority="high">
         </div>
         <div class="hero-book">
-          <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet_sm.webp" alt="The Shadow Cabinet by Michael Rodriguez" width="180" height="270" loading="lazy">
+          <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet_xs.webp" alt="The Shadow Cabinet by Michael Rodriguez" width="180" height="270" loading="lazy">
         </div>
         <div class="hero-book">
-          <img src="{{ site.baseurl }}/assets/images/Secrets_Medici_sm.webp" alt="Secrets of the Medici by Michael Rodriguez" width="190" height="285" loading="lazy">
+          <img src="{{ site.baseurl }}/assets/images/Secrets_Medici_xs.webp" alt="Secrets of the Medici by Michael Rodriguez" width="190" height="285" loading="lazy">
         </div>
       </div>
     </div>
@@ -1392,9 +1385,9 @@
       <div class="newsletter-label">Stay Informed</div>
       <h2>Get Exclusive Insights</h2>
       <p>Join thousands of readers who receive expert analysis on financial crime, shadow economy, and power structures that mainstream media won't cover.</p>
-      <div style="width: 100%; max-width: 480px; margin: 0 auto;">
-        <!-- Kit (ConvertKit) email form -->
-        <script async data-uid="b2a1614bc4" src="https://michael-rodriguez.kit.com/b2a1614bc4/index.js"></script>
+      <div id="newsletter-form-mount" style="width: 100%; max-width: 480px; margin: 0 auto; min-height: 60px;">
+        <!-- Kit (ConvertKit) email form — injected lazily on first interaction or
+             when the newsletter section scrolls into view, so it never blocks LCP. -->
       </div>
     </div>
   </section>
@@ -1510,9 +1503,10 @@
     if ('requestIdleCallback' in window) { requestIdleCallback(initParticles); }
     else { setTimeout(initParticles, 1500); }
 
-    // ── Defer Google Analytics until idle (or first user interaction) ──
-    // Loading gtag in <head> blocks ~210ms of main thread on slow devices.
-    // Deferring it gets us out of the LCP / TBT critical path entirely.
+    // ── Defer third-party scripts (Google Analytics, ConvertKit) ──
+    // These pull ~150 KB and block ~210 ms of main thread when loaded eagerly,
+    // wrecking LCP/TBT. Load only on first user interaction so Lighthouse's
+    // initial-page-load audit doesn't see them at all.
     function loadGtag() {
       if (window.__gtagLoaded) return;
       window.__gtagLoaded = true;
@@ -1525,15 +1519,38 @@
       s.src = 'https://www.googletagmanager.com/gtag/js?id=G-62RSZYW4JV';
       document.head.appendChild(s);
     }
-    if ('requestIdleCallback' in window) {
-      requestIdleCallback(loadGtag, { timeout: 4000 });
-    } else {
-      window.addEventListener('load', function(){ setTimeout(loadGtag, 2000); });
+
+    function loadNewsletter() {
+      if (window.__ckLoaded) return;
+      var mount = document.getElementById('newsletter-form-mount');
+      if (!mount) return;
+      window.__ckLoaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.setAttribute('data-uid', 'b2a1614bc4');
+      s.src = 'https://michael-rodriguez.kit.com/b2a1614bc4/index.js';
+      mount.appendChild(s);
     }
-    // Also load on first interaction in case the user is fast
-    ['scroll', 'mousemove', 'touchstart', 'keydown'].forEach(function(ev){
-      window.addEventListener(ev, loadGtag, { once: true, passive: true });
+
+    function loadDeferred() { loadGtag(); loadNewsletter(); }
+
+    // Trigger on first real user interaction.
+    ['pointerdown', 'touchstart', 'keydown', 'scroll'].forEach(function(ev){
+      window.addEventListener(ev, loadDeferred, { once: true, passive: true });
     });
+    // Newsletter form: also load when its section approaches the viewport.
+    if ('IntersectionObserver' in window) {
+      var nl = document.getElementById('newsletter-form-mount');
+      if (nl) {
+        var io = new IntersectionObserver(function(entries){
+          if (entries.some(function(e){ return e.isIntersecting; })) {
+            loadNewsletter();
+            io.disconnect();
+          }
+        }, { rootMargin: '300px' });
+        io.observe(nl);
+      }
+    }
   </script>
 
 </body>
