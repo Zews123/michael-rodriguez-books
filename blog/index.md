@@ -5,147 +5,15 @@ description: "Expert analysis on money laundering, financial crime, shadow econo
 canonical_url: "https://michaelrodriguezbooks.com/blog/"
 ---
 
+<link rel="preload" href="https://michaelrodriguezbooks.com/assets/images/Dark_Advantage_Blog_2_sm.webp" as="image" fetchpriority="high">
+
 # Blog
 
 Welcome to the official blog of Michael Rodriguez. Here you'll find updates about new books, behind-the-scenes content, and thoughtful articles on literature, history, and modern society.
 
-<style>
-.blog-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 2rem;
-  margin-top: 2rem;
-}
-
-.blog-card {
-  display: flex;
-  border: 1px solid #2a2a2a;
-  border-radius: 8px;
-  overflow: hidden;
-  transition: transform 0.3s, box-shadow 0.3s;
-  height: 320px;
-  background-color: #1a1a1a;
-}
-
-.blog-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-}
-
-.blog-card-image {
-  width: 30%;
-  overflow: hidden;
-}
-
-.blog-card-image img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  transition: transform 0.5s ease;
-}
-
-.blog-card:hover .blog-card-image img {
-  transform: scale(1.05);
-}
-
-.blog-card-content {
-  width: 70%;
-  padding: 1.5rem;
-  display: flex;
-  flex-direction: column;
-}
-
-.blog-card-content h2 {
-  margin-top: 0;
-  margin-bottom: 1rem;
-  font-size: 1.5rem;
-  color: #c9a227;
-  font-weight: 700;
-}
-
-.blog-card-content p {
-  flex-grow: 1;
-  margin-bottom: 1rem;
-  font-size: 1rem;
-  line-height: 1.6;
-  color: #1a1a1a;
-}
-
-.blog-date {
-  font-size: 0.9rem;
-  color: #999;
-  margin-bottom: 0.5rem;
-  font-weight: 500;
-}
-
-.read-more {
-  display: inline-block;
-  background-color: #c9a227;
-  color: #0d0d0d;
-  padding: 0.5rem 1rem;
-  border-radius: 3px;
-  text-decoration: none;
-  font-weight: 600;
-  transition: all 0.3s;
-  align-self: flex-start;
-  border: 2px solid #c9a227;
-}
-
-.read-more:hover {
-  background-color: #c9a227;
-  border-color: #c9a227;
-}
-
-.read-more:focus {
-  outline: 3px solid #c9a227;
-  outline-offset: 2px;
-  box-shadow: 0 0 0 2px rgba(255, 191, 0, 0.3);
-}
-
-/* Screen reader only text */
-.visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-  border: 0;
-}
-
-@media (max-width: 768px) {
-  .blog-card {
-    flex-direction: column;
-    height: auto;
-  }
-  
-  .blog-card-image {
-    width: 100%;
-    height: 280px;
-  }
-  
-  .blog-card-image img {
-    object-position: center 15%;
-  }
-  
-  .blog-card-content {
-    width: 100%;
-  }
-  
-  .read-more {
-    min-height: 44px;
-    min-width: 44px;
-    padding: 12px 24px;
-    font-size: 1rem;
-  }
-}
-</style>
-
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/Dark_Advantage_Blog_2.webp" alt="The Dark Triad in Corporate America: Why Psychopaths Run Your Company">
+      <img src="{{ site.baseurl }}/assets/images/Dark_Advantage_Blog_2_sm.webp" alt="The Dark Triad in Corporate America: Why Psychopaths Run Your Company" width="600" height="1075" loading="eager" fetchpriority="high" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">April 8, 2026</span>
@@ -157,7 +25,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/Dark_Advantage_Blog_1.webp" alt="Dark Advantage FAQ: Dark Triad Personalities and Corporate Power">
+      <img src="{{ site.baseurl }}/assets/images/Dark_Advantage_Blog_1_sm.webp" alt="Dark Advantage FAQ: Dark Triad Personalities and Corporate Power" width="600" height="894" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">April 8, 2026</span>
@@ -169,7 +37,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/Persian_Grudge_Blog_2.webp" alt="The 1953 CIA Coup in Iran: How Operation Ajax Created America's Greatest Enemy">
+      <img src="{{ site.baseurl }}/assets/images/Persian_Grudge_Blog_2_sm.webp" alt="The 1953 CIA Coup in Iran: How Operation Ajax Created America's Greatest Enemy" width="600" height="894" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">April 3, 2026</span>
@@ -181,7 +49,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/Persian_Grudge_Blog_1.webp" alt="The Persian Grudge FAQ: Iran-America Conflict Explained">
+      <img src="{{ site.baseurl }}/assets/images/Persian_Grudge_Blog_1_sm.webp" alt="The Persian Grudge FAQ: Iran-America Conflict Explained" width="600" height="894" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">April 3, 2026</span>
@@ -193,7 +61,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/Architect_of_Power_Blog_2.webp" alt="Kissinger's Realpolitik: The Architecture of Cold War Diplomacy">
+      <img src="{{ site.baseurl }}/assets/images/Architect_of_Power_Blog_2_sm.webp" alt="Kissinger's Realpolitik: The Architecture of Cold War Diplomacy" width="600" height="894" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">March 26, 2026</span>
@@ -205,7 +73,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/Architect_of_Power_Blog_1.webp" alt="Kissinger FAQ: The Architect of Power Explained">
+      <img src="{{ site.baseurl }}/assets/images/Architect_of_Power_Blog_1_sm.webp" alt="Kissinger FAQ: The Architect of Power Explained" width="600" height="894" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">March 26, 2026</span>
@@ -217,7 +85,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet_3D_2.webp" alt="Bilderberg, CFR, Trilateral Commission: The Declassified Record">
+      <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet_3D_2_sm.webp" alt="Bilderberg, CFR, Trilateral Commission: The Declassified Record" width="600" height="435" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">March 18, 2026</span>
@@ -229,7 +97,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet_3D_1.webp" alt="The Shadow Cabinet FAQ: Secret Power Networks Explained">
+      <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet_3D_1_sm.webp" alt="The Shadow Cabinet FAQ: Secret Power Networks Explained" width="600" height="553" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">March 14, 2026</span>
@@ -241,7 +109,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/Countdown_2040_3D_1.webp" alt="The 2040 Collapse: 5 Signs the World3 Model Was Right">
+      <img src="{{ site.baseurl }}/assets/images/Countdown_2040_3D_1_sm.webp" alt="The 2040 Collapse: 5 Signs the World3 Model Was Right" width="600" height="435" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">March 4, 2026</span>
@@ -253,7 +121,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/Countdown_2040_3D_2.webp" alt="Will Civilization Collapse by 2040? The World3 Model FAQ">
+      <img src="{{ site.baseurl }}/assets/images/Countdown_2040_3D_2_sm.webp" alt="Will Civilization Collapse by 2040? The World3 Model FAQ" width="600" height="553" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">March 4, 2026</span>
@@ -265,7 +133,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/Shadows_3D.webp" alt="The Architecture of Impunity — How Epstein Escaped Justice for 30 Years">
+      <img src="{{ site.baseurl }}/assets/images/social/Shadows_3D_sm.webp" alt="The Architecture of Impunity — How Epstein Escaped Justice for 30 Years" width="600" height="553" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">February 23, 2026</span>
@@ -277,7 +145,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/Shadows_3D.webp" alt="Shadows of Power FAQ — Jeffrey Epstein and the Architecture of Impunity">
+      <img src="{{ site.baseurl }}/assets/images/social/Shadows_3D_sm.webp" alt="Shadows of Power FAQ — Jeffrey Epstein and the Architecture of Impunity" width="600" height="553" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">February 21, 2026</span>
@@ -289,7 +157,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/Rich_3D.webp" alt="Smart but Broke FAQ">
+      <img src="{{ site.baseurl }}/assets/images/social/Rich_3D_sm.webp" alt="Smart but Broke FAQ" width="600" height="553" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">November 1, 2025</span>
@@ -301,7 +169,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/Bush_3D.webp" alt="Bush Machine FAQ">
+      <img src="{{ site.baseurl }}/assets/images/social/Bush_3D_sm.webp" alt="Bush Machine FAQ" width="600" height="553" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">October 4, 2025</span>
@@ -313,7 +181,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/India_3D.webp" alt="India Paradox FAQ">
+      <img src="{{ site.baseurl }}/assets/images/social/India_3D_sm.webp" alt="India Paradox FAQ" width="600" height="553" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">September 26, 2025</span>
@@ -325,7 +193,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/Venezuela_3D.webp" alt="Venezuela's Oil Curse FAQ">
+      <img src="{{ site.baseurl }}/assets/images/social/Venezuela_3D_sm.webp" alt="Venezuela's Oil Curse FAQ" width="600" height="553" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">September 20, 2025</span>
@@ -337,7 +205,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/Oil_Weapon_3D.webp" alt="The Oil Weapon FAQ">
+      <img src="{{ site.baseurl }}/assets/images/social/Oil_Weapon_3D_sm.webp" alt="The Oil Weapon FAQ" width="600" height="553" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">September 12, 2025</span>
@@ -349,7 +217,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/Bilderberg_Forum_Inside.webp" alt="Inside Bilderberg Forum">
+      <img src="{{ site.baseurl }}/assets/images/social/Bilderberg_Forum_Inside_sm.webp" alt="Inside Bilderberg Forum" width="600" height="406" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">August 31, 2025</span>
@@ -361,7 +229,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/Rigged-Game-3D.webp" alt="The Rigged Game FAQ">
+      <img src="{{ site.baseurl }}/assets/images/social/Rigged_Game_3D_sm.webp" alt="The Rigged Game FAQ" width="600" height="553" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">August 29, 2025</span>
@@ -373,7 +241,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/Sam-Altman-3DCover.webp" alt="AI Emperor FAQ">
+      <img src="{{ site.baseurl }}/assets/images/social/Sam_Altman_3DCover_sm.webp" alt="AI Emperor FAQ" width="600" height="553" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">August 22, 2025</span>
@@ -385,7 +253,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/Medici.webp" alt="Medici Banking Secrets FAQ">
+      <img src="{{ site.baseurl }}/assets/images/social/Medici_sm.webp" alt="Medici Banking Secrets FAQ" width="600" height="553" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">August 15, 2025</span>
@@ -397,7 +265,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/The Dopamine Dealers-3D.webp" alt="Fast Food Brain FAQ">
+      <img src="{{ site.baseurl }}/assets/images/social/The_Dopamine_Dealers_3D_sm.webp" alt="Fast Food Brain FAQ" width="600" height="553" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">August 1, 2025</span>
@@ -410,7 +278,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 <div class="blog-grid">
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/The Laundromat-3D.webp" alt="Money Laundering FAQ">
+      <img src="{{ site.baseurl }}/assets/images/social/The_Laundromat_3D_sm.webp" alt="Money Laundering FAQ" width="600" height="553" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">July 25, 2025</span>
@@ -422,7 +290,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/Dark_Money_Empire-Blog.webp" alt="Dark Money FAQ">
+      <img src="{{ site.baseurl }}/assets/images/social/Dark_Money_Empire_Blog_sm.webp" alt="Dark Money FAQ" width="600" height="553" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">July 16, 2025</span>
@@ -434,7 +302,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/Bilderberg_Exposed-Rodriguez.webp" alt="Bilderberg Group FAQ 2025">
+      <img src="{{ site.baseurl }}/assets/images/social/Bilderberg_Exposed_Rodriguez_sm.webp" alt="Bilderberg Group FAQ 2025" width="600" height="553" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">June 18, 2025</span>
@@ -446,7 +314,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/Warren-Baffet-Blog.webp" alt="Warren Buffett FAQ 2025">
+      <img src="{{ site.baseurl }}/assets/images/social/Warren_Baffet_Blog_sm.webp" alt="Warren Buffett FAQ 2025" width="600" height="553" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">May 30, 2025</span>
@@ -458,7 +326,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/CBDC.webp" alt="CBDC Unveiled">
+      <img src="{{ site.baseurl }}/assets/images/social/CBDC_sm.webp" alt="CBDC Unveiled" width="600" height="337" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">May 14, 2025</span>
@@ -470,7 +338,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/How the IMF Manipulates Countries.png" alt="How the IMF Manipulates Countries">
+      <img src="{{ site.baseurl }}/assets/images/social/How_the_IMF_Manipulates_Countries_sm.webp" alt="How the IMF Manipulates Countries" width="600" height="342" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">May 7, 2025</span>
@@ -482,7 +350,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/BlackRock_Empire_Post.webp" alt="The BlackRock Empire">
+      <img src="{{ site.baseurl }}/assets/images/social/BlackRock_Empire_Post_sm.webp" alt="The BlackRock Empire" width="600" height="300" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">April 21, 2025</span>
@@ -494,7 +362,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/George-Soros_Blog.png" alt="George Soros">
+      <img src="{{ site.baseurl }}/assets/images/social/George_Soros_Blog_sm.webp" alt="George Soros" width="600" height="300" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">April 15, 2025</span>
@@ -506,7 +374,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/3.png" alt="US-China Trade War">
+      <img src="{{ site.baseurl }}/assets/images/social/3_sm.webp" alt="US-China Trade War" width="600" height="315" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">April 11, 2025</span>
@@ -518,7 +386,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/silver-empire-3D-Small.png" alt="Silver Empire">
+      <img src="{{ site.baseurl }}/assets/images/social/silver_empire_3D_Small_sm.webp" alt="Silver Empire" width="600" height="315" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">April 10, 2025</span>
@@ -530,7 +398,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" alt="The Weaponized Economy">
+      <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy_sm.webp" alt="The Weaponized Economy" width="600" height="900" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">March 18, 2025</span>
@@ -542,7 +410,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/the-chinese-real-estate-bubble-3D.png" alt="The Chinese Real Estate Bubble">
+      <img src="{{ site.baseurl }}/assets/images/social/the_chinese_real_estate_bubble_3D_sm.webp" alt="The Chinese Real Estate Bubble" width="600" height="315" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">April 10, 2025</span>
@@ -554,7 +422,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
   <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/social/trillion-dollar-shadow-3D.png" alt="The Trillion Dollar Shadow">
+      <img src="{{ site.baseurl }}/assets/images/social/trillion_dollar_shadow_3D_sm.webp" alt="The Trillion Dollar Shadow" width="600" height="315" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">April 9, 2025</span>
@@ -807,55 +675,3 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 </script>
 
 <!-- Enhanced CSS for high contrast and accessibility -->
-<style>
-/* High contrast colors for better accessibility */
-:root {
-  --primary-color: #c9a227;
-  --secondary-color: #e8d48b;
-  --text-color: #e8e6e3;
-  --light-bg: #1a1a1a;
-  --border-color: #2a2a2a;
-}
-
-/* Ensure footer text remains white */
-footer p {
-  color: #0d0d0d !important;
-}
-
-footer .footer-column p {
-  color: rgba(255, 255, 255, 0.8) !important;
-}
-
-footer .footer-column h3 {
-  color: #0d0d0d !important;
-}
-
-footer .footer-column a {
-  color: rgba(255, 255, 255, 0.8) !important;
-}
-
-footer .footer-column a:hover {
-  color: #0d0d0d !important;
-}
-
-footer .copyright {
-  color: rgba(255, 255, 255, 0.8) !important;
-}
-
-/* Improve main content readability */
-h1 {
-  color: var(--primary-color);
-  font-weight: 700;
-}
-
-/* Focus indicators for all interactive elements */
-*:focus {
-  outline: 2px solid #ffbf00;
-  outline-offset: 2px;
-}
-
-/* Remove focus outline for mouse users but keep for keyboard users */
-.js-focus-visible *:focus:not(.focus-visible) {
-  outline: none;
-}
-</style>

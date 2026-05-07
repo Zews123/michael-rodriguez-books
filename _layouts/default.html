@@ -821,19 +821,80 @@
       }
 
       .blog-card p {
-        font-size: 0.85rem;
-        color: var(--text-dim);
+        font-size: 0.95rem;
+        color: var(--text);
         line-height: 1.5;
-        margin: 0;
+        margin: 0 0 12px;
       }
 
       .blog-card time,
-      .blog-card .date {
+      .blog-card .date,
+      .blog-card .blog-date {
         font-family: var(--ff-mono);
-        font-size: 0.6rem;
+        font-size: 0.7rem;
         letter-spacing: 0.15em;
         text-transform: uppercase;
         color: var(--gold);
+        display: block;
+        margin-bottom: 8px;
+      }
+
+      /* Two-column card layout used on /blog/ index */
+      .blog-card-image {
+        overflow: hidden;
+      }
+      .blog-card-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      }
+      .blog-card-content {
+        padding: 16px 20px 20px;
+        display: flex;
+        flex-direction: column;
+      }
+      .blog-card-content h2 {
+        font-family: var(--ff-display);
+        font-size: 1.15rem;
+        font-weight: 700;
+        color: var(--text-bright);
+        line-height: 1.3;
+        margin: 0 0 8px;
+        background: none;
+        -webkit-text-fill-color: var(--text-bright);
+      }
+
+      /* Read More button — gold bg / ink text = 7.4:1 (AAA) */
+      a.read-more {
+        display: inline-block;
+        align-self: flex-start;
+        padding: 8px 14px;
+        background: var(--gold);
+        color: var(--ink) !important;
+        font-weight: 600;
+        font-size: 0.8rem;
+        border-radius: 4px;
+        text-decoration: none;
+        border-bottom: none;
+        transition: opacity 0.2s;
+      }
+      a.read-more:hover {
+        opacity: 0.85;
+        border-bottom: none;
+      }
+
+      @media (min-width: 769px) {
+        /* Desktop: side-by-side image + content */
+        .blog-card {
+          display: grid;
+          grid-template-columns: 220px 1fr;
+        }
+      }
+      @media (max-width: 768px) {
+        .blog-card-image img {
+          aspect-ratio: 16/9;
+        }
       }
 
       /* ── SCROLL REVEAL ── */
