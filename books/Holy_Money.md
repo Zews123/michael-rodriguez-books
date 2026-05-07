@@ -225,10 +225,10 @@ Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating 
 
 Stay informed about Rodriguez's latest investigations and upcoming books:
 
-<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd; color: #1f2937;">
-  <h3 style="margin-top: 0; color: #1a3c65;">Get Exclusive Updates</h3>
-  <p style="color: #1f2937;">Join thousands of readers receiving exclusive analysis on financial crime, institutional corruption, and the hidden forces shaping global power.</p>
-  <a href="https://michael-rodriguez.kit.com/b2a1614bc4" style="background:#1a3c65;color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:700;display:inline-block">Subscribe Now</a>
+<div style="background-color: #18181c; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid rgba(201,162,39,0.2); color: #eae7e0;">
+  <h3 style="margin-top: 0; color: #c9a227;">Get Exclusive Updates</h3>
+  <p style="color: #eae7e0;">Join thousands of readers receiving exclusive analysis on financial crime, institutional corruption, and the hidden forces shaping global power.</p>
+  <a href="https://michael-rodriguez.kit.com/b2a1614bc4" style="background:#c9a227;color:#0a0a0c;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:700;display:inline-block">Subscribe Now</a>
 </div>
 
 <script type="application/ld+json">
