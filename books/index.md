@@ -4,8 +4,10 @@ layout: default
 title: "Michael Rodriguez Books | Financial Crime Analysis"
 description: "Complete collection of investigative books by Michael Rodriguez on financial crime, money laundering, shadow economy, AI power, and global corruption networks."
 canonical_url: "https://michaelrodriguezbooks.com/books/"
-image: "https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power.webp"
+image: "https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power_sm.webp"
 ---
+
+<link rel="preload" href="https://michaelrodriguezbooks.com/assets/images/Holy_Money_sm.webp" as="image" fetchpriority="high">
 
 # Books by Michael Rodriguez
 
@@ -13,7 +15,7 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Holy_Money.webp" alt="Holy Money: The Vatican's Hidden Empire of Greed by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Holy_Money_sm.webp" alt="Holy Money: The Vatican's Hidden Empire of Greed by Michael Rodriguez" width="600" height="927" loading="eager" fetchpriority="high" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Holy Money</h3>
       <p>Two centuries of Vatican financial scandal — from Napoleon's invasion to the Becciu conviction. The definitive investigation into the world's most secretive bank and the empire of greed it enabled.</p>
@@ -23,7 +25,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Dark_Advantage.webp" alt="Dark Advantage: Why Narcissists, Manipulators, and Psychopaths Win at Power by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Dark_Advantage_sm.webp" alt="Dark Advantage: Why Narcissists, Manipulators, and Psychopaths Win at Power by Michael Rodriguez" width="600" height="927" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Dark Advantage</h3>
       <p>Why narcissists, manipulators, and psychopaths consistently outperform ethical leaders. A field manual for recognizing dark personalities, decoding their strategies, and building power without losing your soul.</p>
@@ -33,7 +35,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Persian_Grudge.webp" alt="The Persian Grudge: How Iran and America Became Mortal Enemies by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Persian_Grudge_sm.webp" alt="The Persian Grudge: How Iran and America Became Mortal Enemies by Michael Rodriguez" width="440" height="660" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Persian Grudge</h3>
       <p>1953 CIA coup to 2024 nuclear standoff — the full history of how Iran and America became mortal enemies. Declassified documents, verified facts, and the chain of decisions that turned allies into adversaries.</p>
@@ -43,7 +45,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Architect_of_Power.webp" alt="Architect of Power: Henry Kissinger and the Price of World Order by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Architect_of_Power_sm.webp" alt="Architect of Power: Henry Kissinger and the Price of World Order by Michael Rodriguez" width="600" height="894" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Architect of Power</h3>
       <p>Henry Kissinger: refugee, strategist, Nobel laureate, accused war criminal. The definitive investigation into how one man shaped the world order — and the devastating price humanity paid.</p>
@@ -53,7 +55,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet.webp" alt="The Shadow Cabinet: Conspiracy, Power, and the Architecture of Hidden Control by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Shadow_Cabinet_sm.webp" alt="The Shadow Cabinet: Conspiracy, Power, and the Architecture of Hidden Control by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Shadow Cabinet</h3>
       <p>Bilderberg, CFR, MK-Ultra, COINTELPRO, Operation Gladio — the first fact-verified investigation of secret power networks. Every claim tested against declassified documents and congressional testimony.</p>
@@ -63,7 +65,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Countdown_2040.webp" alt="Countdown to Collapse: The 2040 Crisis by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Countdown_2040_sm.webp" alt="Countdown to Collapse: The 2040 Crisis by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Countdown to Collapse</h3>
       <p>A 1972 computer model predicted civilizational decline by 2040. Fifty years of data prove it right. Michael Rodriguez examines the World3 model, Gaya Herrington's KPMG validation, and three possible futures.</p>
@@ -73,7 +75,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Shadows_of_Power.webp" alt="Shadows of Power: Jeffrey Epstein and the Architecture of Impunity by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Shadows_of_Power_sm.webp" alt="Shadows of Power: Jeffrey Epstein and the Architecture of Impunity by Michael Rodriguez" width="600" height="894" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Shadows of Power</h3>
       <p>The definitive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse. Discover how wealth buys silence and power erases accountability.</p>
@@ -92,7 +94,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Disease_Dealers.webp" alt="The Disease Dealers: Inside the Pharmaceutical Industry's Business of Making You Sick by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Disease_Dealers_sm.webp" alt="The Disease Dealers: Inside the Pharmaceutical Industry's Business of Making You Sick by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Disease Dealers</h3>
       <p>How pharmaceutical giants create diseases, manipulate research & price-gouge patients for profit. Expose Big Pharma's billion-dollar deception from opioid crisis to invented illnesses.</p>
@@ -101,7 +103,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Profit_Machine.webp" alt="The Profit Machine: How Corporations Turn War Into Wall Street's Biggest Payday by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Profit_Machine_sm.webp" alt="The Profit Machine: How Corporations Turn War Into Wall Street's Biggest Payday by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Profit Machine</h3>
       <p>How defense contractors, banks & corporations profit billions from wars while taxpayers pay. Expose the military-industrial complex turning warfare into Wall Street's most lucrative business model.</p>
@@ -110,7 +112,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Bush_Machine.webp" alt="The Bush Machine: Four Generations of Oil, Espionage, and American Power by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Bush_Machine_sm.webp" alt="The Bush Machine: Four Generations of Oil, Espionage, and American Power by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Bush Machine</h3>
       <p>Inside Bush dynasty's hidden empire - four generations of oil money, CIA connections, and political power shaping American history. Discover how one family controlled U.S. foreign policy for nearly a century.</p>
@@ -119,7 +121,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/India_Paradox.webp" alt="The India Paradox: Nuclear Power, Digital Dreams, and a Billion People's Quest for Global Dominance by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/India_Paradox_sm.webp" alt="The India Paradox: Nuclear Power, Digital Dreams, and a Billion People's Quest for Global Dominance by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The India Paradox</h3>
       <p>Inside India's transformation to global superpower - nuclear ambitions, tech revolution, and billion-person democracy shaping world order. Discover how the world's largest democracy became its most unpredictable power.</p>
@@ -128,7 +130,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Richest_Poor_Country.webp" alt="The Richest Poor Country: Venezuela's Oil Curse and the New Cold War in America's Backyard by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Richest_Poor_Country_sm.webp" alt="The Richest Poor Country: Venezuela's Oil Curse and the New Cold War in America's Backyard by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Richest Poor Country</h3>
       <p>Inside Venezuela's transformation from oil paradise to economic collapse - exploring the new Cold War battles in America's backyard. Discover how competing superpowers engineered a nation's destruction.</p>
@@ -137,7 +139,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Oil_Weapon_Book.webp" alt="The Oil Weapon: How Black Gold Destroys Empires and Controls Nations by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Oil_Weapon_Book_sm.webp" alt="The Oil Weapon: How Black Gold Destroys Empires and Controls Nations by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Oil Weapon</h3>
       <p>Explosive investigation into 150 years of energy geopolitics - from Rockefeller's empire to Ukrainian drones targeting Russian refineries. Discover how energy became the ultimate weapon of mass economic destruction.</p>
@@ -146,7 +148,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Rigged-Game.webp" alt="THE RIGGED GAME: How the 1% Built a System to Keep You Poor by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Rigged-Game_sm.webp" alt="THE RIGGED GAME: How the 1% Built a System to Keep You Poor by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>THE RIGGED GAME</h3>
       <p>Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth. Discover the $2 trillion secret they don't want you to know.</p>
@@ -156,7 +158,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Sam-Altman.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Sam-Altman_sm.webp" alt="The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The AI Emperor</h3>
       <p>Expose Sam Altman's rise to AI supremacy and the 96-hour corporate coup that transformed him into the unelected emperor of humanity's most powerful technology. Discover how ChatGPT revolutionized society.</p>
@@ -165,7 +167,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Secrets_Medici.webp" alt="Secrets of the Medici: The Dark Aristocracy Behind Global Power by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Secrets_Medici_sm.webp" alt="Secrets of the Medici: The Dark Aristocracy Behind Global Power by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Secrets of the Medici</h3>
       <p>Expose how Renaissance banking dynasties created the blueprint for modern elite control. Discover 500+ years of hidden power networks operating through Vatican banks and European institutions.</p>
@@ -174,7 +176,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Dopamine_Dealers.webp" alt="The Dopamine Dealers: How McDonald's, KFC & Burger King Turned Your Brain Into Their ATM by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Dopamine_Dealers_sm.webp" alt="The Dopamine Dealers: How McDonald's, KFC & Burger King Turned Your Brain Into Their ATM by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Dopamine Dealers</h3>
       <p>Discover how McDonald's, KFC & Burger King use neuroscience to turn your brain into their ATM. Expose the sophisticated manipulation tactics behind fast food addiction.</p>
@@ -183,7 +185,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/THE_LAUNDROMAT.webp" alt="The Laundromat: How Presidents, Billionaires and Drug Lords Built the World's Biggest Money-Washing Machine by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/THE_LAUNDROMAT_sm.webp" alt="The Laundromat: How Presidents, Billionaires and Drug Lords Built the World's Biggest Money-Washing Machine by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Laundromat</h3>
       <p>Discover how presidents, billionaires, and drug lords built the world's biggest money-washing machine. Expose the $32 trillion shadow economy and century-long evolution of financial crime.</p>
@@ -201,7 +203,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Bilderberg_Exposed.webp" alt="Bilderberg Exposed: The Shadow Architects of Global Power - Political Analysis Book by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Bilderberg_Exposed_sm.webp" alt="Bilderberg Exposed: The Shadow Architects of Global Power - Political Analysis Book by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Bilderberg Exposed</h3>
       <p>Uncover 70 years of secret meetings that shaped world history. Discover how the Bilderberg Club influences global politics, economics, and the future of humanity.</p>
@@ -210,7 +212,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Passport_Power.webp" alt="Passport Power: How Your Travel Document Shapes Global Economics and Personal Freedom by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Passport_Power_sm.webp" alt="Passport Power: How Your Travel Document Shapes Global Economics and Personal Freedom by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Passport Power</h3>
       <p>Discover how your travel document shapes global opportunities, economic freedom, and life chances. From ancient passes to digital citizenship revolution.</p>
@@ -219,7 +221,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Warren_Buffett.webp" alt="Warren Buffett: How to Become THE RICHEST? - Investment Strategy Book by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Warren_Buffett_sm.webp" alt="Warren Buffett: How to Become THE RICHEST? - Investment Strategy Book by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Warren Buffett: How to Become THE RICHEST?</h3>
       <p>Discover the untold story of Warren Buffett's journey from childhood entrepreneur to the world's greatest investor, revealing the psychology behind his unprecedented success.</p>
@@ -229,7 +231,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Digital_Dollar_Dystopia.webp" alt="Digital Dollar Dystopia: Central Bank Digital Currencies and Financial Control by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Digital_Dollar_Dystopia_sm.webp" alt="Digital Dollar Dystopia: Central Bank Digital Currencies and Financial Control by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Digital Dollar Dystopia</h3>
       <p>Explore how Central Bank Digital Currencies threaten personal liberty, enable financial surveillance, and could create an unprecedented system of control.</p>
@@ -247,7 +249,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/BlackRock-Empire.webp" alt="The BlackRock Empire: World's Most Powerful Financial Institution Analysis by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/BlackRock-Empire_sm.webp" alt="The BlackRock Empire: World's Most Powerful Financial Institution Analysis by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The BlackRock Empire</h3>
       <p>Uncover how BlackRock became the world's most powerful financial institution, controlling trillions in assets and shaping global markets from behind the scenes.</p>
@@ -256,7 +258,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/George-Soros-Book-Cover.webp" alt="George Soros: The Man the World Hates - Controversial Financier Biography by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/George-Soros-Book-Cover_sm.webp" alt="George Soros: The Man the World Hates - Controversial Financier Biography by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>George Soros: The Man the World Hates</h3>
       <p>Uncover how one man shaped global markets, influenced politics across continents, and became the most controversial financier of our time.</p>
@@ -274,7 +276,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
   
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia.webp" alt="The PayPal Mafia: Silicon Valley's Secret Power Brokers - Tech History Book by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Pay_Pall_Mafia_sm.webp" alt="The PayPal Mafia: Silicon Valley's Secret Power Brokers - Tech History Book by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The PayPal Mafia</h3>
       <p>Uncover how PayPal's founding team transformed into the most influential network in tech history, reshaping global politics and finance.</p>
@@ -283,7 +285,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
   
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy.webp" alt="Weaponized Economy: History of Economic Warfare from Napoleon to Modern Trade Wars by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Weaponized_Economy_sm.webp" alt="Weaponized Economy: History of Economic Warfare from Napoleon to Modern Trade Wars by Michael Rodriguez" width="600" height="900" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Weaponized Economy</h3>
       <p>Explore the fascinating history of economic warfare from Napoleon to modern US-China tensions and how nations weaponize trade.</p>
@@ -292,7 +294,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Silver-Empire-The-Forgotten-Metal.webp" alt="Silver Empire: The Forgotten Metal That Powers Modern Civilization - Investment Book by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Silver-Empire-The-Forgotten-Metal_sm.webp" alt="Silver Empire: The Forgotten Metal That Powers Modern Civilization - Investment Book by Michael Rodriguez" width="600" height="957" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>Silver Empire</h3>
       <p>An extraordinary exploration of silver's crucial role in human history and modern technology. Rodriguez reveals how this overlooked metal has shaped economies for centuries.</p>
@@ -301,7 +303,7 @@ Dive into the complex world of global economics, financial markets, and power st
   </div>
 
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Trillion_Dollar_Shadow.webp" alt="The Trillion Dollar Shadow: Vanguard, John Bogle and the New Financial Order by Michael Rodriguez" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Trillion_Dollar_Shadow_sm.webp" alt="The Trillion Dollar Shadow: Vanguard, John Bogle and the New Financial Order by Michael Rodriguez" width="600" height="957" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h3>The Trillion Dollar Shadow</h3>
       <p>The untold story of how John Bogle's revolutionary index fund concept transformed into Vanguard Group, a financial giant managing over $10 trillion in assets.</p>
