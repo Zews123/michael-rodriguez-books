@@ -11,7 +11,7 @@ date_published: "2026-04-25"
 date_modified: "2026-04-25"
 ---
 
-<link rel="preload" href="https://michaelrodriguezbooks.com/assets/images/Holy_Money.webp" as="image" fetchpriority="high">
+<link rel="preload" href="https://michaelrodriguezbooks.com/assets/images/Holy_Money_sm.webp" as="image" fetchpriority="high">
 <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
 <link rel="preconnect" href="https://www.amazon.com">
 <link rel="dns-prefetch" href="https://www.amazon.com">
@@ -54,10 +54,7 @@ date_modified: "2026-04-25"
 **ISBN: 9798235034396 (eBook)**
 
 <div class="book-cover-container" style="text-align: center; margin: 30px 0;">
-<img src="https://michaelrodriguezbooks.com/assets/images/Holy_Money.webp"
-     srcset="https://michaelrodriguezbooks.com/assets/images/Holy_Money.webp 400w,
-             https://michaelrodriguezbooks.com/assets/images/Holy_Money.webp 800w"
-     sizes="(max-width: 600px) 400px, 560px"
+<img src="https://michaelrodriguezbooks.com/assets/images/Holy_Money_sm.webp"
      alt="Holy Money: The Vatican's Hidden Empire of Greed by Michael Rodriguez — investigative nonfiction book cover"
      width="400" height="620"
      loading="eager" fetchpriority="high" decoding="async"
@@ -228,9 +225,9 @@ Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating 
 
 Stay informed about Rodriguez's latest investigations and upcoming books:
 
-<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd;">
+<div style="background-color: #f9f9fb; padding: 25px; border-radius: 8px; margin: 30px 0; border: 1px solid #ddd; color: #1f2937;">
   <h3 style="margin-top: 0; color: #1a3c65;">Get Exclusive Updates</h3>
-  <p>Join thousands of readers receiving exclusive analysis on financial crime, institutional corruption, and the hidden forces shaping global power.</p>
+  <p style="color: #1f2937;">Join thousands of readers receiving exclusive analysis on financial crime, institutional corruption, and the hidden forces shaping global power.</p>
   <a href="https://michael-rodriguez.kit.com/b2a1614bc4" style="background:#1a3c65;color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:700;display:inline-block">Subscribe Now</a>
 </div>
 
