@@ -720,9 +720,50 @@
       .book-card p,
       .book-card .book-card-excerpt {
         font-size: 0.85rem;
-        color: var(--text-dim);
+        color: var(--text);
         line-height: 1.5;
-        margin: 0;
+        margin: 0 0 12px;
+      }
+
+      .book-card .book-card-content {
+        padding: 16px;
+      }
+
+      /* ── BUTTONS (used on /books/ index and elsewhere) ── */
+      .book-card .btn,
+      a.btn {
+        display: inline-block;
+        padding: 8px 14px;
+        background: var(--gold);
+        color: var(--ink) !important;
+        font-weight: 600;
+        font-size: 0.8rem;
+        border-radius: 4px;
+        text-decoration: none;
+        border-bottom: none;
+        margin-top: 4px;
+        transition: opacity 0.2s;
+      }
+
+      .book-card .btn:hover,
+      a.btn:hover {
+        opacity: 0.85;
+        border-bottom: none;
+      }
+
+      .book-card .btn-free,
+      a.btn.btn-free {
+        background: #1a5e3a;
+        color: #ffffff !important;
+      }
+
+      .visually-hidden {
+        position: absolute !important;
+        clip: rect(1px, 1px, 1px, 1px);
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+        white-space: nowrap;
       }
 
       /* ── BLOG GRID ── */
