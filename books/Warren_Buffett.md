@@ -15,7 +15,7 @@ image: "https://michaelrodriguezbooks.com/assets/images/Warren_Buffett.webp"
 *By Michael Rodriguez*
 
 <div style="background: linear-gradient(135deg, #1a3c65 0%, #0d253f 100%); padding: 20px 25px; border-radius: 10px; margin: 20px 0; border: 1px solid #c9a227; text-align: center;">
-  <a href="{{ site.baseurl }}/books/free-chapter-warren-buffett" style="color: #c9a227; font-size: 1.2rem; font-weight: 700; text-decoration: none;">📖 Read First 2 Chapters FREE &rarr;</a>
+  <a href="{{ site.baseurl }}/books/free-chapter-warren-buffett/" style="color: #c9a227; font-size: 1.2rem; font-weight: 700; text-decoration: none;">📖 Read First 2 Chapters FREE &rarr;</a>
 </div>
 
 ## About the Book
@@ -61,7 +61,7 @@ The Oracle's retirement marks not just a corporate transition, but the end of an
 
 Michael Rodriguez is a renowned economic analyst and investigative journalist specializing in the psychology of wealth creation and the hidden mechanisms of financial power. With over fifteen years of experience studying the intersection of personal psychology and investment success, Rodriguez brings unique insights to understanding how individual brilliance intersects with systemic advantages in building financial empires.
 
-His previous works include [Digital Dollar Dystopia]({{ site.baseurl }}/books/Digital-Dollar-Dystopia), [How the IMF Manipulates Countries]({{ site.baseurl }}/books/imf-manipulates), [The BlackRock Empire]({{ site.baseurl }}/books/blackrock-empire), [George Soros: The Man the World Hates]({{ site.baseurl }}/books/george-soros), [The PayPal Mafia]({{ site.baseurl }}/books/paypal-mafia), [Silver Empire]({{ site.baseurl }}/books/silver-empire), [The Chinese Real Estate Bubble]({{ site.baseurl }}/books/chinese-real-estate-bubble), [Weaponized Economy]({{ site.baseurl }}/books/weaponized-economy), and [The Trillion Dollar Shadow]({{ site.baseurl }}/books/trillion-dollar-shadow).
+His previous works include [Digital Dollar Dystopia]({{ site.baseurl }}/books/Digital-Dollar-Dystopia/), [How the IMF Manipulates Countries]({{ site.baseurl }}/books/imf-manipulates/), [The BlackRock Empire]({{ site.baseurl }}/books/blackrock-empire/), [George Soros: The Man the World Hates]({{ site.baseurl }}/books/george-soros/), [The PayPal Mafia]({{ site.baseurl }}/books/paypal-mafia/), [Silver Empire]({{ site.baseurl }}/books/silver-empire/), [The Chinese Real Estate Bubble]({{ site.baseurl }}/books/chinese-real-estate-bubble/), [Weaponized Economy]({{ site.baseurl }}/books/weaponized-economy/), and [The Trillion Dollar Shadow]({{ site.baseurl }}/books/trillion-dollar-shadow/).
 
 
 ## Available Now

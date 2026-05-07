@@ -27,7 +27,7 @@ date_modified: "2026-04-03"
 <meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/Persian_Grudge.webp">
 <meta property="og:image:width" content="400">
 <meta property="og:image:height" content="600">
-<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Persian_Grudge">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Persian_Grudge/">
 <meta property="og:site_name" content="Michael Rodriguez Books">
 <meta property="book:author" content="Michael Rodriguez">
 <meta property="book:isbn" content="9798233056147">
@@ -64,7 +64,7 @@ date_modified: "2026-04-03"
 </div>
 
 <div style="background: linear-gradient(135deg, #1a3c65 0%, #0d253f 100%); padding: 20px 25px; border-radius: 10px; margin: 20px 0; border: 1px solid #c9a227; text-align: center;">
-  <a href="{{ site.baseurl }}/books/free-chapter-persian-grudge" style="color: #c9a227; font-size: 1.2rem; font-weight: 700; text-decoration: none;">📖 Read First 2 Chapters FREE →</a>
+  <a href="{{ site.baseurl }}/books/free-chapter-persian-grudge/" style="color: #c9a227; font-size: 1.2rem; font-weight: 700; text-decoration: none;">📖 Read First 2 Chapters FREE →</a>
 </div>
 
 ## About the Book
@@ -170,7 +170,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
     {
       "@type": "WebPage",
       "@id": "https://michaelrodriguezbooks.com/books/Persian_Grudge/#webpage",
-      "url": "https://michaelrodriguezbooks.com/books/Persian_Grudge",
+      "url": "https://michaelrodriguezbooks.com/books/Persian_Grudge/",
       "name": "The Persian Grudge | Michael Rodriguez",
       "description": "1953 CIA coup to 2024 nuclear standoff — the full history of how Iran and America became mortal enemies. Declassified documents and verified facts.",
       "datePublished": "2026-04-03",
@@ -203,7 +203,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
       "genre": ["Political History", "Geopolitics", "International Relations"],
       "description": "1953 CIA coup to 2024 nuclear standoff — the full history of how Iran and America became mortal enemies. Declassified documents and verified facts.",
       "image": "https://michaelrodriguezbooks.com/assets/images/Persian_Grudge.webp",
-      "url": "https://michaelrodriguezbooks.com/books/Persian_Grudge",
+      "url": "https://michaelrodriguezbooks.com/books/Persian_Grudge/",
       "offers": [
         {
           "@type": "Offer",

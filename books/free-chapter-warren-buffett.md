@@ -103,7 +103,7 @@ It's interesting to note that Warren's psychological portrait, formed in childho
   </div>
 </div>
 
-<a href="{{ site.baseurl }}/books/Warren_Buffett" style="color: #c9a227;">&larr; Back to Warren Buffett</a>
+<a href="{{ site.baseurl }}/books/Warren_Buffett/" style="color: #c9a227;">&larr; Back to Warren Buffett</a>
 
 <style>
 .btn:hover { opacity: 0.9; }

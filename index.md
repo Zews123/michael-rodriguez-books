@@ -31,7 +31,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>Holy Money</h3>
       <p>Two centuries of Vatican financial scandal — from Napoleon's invasion to the Becciu conviction. The definitive investigation into the world's most secretive bank and the empire of greed it enabled.</p>
-      <a href="{{ site.baseurl }}/books/Holy_Money" class="btn">Read More <span class="visually-hidden">about Holy Money by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Holy_Money/" class="btn">Read More <span class="visually-hidden">about Holy Money by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -40,7 +40,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>Dark Advantage</h3>
       <p>Why narcissists, manipulators, and psychopaths consistently outperform ethical leaders. A field manual for recognizing dark personalities, decoding their strategies, and building power without losing your soul.</p>
-      <a href="{{ site.baseurl }}/books/Dark_Advantage" class="btn">Read More <span class="visually-hidden">about Dark Advantage by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Dark_Advantage/" class="btn">Read More <span class="visually-hidden">about Dark Advantage by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -49,7 +49,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The Persian Grudge</h3>
       <p>1953 CIA coup to 2024 nuclear standoff — the full history of how Iran and America became mortal enemies. Declassified documents, verified facts, and the chain of decisions that turned allies into adversaries.</p>
-      <a href="{{ site.baseurl }}/books/Persian_Grudge" class="btn">Read More <span class="visually-hidden">about The Persian Grudge by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Persian_Grudge/" class="btn">Read More <span class="visually-hidden">about The Persian Grudge by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -58,7 +58,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>Architect of Power</h3>
       <p>Henry Kissinger: refugee, strategist, Nobel laureate, accused war criminal. The definitive investigation into how one man shaped the world order — and the devastating price humanity paid for his vision.</p>
-      <a href="{{ site.baseurl }}/books/Architect_of_Power" class="btn">Read More <span class="visually-hidden">about Architect of Power by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Architect_of_Power/" class="btn">Read More <span class="visually-hidden">about Architect of Power by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -67,7 +67,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The Shadow Cabinet</h3>
       <p>Bilderberg, CFR, MK-Ultra, COINTELPRO, Operation Gladio — the first fact-verified investigation of secret power networks. Every claim tested against declassified documents, congressional testimony, and primary sources.</p>
-      <a href="{{ site.baseurl }}/books/Shadow_Cabinet" class="btn">Read More <span class="visually-hidden">about The Shadow Cabinet by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Shadow_Cabinet/" class="btn">Read More <span class="visually-hidden">about The Shadow Cabinet by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -76,7 +76,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>Countdown to Collapse</h3>
       <p>A 1972 computer model predicted civilizational decline by 2040. Fifty years of data prove it right. Michael Rodriguez examines the World3 model, Gaya Herrington's KPMG validation, and three possible futures.</p>
-      <a href="{{ site.baseurl }}/books/Countdown_2040" class="btn">Read More <span class="visually-hidden">about Countdown to Collapse by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Countdown_2040/" class="btn">Read More <span class="visually-hidden">about Countdown to Collapse by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -85,7 +85,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>Shadows of Power</h3>
       <p>The definitive investigation into Jeffrey Epstein's network of power, impunity, and the institutional failures that allowed decades of abuse. Discover how wealth buys silence and power erases accountability.</p>
-      <a href="{{ site.baseurl }}/books/Shadows_of_Power" class="btn">Read More <span class="visually-hidden">about Shadows of Power by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Shadows_of_Power/" class="btn">Read More <span class="visually-hidden">about Shadows of Power by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -94,7 +94,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>If You're So Smart, Why Aren't You Rich?</h3>
       <p>Why smart people struggle financially while the wealthy exploit intelligence. Michael Rodriguez exposes the rigged system that keeps intelligent people poor and reveals wealth-building secrets.</p>
-      <a href="{{ site.baseurl }}/books/If_You_re_So_Smart" class="btn">Read More <span class="visually-hidden">about If You're So Smart Why Aren't You Rich by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/If_You_re_So_Smart/" class="btn">Read More <span class="visually-hidden">about If You're So Smart Why Aren't You Rich by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -103,7 +103,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The Disease Dealers</h3>
       <p>How pharmaceutical giants create diseases, manipulate research & price-gouge patients for profit. Expose Big Pharma's billion-dollar deception from opioid crisis to invented illnesses.</p>
-      <a href="{{ site.baseurl }}/books/Disease_Dealers" class="btn">Read More <span class="visually-hidden">about The Disease Dealers by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Disease_Dealers/" class="btn">Read More <span class="visually-hidden">about The Disease Dealers by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -112,7 +112,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The Profit Machine</h3>
       <p>How defense contractors, banks & corporations profit billions from wars while taxpayers pay. Expose the military-industrial complex turning warfare into Wall Street's most lucrative business model.</p>
-      <a href="{{ site.baseurl }}/books/Profit_Machine" class="btn">Read More <span class="visually-hidden">about The Profit Machine by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Profit_Machine/" class="btn">Read More <span class="visually-hidden">about The Profit Machine by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -121,7 +121,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The Bush Machine</h3>
       <p>Inside Bush dynasty's hidden empire - four generations of oil money, CIA connections, and political power shaping American history. Discover how one family controlled U.S. foreign policy for nearly a century.</p>
-      <a href="{{ site.baseurl }}/books/Bush_Machine" class="btn">Read More <span class="visually-hidden">about The Bush Machine by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Bush_Machine/" class="btn">Read More <span class="visually-hidden">about The Bush Machine by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -130,7 +130,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The India Paradox</h3>
       <p>Inside India's transformation to global superpower - nuclear ambitions, tech revolution, and billion-person democracy shaping world order. Discover how the world's largest democracy became its most unpredictable power.</p>
-      <a href="{{ site.baseurl }}/books/India_Paradox" class="btn">Read More <span class="visually-hidden">about The India Paradox by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/India_Paradox/" class="btn">Read More <span class="visually-hidden">about The India Paradox by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -139,7 +139,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The Richest Poor Country</h3>
       <p>Inside Venezuela's transformation from oil paradise to economic collapse - exploring the new Cold War battles in America's backyard. Discover how competing superpowers engineered a nation's destruction.</p>
-      <a href="{{ site.baseurl }}/books/Richest_Poor_Country" class="btn">Read More <span class="visually-hidden">about The Richest Poor Country by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Richest_Poor_Country/" class="btn">Read More <span class="visually-hidden">about The Richest Poor Country by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -148,7 +148,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The Oil Weapon</h3>
       <p>Explosive investigation into 150 years of energy geopolitics - from Rockefeller's empire to Ukrainian drones targeting Russian refineries. Discover how energy became the ultimate weapon of mass economic destruction.</p>
-      <a href="{{ site.baseurl }}/books/Oil_Weapon" class="btn">Read More <span class="visually-hidden">about The Oil Weapon by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Oil_Weapon/" class="btn">Read More <span class="visually-hidden">about The Oil Weapon by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -157,7 +157,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>THE RIGGED GAME</h3>
       <p>Explosive investigation exposing how the 1% systematically rigged the economic game to concentrate wealth. Discover the $2 trillion secret they don't want you to know.</p>
-      <a href="{{ site.baseurl }}/books/Rigged_Game" class="btn">Read More <span class="visually-hidden">about THE RIGGED GAME by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Rigged_Game/" class="btn">Read More <span class="visually-hidden">about THE RIGGED GAME by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -166,7 +166,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The AI Emperor</h3>
       <p>Expose Sam Altman's rise to AI supremacy and the 96-hour corporate coup that transformed him into the unelected emperor of humanity's most powerful technology. Discover how ChatGPT revolutionized society.</p>
-      <a href="{{ site.baseurl }}/books/Sam_Altman" class="btn">Read More <span class="visually-hidden">about The AI Emperor by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Sam_Altman/" class="btn">Read More <span class="visually-hidden">about The AI Emperor by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -175,7 +175,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>Secrets of the Medici</h3>
       <p>Expose how Renaissance banking dynasties created the blueprint for modern elite control. Discover 500+ years of hidden power networks operating through Vatican banks and European institutions.</p>
-      <a href="{{ site.baseurl }}/books/Secrets_Medici" class="btn">Read More <span class="visually-hidden">about Secrets of the Medici by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Secrets_Medici/" class="btn">Read More <span class="visually-hidden">about Secrets of the Medici by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -184,7 +184,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The Dopamine Dealers</h3>
       <p>Discover how McDonald's, KFC & Burger King use neuroscience to turn your brain into their ATM. Expose the sophisticated manipulation tactics behind fast food addiction.</p>
-      <a href="{{ site.baseurl }}/books/Dopamine_Dealers" class="btn">Read More <span class="visually-hidden">about The Dopamine Dealers by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Dopamine_Dealers/" class="btn">Read More <span class="visually-hidden">about The Dopamine Dealers by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -193,7 +193,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The Laundromat</h3>
       <p>Discover how presidents, billionaires, and drug lords built the world's biggest money-washing machine. Expose the $32 trillion shadow economy and century-long evolution of financial crime.</p>
-      <a href="{{ site.baseurl }}/books/The_Laundromat" class="btn">Read More <span class="visually-hidden">about The Laundromat by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/The_Laundromat/" class="btn">Read More <span class="visually-hidden">about The Laundromat by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -202,7 +202,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>Dark Money Empire</h3>
       <p>Uncover how presidents, oligarchs, Nazis and rock stars launder billions through secret offshore networks. Expose the $32 trillion shadow economy that operates parallel to our world.</p>
-      <a href="{{ site.baseurl }}/books/Dark_Money_Empire" class="btn">Read More <span class="visually-hidden">about Dark Money Empire by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Dark_Money_Empire/" class="btn">Read More <span class="visually-hidden">about Dark Money Empire by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -211,7 +211,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>Bilderberg Exposed</h3>
       <p>Uncover 70 years of secret meetings that shaped world history. Discover how the Bilderberg Club influences global politics, economics, and your daily life.</p>
-      <a href="{{ site.baseurl }}/books/Bilderberg_Exposed" class="btn">Read More <span class="visually-hidden">about Bilderberg Exposed by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Bilderberg_Exposed/" class="btn">Read More <span class="visually-hidden">about Bilderberg Exposed by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -220,7 +220,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>Passport Power</h3>
       <p>Discover how your travel document shapes global opportunities, economic freedom, and life chances. From ancient passes to digital citizenship revolution.</p>
-      <a href="{{ site.baseurl }}/books/Passport-Power" class="btn">Read More <span class="visually-hidden">about Passport Power by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Passport-Power/" class="btn">Read More <span class="visually-hidden">about Passport Power by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -229,7 +229,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>Warren Buffett: How to Become THE RICHEST?</h3>
       <p>Discover the untold story of Warren Buffett's journey from childhood entrepreneur to the world's greatest investor, revealing the psychology behind his unprecedented success.</p>
-      <a href="{{ site.baseurl }}/books/Warren_Buffett" class="btn">Read More <span class="visually-hidden">about Warren Buffett How to Become THE RICHEST by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Warren_Buffett/" class="btn">Read More <span class="visually-hidden">about Warren Buffett How to Become THE RICHEST by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -238,7 +238,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>Digital Dollar Dystopia</h3>
       <p>Explore how Central Bank Digital Currencies threaten personal liberty, enable financial surveillance, and could create an unprecedented system of control.</p>
-      <a href="{{ site.baseurl }}/books/Digital-Dollar-Dystopia" class="btn">Read More <span class="visually-hidden">about Digital Dollar Dystopia by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/Digital-Dollar-Dystopia/" class="btn">Read More <span class="visually-hidden">about Digital Dollar Dystopia by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -247,7 +247,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>How the IMF Manipulates Countries</h3>
       <p>Uncover how the International Monetary Fund uses debt, structural adjustment, and currency manipulation to control nations and serve powerful global interests.</p>
-      <a href="{{ site.baseurl }}/books/imf-manipulates" class="btn">Read More <span class="visually-hidden">about How the IMF Manipulates Countries by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/imf-manipulates/" class="btn">Read More <span class="visually-hidden">about How the IMF Manipulates Countries by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -256,7 +256,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The BlackRock Empire</h3>
       <p>Uncover how BlackRock became the world's most powerful financial institution, controlling trillions in assets and shaping global markets.</p>
-      <a href="{{ site.baseurl }}/books/blackrock-empire" class="btn">Read More <span class="visually-hidden">about The BlackRock Empire by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/blackrock-empire/" class="btn">Read More <span class="visually-hidden">about The BlackRock Empire by Michael Rodriguez</span></a>
     </div>
   </div>
 
@@ -265,7 +265,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>George Soros: The Man the World Hates</h3>
       <p>Uncover how one man shaped global markets, influenced politics across continents, and became the most controversial financier of our time.</p>
-      <a href="{{ site.baseurl }}/books/george-soros" class="btn">Read More <span class="visually-hidden">about George Soros The Man the World Hates by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/george-soros/" class="btn">Read More <span class="visually-hidden">about George Soros The Man the World Hates by Michael Rodriguez</span></a>
     </div>
   </div>
   
@@ -274,7 +274,7 @@ twitter_card: "summary_large_image"
     <div class="book-card-content">
       <h3>The PayPal Mafia</h3>
       <p>Uncover the incredible story of how a small group of entrepreneurs went on to reshape technology, finance, and global politics.</p>
-      <a href="{{ site.baseurl }}/books/paypal-mafia" class="btn">Read More <span class="visually-hidden">about The PayPal Mafia by Michael Rodriguez</span></a>
+      <a href="{{ site.baseurl }}/books/paypal-mafia/" class="btn">Read More <span class="visually-hidden">about The PayPal Mafia by Michael Rodriguez</span></a>
     </div>
   </div>
 </div>

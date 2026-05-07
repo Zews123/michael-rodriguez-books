@@ -27,7 +27,7 @@ date_modified: "2026-03-18"
 <meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/Shadow_Cabinet.webp">
 <meta property="og:image:width" content="400">
 <meta property="og:image:height" content="600">
-<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Shadow_Cabinet">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Shadow_Cabinet/">
 <meta property="og:site_name" content="Michael Rodriguez Books">
 <meta property="book:author" content="Michael Rodriguez">
 <meta property="book:isbn" content="9798232915087">
@@ -64,7 +64,7 @@ date_modified: "2026-03-18"
 </div>
 
 <div style="background: linear-gradient(135deg, #1a3c65 0%, #0d253f 100%); padding: 20px 25px; border-radius: 10px; margin: 20px 0; border: 1px solid #c9a227; text-align: center;">
-  <a href="{{ site.baseurl }}/books/free-chapter-shadow-cabinet" style="color: #c9a227; font-size: 1.2rem; font-weight: 700; text-decoration: none;">📖 Read First 2 Chapters FREE →</a>
+  <a href="{{ site.baseurl }}/books/free-chapter-shadow-cabinet/" style="color: #c9a227; font-size: 1.2rem; font-weight: 700; text-decoration: none;">📖 Read First 2 Chapters FREE →</a>
 </div>
 
 ## About the Book
@@ -172,7 +172,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
     {
       "@type": "WebPage",
       "@id": "https://michaelrodriguezbooks.com/books/Shadow_Cabinet/#webpage",
-      "url": "https://michaelrodriguezbooks.com/books/Shadow_Cabinet",
+      "url": "https://michaelrodriguezbooks.com/books/Shadow_Cabinet/",
       "name": "The Shadow Cabinet | Michael Rodriguez",
       "description": "Bilderberg, CFR, MK-Ultra, COINTELPRO — the first fact-verified investigation of secret power networks. What the declassified documents reveal.",
       "datePublished": "2026-03-14",
@@ -205,7 +205,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
       "genre": ["Political Science", "Conspiracy Theories", "Intelligence History"],
       "description": "Bilderberg, CFR, MK-Ultra, COINTELPRO — the first fact-verified investigation of secret power networks. What the declassified documents reveal.",
       "image": "https://michaelrodriguezbooks.com/assets/images/Shadow_Cabinet.webp",
-      "url": "https://michaelrodriguezbooks.com/books/Shadow_Cabinet",
+      "url": "https://michaelrodriguezbooks.com/books/Shadow_Cabinet/",
       "offers": [
         {
           "@type": "Offer",

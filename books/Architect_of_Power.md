@@ -27,7 +27,7 @@ date_modified: "2026-03-26"
 <meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/Architect_of_Power.webp">
 <meta property="og:image:width" content="400">
 <meta property="og:image:height" content="600">
-<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Architect_of_Power">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Architect_of_Power/">
 <meta property="og:site_name" content="Michael Rodriguez Books">
 <meta property="book:author" content="Michael Rodriguez">
 <meta property="book:isbn" content="9798233027277">
@@ -64,7 +64,7 @@ date_modified: "2026-03-26"
 </div>
 
 <div style="background: linear-gradient(135deg, #1a3c65 0%, #0d253f 100%); padding: 20px 25px; border-radius: 10px; margin: 20px 0; border: 1px solid #c9a227; text-align: center;">
-  <a href="{{ site.baseurl }}/books/free-chapter-architect-of-power" style="color: #c9a227; font-size: 1.2rem; font-weight: 700; text-decoration: none;">📖 Read First 2 Chapters FREE →</a>
+  <a href="{{ site.baseurl }}/books/free-chapter-architect-of-power/" style="color: #c9a227; font-size: 1.2rem; font-weight: 700; text-decoration: none;">📖 Read First 2 Chapters FREE →</a>
 </div>
 
 ## About the Book
@@ -170,7 +170,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
     {
       "@type": "WebPage",
       "@id": "https://michaelrodriguezbooks.com/books/Architect_of_Power/#webpage",
-      "url": "https://michaelrodriguezbooks.com/books/Architect_of_Power",
+      "url": "https://michaelrodriguezbooks.com/books/Architect_of_Power/",
       "name": "Architect of Power | Michael Rodriguez",
       "description": "Henry Kissinger: refugee, strategist, Nobel laureate, accused war criminal. How one man shaped the world order and the devastating price humanity paid.",
       "datePublished": "2026-03-26",
@@ -203,7 +203,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
       "genre": ["Political Biography", "Cold War History", "International Relations"],
       "description": "Henry Kissinger: refugee, strategist, Nobel laureate, accused war criminal. How one man shaped the world order and the devastating price humanity paid.",
       "image": "https://michaelrodriguezbooks.com/assets/images/Architect_of_Power.webp",
-      "url": "https://michaelrodriguezbooks.com/books/Architect_of_Power",
+      "url": "https://michaelrodriguezbooks.com/books/Architect_of_Power/",
       "offers": [
         {
           "@type": "Offer",

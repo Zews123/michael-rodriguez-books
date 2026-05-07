@@ -35,7 +35,7 @@ image: "https://michaelrodriguezbooks.com/assets/images/Rigged-Game.webp"
   "@graph": [
     {
       "@type": "Book",
-      "@id": "https://michaelrodriguezbooks.com/books/Rigged_Game#book",
+      "@id": "https://michaelrodriguezbooks.com/books/Rigged_Game/#book",
       "name": "THE RIGGED GAME: How the 1% Built a System to Keep You Poor",
       "author": {
         "@type": "Person",
@@ -53,7 +53,7 @@ image: "https://michaelrodriguezbooks.com/assets/images/Rigged-Game.webp"
         "name": "Resource Economics Press"
       },
       "image": "https://michaelrodriguezbooks.com/assets/images/Rigged-Game.webp",
-      "url": "https://michaelrodriguezbooks.com/books/Rigged_Game",
+      "url": "https://michaelrodriguezbooks.com/books/Rigged_Game/",
       "offers": {
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
@@ -68,9 +68,9 @@ image: "https://michaelrodriguezbooks.com/assets/images/Rigged-Game.webp"
     },
     {
       "@type": "FAQPage",
-      "@id": "https://michaelrodriguezbooks.com/books/Rigged_Game#faq",
+      "@id": "https://michaelrodriguezbooks.com/books/Rigged_Game/#faq",
       "mainEntityOfPage": {
-        "@id": "https://michaelrodriguezbooks.com/books/Rigged_Game#book"
+        "@id": "https://michaelrodriguezbooks.com/books/Rigged_Game/#book"
       },
       "mainEntity": [
         {
@@ -117,7 +117,7 @@ image: "https://michaelrodriguezbooks.com/assets/images/Rigged-Game.webp"
 <meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/Rigged-Game.webp">
 <meta property="og:image:width" content="800">
 <meta property="og:image:height" content="1200">
-<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Rigged_Game">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Rigged_Game/">
 <meta property="og:type" content="book">
 <meta property="book:author" content="Michael Rodriguez">
 <meta property="book:isbn" content="979-8231144044">
@@ -144,7 +144,7 @@ New York • London • Singapore*
 **ISBN:** 979-8231940332 (eBook)
 
 <div style="background: linear-gradient(135deg, #1a3c65 0%, #0d253f 100%); padding: 20px 25px; border-radius: 10px; margin: 20px 0; border: 1px solid #c9a227; text-align: center;">
-  <a href="{{ site.baseurl }}/books/free-chapter-rigged-game" style="color: #c9a227; font-size: 1.2rem; font-weight: 700; text-decoration: none;">📖 Read Introduction & Chapter 1 FREE &rarr;</a>
+  <a href="{{ site.baseurl }}/books/free-chapter-rigged-game/" style="color: #c9a227; font-size: 1.2rem; font-weight: 700; text-decoration: none;">📖 Read Introduction & Chapter 1 FREE &rarr;</a>
 </div>
 
 ## About the Book

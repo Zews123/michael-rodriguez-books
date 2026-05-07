@@ -15,7 +15,7 @@ date: 2026-04-03
 <meta property="og:title" content="Free Chapter — The Persian Grudge">
 <meta property="og:description" content="Read the Introduction of The Persian Grudge free. Subscribe to get Chapter 1 as EPUB.">
 <meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/Persian_Grudge.webp">
-<meta property="og:url" content="https://michaelrodriguezbooks.com/books/free-chapter-persian-grudge">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/free-chapter-persian-grudge/">
 
 # The Persian Grudge — Free Preview
 
@@ -190,4 +190,4 @@ document.getElementById('part1-form').addEventListener('submit', function(e) {
 });
 </script>
 
-<a href="{{ site.baseurl }}/books/Persian_Grudge" style="color: #c9a227;">&larr; Back to The Persian Grudge</a>
+<a href="{{ site.baseurl }}/books/Persian_Grudge/" style="color: #c9a227;">&larr; Back to The Persian Grudge</a>

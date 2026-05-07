@@ -137,7 +137,7 @@ Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating 
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
 <div itemprop="text">
 <p><strong>The war revenue model exposed:</strong> <em>The Profit Machine</em> reveals how defense contractors engineer perpetual conflicts by designing weapons systems that require constant replacement, maintenance contracts that never expire, and strategic failures that guarantee expanded budgets. Through forensic analysis of over 50,000 pages of Pentagon procurement documents, Rodriguez documents how companies like Lockheed Martin, Raytheon, and Boeing inflate cost estimates by 400%, knowing projects will never be cancelled regardless of overruns or performance failures.</p>
-<p>The investigation traces how the Afghanistan war alone generated $2.3 trillion in contractor revenues, with defense companies posting record profits throughout the conflict. This system ensures that warfare is sustained not for victory, but for maximum profit extraction — a pattern also examined in Rodriguez's analysis of <a href="{{ site.baseurl }}/books/Dark_Money_Empire">global financial networks</a>.</p>
+<p>The investigation traces how the Afghanistan war alone generated $2.3 trillion in contractor revenues, with defense companies posting record profits throughout the conflict. This system ensures that warfare is sustained not for victory, but for maximum profit extraction — a pattern also examined in Rodriguez's analysis of <a href="{{ site.baseurl }}/books/Dark_Money_Empire/">global financial networks</a>.</p>
 </div>
 </div>
 </div>
@@ -157,7 +157,7 @@ Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating 
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
 <div itemprop="text">
 <p><strong>Documented proof of deliberate conflict prolongation:</strong> <em>The Profit Machine</em> includes internal Pentagon documents, earnings call transcripts, and procurement records showing how contractors engineer perpetual conflicts through cost overruns, strategic failures, and weapons systems designed for endless replacement cycles. The investigation also reveals trading algorithms programmed to automatically buy defense stocks when conflict indicators spike, creating perverse financial incentives for war escalation.</p>
-<p>Rodriguez's six-year investigation across twelve countries, supported by interviews with over 500 military whistleblowers, Congressional staffers, and former defense industry executives, documents the systematic transformation of warfare from national defense into Wall Street's most profitable product — a pattern of <a href="{{ site.baseurl }}/books/weaponized-economy">economic weaponization</a> that shapes global geopolitics.</p>
+<p>Rodriguez's six-year investigation across twelve countries, supported by interviews with over 500 military whistleblowers, Congressional staffers, and former defense industry executives, documents the systematic transformation of warfare from national defense into Wall Street's most profitable product — a pattern of <a href="{{ site.baseurl }}/books/weaponized-economy/">economic weaponization</a> that shapes global geopolitics.</p>
 </div>
 </div>
 </div>
@@ -167,7 +167,7 @@ Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating 
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
 <div itemprop="text">
 <p><strong>The military-industrial stock portfolio:</strong> The investigation reveals exclusive trading data showing how institutional investors profit from warfare predictions, using intelligence to front-run defense contracts before conflicts are publicly announced. Stock market algorithms are programmed to automatically purchase defense sector equities when geopolitical tension indicators spike, creating a direct financial incentive structure that rewards conflict escalation.</p>
-<p>Rodriguez's financial forensics demonstrate how the same corporations that profit from destruction secure no-bid contracts to rebuild infrastructure afterward, ensuring both sides of every conflict generate returns — a mechanism of <a href="{{ site.baseurl }}/books/Rigged_Game">systemic economic manipulation</a> that concentrates wealth among defense industry shareholders while taxpayers absorb the costs.</p>
+<p>Rodriguez's financial forensics demonstrate how the same corporations that profit from destruction secure no-bid contracts to rebuild infrastructure afterward, ensuring both sides of every conflict generate returns — a mechanism of <a href="{{ site.baseurl }}/books/Rigged_Game/">systemic economic manipulation</a> that concentrates wealth among defense industry shareholders while taxpayers absorb the costs.</p>
 </div>
 </div>
 </div>
@@ -177,7 +177,7 @@ Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating 
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
 <div itemprop="text">
 <p><strong>The lobbying-to-legislation pipeline:</strong> <em>The Profit Machine</em> documents how defense contractors spend $285 million annually lobbying Congress, placing former executives in Pentagon leadership positions, and writing legislation that mandates purchasing their products. This revolving door between the defense industry and government creates a self-reinforcing system where military policy serves corporate profit rather than national security.</p>
-<p>The book traces how this lobbying investment generates returns exceeding 10,000%, making defense sector lobbying the most profitable corporate expenditure in American politics — a concentration of power also explored in Rodriguez's investigation of <a href="{{ site.baseurl }}/books/blackrock-empire">institutional financial control</a>.</p>
+<p>The book traces how this lobbying investment generates returns exceeding 10,000%, making defense sector lobbying the most profitable corporate expenditure in American politics — a concentration of power also explored in Rodriguez's investigation of <a href="{{ site.baseurl }}/books/blackrock-empire/">institutional financial control</a>.</p>
 </div>
 </div>
 </div>
@@ -187,7 +187,7 @@ Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating 
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
 <div itemprop="text">
 <p><strong>An unprecedented military-industrial complex investigation:</strong> <em>The Profit Machine</em> by <a href="{{ site.baseurl }}/about">Michael Rodriguez</a> is a groundbreaking investigative book exposing how corporations, investment banks, and military contractors transformed warfare into the most lucrative business model in history. Drawing on six years of research, classified Pentagon contracts, leaked investment documents, and interviews with 500+ sources, the book reveals the financial mechanisms ensuring every conflict generates billions in corporate profits while taxpayers and soldiers pay the true cost.</p>
-<p>Rodriguez is an investigative journalist and economic analyst whose previous bestsellers include <em><a href="{{ site.baseurl }}/books/Bush_Machine">The Bush Machine</a></em>, <em><a href="{{ site.baseurl }}/books/Dark_Money_Empire">Dark Money Empire</a></em>, and <em><a href="{{ site.baseurl }}/books/Sam_Altman">The AI Emperor</a></em>.</p>
+<p>Rodriguez is an investigative journalist and economic analyst whose previous bestsellers include <em><a href="{{ site.baseurl }}/books/Bush_Machine/">The Bush Machine</a></em>, <em><a href="{{ site.baseurl }}/books/Dark_Money_Empire/">Dark Money Empire</a></em>, and <em><a href="{{ site.baseurl }}/books/Sam_Altman/">The AI Emperor</a></em>.</p>
 </div>
 </div>
 </div>

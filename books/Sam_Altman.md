@@ -36,7 +36,7 @@ twitter_card: "summary_large_image"
   "@graph": [
     {
       "@type": "Book",
-      "@id": "https://michaelrodriguezbooks.com/books/Sam_Altman#book",
+      "@id": "https://michaelrodriguezbooks.com/books/Sam_Altman/#book",
       "name": "The AI Emperor: Sam Altman and the ChatGPT Revolution That Could Save or Destroy Us",
       "author": {
         "@type": "Person",
@@ -52,7 +52,7 @@ twitter_card: "summary_large_image"
       "genre": "https://schema.org/NonFiction",
       "isbn": "979-8231694440",
       "inLanguage": "en",
-      "url": "https://michaelrodriguezbooks.com/books/Sam_Altman",
+      "url": "https://michaelrodriguezbooks.com/books/Sam_Altman/",
       "image": "https://michaelrodriguezbooks.com/assets/images/Sam-Altman.webp",
       "description": "Expose Sam Altman's rise to AI supremacy. How ChatGPT revolutionized society and one man gained unprecedented control over humanity's future.",
       "offers": {
@@ -69,9 +69,9 @@ twitter_card: "summary_large_image"
     },
     {
       "@type": "FAQPage",
-      "@id": "https://michaelrodriguezbooks.com/books/Sam_Altman#faq",
+      "@id": "https://michaelrodriguezbooks.com/books/Sam_Altman/#faq",
       "mainEntityOfPage": {
-        "@id": "https://michaelrodriguezbooks.com/books/Sam_Altman#book"
+        "@id": "https://michaelrodriguezbooks.com/books/Sam_Altman/#book"
       },
       "mainEntity": [
         {

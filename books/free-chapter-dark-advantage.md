@@ -15,7 +15,7 @@ date: 2026-04-08
 <meta property="og:title" content="Free Chapter — Dark Advantage">
 <meta property="og:description" content="Read the Introduction of Dark Advantage free. Subscribe to get Chapter 1 as EPUB.">
 <meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/Dark_Advantage.webp">
-<meta property="og:url" content="https://michaelrodriguezbooks.com/books/free-chapter-dark-advantage">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/free-chapter-dark-advantage/">
 
 # Dark Advantage — Free Preview
 
@@ -203,4 +203,4 @@ document.getElementById('part1-form').addEventListener('submit', function(e) {
 });
 </script>
 
-<a href="{{ site.baseurl }}/books/Dark_Advantage" style="color: #c9a227;">&larr; Back to Dark Advantage</a>
+<a href="{{ site.baseurl }}/books/Dark_Advantage/" style="color: #c9a227;">&larr; Back to Dark Advantage</a>

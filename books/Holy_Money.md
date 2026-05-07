@@ -28,7 +28,7 @@ date_modified: "2026-04-25"
 <meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/Holy_Money.webp">
 <meta property="og:image:width" content="400">
 <meta property="og:image:height" content="620">
-<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Holy_Money">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Holy_Money/">
 <meta property="og:site_name" content="Michael Rodriguez Books">
 <meta property="book:author" content="Michael Rodriguez">
 <meta property="book:isbn" content="9798235034396">
@@ -65,7 +65,7 @@ date_modified: "2026-04-25"
 </div>
 
 <div style="background: linear-gradient(135deg, #1a3c65 0%, #0d253f 100%); padding: 20px 25px; border-radius: 10px; margin: 20px 0; border: 1px solid #c9a227; text-align: center;">
-  <a href="{{ site.baseurl }}/books/free-chapter-holy-money" style="color: #c9a227; font-size: 1.2rem; font-weight: 700; text-decoration: none;">📖 Read First 2 Chapters FREE →</a>
+  <a href="{{ site.baseurl }}/books/free-chapter-holy-money/" style="color: #c9a227; font-size: 1.2rem; font-weight: 700; text-decoration: none;">📖 Read First 2 Chapters FREE →</a>
 </div>
 
 ## About the Book
@@ -241,7 +241,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
     {
       "@type": "WebPage",
       "@id": "https://michaelrodriguezbooks.com/books/Holy_Money/#webpage",
-      "url": "https://michaelrodriguezbooks.com/books/Holy_Money",
+      "url": "https://michaelrodriguezbooks.com/books/Holy_Money/",
       "name": "Holy Money | Michael Rodriguez",
       "description": "Two centuries of Vatican financial scandal — from the Rothschild rescue to the Becciu trial. The definitive investigation into the world's most secretive bank.",
       "datePublished": "2026-04-25",
@@ -274,7 +274,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
       "genre": ["Investigative Journalism", "Financial Crime", "Religious History", "True Crime"],
       "description": "Two centuries of Vatican financial scandal — from the Rothschild rescue to the Becciu trial. The definitive investigation into the world's most secretive bank.",
       "image": "https://michaelrodriguezbooks.com/assets/images/Holy_Money.webp",
-      "url": "https://michaelrodriguezbooks.com/books/Holy_Money",
+      "url": "https://michaelrodriguezbooks.com/books/Holy_Money/",
       "offers": [
         {
           "@type": "Offer",

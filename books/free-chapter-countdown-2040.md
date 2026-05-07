@@ -125,7 +125,7 @@ document.getElementById('part1-form').addEventListener('submit', function(e) {
 });
 </script>
 
-<a href="{{ site.baseurl }}/books/Countdown_2040" style="color: #c9a227;">&larr; Back to Countdown to Collapse</a>
+<a href="{{ site.baseurl }}/books/Countdown_2040/" style="color: #c9a227;">&larr; Back to Countdown to Collapse</a>
 
 <style>
 .btn:hover { opacity: 0.9; }

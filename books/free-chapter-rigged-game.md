@@ -141,7 +141,7 @@ The Federal Reserve alone injected over $4 trillion into financial markets betwe
   </div>
 </div>
 
-<a href="{{ site.baseurl }}/books/Rigged_Game" style="color: #c9a227;">&larr; Back to The Rigged Game</a>
+<a href="{{ site.baseurl }}/books/Rigged_Game/" style="color: #c9a227;">&larr; Back to The Rigged Game</a>
 
 <style>
 .btn:hover { opacity: 0.9; }

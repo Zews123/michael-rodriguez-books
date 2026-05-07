@@ -26,7 +26,7 @@ date_modified: "2026-03-04"
 <meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/Countdown_2040.webp">
 <meta property="og:image:width" content="400">
 <meta property="og:image:height" content="600">
-<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Countdown_2040">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/Countdown_2040/">
 <meta property="og:site_name" content="Michael Rodriguez Books">
 <meta property="book:author" content="Michael Rodriguez">
 <meta property="book:isbn" content="9798233521980">
@@ -63,7 +63,7 @@ date_modified: "2026-03-04"
 </div>
 
 <div style="background: linear-gradient(135deg, #1a3c65 0%, #0d253f 100%); padding: 20px 25px; border-radius: 10px; margin: 20px 0; border: 1px solid #c9a227; text-align: center;">
-  <a href="{{ site.baseurl }}/books/free-chapter-countdown-2040" style="color: #c9a227; font-size: 1.2rem; font-weight: 700; text-decoration: none;">📖 Read First 2 Chapters FREE →</a>
+  <a href="{{ site.baseurl }}/books/free-chapter-countdown-2040/" style="color: #c9a227; font-size: 1.2rem; font-weight: 700; text-decoration: none;">📖 Read First 2 Chapters FREE →</a>
 </div>
 
 ## About the Book
@@ -170,7 +170,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
     {
       "@type": "WebPage",
       "@id": "https://michaelrodriguezbooks.com/books/Countdown_2040/#webpage",
-      "url": "https://michaelrodriguezbooks.com/books/Countdown_2040",
+      "url": "https://michaelrodriguezbooks.com/books/Countdown_2040/",
       "name": "Countdown to Collapse | Michael Rodriguez",
       "description": "A 1972 computer model predicted civilizational decline by 2040. Fifty years of data prove it right. Examine the evidence.",
       "datePublished": "2026-03-04",
@@ -203,7 +203,7 @@ Stay informed about Rodriguez's latest investigations and upcoming books:
       "genre": ["Environmental Policy", "Future Studies", "Macroeconomics"],
       "description": "A 1972 computer model predicted civilizational decline by 2040. Fifty years of data prove it right. Examine the evidence.",
       "image": "https://michaelrodriguezbooks.com/assets/images/Countdown_2040.webp",
-      "url": "https://michaelrodriguezbooks.com/books/Countdown_2040",
+      "url": "https://michaelrodriguezbooks.com/books/Countdown_2040/",
       "offers": [
         {
           "@type": "Offer",

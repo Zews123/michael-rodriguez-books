@@ -15,7 +15,7 @@ date: 2026-03-14
 <meta property="og:title" content="Free Chapter — The Shadow Cabinet">
 <meta property="og:description" content="Read the Introduction of The Shadow Cabinet free. Subscribe to get Chapter 1 as EPUB.">
 <meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/Shadow_Cabinet.webp">
-<meta property="og:url" content="https://michaelrodriguezbooks.com/books/free-chapter-shadow-cabinet">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/free-chapter-shadow-cabinet/">
 
 # The Shadow Cabinet — Free Preview
 
@@ -237,7 +237,7 @@ document.getElementById('part1-form').addEventListener('submit', function(e) {
 });
 </script>
 
-<a href="{{ site.baseurl }}/books/Shadow_Cabinet" style="color: #c9a227;">&larr; Back to The Shadow Cabinet</a>
+<a href="{{ site.baseurl }}/books/Shadow_Cabinet/" style="color: #c9a227;">&larr; Back to The Shadow Cabinet</a>
 
 <style>
 .btn:hover { opacity: 0.9; }

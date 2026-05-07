@@ -15,7 +15,7 @@ date: 2026-03-26
 <meta property="og:title" content="Free Chapter — Architect of Power">
 <meta property="og:description" content="Read the Introduction of Architect of Power free. Subscribe to get Chapter 1 as EPUB.">
 <meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/Architect_of_Power.webp">
-<meta property="og:url" content="https://michaelrodriguezbooks.com/books/free-chapter-architect-of-power">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/free-chapter-architect-of-power/">
 
 # Architect of Power — Free Preview
 
@@ -137,7 +137,7 @@ document.getElementById('part1-form').addEventListener('submit', function(e) {
 });
 </script>
 
-<a href="{{ site.baseurl }}/books/Architect_of_Power" style="color: #c9a227;">&larr; Back to Architect of Power</a>
+<a href="{{ site.baseurl }}/books/Architect_of_Power/" style="color: #c9a227;">&larr; Back to Architect of Power</a>
 
 <style>
 .btn:hover { opacity: 0.9; }

@@ -28,6 +28,5 @@ author:
 exclude:
   - "index_backup.html"
   - "index_backup.md"
-  - "google6237e93d77328939.html"
-  - "pinterest-accf3.html"
   - "assets/images/social/trillion.html"
+  - "fix_all_pages.py"

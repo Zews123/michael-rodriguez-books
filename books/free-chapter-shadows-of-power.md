@@ -93,7 +93,7 @@ Epstein began to drift into the gray zones of finance. He marketed himself not a
   </div>
 </div>
 
-<a href="{{ site.baseurl }}/books/Shadows_of_Power" style="color: #c9a227;">&larr; Back to Shadows of Power</a>
+<a href="{{ site.baseurl }}/books/Shadows_of_Power/" style="color: #c9a227;">&larr; Back to Shadows of Power</a>
 
 <style>
 .btn:hover { opacity: 0.9; }
