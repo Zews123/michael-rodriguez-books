@@ -1,8 +1,8 @@
 ---
 permalink: /books/Maktoum/
 layout: default
-title: "Maktoum: The Hidden Dynasty Behind Dubai's Power, Wealth, and the Royal Secrets of a Billionaire Family"
-description: "190 years of the Maktoum dynasty — from the 1833 secession that founded Dubai to the £554M Princess Haya divorce, the Burj Khalifa, and the 2024 record GDP. Seven rulers, one playbook, one cost ledger."
+title: "Maktoum: The Hidden Dynasty That Built Dubai"
+description: "From the 1833 secession to the 2024 record GDP — how seven Maktoum rulers built Dubai, and what £554M, Burj Khalifa, and Latifa cost."
 canonical_url: "https://michaelrodriguezbooks.com/books/Maktoum/"
 image: "https://michaelrodriguezbooks.com/assets/images/Maktoum.webp"
 author: "Michael Rodriguez"
@@ -23,7 +23,7 @@ date_modified: "2026-05-22"
 
 <!-- Open Graph -->
 <meta property="og:type" content="book">
-<meta property="og:title" content="Maktoum: The Hidden Dynasty Behind Dubai's Power, Wealth, and the Royal Secrets of a Billionaire Family">
+<meta property="og:title" content="Maktoum: The Hidden Dynasty That Built Dubai">
 <meta property="og:description" content="190 years of the Maktoum dynasty — from the 1833 secession that founded Dubai to the £554M Princess Haya divorce, the Burj Khalifa, and the 2024 record GDP. Seven rulers, one playbook, one cost ledger.">
 <meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/Maktoum.webp">
 <meta property="og:image:width" content="400">
@@ -35,7 +35,7 @@ date_modified: "2026-05-22"
 
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Maktoum: The Hidden Dynasty Behind Dubai's Power, Wealth, and the Royal Secrets of a Billionaire Family">
+<meta name="twitter:title" content="Maktoum: The Hidden Dynasty That Built Dubai">
 <meta name="twitter:description" content="190 years of the Maktoum dynasty — from the 1833 secession to the £554M divorce and the 2024 record GDP. Seven rulers. One playbook. One cost ledger.">
 <meta name="twitter:image" content="https://michaelrodriguezbooks.com/assets/images/Maktoum.webp">
 <meta name="twitter:image:alt" content="Maktoum by Michael Rodriguez — investigative nonfiction book cover">
@@ -184,7 +184,9 @@ The UAE network — ADIA, Mubadala, ADQ, ICD, MGX — manages approximately $1.9
 
 ## About the Author
 
-**Michael Rodriguez** is an investigative nonfiction author specializing in the hidden financial systems that shape global power. His work exposes the intersection of institutional authority, secrecy, and corruption — from sovereign states to multinational corporations. Rodriguez draws on court records, declassified documents, and original research to reveal the stories that powerful institutions prefer to keep buried. His previous investigations include books on shadow banking networks, dynastic capital, and the hidden economics of geopolitical power. He is the author of several investigative books available at michaelrodriguezbooks.com.
+**Michael Rodriguez** is an investigative nonfiction author whose work traces the institutional machinery behind dynastic power. For *Maktoum*, he reconstructed 190 years of one family's rise from British India Office residency dispatches and declassified UK National Archives files, UK High Court Family Division judgments — including the March 2020 McFarlane ruling on the abductions of Shamsa and Latifa, the October 2021 Pegasus-spyware finding, and the December 2021 £554M Haya divorce order — Dubai Public Debt Management Office statistics, MONEYVAL anti-money-laundering assessments, Emaar Properties and Dubai Marine Areas Ltd. records, and on-the-record reporting from the BBC, Financial Times, CNN, and Gulf News.
+
+His methodology combines genealogical mapping of the Bani Yas confederation, forensic reading of UK Family Division court orders, and sovereign-wealth-flow analysis across ICD, Mubadala, and Dubai Holding to expose how *maktoum* — the Arabic word for *hidden* — became an operating principle. Rodriguez is the author of several investigations in this series, available at michaelrodriguezbooks.com.
 
 ## Get Your Copy Today
 
