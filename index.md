@@ -27,6 +27,15 @@ twitter_card: "summary_large_image"
 ## Latest Books
 <div class="book-grid">
   <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Maktoum.webp" alt="Maktoum: The Hidden Dynasty Behind Dubai's Power, Wealth, and the Royal Secrets of a Billionaire Family by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
+    <div class="book-card-content">
+      <h3>Maktoum</h3>
+      <p>190 years of the Maktoum dynasty — from the 1833 secession that founded Dubai to the £554M Princess Haya divorce and the 2024 record GDP. Seven rulers, one playbook, one cost ledger. The word maktoum means hidden. This book is the unsealing.</p>
+      <a href="{{ site.baseurl }}/books/Maktoum/" class="btn">Read More <span class="visually-hidden">about Maktoum by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
     <img src="{{ site.baseurl }}/assets/images/Holy_Money.webp" alt="Holy Money: The Vatican's Hidden Empire of Greed by Michael Rodriguez" style="max-width: 100%; height: auto;" loading="lazy">
     <div class="book-card-content">
       <h3>Holy Money</h3>

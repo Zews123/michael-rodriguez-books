@@ -7,7 +7,7 @@ canonical_url: "https://michaelrodriguezbooks.com/books/"
 image: "https://michaelrodriguezbooks.com/assets/images/Shadows_of_Power_sm.webp"
 ---
 
-<link rel="preload" href="https://michaelrodriguezbooks.com/assets/images/Holy_Money_sm.webp" as="image" fetchpriority="high">
+<link rel="preload" href="https://michaelrodriguezbooks.com/assets/images/Maktoum_sm.webp" as="image" fetchpriority="high">
 
 # Books by Michael Rodriguez
 
@@ -15,7 +15,17 @@ Dive into the complex world of global economics, financial markets, and power st
 
 <div class="book-grid">
   <div class="book-card">
-    <img src="{{ site.baseurl }}/assets/images/Holy_Money_sm.webp" alt="Holy Money: The Vatican's Hidden Empire of Greed by Michael Rodriguez" width="600" height="927" loading="eager" fetchpriority="high" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/Maktoum_sm.webp" alt="Maktoum: The Hidden Dynasty Behind Dubai's Power, Wealth, and the Royal Secrets of a Billionaire Family by Michael Rodriguez" width="600" height="927" loading="eager" fetchpriority="high" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
+    <div class="book-card-content">
+      <h2 class="book-card-title">Maktoum</h2>
+      <p>190 years of the Maktoum dynasty — from the 1833 secession that founded Dubai to the £554M Princess Haya divorce and the 2024 record GDP. Seven rulers, one playbook, one cost ledger. The word maktoum means hidden. This book is the unsealing.</p>
+      <a href="{{ site.baseurl }}/books/free-chapter-maktoum/" class="btn btn-free" aria-label="Read free chapter of Maktoum" style="margin-right: 8px;">Free Chapter</a>
+      <a href="{{ site.baseurl }}/books/Maktoum/" class="btn">Read More <span class="visually-hidden">about Maktoum by Michael Rodriguez</span></a>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <img src="{{ site.baseurl }}/assets/images/Holy_Money_sm.webp" alt="Holy Money: The Vatican's Hidden Empire of Greed by Michael Rodriguez" width="600" height="927" loading="lazy" decoding="async" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
     <div class="book-card-content">
       <h2 class="book-card-title">Holy Money</h2>
       <p>Two centuries of Vatican financial scandal — from Napoleon's invasion to the Becciu conviction. The definitive investigation into the world's most secretive bank and the empire of greed it enabled.</p>
