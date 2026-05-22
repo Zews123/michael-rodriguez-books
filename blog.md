@@ -19,7 +19,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
       <span class="blog-date">April 25, 2026</span>
       <h2>Vatican Bank: Two Centuries of Financial Crime</h2>
       <p>From Rothschild rescue loans to IOR shell companies — how the Vatican built the world's most secretive financial system. Sindona, Marcinkus, Calvi.</p>
-      <a href="{{ site.baseurl }}/blog/holy-money-vatican-financial-crimes.html" class="read-more">Read More <span class="visually-hidden">about Vatican Bank Financial Crime</span></a>
+      <a href="{{ site.baseurl }}/blog/holy-money-vatican-financial-crimes/" class="read-more">Read More <span class="visually-hidden">about Vatican Bank Financial Crime</span></a>
     </div>
   </div>
 
@@ -31,7 +31,7 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
       <span class="blog-date">April 25, 2026</span>
       <h2>Holy Money: Your Questions Answered</h2>
       <p>Why does the Vatican have a bank? Who killed God's Banker? IOR money laundering, Mafia connections, and the Becciu trial — expert answers.</p>
-      <a href="{{ site.baseurl }}/blog/holy-money-faq.html" class="read-more">Read More <span class="visually-hidden">about Holy Money FAQ</span></a>
+      <a href="{{ site.baseurl }}/blog/holy-money-faq/" class="read-more">Read More <span class="visually-hidden">about Holy Money FAQ</span></a>
     </div>
   </div>
 
