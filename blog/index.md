@@ -13,7 +13,31 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/Dark_Advantage_Blog_2_sm.webp" alt="The Dark Triad in Corporate America: Why Psychopaths Run Your Company" width="600" height="1075" loading="eager" fetchpriority="high" decoding="async">
+      <img src="{{ site.baseurl }}/assets/images/Holy_Money_Blog_2.webp" alt="Vatican Bank: Two Centuries of Financial Crime" width="600" height="894" loading="eager" fetchpriority="high" decoding="async">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 25, 2026</span>
+      <h2>Vatican Bank: Two Centuries of Financial Crime</h2>
+      <p>From Rothschild rescue loans to IOR shell companies — how the Vatican built the world's most secretive financial system. Sindona, Marcinkus, Calvi.</p>
+      <a href="{{ site.baseurl }}/blog/holy-money-vatican-financial-crimes.html" class="read-more">Read More <span class="visually-hidden">about Vatican Bank Financial Crime</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Holy_Money_Blog_1.webp" alt="Vatican Bank Scandal FAQ: Holy Money Explained" width="600" height="894" loading="lazy" decoding="async">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">April 25, 2026</span>
+      <h2>Holy Money: Your Questions Answered</h2>
+      <p>Why does the Vatican have a bank? Who killed God's Banker? IOR money laundering, Mafia connections, and the Becciu trial — expert answers.</p>
+      <a href="{{ site.baseurl }}/blog/holy-money-faq.html" class="read-more">Read More <span class="visually-hidden">about Holy Money FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Dark_Advantage_Blog_2_sm.webp" alt="The Dark Triad in Corporate America: Why Psychopaths Run Your Company" width="600" height="1075" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">April 8, 2026</span>
