@@ -109,9 +109,6 @@ His unique contribution is demonstrating that pharmaceutical exploitation is not
 <a href="https://www.barnesandnoble.com/w/the-disease-dealers-michael-rodriguez/1148530413?ean=2940181523586" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-bn">🏬 Barnes & Noble</a>
 </div>
 
-## Libraries & Digital Collections
-
-Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating libraries. Contact your local library to request digital access.
 
 ## Share This Book
 <div class="social-share" style="margin:30px 0">

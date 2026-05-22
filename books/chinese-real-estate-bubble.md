@@ -1,5 +1,7 @@
 ---
 permalink: /books/chinese-real-estate-bubble/
+redirect_from:
+  - /books/chinese-real-estate-bubble.html
 layout: default
 title: "China's Real Estate Bubble: A Global Economic Threat"
 description: "Analysis of China's property market crisis and how its collapse threatens the global economy. Essential for investors and economists"

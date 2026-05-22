@@ -1,5 +1,7 @@
 ---
 permalink: /books/Dark_Money_Empire/
+redirect_from:
+  - /books/Dark_Money_Empire.html
 layout: default
 title: "Dark Money Empire: Secret Laundering Networks Exposed"
 description: "Uncover how presidents, oligarchs, Nazis and rock stars launder billions through secret offshore networks. Rodriguez exposes the $32 trillion shadow economy."

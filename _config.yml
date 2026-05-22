@@ -9,6 +9,7 @@ baseurl: ""
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 # SEO settings
 twitter:
   username: MRodriguezBooks

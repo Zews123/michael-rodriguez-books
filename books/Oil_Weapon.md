@@ -103,9 +103,6 @@ Rodriguez's unique methodology combines traditional investigative journalism wit
 <a href="https://www.barnesandnoble.com/w/the-oil-weapon-michael-rodriguez/1148249978?ean=9798232385644" class="book-btn book-btn-bn">🏬 Barnes & Noble</a>
 </div>
 
-## Libraries & Digital Collections
-
-Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating libraries. Contact your local library to request digital access.
 
 
 ## Share This Book

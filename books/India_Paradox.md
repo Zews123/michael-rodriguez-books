@@ -103,9 +103,6 @@ Rodriguez's unique methodology combines traditional investigative reporting with
 <a href="https://www.barnesandnoble.com/w/the-india-paradox-michael-rodriguez/1148352216?ean=2940182820226" class="book-btn book-btn-bn">🏬 Barnes & Noble</a>
 </div>
 
-## Libraries & Digital Collections
-
-Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating libraries. Contact your local library to request digital access.
 
 ## Share This Book
 <div class="social-share" style="margin:30px 0">

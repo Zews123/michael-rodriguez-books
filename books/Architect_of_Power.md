@@ -128,9 +128,6 @@ For *Architect of Power*, Rodriguez spent years tracing Kissinger's career throu
   <a href="https://www.barnesandnoble.com/w/x/x?ean=2940183197105" class="book-btn book-btn-bn" target="_blank" rel="noopener noreferrer">🏪 Barnes & Noble</a>
 </div>
 
-## Libraries & Digital Collections
-
-Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating libraries. Contact your local library to request digital access.
 
 ## Share This Book
 

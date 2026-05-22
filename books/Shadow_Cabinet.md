@@ -130,9 +130,6 @@ For *The Shadow Cabinet*, Rodriguez spent years tracing the documented record th
   <a href="https://www.barnesandnoble.com/w/the-shadow-cabinet-michael-rodriguez/1149702059?ean=9798233145827" class="book-btn book-btn-bn" target="_blank" rel="noopener noreferrer">🏪 Barnes & Noble</a>
 </div>
 
-## Libraries & Digital Collections
-
-Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating libraries. Contact your local library to request digital access.
 
 ## Share This Book
 

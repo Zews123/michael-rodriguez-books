@@ -103,9 +103,6 @@ Rodriguez's methodology combines traditional investigative journalism with finan
 <a href="https://www.barnesandnoble.com/w/the-richest-poor-country-michael-rodriguez/1148293853?ean=9798232852139" class="book-btn book-btn-bn">🏬 Barnes & Noble</a>
 </div>
 
-## Libraries & Digital Collections
-
-Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating libraries. Contact your local library to request digital access.
 
 ## Share This Book
 <div class="social-share" style="margin:30px 0">

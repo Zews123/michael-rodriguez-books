@@ -103,9 +103,6 @@ Rodriguez's methodology combines investigative journalism with quantitative anal
 <a href="https://www.barnesandnoble.com/w/the-profit-machine-michael-rodriguez/1148464531" class="book-btn book-btn-bn">🏬 Barnes & Noble</a>
 </div>
 
-## Libraries & Digital Collections
-
-Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating libraries. Contact your local library to request digital access.
 
 ## Share This Book
 <div class="social-share" style="margin:30px 0">

@@ -131,9 +131,6 @@ Rodriguez's previous works include *Dark Money Empire*, *Bilderberg Exposed*, *T
 <a href="https://www.barnesandnoble.com/w/shadows-of-power-michael-rodriguez/1149498937?ean=9798233600456" target="_blank" rel="noopener noreferrer" class="book-btn book-btn-bn">🏬 Barnes & Noble</a>
 </div>
 
-## Libraries & Digital Collections
-
-Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating libraries. Contact your local library to request digital access.
 
 ## Share This Book
 <div class="social-share" style="margin:30px 0">

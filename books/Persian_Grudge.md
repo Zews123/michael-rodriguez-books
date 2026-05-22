@@ -128,9 +128,6 @@ Based in the United States, Rodriguez draws on declassified documents, archival 
   <a href="https://www.barnesandnoble.com/w/x/x?ean=2940196431913" class="book-btn book-btn-bn" target="_blank" rel="noopener noreferrer">🏪 Barnes & Noble</a>
 </div>
 
-## Libraries & Digital Collections
-
-Available through **OverDrive**, **Hoopla**, and **BorrowBox** at participating libraries. Contact your local library to request digital access.
 
 ## Share This Book
 
