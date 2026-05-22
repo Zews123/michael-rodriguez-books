@@ -11,6 +11,82 @@ Everything else — extract automatically from the files.
 
 ---
 
+## SEO COMPLIANCE — Mandatory URL Rules (apply on every stage)
+
+**Why this section exists:** Past additions triggered Google Search Console errors —
+"Page with redirect", "Alternate page with canonical tag", "Duplicate, Google chose
+different canonical", "Not found (404)". These were all caused by the patterns below.
+**Every new file you create MUST follow these rules.** No exceptions.
+
+### Rule 1 — Always use clean URLs with trailing slash
+
+**For every book page, free-chapter page, AND blog post**, the frontmatter MUST contain:
+
+```yaml
+permalink: /books/{{slug}}/        # or /blog/{{slug}}/ — leading AND trailing slash
+canonical_url: "https://michaelrodriguezbooks.com/books/{{slug}}/"
+```
+
+❌ Never: `canonical_url: ".../{{slug}}"`   (missing trailing slash → "Page with redirect")
+❌ Never: `canonical_url: ".../{{slug}}.html"`  (has `.html` → "Alternate canonical")
+✅ Always: `canonical_url: ".../{{slug}}/"`   (clean URL with trailing slash)
+
+The same rule applies to `og:url`, internal `<a href="...">` links, sitemap URLs,
+and anywhere the URL is written.
+
+### Rule 2 — Blog posts (`.html` files) MUST have `permalink` + `redirect_from`
+
+Blog files have `.html` extension on disk. Without `permalink`, Jekyll serves them
+at `/blog/{{slug}}.html`, which causes alternate-canonical warnings. Always add:
+
+```yaml
+permalink: /blog/{{slug}}/
+redirect_from:
+  - /blog/{{slug}}.html
+canonical_url: "https://michaelrodriguezbooks.com/blog/{{slug}}/"
+```
+
+The `jekyll-redirect-from` plugin (already in `_config.yml`) creates an HTML
+meta-refresh + `noindex` + canonical on the old `.html` URL — equivalent to a
+301 for Google's index.
+
+### Rule 3 — Internal links must point to clean URLs
+
+In index cards, related-articles links, sitemap, schema `url` fields, etc.:
+
+✅ `<a href="{{ site.baseurl }}/blog/{{slug}}/">`
+❌ `<a href="{{ site.baseurl }}/blog/{{slug}}.html">`
+
+### Rule 4 — Avoid duplicate content across book pages
+
+GSC flagged 20 book pages as "Duplicate, Google chose different canonical" because
+their unique content was too small relative to the shared layout chrome. Every new
+book page MUST include:
+
+- **6 emoji-headed H3 subsections** under "What You'll Discover" (not flat bullets)
+- **"Key Revelations"** block with 6+ bullets containing proper nouns, dates, dollar
+  figures, ISBNs — book-specific data
+- **Per-book "About the Author"** paragraph that references THIS book's methodology
+  and sources. **Do NOT copy verbatim** from another book — vary the opening,
+  source counts, and analytical angle
+- **FAQ JSON-LD** with 4 book-specific Q&As (different from the FAQ blog post)
+- Body length ≥ 200 lines of markdown after frontmatter
+
+If any of these is missing, the page risks being grouped as a duplicate.
+
+### Rule 5 — Reference template
+
+The current reference for what a clean, GSC-compliant book+blog set looks like:
+
+- Book page: `books/Holy_Money.md`
+- Free chapter: `books/free-chapter-holy-money.md`
+- FAQ blog: `blog/holy-money-faq.html`
+- Deep-dive blog: `blog/holy-money-vatican-financial-crimes.html`
+
+Open these and mirror the frontmatter and section structure for the new book.
+
+---
+
 ## STAGE 0 — EXTRACT BOOK DATA FROM FILES
 
 Read the following files from the book folder:
@@ -85,9 +161,10 @@ Use the reference template from Stage 1. Replace all content with extracted data
 ```yaml
 ---
 layout: default
+permalink: /books/{{book-slug}}/                  # REQUIRED — trailing slash (see SEO Rule 1)
 title: "{{BOOK_TITLE}}"     # STRICT: max 60 characters, with hook, NO author name
 description: "{{SHORT_DESCRIPTION}}"            # max 155 characters
-canonical_url: "https://michaelrodriguezbooks.com/books/{{book-slug}}"
+canonical_url: "https://michaelrodriguezbooks.com/books/{{book-slug}}/"   # trailing slash
 image: "https://michaelrodriguezbooks.com/assets/images/{{filename}}.webp"
 date: {{YYYY-MM-DD}}                              # REQUIRED for Jekyll sorting and Schema
 ---
@@ -118,7 +195,7 @@ date: {{YYYY-MM-DD}}                              # REQUIRED for Jekyll sorting 
 <meta property="og:image" content="https://michaelrodriguezbooks.com/assets/images/{{filename}}.webp">
 <meta property="og:image:width" content="400">
 <meta property="og:image:height" content="600">
-<meta property="og:url" content="https://michaelrodriguezbooks.com/books/{{book-slug}}">
+<meta property="og:url" content="https://michaelrodriguezbooks.com/books/{{book-slug}}/">
 <meta property="og:site_name" content="Michael Rodriguez Books">
 <meta property="book:author" content="Michael Rodriguez">
 <meta property="book:isbn" content="{{ISBN_EBOOK}}">
@@ -240,9 +317,12 @@ Use the most recent blog post in `blog/` as structural reference.
 ```yaml
 ---
 layout: default
+permalink: /blog/{{book-slug}}-faq/               # REQUIRED — clean URL (SEO Rule 2)
+redirect_from:
+  - /blog/{{book-slug}}-faq.html                  # REQUIRED — closes the .html canonical loop
 title: "{{FAQ_TITLE}}"                          # Question-format title, max 60 chars
 description: "{{FAQ_DESCRIPTION}}"             # max 150 characters
-canonical_url: "https://michaelrodriguezbooks.com/blog/{{book-slug}}-faq.html"
+canonical_url: "https://michaelrodriguezbooks.com/blog/{{book-slug}}-faq/"  # NO .html, trailing slash
 image: "https://michaelrodriguezbooks.com/assets/images/{{filename}}.webp"
 date: {{YYYY-MM-DD}}                              # REQUIRED for Jekyll sorting
 ---
@@ -388,10 +468,13 @@ This is a **long-form analytical article** (2500–3500 words) that dives deep i
 ```yaml
 ---
 layout: default
+permalink: /blog/{{analytical-slug}}/             # REQUIRED — clean URL (SEO Rule 2)
+redirect_from:
+  - /blog/{{analytical-slug}}.html                # REQUIRED
 title: "{{ANALYTICAL_TITLE}}"                   # Descriptive, keyword-rich, max 60 chars
 description: "{{ANALYTICAL_DESCRIPTION}}"       # max 155 characters
 image: "https://michaelrodriguezbooks.com/assets/images/{{filename}}.webp"
-canonical_url: "https://michaelrodriguezbooks.com/blog/{{analytical-slug}}.html"
+canonical_url: "https://michaelrodriguezbooks.com/blog/{{analytical-slug}}/"  # NO .html, trailing slash
 date: {{YYYY-MM-DD}}
 ---
 ```
@@ -434,15 +517,25 @@ git commit -m "Add deep-dive article for {{BOOK_TITLE}}"
   <div class="book-card-content">
     <h3>{{BOOK_TITLE}}</h3>
     <p>{{SHORT_DESCRIPTION}}</p>
-    <a href="{{ site.baseurl }}/books/free-chapter-{{book-slug}}" class="btn" style="background: #2e8b57; margin-right: 8px;">Free Chapter</a>
-    <a href="{{ site.baseurl }}/books/{{book-slug}}" class="btn">Read More…</a>
+    <a href="{{ site.baseurl }}/books/free-chapter-{{book-slug}}/" class="btn" style="background: #2e8b57; margin-right: 8px;">Free Chapter</a>
+    <a href="{{ site.baseurl }}/books/{{book-slug}}/" class="btn">Read More…</a>
   </div>
 </div>
 ```
 
-### `blog.md` — TWO new blog post cards (FAQ + analytical article):
-- Insert both as first `<div class="blog-card">` entries
-- Also add BlogPosting entries to the JSON-LD Schema `@graph` array in `blog.md`:
+### Blog index — TWO new blog post cards (FAQ + analytical article):
+
+> ⚠️ **CRITICAL:** the blog index exists in TWO files that must stay in sync:
+> `blog.md` AND `blog/index.md`. Both have identical content. If you update only
+> one, the new posts will be invisible on `/blog/` (this happened with the Holy
+> Money posts — both files exist on disk and serve 200, but they didn't appear
+> in the listing). Apply the same edits to both files.
+
+- Insert both as first `<div class="blog-card">` entries (in BOTH `blog.md` and `blog/index.md`)
+- Card `<a href>` MUST use clean URL: `/blog/{{slug}}/` (no `.html` — see SEO Rule 3)
+- The newest post gets `loading="eager" fetchpriority="high"`; the previously-first
+  card must be downgraded to `loading="lazy"` (remove `fetchpriority`)
+- Also add BlogPosting entries to the JSON-LD Schema `@graph` array in BOTH files:
 ```json
 {
   "@type": "BlogPosting",
@@ -457,10 +550,10 @@ git commit -m "Add deep-dive article for {{BOOK_TITLE}}"
 
 Match card format exactly to existing cards.
 
-> **IMPORTANT:** `blog.md` is the blog index page. After creating both blog posts (Stages 4 + 4.5), you MUST add their cards to `blog.md` as the first entries. Without this, the posts won't appear on the blog listing page even though the direct URLs work.
+> **IMPORTANT:** The blog index lives in TWO files (`blog.md` AND `blog/index.md`) that must stay in sync. After creating both blog posts (Stages 4 + 4.5), you MUST add their cards to BOTH files as the first entries. Without this, the posts won't appear on the blog listing page even though the direct URLs work.
 
 ```bash
-git add index.md books/index.md blog.md
+git add index.md books/index.md blog.md blog/index.md
 git commit -m "Update index pages: add {{BOOK_TITLE}} card"
 ```
 
@@ -595,8 +688,11 @@ Wait for GitHub Pages rebuild (1–2 min), then verify:
 - [ ] Book card added FIRST in `index.md`
 - [ ] Book card with Free Chapter button added FIRST in `books/index.md`
 - [ ] Book Schema added to `books/index.md` @graph
-- [ ] Both blog post cards added FIRST in `blog.md`
-- [ ] Both BlogPosting entries added to `blog.md` @graph Schema
+- [ ] Both blog post cards added FIRST in BOTH `blog.md` AND `blog/index.md`
+- [ ] Both BlogPosting entries added to @graph Schema in BOTH `blog.md` and `blog/index.md`
+- [ ] All `<a href>` in cards use clean URL `/blog/{{slug}}/` (no `.html`)
+- [ ] Frontmatter of every new file has `permalink` + clean `canonical_url`
+- [ ] Blog post files (`.html`) include `redirect_from: [/blog/{{slug}}.html]`
 - [ ] Book added FIRST in `about.md` Publications
 - [ ] All commits pushed
 - [ ] All 4 pages live and verified
