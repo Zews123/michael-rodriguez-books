@@ -5,7 +5,7 @@ description: "Expert analysis on money laundering, financial crime, shadow econo
 canonical_url: "https://michaelrodriguezbooks.com/blog/"
 ---
 
-<link rel="preload" href="https://michaelrodriguezbooks.com/assets/images/Dark_Advantage_Blog_2_sm.webp" as="image" fetchpriority="high">
+<link rel="preload" href="https://michaelrodriguezbooks.com/assets/images/Maktoum_Blog_2.webp" as="image" fetchpriority="high">
 
 # Blog
 
@@ -13,7 +13,31 @@ Welcome to the official blog of Michael Rodriguez. Here you'll find updates abou
 
 <div class="blog-card">
     <div class="blog-card-image">
-      <img src="{{ site.baseurl }}/assets/images/Holy_Money_Blog_2.webp" alt="Vatican Bank: Two Centuries of Financial Crime" width="600" height="894" loading="eager" fetchpriority="high" decoding="async">
+      <img src="{{ site.baseurl }}/assets/images/Maktoum_Blog_2.webp" alt="How the Maktoum Family Built Dubai: 190 Years of Dynastic Power" width="1024" height="1024" loading="eager" fetchpriority="high" decoding="async">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">May 22, 2026</span>
+      <h2>How the Maktoum Family Built Dubai: 190 Years of Dynastic Power</h2>
+      <p>From the 1833 Bedouin secession to the 2024 record GDP — seven rulers, one playbook, one cost ledger. The word maktoum means hidden. This is the unsealing.</p>
+      <a href="{{ site.baseurl }}/blog/maktoum-dubai-dynasty-secrets/" class="read-more">Read More <span class="visually-hidden">about How the Maktoum Family Built Dubai</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Maktoum_Blog_1.webp" alt="Maktoum Dynasty FAQ: How One Family Built Dubai (and What It Cost)" width="1280" height="929" loading="lazy" decoding="async">
+    </div>
+    <div class="blog-card-content">
+      <span class="blog-date">May 22, 2026</span>
+      <h2>Maktoum Dynasty FAQ: Your Questions Answered</h2>
+      <p>What does maktoum mean? Who is Sheikh Mohammed? What happened to Princess Latifa? Princess Haya's £554M divorce explained — answers from the investigation.</p>
+      <a href="{{ site.baseurl }}/blog/maktoum-faq/" class="read-more">Read More <span class="visually-hidden">about Maktoum Dynasty FAQ</span></a>
+    </div>
+  </div>
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <img src="{{ site.baseurl }}/assets/images/Holy_Money_Blog_2.webp" alt="Vatican Bank: Two Centuries of Financial Crime" width="600" height="894" loading="lazy" decoding="async">
     </div>
     <div class="blog-card-content">
       <span class="blog-date">April 25, 2026</span>
