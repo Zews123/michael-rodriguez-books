@@ -1,5 +1,7 @@
 ---
 permalink: /books/free-chapter-rigged-game/
+redirect_from:
+  - /books/free-chapter-rigged-game.html
 layout: default
 title: "Free Chapter — The Rigged Game by Michael Rodriguez"
 description: "Read the Introduction and first chapter of The Rigged Game free. Discover how the 1% built a system to keep you poor — with names, dates, and dollar amounts."

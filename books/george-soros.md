@@ -1,5 +1,7 @@
 ---
 permalink: /books/george-soros/
+redirect_from:
+  - /books/george-soros.html
 layout: default
 title: "George Soros: The Man the World Loves to Hate"
 description: "Uncover how George Soros shaped global markets, influenced politics, and became both vilified and admired worldwide in this definitive analysis."
